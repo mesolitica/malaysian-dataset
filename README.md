@@ -13,7 +13,7 @@ with open('pickle.p', 'rb') as fopen:
     file = pickle.load(fopen)
 ```
 
-### Every folder got:
+### Most folder got:
 1. data, text data-set, cleaned
 2. pos, speech tagging, only select NOUNS and VERBS
 3. token, tokenize for POS
@@ -116,6 +116,12 @@ Namun karena banyaknya siswa yang mendaftar, Dinas Pendidikan Kota Malang menamb
 Syamsul tidak menyebutkan berapa tambahan pagu dari Dinas Pendidikan itu. Hanya saja, setelah dikurangi oleh siswa anak berkebutuhan khusus (ABK) yang berjumlah empat orang, tambahan pagu itu hanya tersisa dua kursi.
 Pada saat yang bersamaan, Jaringan Kemanusiaan Jawa Timur melalui Dinas Pendidikan Kota Malang bermaksud memasukkan siswa ke sekolah tersebut.
 ```
+
+#### Google news, "stock market" OR "market" OR "stock" OR "property"
+```text
+Chinese economy Why is China's stock market in crisis? Shares have plunged 30% in three weeks, hundreds of firms have suspended dealings and fears that the slump will spill over into other markets are growing Stock information listed on a mobile phone in Shenyang, north-east China. Photograph: Yang Qing/Xinhua Press/Corbis\n\nWhat is happening in China?\n\nStock markets in China are tumbling. A three-week plunge has knocked about 30% off Chinese shares since mid-June. China’s securities regulator has warned of “panic sentiment” gripping investors, many of whom are individuals that have borrowed heavily to play the stock market
+```
+
 
 #### Subtitle-Dataset
 Trained Text dataset for out chatbot, all in Bahasa
