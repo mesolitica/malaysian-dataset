@@ -71,6 +71,11 @@ with open('pickle.p', 'rb') as fopen:
 1. negative
 2. positive
 
+#### Google news
+1. "stock market" OR "market" OR "stock" OR "property"
+2. "najib" OR "mahathir"
+3. "najib" OR "rosmah"
+
 #### From twitter-negative
 ```text
 hopeless for tmr :(
