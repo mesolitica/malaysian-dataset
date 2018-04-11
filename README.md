@@ -77,6 +77,11 @@ with open('pickle.p', 'rb') as fopen:
 1. negative
 2. positive
 
+#### news-bahasa
+1. negative
+2. neutral
+3. positive
+
 #### Google news
 1. "stock market" OR "market" OR "stock" OR "property"
 2. "najib" OR "mahathir"
