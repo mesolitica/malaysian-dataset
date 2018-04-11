@@ -139,7 +139,7 @@ Chinese economy Why is China's stock market in crisis? Shares have plunged 30% i
 ```
 
 ## Subtitle-Dataset
-Trained Text dataset for out chatbot, all in Bahasa
+Trained Text dataset for our chatbot, all in Bahasa
 
 1. 8Mile
 2. Beautiful Mind
