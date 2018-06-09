@@ -1,28 +1,32 @@
 # NLP-Dataset
 POS, Entity and Text for Sentiment, Emotion, Polarity, Subjectivity, Bias, Irony, Gender, Audience data-set
 
-## Big thanks, and what you can do,
-1. Clean English Twitter dataset included Python script. Got more than 2 million of labelled tweets
-2. Unlabelled Bahasa dataset from twitter and local news
-3. Labelled emotion-classes consist 11 different type of emotions (I am not suggested you guys take this dataset for do any training)
-4. Labelled emotion-text/word-6classes consist 6 type of emotions (These one are better!, you can use SVM, SGD or Naive Bayes to do classification)
-
-#### Most folder got:
-1. data, text data-set, cleaned
-2. pos, speech tagging, only select NOUNS and VERBS
-3. token, tokenize for POS
-4. entity, PERSON / ORG in the text
-5. vocabulary, unique words
-6. dictionary, word map with position frequency
-7. reverse dictionary, position frequency map with word
-
-*Any .p you can unpickle using python pickle*
-```python
-with open('pickle.p', 'rb') as fopen:
-    file = pickle.load(fopen)
-```
-
 ## Labelled data-set
+
+#### Subjectivity-english
+1. negative
+2. positive
+
+#### twitter-bahasa, "malaysia" OR "najib" OR "kerajaan" OR "pilihanraya"
+1. negative
+2. positive
+
+#### news-bahasa
+1. negative
+2. neutral
+3. positive
+
+#### entities-bahasa
+```text
+Hong ORG
+Leong ORG
+Islamic ORG
+Bank ORG
+adalah
+merupakan
+ejen PRN
+rasmi PRN
+```
 
 #### Sentiment-english
 1. negative
@@ -68,19 +72,6 @@ with open('pickle.p', 'rb') as fopen:
 #### Polarity-english
 1. negative
 2. positive
-
-#### Subjectivity-english
-1. negative
-2. positive
-
-#### twitter-bahasa, "malaysia" OR "najib" OR "kerajaan" OR "pilihanraya"
-1. negative
-2. positive
-
-#### news-bahasa
-1. negative
-2. neutral
-3. positive
 
 #### Google news
 1. "stock market" OR "market" OR "stock" OR "property"
@@ -138,45 +129,28 @@ Pada saat yang bersamaan, Jaringan Kemanusiaan Jawa Timur melalui Dinas Pendidik
 Chinese economy Why is China's stock market in crisis? Shares have plunged 30% in three weeks, hundreds of firms have suspended dealings and fears that the slump will spill over into other markets are growing Stock information listed on a mobile phone in Shenyang, north-east China. Photograph: Yang Qing/Xinhua Press/Corbis\n\nWhat is happening in China?\n\nStock markets in China are tumbling. A three-week plunge has knocked about 30% off Chinese shares since mid-June. China’s securities regulator has warned of “panic sentiment” gripping investors, many of whom are individuals that have borrowed heavily to play the stock market
 ```
 
-## Subtitle-Dataset
-Trained Text dataset for our chatbot, all in Bahasa
+#### Subtitle-Dataset
+Trained Text dataset for our chatbot, all in Bahasa.
 
-1. 8Mile
-2. Beautiful Mind
-3. Avatar
-4. Avengers
-5. Batman VS Superman
-6. Beauty and Beast
-7. Cinderella Man
-8. Fight Club
-9. I am Legend
-10. Inside Man
-11. I Origins
-12. I Robot
-13. Iron Man
-14. Law Abiding Citizen
-15. Pirates of the Carribbean
-16. Point Break
-17. Seven
-18. Shawshack Redemption
-19. The Curious Base of Benjamin
-20. The Imitation Game
-21. The Pursuit of Happiness
-22. Truman Show
-23. War of the World
-24. Colossal
-25. Dark-Knight
-26. Death-Note
-27. Ghost in the Shell
-28. Hacker
-29. Kungfu Yoga
-30. Mine 2016
-31. Nautanki Saala
-32. Prison Break whole session 4
-33. The Flash Whole session 3
-34. The Guardian
-35. Tunnels
-36. World Trade Center
-37. XXX
+Big thanks to Subscene, OpenSubtitles and all the crews that willing to translate into our native language.
 
-### Big thanks to Subscene and all the crews that willing to translate into our native language.
+## Big thanks, and what you can do,
+1. Clean English Twitter dataset included Python script. Got more than 2 million of labelled tweets
+2. Unlabelled Bahasa dataset from twitter and local news
+3. Labelled emotion-classes consist 11 different type of emotions (I am not suggested you guys take this dataset for do any training)
+4. Labelled emotion-text/word-6classes consist 6 type of emotions (These one are better!, you can use SVM, SGD or Naive Bayes to do classification)
+
+#### Most folder got:
+1. data, text data-set, cleaned
+2. pos, speech tagging, only select NOUNS and VERBS
+3. token, tokenize for POS
+4. entity, PERSON / ORG in the text
+5. vocabulary, unique words
+6. dictionary, word map with position frequency
+7. reverse dictionary, position frequency map with word
+
+*Any .p you can unpickle using python pickle*
+```python
+with open('pickle.p', 'rb') as fopen:
+    file = pickle.load(fopen)
+```
