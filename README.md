@@ -21,6 +21,8 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
   * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
   * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
   * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
+  * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
+  * [Donation](https://github.com/huseinzol05/Malaya-Dataset#donation)
 
 ## Contents
 
