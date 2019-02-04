@@ -1,6 +1,6 @@
 # Malaya-Dataset
 
-We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya)
+We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya). We will keep update this repository overtime.
 
 ## How we gather these corpus?
 
@@ -15,7 +15,8 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
   * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
   * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
   * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
-  * [News sentiment](https://github.com/huseinzol05/Malaya-Dataset#news-sentiment)
+  * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
+  * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
   * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
   * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
   * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
@@ -115,7 +116,12 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 
 </details>
 
-#### [News sentiment](news-sentiment)
+#### [Sentiment News](news-sentiment)
+
+1. Positive
+2. Negative
+
+#### [Sentiment Twitter](sentiment-twitter)
 
 1. Positive
 2. Negative
