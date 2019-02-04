@@ -153,7 +153,13 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 
 #### [Subtitle](subtitle)
 
+## Citation
+
+1. Please citate the repository if use these corpus.
+2. Please at least email us first before distributing these data. Remember all these hard workings we want to give it for free.
+3. What do you see just the data, but nobody can see how much we spent our cost to make it public.
+
 ## Donation
 
 1. We want to make sure downloaders got the best bandwidth and top speed, we host everything on S3, **please consider a donation** to prevent top-speed shutdown!
-2. **Husein** really need money to stay survive, he is still a human.
+2. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Click, Husein Zolkepli**
