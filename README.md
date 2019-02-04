@@ -10,6 +10,8 @@ We gather Bahasa and English corpus! This repository to store corpus for [Malaya
 
 ## Table of contents
   * [Bahasa Malaysia](https://github.com/huseinzol05/Malaya-Dataset#bahasa)
+    * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
+    * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
   * [English](https://github.com/huseinzol05/Malaya-Dataset#english)
 
 ## Bahasa
