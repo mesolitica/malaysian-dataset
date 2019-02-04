@@ -121,7 +121,7 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 1. Positive
 2. Negative
 
-#### [Sentiment Twitter](sentiment-twitter)
+#### [Sentiment Twitter](twitter-sentiment)
 
 1. Positive
 2. Negative
