@@ -1,22 +1,30 @@
 # Malaya-Dataset
 
-We gather Bahasa and English corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya)
+We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya)
 
 ## How we gather these corpus?
 
-1. In [English](english), mostly taken from external source, processed, tokenized and asked permission to repost as a processed text.
-2. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
-3. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
+1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
+2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
 
 ## Table of contents
-  * [Bahasa Malaysia](https://github.com/huseinzol05/Malaya-Dataset#bahasa)
-    * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
-    * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
-  * [English](https://github.com/huseinzol05/Malaya-Dataset#english)
+  * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
+  * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
+  * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
+  * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
+  * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
+  * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
+  * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
+  * [News sentiment](https://github.com/huseinzol05/Malaya-Dataset#news-sentiment)
+  * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
+  * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
+  * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
+  * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
+  * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
 
-## Bahasa
+## Contents
 
-#### [Articles](bahasa/articles)
+#### [Articles](articles)
 
 1. Filem
 2. Kerajaan
@@ -24,11 +32,11 @@ We gather Bahasa and English corpus! This repository to store corpus for [Malaya
 4. Pendidikan
 5. Sekolah
 
-#### [Dependency](bahasa/dependency)
+#### [Dependency](dependency)
 
-#### [Dictionary, 24550 unique words](bahasa/dictionary)
+#### [Dictionary, 24550 unique words](dictionary)
 
-#### [Emotion](bahasa/emotion)
+#### [Emotion](emotion)
 
 1. Anger
 2. Fear
@@ -37,7 +45,7 @@ We gather Bahasa and English corpus! This repository to store corpus for [Malaya
 5. Sadness
 6. Surprise
 
-#### [Entities, JSON](bahasa/entities)
+#### [Entities, JSON](entities)
 
 1. OTHER - Other
 2. law - law, regulation, related law documents, documents, etc
@@ -48,9 +56,9 @@ We gather Bahasa and English corpus! This repository to store corpus for [Malaya
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
-#### [Language-detection, Wikipedia](bahasa/language-detection)
+#### [Language-detection, Wikipedia](language-detection)
 
-#### [News, crawled](bahasa/news)
+#### [News, crawled](news)
 
 <details><summary>Complete list (48 news)</summary>
 
@@ -105,12 +113,12 @@ We gather Bahasa and English corpus! This repository to store corpus for [Malaya
 
 </details>
 
-#### [News sentiment](bahasa/news-sentiment)
+#### [News sentiment](news-sentiment)
 
 1. Positive
 2. Negative
 
-#### [Part-of-Speech](bahasa/part-of-speech)
+#### [Part-of-Speech](part-of-speech)
 
 1. ADJ - Adjective, kata sifat
 2. ADP - Adposition
@@ -128,22 +136,22 @@ We gather Bahasa and English corpus! This repository to store corpus for [Malaya
 14. VERB - Verb, kata kerja
 15. X - Other
 
-#### [Polarity](bahasa/polarity)
+#### [Polarity](polarity)
 
 1. Positive
 2. Negative
 
-#### [Stemmer](bahasa/stemmer)
+#### [Stemmer](stemmer)
 
 1. News stemming
 2. Wikipedia stemming
 
-#### [Subjectivity](bahasa/subjectivity)
+#### [Subjectivity](subjectivity)
 
 1. Positive
 2. Negative
 
-#### [Subtitle](bahasa/subtitle)
+#### [Subtitle](subtitle)
 
 ## English
 
