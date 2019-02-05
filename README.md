@@ -29,6 +29,8 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 
 #### [Articles](articles)
 
+Total size: 3.1 MB
+
 1. Filem
 2. Kerajaan
 3. Pembelajaran
@@ -41,6 +43,8 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 
 #### [Emotion](emotion)
 
+Total size: 8.5 MB
+
 1. Anger
 2. Fear
 3. Joy
@@ -49,6 +53,8 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 6. Surprise
 
 #### [Entities, JSON](entities)
+
+Total size: 1.1 MB
 
 1. OTHER - Other
 2. law - law, regulation, related law documents, documents, etc
@@ -62,6 +68,8 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 #### [Language-detection, Wikipedia](language-detection)
 
 #### [News, crawled](news)
+
+Total size: 28.9 MB
 
 <details><summary>Complete list (48 news)</summary>
 
@@ -118,15 +126,21 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 
 #### [Sentiment News](news-sentiment)
 
+Total size: 496 KB
+
 1. Positive
 2. Negative
 
 #### [Sentiment Twitter](twitter-sentiment)
 
+Total size: 4 MB
+
 1. Positive
 2. Negative
 
 #### [Part-of-Speech](part-of-speech)
+
+Total size: 3.1 MB
 
 1. ADJ - Adjective, kata sifat
 2. ADP - Adposition
@@ -146,20 +160,28 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
 
 #### [Polarity](polarity)
 
+Total size: 1.3 MB
+
 1. Positive
 2. Negative
 
 #### [Stemmer](stemmer)
+
+Total size: 6.5 MB
 
 1. News stemming
 2. Wikipedia stemming
 
 #### [Subjectivity](subjectivity)
 
+Total size: 1.4 MB
+
 1. Positive
 2. Negative
 
 #### [Subtitle](subtitle)
+
+Total size: 1.5 MB
 
 ## Citation
 
