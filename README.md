@@ -1,6 +1,12 @@
-# Malaya-Dataset
+<p align="center">
+    <a href="#readme">
+        <img alt="logo" width="80%" src="karangan-sekolah/wordcloud.png">
+    </a>
+</p>
 
-We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya). We will keep update this repository overtime.
+---
+
+**Malaya-Dataset**, We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya). We will keep update this repository overtime.
 
 ## How we gather these corpus?
 
@@ -199,5 +205,5 @@ Total size: 1.5 MB
 
 ## Donation
 
-1. We want to make sure downloaders got the best bandwidth and top speed, we host everything on S3, **please consider a donation** to prevent top-speed shutdown!
+1. We want to make sure downloaders got the best bandwidth and top speed, we host everything on S3, **please consider a donation** to prevent top-speed shutdown or broken link!
 2. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Click, Husein Zolkepli**
