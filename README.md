@@ -13,6 +13,7 @@ We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](h
   * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
   * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
   * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
+  * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
   * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
   * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
   * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
@@ -65,6 +66,10 @@ Total size: 1.1 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
+#### [Karangan sekolah](karangan-sekolah)
+
+Total size: 221 KB
+
 #### [Language-detection, Wikipedia](language-detection)
 
 #### [News, crawled](news)
@@ -101,26 +106,29 @@ Total size: 28.9 MB
 26. isu lgbt
 27. isu mahathir
 28. isu makanan
-29. isu minyak
-30. isu isu najib razak
-31. isu pelajar
-32. isu pelakon
-33. isu pembangkang
-34. isu perkauman
-35. isu permainan
-36. isu pertanian
-37. isu politik
-38. isu rosmah
-39. isu sabah
-40. isu sarawak
-41. isu sosial media
-42. isu sultan melayu
-43. isu teknologi
-44. isu TM
-45. isu ubat
-46. isu wan azizah
-47. peluang pekerjaan
-48. perkahwinan
+29. isu malaysia airlines
+30. isu malaysia
+31. isu minyak
+32. isu isu najib razak
+33. isu pelajar
+34. isu pelakon
+35. isu pembangkang
+36. isu perkauman
+37. isu permainan
+38. isu pertanian
+39. isu politik
+40. isu rosmah
+41. isu sabah
+42. isu sarawak
+43. isu sosial media
+44. isu sultan melayu
+45. isu teknologi
+46. isu TM
+47. isu ubat
+48. isu universiti
+49. isu wan azizah
+50. peluang pekerjaan
+51. perkahwinan
 
 </details>
 
