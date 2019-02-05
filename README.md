@@ -150,7 +150,7 @@ Total size: 496 KB
 
 #### [Sentiment Twitter](twitter-sentiment)
 
-Total size: 4 MB
+Total size: 7.2 MB
 
 1. Positive
 2. Negative
