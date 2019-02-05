@@ -17,25 +17,27 @@
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
 
 ## Table of contents
-  * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
-  * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
-  * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
-  * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
-  * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
-  * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
-  * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
-  * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
-  * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
-  * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
-  * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
-  * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
-  * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
-  * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
-  * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
+  * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
+    * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
+    * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
+    * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
+    * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
+    * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
+    * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
+    * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
+    * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
+    * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
+    * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
+    * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
+    * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
+    * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
+    * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
+    * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
+  * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
   * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
   * [Donation](https://github.com/huseinzol05/Malaya-Dataset#donation)
 
-## Contents
+## Corpus
 
 #### [Articles](articles)
 
@@ -199,6 +201,10 @@ Total size: 1.4 MB
 #### [Subtitle](subtitle)
 
 Total size: 1.5 MB
+
+## Suggestion
+
+1. Do not use these corpus for production purpose, Google Translate is not a perfect, yet. Some semantics and structures might seem off, but this is good for **Semisupervised purpose**. Trained using these corpus, label new texts and ask human turks to make corrections.
 
 ## Citation
 
