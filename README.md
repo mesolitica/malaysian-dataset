@@ -87,7 +87,7 @@ Total size: 221 KB
 
 Total size: 28.9 MB
 
-<details><summary>Complete list (48 news)</summary>
+<details><summary>Complete list (51 news)</summary>
 
 1. Cuti sekolah
 2. isu 1MDB
@@ -152,7 +152,7 @@ Total size: 496 KB
 
 #### [Sentiment Twitter](twitter-sentiment)
 
-Total size: 7.2 MB
+Total size: 10.8 MB
 
 1. Positive
 2. Negative
