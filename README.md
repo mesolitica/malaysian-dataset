@@ -157,6 +157,14 @@ Total size: 21 MB
 1. Positive
 2. Negative
 
+#### [Sentiment Multidomain](multidomain-sentiment)
+
+159 KB
+
+1. Amazon review, Positive and Negative
+2. IMDB review, Positive and Negative
+3. Yelp review, Positive and Negative
+
 #### [Part-of-Speech](part-of-speech)
 
 Total size: 3.1 MB
