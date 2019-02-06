@@ -19,6 +19,7 @@
 ## Table of contents
   * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
     * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
+    * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
     * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
     * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
     * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
@@ -50,6 +51,13 @@ Total size: 3.1 MB
 3. Pembelajaran
 4. Pendidikan
 5. Sekolah
+
+#### [Audience Nationality](audience)
+
+Total size: 246 KB
+
+1. constituency
+2. national
 
 #### [Dependency](dependency)
 
