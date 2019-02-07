@@ -92,6 +92,8 @@ Total size: 1.1 MB
 
 #### [Gender](gender)
 
+Total size: 2.2 MB
+
 1. Unknown
 2. Male
 3. Female
@@ -225,6 +227,13 @@ Total size: 2 MB
 
 1. Kerajaan
 2. Pembangkang
+
+#### [Sarcastic news-headline](sarcastic-news-headline)
+
+Total size: 2 MB
+
+1. Positive
+2. Negative
 
 #### [Stemmer](stemmer)
 
