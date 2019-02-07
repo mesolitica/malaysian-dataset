@@ -15,6 +15,7 @@
 
 1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
+3. Using social media, I catch most of live data from Twitter, Facebook and Instagram using crawlers, So I just search using Elasticsearch query.
 
 ## Table of contents
   * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
@@ -34,6 +35,7 @@
     * [sentiment Multidomain](https://github.com/huseinzol05/Malaya-Dataset#sentiment-multidomain)
     * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
     * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
+    * [Political landscape](https://github.com/huseinzol05/Malaya-Dataset#political-landscape)
     * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
@@ -217,6 +219,13 @@ Total size: 1.3 MB
 1. Positive
 2. Negative
 
+#### [Political landscape](political-landscape)
+
+Total size: 2 MB
+
+1. Kerajaan
+2. Pembangkang
+
 #### [Stemmer](stemmer)
 
 Total size: 6.5 MB
@@ -237,7 +246,7 @@ Total size: 1.5 MB
 
 ## Suggestion
 
-1. Do not use these corpus for production purpose, Google Translate is not a perfect, yet. Some semantics and structures might seem off, but this is good for **Semisupervised purpose**. Trained using these corpus, label new texts and ask human turks to make corrections.
+1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. I still waiting respond from third-party to open source Bahasa thesaurus.
 
 ## Citation
 
