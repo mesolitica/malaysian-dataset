@@ -230,7 +230,7 @@ Total size: 2 MB
 
 #### [Sarcastic news-headline](sarcastic-news-headline)
 
-Total size: 2 MB
+Total size: 1.78 MB
 
 1. Positive
 2. Negative
