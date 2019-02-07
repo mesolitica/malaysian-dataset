@@ -36,6 +36,7 @@
     * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
     * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
     * [Political landscape](https://github.com/huseinzol05/Malaya-Dataset#political-landscape)
+    * [Sarcastic news-headline](https://github.com/huseinzol05/Malaya-Dataset#sarcastic-news-headline)
     * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
