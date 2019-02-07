@@ -24,6 +24,7 @@
     * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
     * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
     * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
+    * [Gender](https://github.com/huseinzol05/Malaya-Dataset#gender)
     * [Irony](https://github.com/huseinzol05/Malaya-Dataset#irony)
     * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
     * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
@@ -86,6 +87,13 @@ Total size: 1.1 MB
 6. quantity - numbers, quantity
 7. time - date, day, time, etc
 8. event - unique event happened, etc
+
+#### [Gender](gender)
+
+1. Unknown
+2. Male
+3. Female
+4. Brand
 
 #### [Irony](irony)
 
@@ -169,7 +177,7 @@ Total size: 496 KB
 
 #### [Sentiment Twitter](twitter-sentiment)
 
-Total size: 21 MB
+Total size: 27.4 MB
 
 1. Positive
 2. Negative
