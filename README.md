@@ -39,6 +39,7 @@
     * [Sarcastic news-headline](https://github.com/huseinzol05/Malaya-Dataset#sarcastic-news-headline)
     * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
+    * [Toxicity](https://github.com/huseinzol05/Malaya-Dataset#toxicity)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
   * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
   * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
@@ -249,6 +250,19 @@ Total size: 1.4 MB
 
 1. Positive
 2. Negative
+
+#### [Toxicity](toxicity)
+
+Total size: 17.4 MB
+
+Toxicity is multilabel, prefer to use sigmoid based.
+
+1. toxic
+2. severe toxic
+3. obscene
+4. threat
+5. insult
+6. identity hate
 
 #### [Subtitle](subtitle)
 
