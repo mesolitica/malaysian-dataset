@@ -292,5 +292,4 @@ Total size: 1.5 MB
 
 ## Donation
 
-1. We want to make sure downloaders got the best bandwidth and top speed, we host everything on S3, **please consider a donation** to prevent top-speed shutdown or broken link!
-2. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Click, Husein Zolkepli**
+1. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Click, Husein Zolkepli**
