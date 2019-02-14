@@ -265,7 +265,7 @@ Total size: 1.4 MB
 
 #### [Toxicity](toxicity)
 
-Total size: 56.9 MB
+Total size: 70 MB
 
 Toxicity is multilabel, prefer to use sigmoid based.
 
