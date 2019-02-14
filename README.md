@@ -114,6 +114,18 @@ Total size: 221 KB
 
 #### [Language-detection, Wikipedia](language-detection)
 
+Total size: 26.2 MB
+```python
+(array(['OTHER', 'ara', 'ber', 'bul', 'ces', 'cmn', 'dan', 'deu', 'ell',
+        'eng', 'epo', 'fin', 'fra', 'heb', 'hun', 'ind', 'ita', 'jpn',
+        'kor', 'lat', 'lit', 'mar', 'mkd', 'nld', 'pol', 'por', 'rus',
+        'spa', 'srp', 'swe', 'toki', 'tur', 'ukr', 'zlm'], dtype='<U5'),
+ array([37910, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000,
+        50000, 10000, 10000, 10000, 10000, 10000, 57327, 10000, 10000,
+         3687, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000,
+        10000, 10000, 10000, 10000, 10000, 10000, 53692]))
+```
+
 #### [News, crawled](news)
 
 Total size: 28.9 MB
