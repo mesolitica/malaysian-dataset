@@ -30,6 +30,7 @@
     * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
     * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
     * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
+    * [Normalize](https://github.com/huseinzol05/Malaya-Dataset#normalize)
     * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
     * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
     * [sentiment Multidomain](https://github.com/huseinzol05/Malaya-Dataset#sentiment-multidomain)
@@ -185,6 +186,10 @@ Total size: 28.9 MB
 51. perkahwinan
 
 </details>
+
+#### [Normalize](normalize)
+
+Total size: 2.6 MB
 
 #### [Sentiment News](news-sentiment)
 
