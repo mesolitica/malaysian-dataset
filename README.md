@@ -26,6 +26,7 @@
     * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
     * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
     * [Gender](https://github.com/huseinzol05/Malaya-Dataset#gender)
+    * [Insincere question](https://github.com/huseinzol05/Malaya-Dataset#insincere-question)
     * [Irony](https://github.com/huseinzol05/Malaya-Dataset#irony)
     * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
     * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
@@ -101,6 +102,13 @@ Total size: 2.2 MB
 2. Male
 3. Female
 4. Brand
+
+#### [Insincere question](insincere-question)
+
+Total size: 3.5 MB
+
+1. Negative
+2. Positive
 
 #### [Irony](irony)
 
