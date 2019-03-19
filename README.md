@@ -25,6 +25,7 @@
     * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
     * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
     * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
+    * [Fake News](https://github.com/huseinzol05/Malaya-Dataset#fake-news)
     * [Gender](https://github.com/huseinzol05/Malaya-Dataset#gender)
     * [Insincere question](https://github.com/huseinzol05/Malaya-Dataset#insincere-question)
     * [Irony](https://github.com/huseinzol05/Malaya-Dataset#irony)
@@ -93,6 +94,13 @@ Total size: 1.1 MB
 6. quantity - numbers, quantity
 7. time - date, day, time, etc
 8. event - unique event happened, etc
+
+#### [Fake News](fake-news)
+
+Total size: 28.3 MB
+
+1. Negative
+2. Positive
 
 #### [Gender](gender)
 
@@ -295,7 +303,7 @@ Total size: 1.5 MB
 
 ## Suggestion
 
-1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. I still waiting respond from third-party to open source Bahasa thesaurus. For now, Malaya provided interface for text augmentation using word2vec, [Malaya-text-augmentation](https://malaya.readthedocs.io/en/latest/Generator.html#text-augmentation) 
+1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. I still waiting respond from third-party to open source Bahasa thesaurus. For now, Malaya provided interface for text augmentation using word2vec, [Malaya-text-augmentation](https://malaya.readthedocs.io/en/latest/Generator.html#text-augmentation)
 
 ## Citation
 
