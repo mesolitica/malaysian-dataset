@@ -97,7 +97,7 @@ Total size: 1.1 MB
 
 #### [Fake News](fake-news)
 
-Total size: 28.3 MB
+Total size: 68.2 MB
 
 1. Negative
 2. Positive
