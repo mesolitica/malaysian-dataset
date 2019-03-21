@@ -120,7 +120,7 @@ Total size: 60.4 MB
 
 #### [Irony](irony)
 
-Total size: 100 KB
+Total size: 465 KB
 
 1. Positive
 2. Negative
