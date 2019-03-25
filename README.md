@@ -19,6 +19,7 @@
 
 ## Table of contents
   * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
+    * [200k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#200k-english-malay)
     * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
     * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
     * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
@@ -50,6 +51,10 @@
 
 ## Corpus
 
+#### [200K English-Malay](200k-english-malay)
+
+Total size: 6.9 MB
+
 #### [Articles](articles)
 
 Total size: 3.1 MB
@@ -69,7 +74,11 @@ Total size: 246 KB
 
 #### [Dependency](dependency)
 
+Total size: 9.5 MB
+
 #### [Dictionary, 24550 unique words](dictionary)
+
+Total size: 428 KB
 
 #### [Emotion](emotion)
 
@@ -223,7 +232,7 @@ Total size: 50.6 MB
 
 #### [Sentiment Multidomain](multidomain-sentiment)
 
-159 KB
+Total size: 159 KB
 
 1. Amazon review, Positive and Negative
 2. IMDB review, Positive and Negative
