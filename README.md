@@ -21,6 +21,7 @@
   * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
     * [200k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#200k-english-malay)
     * [90k synonym](https://github.com/huseinzol05/Malaya-Dataset#90k-synonym)
+    * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
     * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
     * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
     * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
@@ -59,6 +60,10 @@ Total size: 6.9 MB
 #### [90k synonym](synonym)
 
 Total size: 4.7 MB
+
+#### [English-Malay translation](english-malay)
+
+Total size: 17.4 MB
 
 #### [Articles](articles)
 
