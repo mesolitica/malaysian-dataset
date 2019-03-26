@@ -322,7 +322,8 @@ Total size: 1.5 MB
 
 ## Suggestion
 
-1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. I still waiting respond from third-party to open source Bahasa thesaurus. For now, Malaya provided interface for text augmentation using word2vec, [Malaya-text-augmentation](https://malaya.readthedocs.io/en/latest/Generator.html#text-augmentation)
+1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. We gathered some synonyms if you want to use it, [90k synonyms](synonym).
+2. Malaya also provided interface for text augmentation using word2vec, [Malaya-text-augmentation](https://malaya.readthedocs.io/en/latest/Generator.html#text-augmentation)
 
 ## Citation
 
