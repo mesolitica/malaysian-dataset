@@ -63,7 +63,7 @@ Total size: 4.7 MB
 
 #### [English-Malay translation](english-malay)
 
-Total size: 29.4 MB
+Total size: 91.2 MB
 
 #### [Articles](articles)
 
