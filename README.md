@@ -42,6 +42,7 @@
     * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
     * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
     * [Political landscape](https://github.com/huseinzol05/Malaya-Dataset#political-landscape)
+    * [Question-Answer](https://github.com/huseinzol05/Malaya-Dataset#question-answer)
     * [Sarcastic news-headline](https://github.com/huseinzol05/Malaya-Dataset#sarcastic-news-headline)
     * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
@@ -281,6 +282,22 @@ Total size: 2 MB
 
 1. Kerajaan
 2. Pembangkang
+
+#### [Question-Answer](question-answer)
+
+Total size: 2.5 MB
+
+```
+1 mary pergi ke taman. 2 mary pergi ke dapur. 3 husein kembali ke pejabat.
+4 husein perjalanan ke lorong. 5 jeff kembali ke bilik tidur. 6 fred berpindah ke lorong.
+7 husein berpindah ke bilik mandi. 8 jeff kembali ke taman. 9 jeff kembali ke dapur.
+10 fred kembali ke taman. 11 mary mendapat bola sepak di sana. 12 mary menyerahkan bola sepak kepada jeff.
+13 apa yang mary berikan kepada jeff? <> bola sepak <> 12.
+14 husein kembali ke lorong. 15 jeff kembali ke bilik tidur. 16 apa yang mary berikan kepada jeff? <> bola sepak <> 12.
+17 fred berpindah ke bilik mandi. 18 mary mengambil susu di sana. 19 apa yang mary berikan kepada jeff? <> bola sepak <> 12.
+20 fred pergi ke dapur. 21 mary menyerahkan susu itu kepada fred. 22 siapa yang memberikan susu itu kepada fred? <> mary <> 21.
+23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
+```
 
 #### [Sarcastic news-headline](sarcastic-news-headline)
 
