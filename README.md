@@ -165,61 +165,127 @@ Total size: 26.2 MB
 
 #### [News, crawled](news)
 
-Total size: 28.9 MB
+Total size: 16.6 MB
 
-<details><summary>Complete list (51 news)</summary>
+<details><summary>Complete list (117 news)</summary>
 
-1. Cuti sekolah
-2. isu 1MDB
-3. isu agama
-4. isu agong
-5. isu agrikultur
-6. isu air
-7. isu anwar ibrahim
-8. isu artis
-9. isu astro
-10. isu bahasa melayu
-11. isu barisan nasional
-12. isu cikgu
-13. isu cukai
-14. isu cyberjaya
-15. isu dunia
-16. isu ekonomi
-17. isu gst
-18. isu harakah
-19. isu harga
-20. isu icerd
-21. isu imigren
-22. isu kapitalis
-23. isu kerajaan
-24. isu kesihatan
-25. isu kuala lumpur
-26. isu lgbt
-27. isu mahathir
-28. isu makanan
-29. isu malaysia airlines
-30. isu malaysia
-31. isu minyak
-32. isu isu najib razak
-33. isu pelajar
-34. isu pelakon
-35. isu pembangkang
-36. isu perkauman
-37. isu permainan
-38. isu pertanian
-39. isu politik
-40. isu rosmah
-41. isu sabah
-42. isu sarawak
-43. isu sosial media
-44. isu sultan melayu
-45. isu teknologi
-46. isu TM
-47. isu ubat
-48. isu universiti
-49. isu wan azizah
-50. peluang pekerjaan
-51. perkahwinan
+1. astro awani
+2. bahasa pengaturcaraan
+3. berjaya group
+4. bisnes malaysia
+5. bumiputera
+6. cuti sekolah
+7. ekonomi
+8. felda
+9. gaya hidup
+10. harga tiket
+11. isu 1mdb
+12. isu agama
+13. isu agong
+14. isu agrikultur
+15. isu air
+16. isu airasia
+17. isu ambank
+18. isu anwar ibrahim
+19. isu artis
+20. isu astro
+21. isu axiata
+22. isu bahasa melayu
+23. isu barisan nasional
+24. isu bisnes
+25. isu celcom
+26. isu cikgu
+27. isu cimb
+28. isu cukai
+29. isu cyberjaya
+30. isu dadah
+31. isu dahmakan
+32. isu dunia
+33. isu grab
+34. isu gst
+35. isu harakah
+36. isu harga
+37. isu icerd
+38. isu imigren
+39. isu kahwin
+40. isu kapitalis
+41. isu kerajaan
+42. isu kesihatan
+43. isu kuala lumpur
+44. isu lgbt
+45. isu mahathir
+46. isu makanan
+47. isu malaysia airlines
+48. isu malaysia
+49. isu maxis
+50. isu minyak
+51. isu najib razak
+52. isu pas
+53. isu pelajar
+54. isu pelakon
+55. isu pembangkang
+56. isu perkauman
+57. isu permainan
+58. isu pertanian
+59. isu pkr
+60. isu politik
+61. isu rosmah
+62. isu sabah
+63. isu sarawak
+64. isu sekolah
+65. isu selangor
+66. isu semasa
+67. isu singapore
+68. isu sosial media
+69. isu spotify
+70. isu sukan
+71. isu sultan melayu
+72. isu tanah
+73. isu teknologi
+74. isu terkini
+75. isu tm
+76. isu ubat
+77. isu umno
+78. isu universiti
+79. isu wan azizah
+80. johor corporation
+81. johor
+82. kaum cina
+83. kaum india
+84. kelantan
+85. kes remaja
+86. kes rogol
+87. kesihatan
+88. khazanah nasional
+89. kolej
+90. kotak undi
+91. lompat parti
+92. malaysia airlines
+93. melaka
+94. modenas
+95. mydin
+96. negeri sembilan
+97. orang asli
+98. parti amanah
+99. peluang pekerjaan
+100. pengedar dadah
+101. perkahwinan
+102. perlis
+103. perodua
+104. petronas
+105. pos laju
+106. produk berbahaya
+107. sabah
+108. sarawak
+109. selangor
+110. sukan malaysia
+111. sunway group
+112. tabung haji
+113. tadika
+114. teknologi malaysia
+115. tenaga nasional
+116. terengganu
+117. universiti
 
 </details>
 
