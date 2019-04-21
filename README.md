@@ -85,7 +85,7 @@ Total size: 246 KB
 
 #### [Dependency](dependency)
 
-Total size: 9.5 MB
+Total size: 24.1 MB
 
 #### [Dictionary, 24550 unique words](dictionary)
 
