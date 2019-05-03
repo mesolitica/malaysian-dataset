@@ -104,7 +104,7 @@ Total size: 8.5 MB
 
 #### [Entities, JSON](entities)
 
-Total size: 1.1 MB
+Total size: 5.2 MB
 
 1. OTHER - Other
 2. law - law, regulation, related law documents, documents, etc
