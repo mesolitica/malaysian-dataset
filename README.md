@@ -22,6 +22,7 @@
     * [200k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#200k-english-malay)
     * [90k synonym](https://github.com/huseinzol05/Malaya-Dataset#90k-synonym)
     * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
+    * [Ngrams](https://github.com/huseinzol05/Malaya-Dataset#ngrams)
     * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
     * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
     * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
@@ -65,6 +66,12 @@ Total size: 4.7 MB
 #### [English-Malay translation](english-malay)
 
 Total size: 91.2 MB
+
+#### [Ngrams](ngram)
+
+Unigram and Bigram collected from news
+
+Total size: 92 MB
 
 #### [Articles](articles)
 
