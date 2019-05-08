@@ -69,7 +69,10 @@ Total size: 91.2 MB
 
 #### [Ngrams](ngram)
 
-Unigram and Bigram collected from news
+Unigram and Bigram collected from news, structure,
+```python
+{'saya': 1000}
+```
 
 Total size: 92 MB
 
