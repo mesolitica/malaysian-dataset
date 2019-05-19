@@ -432,4 +432,4 @@ Total size: 1.5 MB
 
 ## Donation
 
-1. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Click, Husein Zolkepli**
+1. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Bank, Husein Zolkepli**
