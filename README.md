@@ -16,6 +16,7 @@
 1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
 3. Using social media, I catch most of live data from Twitter, Facebook and Instagram using crawlers, So I just search using Elasticsearch query.
+4. For speech, we recorded using wired microphone attached to Macbook Air.
 
 ## Table of contents
   * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
@@ -45,6 +46,7 @@
     * [Political landscape](https://github.com/huseinzol05/Malaya-Dataset#political-landscape)
     * [Question-Answer](https://github.com/huseinzol05/Malaya-Dataset#question-answer)
     * [Sarcastic news-headline](https://github.com/huseinzol05/Malaya-Dataset#sarcastic-news-headline)
+    * [Speech](https://github.com/huseinzol05/Malaya-Dataset#speech)
     * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
     * [Toxicity](https://github.com/huseinzol05/Malaya-Dataset#toxicity)
@@ -381,6 +383,10 @@ Total size: 1.78 MB
 
 1. Positive
 2. Negative
+
+#### [Speech](speech)
+
+Total size: 276 MB
 
 #### [Stemmer](stemmer)
 
