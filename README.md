@@ -134,6 +134,8 @@ Total size: 122.2 MB
 1. Negative
 2. Positive
 
+Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data)
+
 #### [Gender](gender)
 
 Total size: 2.2 MB
