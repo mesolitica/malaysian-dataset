@@ -105,7 +105,7 @@ Total size: 428 KB
 
 #### [Emotion](emotion)
 
-Total size: 8.5 MB
+Total size: 41.2 MB
 
 1. Anger
 2. Fear
