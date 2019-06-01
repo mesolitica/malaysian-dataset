@@ -184,7 +184,7 @@ Social media texts related to Malaysia entities.
 
 Total size: 190.1 MB
 
-<details><summary>Complete list (210 news)</summary>
+<details><summary>Complete list (210 entities)</summary>
 
 1. mahathir
 2. anwar ibrahim
