@@ -20,6 +20,7 @@
 
 ## Table of contents
   * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
+    * [73k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#73k-english-malay)
     * [200k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#200k-english-malay)
     * [90k synonym](https://github.com/huseinzol05/Malaya-Dataset#90k-synonym)
     * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
@@ -59,7 +60,13 @@
 
 ## Corpus
 
-#### [200K English-Malay](200k-english-malay)
+#### 73k English-Malay
+
+Total size: 1.1 MB
+
+Originally posted by Facebook, https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
+
+#### [200k English-Malay](200k-english-malay)
 
 Total size: 6.9 MB
 
