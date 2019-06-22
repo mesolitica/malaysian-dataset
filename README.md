@@ -52,6 +52,7 @@
     * [Speech](https://github.com/huseinzol05/Malaya-Dataset#speech)
     * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
+    * [Text-similarity](https://github.com/huseinzol05/Malaya-Dataset#text-similarity)
     * [Toxicity](https://github.com/huseinzol05/Malaya-Dataset#toxicity)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
   * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
@@ -869,6 +870,10 @@ Total size: 2.5 MB
 23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
 ```
 
+#### [SQUAD Question-Answer](squad-question-answer)
+
+[SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) allows to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
 #### [Sarcastic news-headline](sarcastic-news-headline)
 
 Total size: 1.78 MB
@@ -894,6 +899,14 @@ Total size: 1.4 MB
 1. Positive
 2. Negative
 
+#### [Text similarity](text-similarity)
+
+Total size: 60.8 MB
+
+1. Quora
+
+Translated from [First Quora Dataset Release: Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs), protected by [Terms of Service](https://www.quora.com/about/tos), allowing for non-commercial use.
+
 #### [Toxicity](toxicity)
 
 Total size: 70 MB
@@ -915,6 +928,7 @@ Total size: 1.5 MB
 
 1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. We gathered some synonyms if you want to use it, [90k synonyms](synonym).
 2. Malaya also provided interface for text augmentation using word2vec, [Malaya-text-augmentation](https://malaya.readthedocs.io/en/latest/Generator.html#text-augmentation)
+3. Feel free to contact me to request new dataset.
 
 ## Citation
 
