@@ -40,6 +40,7 @@
     * [Malaysia Entities](https://github.com/huseinzol05/Malaya-Dataset#malaysia-entities)
     * [Malaysia Topics](https://github.com/huseinzol05/Malaya-Dataset#malaysia-topics)
     * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
+    * [30k News](https://github.com/huseinzol05/Malaya-Dataset#30k-news)
     * [Normalize](https://github.com/huseinzol05/Malaya-Dataset#normalize)
     * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
     * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
@@ -667,6 +668,37 @@ Total size: 322.4 MB
 249. isytihar darurat
 
 </details>
+
+#### [30k News](news-30k)
+
+Total size: 66.6 MB
+
+Crawled on Google news using these keywords,
+
+```python
+strings = [
+    'bank negara OR kewangan malaysia OR kementerian kewangan',
+    'mata wang malaysia OR bon malaysia OR saham malaysia',
+    'perdagangan malaysia OR ekonomi malaysia OR sosial malaysia',
+    'kementerian malaysia',
+    'kaum melayu OR kaum cina',
+    'stock market malaysia OR saham malaysia',
+    'malaysia parliament OR parlimen malaysia',
+    'asia OR asean',
+    'malaysia property OR hartanah malaysia',
+    'artis OR wanita',
+    'pendidikan OR kesihatan OR infrastruktur'
+    'dr mahathir OR wan zizah OR lim guan eng OR muhyiddin OR mohamad sabu OR azmin ali',
+    'umno OR pkr OR mic OR barisan nasional OR parti amanah OR dap',
+    'isu kerajaan OR isu pembangkang',
+    'politik OR malaysia OR dunia OR bisnes',
+    'sukan OR hiburan OR teknologi OR gaya hidup OR automotif'
+    'johor OR kedah OR kelantan OR melaka',
+    'negeri sembilan OR pahang OR pulau pinang OR perak',
+    'perlis OR sabah OR sarawak OR selangor',
+    'terengganu OR kuala lumpur OR labuan OR putrajaya',
+]
+```
 
 #### [News, crawled](news)
 
