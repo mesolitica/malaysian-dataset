@@ -17,6 +17,7 @@
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
 3. Using social media, I catch most of live data from Twitter, Facebook and Instagram using crawlers, So I just search using Elasticsearch query.
 4. For speech, we recorded using wired microphone attached to Macbook Air.
+5. We pay some linguists.
 
 ## Table of contents
   * [Dictionary](https://github.com/huseinzol05/Malaya-Dataset#dictionary)
