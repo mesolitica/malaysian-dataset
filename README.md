@@ -73,7 +73,7 @@
 
 #### 73k English-Malay
 
-**_Not an official released from Dewan Bahasa_**
+**_Not an official released from Dewan Bahasa._**
 
 Total size: 1.1 MB
 
