@@ -1008,9 +1008,21 @@ Total size: 1.5 MB
 ## Citation
 
 1. Please citate the repository if use these corpus.
+
+```
+@misc{Malaya-Dataset, We gather Bahasa Malaysia corpus! This repository to store corpus for Malaya,
+  author = {Husein, Zolkepli},
+  title = {Malaya-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/Malaya-Dataset}}
+}
+```
+
 2. Please at least email us first before distributing these data. Remember all these hard workings we want to give it for free.
 3. What do you see just the data, but nobody can see how much we spent our cost to make it public.
 
 ## Donation
 
-1. **Husein** really need money to stay survive, he is still a human. **7053174643, CIMB Bank, Husein Zolkepli**
+1. **Husein Zolkepli** really need money to stay survive, he is still a human. **7053174643, CIMB Bank, Husein Zolkepli**
