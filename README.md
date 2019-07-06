@@ -953,7 +953,7 @@ Toxicity is multilabel, prefer to use sigmoid based.
 5. insult
 6. identity hate
 
-#### [Dumping]
+#### Dumping
 
 1. Wikipedia,
 
