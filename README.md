@@ -64,7 +64,7 @@
   * [Text-similarity](https://github.com/huseinzol05/Malaya-Dataset#text-similarity)
   * [Dumping](https://github.com/huseinzol05/Malaya-Dataset#dumping)
     * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
-    * [Multidomian](https://github.com/huseinzol05/Malaya-Dataset#multidomain)
+    * [Multidomain](https://github.com/huseinzol05/Malaya-Dataset#multidomain)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
   * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
   * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
