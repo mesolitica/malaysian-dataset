@@ -19,51 +19,61 @@
 4. For speech, we recorded using wired microphone attached to Macbook Air.
 
 ## Table of contents
-  * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
+  * [Dictionary](https://github.com/huseinzol05/Malaya-Dataset#dictionary)
     * [73k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#73k-english-malay)
     * [200k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#200k-english-malay)
     * [90k synonym](https://github.com/huseinzol05/Malaya-Dataset#90k-synonym)
-    * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
-    * [Ngrams](https://github.com/huseinzol05/Malaya-Dataset#ngrams)
-    * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
-    * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
-    * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
     * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
-    * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
+    * [Ngrams](https://github.com/huseinzol05/Malaya-Dataset#ngrams)
+  * [Tagging](https://github.com/huseinzol05/Malaya-Dataset#tagging)
+    * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
+    * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
     * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
-    * [Fake News](https://github.com/huseinzol05/Malaya-Dataset#fake-news)
-    * [Gender](https://github.com/huseinzol05/Malaya-Dataset#gender)
-    * [Insincere question](https://github.com/huseinzol05/Malaya-Dataset#insincere-question)
-    * [Irony](https://github.com/huseinzol05/Malaya-Dataset#irony)
-    * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
-    * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
-    * [Malaysia Entities](https://github.com/huseinzol05/Malaya-Dataset#malaysia-entities)
-    * [Malaysia Topics](https://github.com/huseinzol05/Malaya-Dataset#malaysia-topics)
-    * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
-    * [30k News](https://github.com/huseinzol05/Malaya-Dataset#30k-news)
-    * [Normalize](https://github.com/huseinzol05/Malaya-Dataset#normalize)
+  * [Sentiment](https://github.com/huseinzol05/Malaya-Dataset#sentiment)
     * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
     * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
     * [sentiment Multidomain](https://github.com/huseinzol05/Malaya-Dataset#sentiment-multidomain)
-    * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
     * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
+  * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
+    * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
+    * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
+    * [Gender](https://github.com/huseinzol05/Malaya-Dataset#gender)
+    * [Insincere question](https://github.com/huseinzol05/Malaya-Dataset#insincere-question)
+    * [Irony](https://github.com/huseinzol05/Malaya-Dataset#irony)
+    * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
+    * [Malaysia Entities](https://github.com/huseinzol05/Malaya-Dataset#malaysia-entities)
+    * [Malaysia Topics](https://github.com/huseinzol05/Malaya-Dataset#malaysia-topics)
     * [Political landscape](https://github.com/huseinzol05/Malaya-Dataset#political-landscape)
-    * [Question-Answer](https://github.com/huseinzol05/Malaya-Dataset#question-answer)
     * [Sarcastic news-headline](https://github.com/huseinzol05/Malaya-Dataset#sarcastic-news-headline)
-    * [Speech](https://github.com/huseinzol05/Malaya-Dataset#speech)
-    * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
-    * [Text-similarity](https://github.com/huseinzol05/Malaya-Dataset#text-similarity)
     * [Toxicity](https://github.com/huseinzol05/Malaya-Dataset#toxicity)
-    * [Dumping](https://github.com/huseinzol05/Malaya-Dataset#dumping)
+  * [News](https://github.com/huseinzol05/Malaya-Dataset#news)
+    * [Fake News](https://github.com/huseinzol05/Malaya-Dataset#fake-news)
+    * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
+    * [30k News](https://github.com/huseinzol05/Malaya-Dataset#30k-news)
+    * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
+  * [Speech](https://github.com/huseinzol05/Malaya-Dataset#speech)
+  * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
+  * [Question-Answer](https://github.com/huseinzol05/Malaya-Dataset#question-answer)
+    * [General](https://github.com/huseinzol05/Malaya-Dataset#general)
+    * [SQUAD](https://github.com/huseinzol05/Malaya-Dataset#squad)
+  * [Normalization](https://github.com/huseinzol05/Malaya-Dataset#normalization)
+    * [Normalize](https://github.com/huseinzol05/Malaya-Dataset#normalize)
+    * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
+  * [Text-similarity](https://github.com/huseinzol05/Malaya-Dataset#text-similarity)
+  * [Dumping](https://github.com/huseinzol05/Malaya-Dataset#dumping)
+    * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
+    * [Multidomian](https://github.com/huseinzol05/Malaya-Dataset#multidomain)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
   * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
   * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
   * [Donation](https://github.com/huseinzol05/Malaya-Dataset#donation)
 
-## Corpus
+## Dictionary
 
 #### 73k English-Malay
+
+**_Not an official released from Dewan Bahasa_**
 
 Total size: 1.1 MB
 
@@ -75,56 +85,46 @@ Total size: 6.9 MB
 
 #### [90k synonym](synonym)
 
-Total size: 4.7 MB
+Total size: 4.7 MB    
 
-#### [English-Malay translation](english-malay)
+#### [Dictionary, 24550 unique words](dictionary)
 
-Total size: 91.2 MB
+Total size: 428 KB
 
 #### [Ngrams](ngram)
+
+Total size: 92 MB
 
 Unigram and Bigram collected from news, structure,
 ```python
 {'saya': 1000}
 ```
 
-Total size: 92 MB
-
-#### [Articles](articles)
-
-Total size: 3.1 MB
-
-1. Filem
-2. Kerajaan
-3. Pembelajaran
-4. Pendidikan
-5. Sekolah
-
-#### [Audience Nationality](audience)
-
-Total size: 246 KB
-
-1. constituency
-2. national
+## Tagging
 
 #### [Dependency](dependency)
 
 Total size: 24.1 MB
 
-#### [Dictionary, 24550 unique words](dictionary)
+#### [Part-of-Speech](part-of-speech)
 
-Total size: 428 KB
+Total size: 3.1 MB
 
-#### [Emotion](emotion)
-
-Total size: 41.2 MB
-
-1. Anger
-2. Fear
-3. Joy
-4. Love
-5. Sadness
-6. Surprise
+1. ADJ - Adjective, kata sifat
+2. ADP - Adposition
+3. ADV - Adverb, kata keterangan
+4. ADX - Auxiliary verb, kata kerja tambahan
+5. CCONJ - Coordinating conjuction, kata hubung
+6. DET - Determiner, kata penentu
+7. NOUN - Noun, kata nama
+8. NUM - Number, nombor
+9. PART - Particle
+10. PRON - Pronoun, kata ganti
+11. PROPN - Proper noun, kata ganti nama khas
+12. SCONJ - Subordinating conjunction
+13. SYM - Symbol
+14. VERB - Verb, kata kerja
+15. X - Other
 
 #### [Entities, JSON](entities)
 
@@ -139,14 +139,56 @@ Total size: 5.2 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
-#### [Fake News](fake-news)
+## Sentiment
 
-Total size: 122.2 MB
+#### [Sentiment News](news-sentiment)
 
-1. Negative
-2. Positive
+Total size: 496 KB
 
-Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data)
+1. Positive
+2. Negative
+
+#### [Sentiment Twitter](twitter-sentiment)
+
+Total size: 50.6 MB
+
+1. Positive
+2. Negative
+
+#### [Sentiment Multidomain](multidomain-sentiment)
+
+Total size: 159 KB
+
+1. Amazon review, Positive and Negative
+2. IMDB review, Positive and Negative
+3. Yelp review, Positive and Negative
+
+#### [Polarity](polarity)
+
+Total size: 1.3 MB
+
+1. Positive
+2. Negative
+
+## Corpus
+
+#### [Audience Nationality](audience)
+
+Total size: 246 KB
+
+1. constituency
+2. national
+
+#### [Emotion](emotion)
+
+Total size: 41.2 MB
+
+1. Anger
+2. Fear
+3. Joy
+4. Love
+5. Sadness
+6. Surprise
 
 #### [Gender](gender)
 
@@ -170,10 +212,6 @@ Total size: 465 KB
 
 1. Positive
 2. Negative
-
-#### [Karangan sekolah](karangan-sekolah)
-
-Total size: 221 KB
 
 #### [Language-detection, Wikipedia](language-detection)
 
@@ -670,6 +708,51 @@ Total size: 322.4 MB
 
 </details>
 
+#### [Sarcastic news-headline](sarcastic-news-headline)
+
+Total size: 1.78 MB
+
+1. Positive
+2. Negative
+
+#### [Subjectivity](subjectivity)
+
+Total size: 1.4 MB
+
+1. Positive
+2. Negative
+
+#### [Toxicity](toxicity)
+
+Total size: 70 MB
+
+Toxicity is multilabel, prefer to use sigmoid based.
+
+1. toxic
+2. severe toxic
+3. obscene
+4. threat
+5. insult
+6. identity hate
+
+#### [Political landscape](political-landscape)
+
+Total size: 2 MB
+
+1. Kerajaan
+2. Pembangkang
+
+## News
+
+#### [Fake News](fake-news)
+
+Total size: 122.2 MB
+
+1. Negative
+2. Positive
+
+Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data)
+
 #### [30k News](news-30k)
 
 Total size: 66.6 MB
@@ -827,67 +910,27 @@ Total size: 16.6 MB
 
 </details>
 
-#### [Normalize](normalize)
-
-Total size: 2.6 MB
-
-#### [Sentiment News](news-sentiment)
-
-Total size: 496 KB
-
-1. Positive
-2. Negative
-
-#### [Sentiment Twitter](twitter-sentiment)
-
-Total size: 50.6 MB
-
-1. Positive
-2. Negative
-
-#### [Sentiment Multidomain](multidomain-sentiment)
-
-Total size: 159 KB
-
-1. Amazon review, Positive and Negative
-2. IMDB review, Positive and Negative
-3. Yelp review, Positive and Negative
-
-#### [Part-of-Speech](part-of-speech)
+#### [Articles](articles)
 
 Total size: 3.1 MB
 
-1. ADJ - Adjective, kata sifat
-2. ADP - Adposition
-3. ADV - Adverb, kata keterangan
-4. ADX - Auxiliary verb, kata kerja tambahan
-5. CCONJ - Coordinating conjuction, kata hubung
-6. DET - Determiner, kata penentu
-7. NOUN - Noun, kata nama
-8. NUM - Number, nombor
-9. PART - Particle
-10. PRON - Pronoun, kata ganti
-11. PROPN - Proper noun, kata ganti nama khas
-12. SCONJ - Subordinating conjunction
-13. SYM - Symbol
-14. VERB - Verb, kata kerja
-15. X - Other
+1. Filem
+2. Kerajaan
+3. Pembelajaran
+4. Pendidikan
+5. Sekolah
 
-#### [Polarity](polarity)
+## [Speech](speech)
 
-Total size: 1.3 MB
+Total size: 276 MB
 
-1. Positive
-2. Negative
+## [English-Malay translation](english-malay)
 
-#### [Political landscape](political-landscape)
+Total size: 91.2 MB
 
-Total size: 2 MB
+## Question-Answer
 
-1. Kerajaan
-2. Pembangkang
-
-#### [Question-Answer](question-answer)
+#### [General](question-answer)
 
 Total size: 2.5 MB
 
@@ -903,20 +946,15 @@ Total size: 2.5 MB
 23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
 ```
 
-#### [SQUAD Question-Answer](squad-question-answer)
+#### [SQUAD](squad-question-answer)
 
 [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) allows to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-#### [Sarcastic news-headline](sarcastic-news-headline)
+## Normalization
 
-Total size: 1.78 MB
+#### [Normalize](normalize)
 
-1. Positive
-2. Negative
-
-#### [Speech](speech)
-
-Total size: 276 MB
+Total size: 2.6 MB
 
 #### [Stemmer](stemmer)
 
@@ -925,14 +963,7 @@ Total size: 6.5 MB
 1. News stemming
 2. Wikipedia stemming
 
-#### [Subjectivity](subjectivity)
-
-Total size: 1.4 MB
-
-1. Positive
-2. Negative
-
-#### [Text similarity](text-similarity)
+## [Text similarity](text-similarity)
 
 Total size: 60.8 MB
 
@@ -940,20 +971,13 @@ Total size: 60.8 MB
 
 Translated from [First Quora Dataset Release: Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs), protected by [Terms of Service](https://www.quora.com/about/tos), allowing for non-commercial use.
 
-#### [Toxicity](toxicity)
+## Dumping
 
-Total size: 70 MB
+#### [Karangan sekolah](karangan-sekolah)
 
-Toxicity is multilabel, prefer to use sigmoid based.
+Total size: 221 KB
 
-1. toxic
-2. severe toxic
-3. obscene
-4. threat
-5. insult
-6. identity hate
-
-#### Dumping
+#### Multidomain
 
 1. Wikipedia,
 
