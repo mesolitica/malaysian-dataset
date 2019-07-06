@@ -1026,4 +1026,6 @@ Total size: 1.5 MB
 
 ## Donation
 
-1. **Husein Zolkepli** really need money to stay survive, he is still a human. **7053174643, CIMB Bank, Husein Zolkepli**
+<a href="https://www.patreon.com/bePatron?u=7291337" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+Or, **Husein Zolkepli** really need money to stay survive, he is still a human. **7053174643, CIMB Bank, Husein Zolkepli**
