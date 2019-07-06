@@ -55,6 +55,7 @@
     * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
     * [Text-similarity](https://github.com/huseinzol05/Malaya-Dataset#text-similarity)
     * [Toxicity](https://github.com/huseinzol05/Malaya-Dataset#toxicity)
+    * [Dumping](https://github.com/huseinzol05/Malaya-Dataset#dumping)
     * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
   * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
   * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
@@ -951,6 +952,24 @@ Toxicity is multilabel, prefer to use sigmoid based.
 4. threat
 5. insult
 6. identity hate
+
+#### [Dumping]
+
+1. Wikipedia,
+
+Total size: 240.2 MB, 1663373 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-6-july-2019.json).
+
+2. Instagram,
+
+Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
+
+3. Twitter,
+
+Total size: 577.5 MB, 10172726 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-twitter-6-july-2019.json).
+
+4. Public news,
+
+Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
 
 #### [Subtitle](subtitle)
 
