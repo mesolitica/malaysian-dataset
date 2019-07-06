@@ -72,9 +72,9 @@
 
 ## Dictionary
 
-#### 73k English-Malay
-
 **_Not an official released from Dewan Bahasa._**
+
+#### 73k English-Malay
 
 Total size: 1.1 MB
 
