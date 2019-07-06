@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-  <a href="https://github.com/huseinzol05/Malaya-Dataset/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://github.com/huseinzol05/Malaya-Dataset/blob/master/LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/License-Apache--2.0-yellow.svg"></a>
 </p>
 
 ---
