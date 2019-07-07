@@ -996,6 +996,10 @@ Total size: 577.5 MB, 10172726 sentences, [download link](https://huseinhouse-st
 
 Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
 
+5. Parliament,
+
+Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
+
 #### [Subtitle](subtitle)
 
 Total size: 1.5 MB
