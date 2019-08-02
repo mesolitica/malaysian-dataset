@@ -140,6 +140,8 @@ Total size: 3.1 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
+Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge. 
+
 ## Sentiment
 
 #### [Sentiment News](news-sentiment)
