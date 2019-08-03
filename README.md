@@ -127,6 +127,8 @@ Total size: 3.1 MB
 14. VERB - Verb, kata kerja
 15. X - Other
 
+Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge. 
+
 #### [Entities, JSON](entities)
 
 Total size: 3.1 MB
@@ -140,7 +142,7 @@ Total size: 3.1 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
-Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge. 
+Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
 
 ## Sentiment
 
