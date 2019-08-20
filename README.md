@@ -54,6 +54,7 @@
     * [30k News](https://github.com/huseinzol05/Malaya-Dataset#30k-news)
     * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
   * [Speech](https://github.com/huseinzol05/Malaya-Dataset#speech)
+  * [Optical Character Recognition](https://github.com/huseinzol05/Malaya-Dataset#optical-character-recognition)
   * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
   * [Question-Answer](https://github.com/huseinzol05/Malaya-Dataset#question-answer)
     * [General](https://github.com/huseinzol05/Malaya-Dataset#general)
@@ -127,7 +128,7 @@ Total size: 3.1 MB
 14. VERB - Verb, kata kerja
 15. X - Other
 
-Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge. 
+Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
 
 #### [Entities, JSON](entities)
 
@@ -928,6 +929,16 @@ Total size: 3.1 MB
 ## [Speech](speech)
 
 Total size: 276 MB
+
+## [Optical Character Recognition](ocr)
+
+#### Malay-to-Jawi
+
+Total size: 445.3 MB
+
+#### Malay handwriting (Satisfy-Regular)
+
+Total size: 194.4 MB
 
 ## [English-Malay translation](english-malay)
 
