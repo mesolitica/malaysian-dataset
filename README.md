@@ -936,9 +936,17 @@ Total size: 276 MB
 
 Total size: 445.3 MB
 
+Dataset is simple, malay label can get from the name [idola.png](ocr/idola.png).
+
+![alt text](ocr/idola.png)
+
 #### Malay handwriting (Satisfy-Regular)
 
 Total size: 194.4 MB
+
+Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png).
+
+![alt text](ocr/syarif.png)
 
 ## [English-Malay translation](english-malay)
 
