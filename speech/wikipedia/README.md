@@ -5,4 +5,4 @@
 
 ## Voices
 
-1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
+1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
