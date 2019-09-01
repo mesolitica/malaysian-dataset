@@ -928,7 +928,23 @@ Total size: 3.1 MB
 
 ## [Speech](speech)
 
+#### Tolong sebut
+
 Total size: 276 MB
+
+**Voices contributed by**,
+
+1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
+2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/)
+3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/)
+
+#### Wikipedia
+
+Total size: 1.08 GB
+
+**Voices contributed by**,
+
+1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
 
 ## [Optical Character Recognition](ocr)
 
