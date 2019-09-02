@@ -1,5 +1,16 @@
 import sys
 from gensim.corpora import WikiCorpus
+from gensim import utils
+
+
+def tokenize(content, token_min_len = 2, token_max_len = 15, lower = True):
+    # override original method in wikicorpus.py
+    return [
+        utils.to_unicode(token)
+        for token in content.split()
+        if token_min_len <= len(token) <= token_max_len
+        and not token.startswith('_')
+    ]
 
 
 def make_corpus(in_f, out_f):
@@ -7,7 +18,7 @@ def make_corpus(in_f, out_f):
     """Convert Wikipedia xml dump file to text corpus"""
 
     output = open(out_f, 'w')
-    wiki = WikiCorpus(in_f)
+    wiki = WikiCorpus(in_f, tokenizer_func = tokenize)
 
     i = 0
     for text in wiki.get_texts():
