@@ -966,6 +966,8 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png
 
 ## [English-Malay translation](english-malay)
 
+**Output from Google Translate.**
+
 Total size: 91.2 MB
 
 ## Question-Answer
