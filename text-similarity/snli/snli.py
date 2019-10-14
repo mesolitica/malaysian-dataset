@@ -18,21 +18,19 @@ class Translate:
         final_url = base_url + from_lang.lower() + '/' + to_lang.lower()
         self.driver.get(final_url)
 
-    def translate(self, strings):
+    def translate(self, string):
         while True:
             try:
-                texts = []
-                for string in strings:
-                    self.driver.find_element_by_id('source').clear()
-                    self.driver.find_element_by_id('source').send_keys(string)
-                    time.sleep(2)
-                    text = [
-                        elem.text
-                        for elem in self.driver.find_elements_by_xpath(span)
-                    ]
-                    texts.append(text[0])
-                return texts
-            except:
+                self.driver.find_element_by_id('source').clear()
+                self.driver.find_element_by_id('source').send_keys(string[1])
+                time.sleep(2)
+                text = [
+                    elem.text
+                    for elem in self.driver.find_elements_by_xpath(span)
+                ]
+                return string[0], text[0]
+            except Exception as e:
+                print(e)
                 pass
 
 

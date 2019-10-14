@@ -20,56 +20,59 @@
 5. We pay some linguists.
 
 ## Table of contents
-  * [Dictionary](https://github.com/huseinzol05/Malaya-Dataset#dictionary)
-    * [73k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#73k-english-malay)
-    * [200k English-Malay](https://github.com/huseinzol05/Malaya-Dataset#200k-english-malay)
-    * [90k synonym](https://github.com/huseinzol05/Malaya-Dataset#90k-synonym)
-    * [Dictionary, 24550 unique words](https://github.com/huseinzol05/Malaya-Dataset#dictionary-24550-unique-words)
-    * [Ngrams](https://github.com/huseinzol05/Malaya-Dataset#ngrams)
-  * [Tagging](https://github.com/huseinzol05/Malaya-Dataset#tagging)
-    * [Dependency](https://github.com/huseinzol05/Malaya-Dataset#dependency)
-    * [Part of Speech](https://github.com/huseinzol05/Malaya-Dataset#part-of-speech)
-    * [Entities](https://github.com/huseinzol05/Malaya-Dataset#entities-json)
-  * [Sentiment](https://github.com/huseinzol05/Malaya-Dataset#sentiment)
-    * [sentiment News](https://github.com/huseinzol05/Malaya-Dataset#sentiment-news)
-    * [sentiment Twitter](https://github.com/huseinzol05/Malaya-Dataset#sentiment-twitter)
-    * [sentiment Multidomain](https://github.com/huseinzol05/Malaya-Dataset#sentiment-multidomain)
-    * [Polarity](https://github.com/huseinzol05/Malaya-Dataset#polarity)
-  * [Corpus](https://github.com/huseinzol05/Malaya-Dataset#corpus)
-    * [Audience Nationality](https://github.com/huseinzol05/Malaya-Dataset#audience-nationality)
-    * [Emotion](https://github.com/huseinzol05/Malaya-Dataset#emotion)
-    * [Gender](https://github.com/huseinzol05/Malaya-Dataset#gender)
-    * [Insincere question](https://github.com/huseinzol05/Malaya-Dataset#insincere-question)
-    * [Irony](https://github.com/huseinzol05/Malaya-Dataset#irony)
-    * [Language Detection, Wikipedia](https://github.com/huseinzol05/Malaya-Dataset#language-detection-wikipedia)
-    * [Malaysia Entities](https://github.com/huseinzol05/Malaya-Dataset#malaysia-entities)
-    * [Malaysia Topics](https://github.com/huseinzol05/Malaya-Dataset#malaysia-topics)
-    * [Political landscape](https://github.com/huseinzol05/Malaya-Dataset#political-landscape)
-    * [Sarcastic news-headline](https://github.com/huseinzol05/Malaya-Dataset#sarcastic-news-headline)
-    * [Subjectivity](https://github.com/huseinzol05/Malaya-Dataset#subjectivity)
-    * [Toxicity](https://github.com/huseinzol05/Malaya-Dataset#toxicity)
-  * [News](https://github.com/huseinzol05/Malaya-Dataset#news)
-    * [Fake News](https://github.com/huseinzol05/Malaya-Dataset#fake-news)
-    * [News, crawled](https://github.com/huseinzol05/Malaya-Dataset#news-crawled)
-    * [30k News](https://github.com/huseinzol05/Malaya-Dataset#30k-news)
-    * [Articles](https://github.com/huseinzol05/Malaya-Dataset#articles)
-  * [Speech](https://github.com/huseinzol05/Malaya-Dataset#speech)
-  * [Optical Character Recognition](https://github.com/huseinzol05/Malaya-Dataset#optical-character-recognition)
-  * [English-Malay translation](https://github.com/huseinzol05/Malaya-Dataset#english-malay-translation)
-  * [Question-Answer](https://github.com/huseinzol05/Malaya-Dataset#question-answer)
-    * [General](https://github.com/huseinzol05/Malaya-Dataset#general)
-    * [SQUAD](https://github.com/huseinzol05/Malaya-Dataset#squad)
-  * [Normalization](https://github.com/huseinzol05/Malaya-Dataset#normalization)
-    * [Normalize](https://github.com/huseinzol05/Malaya-Dataset#normalize)
-    * [Stemmer](https://github.com/huseinzol05/Malaya-Dataset#stemmer)
-  * [Text-similarity](https://github.com/huseinzol05/Malaya-Dataset#text-similarity)
-  * [Dumping](https://github.com/huseinzol05/Malaya-Dataset#dumping)
-    * [Karangan sekolah](https://github.com/huseinzol05/Malaya-Dataset#karangan-sekolah)
-    * [Multidomain](https://github.com/huseinzol05/Malaya-Dataset#multidomain)
-    * [Subtitle](https://github.com/huseinzol05/Malaya-Dataset#subtitle)
-  * [Suggestion](https://github.com/huseinzol05/Malaya-Dataset#suggestion)
-  * [Citation](https://github.com/huseinzol05/Malaya-Dataset#citation)
-  * [Donation](https://github.com/huseinzol05/Malaya-Dataset#donation)
+  * [Dictionary](#dictionary)
+    * [73k English-Malay](#73k-english-malay)
+    * [200k English-Malay](#200k-english-malay)
+    * [90k synonym](#90k-synonym)
+    * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
+    * [Ngrams](#ngrams)
+  * [Tagging](#tagging)
+    * [Dependency](#dependency)
+    * [Part of Speech](#part-of-speech)
+    * [Entities](#entities-json)
+  * [Sentiment](#sentiment)
+    * [sentiment News](#sentiment-news)
+    * [sentiment Twitter](#sentiment-twitter)
+    * [sentiment Multidomain](#sentiment-multidomain)
+    * [Polarity](#polarity)
+  * [Corpus](#corpus)
+    * [Audience Nationality](#audience-nationality)
+    * [Emotion](#emotion)
+    * [Gender](#gender)
+    * [Insincere question](#insincere-question)
+    * [Irony](#irony)
+    * [Language Detection, Wikipedia](#language-detection-wikipedia)
+    * [Malaysia Entities](#malaysia-entities)
+    * [Malaysia Topics](#malaysia-topics)
+    * [Political landscape](#political-landscape)
+    * [Sarcastic news-headline](#sarcastic-news-headline)
+    * [Subjectivity](#subjectivity)
+    * [Toxicity](#toxicity)
+  * [News](#news)
+    * [Fake News](#fake-news)
+    * [News, crawled](#news-crawled)
+    * [30k News](#30k-news)
+    * [Articles](#articles)
+    * [CNN](#cnn-news)
+  * [Speech](#speech)
+  * [Optical Character Recognition](#optical-character-recognition)
+  * [English-Malay translation](#english-malay-translation)
+  * [Question-Answer](#question-answer)
+    * [General](#general)
+    * [SQUAD](#squad)
+  * [Normalization](#normalization)
+    * [Normalize](#normalize)
+    * [Stemmer](#stemmer)
+  * [Text-similarity](#text-similarity)
+    * [Quora](#quora)
+    * [SNLI](#snli)
+  * [Dumping](#dumping)
+    * [Karangan sekolah](#karangan-sekolah)
+    * [Multidomain](#multidomain)
+    * [Subtitle](#subtitle)
+  * [Suggestion](#suggestion)
+  * [Citation](#citation)
+  * [Donation](#donation)
 
 ## Dictionary
 
@@ -926,6 +929,12 @@ Total size: 3.1 MB
 4. Pendidikan
 5. Sekolah
 
+#### [CNN News](cnn-news)
+
+**Translated using Google Translate**. Consist of body and summarization. Originally from https://github.com/deepmind/rc-data, had permission to translate dataset to another language.
+
+Total size: 109.0 MB
+
 ## [Speech](speech)
 
 #### Tolong sebut
@@ -1007,11 +1016,15 @@ Total size: 6.5 MB
 
 ## [Text similarity](text-similarity)
 
+#### [Quora](text-similarity/quora)
+
 Total size: 60.8 MB
 
-1. Quora
-
 Translated from [First Quora Dataset Release: Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs), protected by [Terms of Service](https://www.quora.com/about/tos), allowing for non-commercial use.
+
+#### [SNLI](text-similarity/snli)
+
+Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
 
 ## Dumping
 
