@@ -16,7 +16,7 @@
 1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
 3. Using social media, I catch most of live data from Twitter, Facebook and Instagram using crawlers, So I just search using Elasticsearch query.
-4. For speech, we recorded using wired microphone attached to Macbook Air.
+4. For speech, we recorded using wired microphone attached to Macbook Air while read some random texts from bahasa wikipedia.
 5. We pay some linguists.
 
 ## Table of contents
@@ -931,7 +931,9 @@ Total size: 3.1 MB
 
 #### [CNN News](cnn-news)
 
-**Translated using Google Translate**. Consist of body and summarization. Originally from https://github.com/deepmind/rc-data, had permission to translate dataset to another language.
+Consist of body and summarization.
+
+Originally from [Question Answering Corpus](https://github.com/deepmind/rc-data), had permission to translate dataset to another language.
 
 Total size: 109.0 MB
 
@@ -999,7 +1001,9 @@ Total size: 2.5 MB
 
 #### [SQUAD](squad-question-answer)
 
-[SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) allows to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
+Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/)
+
+Allow to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 ## Normalization
 
@@ -1018,9 +1022,9 @@ Total size: 6.5 MB
 
 #### [Quora](text-similarity/quora)
 
-Total size: 60.8 MB
+Originally from [First Quora Dataset Release: Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs), protected by [Terms of Service](https://www.quora.com/about/tos), allowing for non-commercial use.
 
-Translated from [First Quora Dataset Release: Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs), protected by [Terms of Service](https://www.quora.com/about/tos), allowing for non-commercial use.
+Total size: 60.8 MB
 
 #### [SNLI](text-similarity/snli)
 
