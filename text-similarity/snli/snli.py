@@ -19,7 +19,7 @@ class Translate:
         self.driver.get(final_url)
 
     def translate(self, string):
-        while True:
+        for i in range(3):
             try:
                 self.driver.find_element_by_id('source').clear()
                 self.driver.find_element_by_id('source').send_keys(string[1])
@@ -32,6 +32,7 @@ class Translate:
             except Exception as e:
                 print(e)
                 pass
+        return None
 
 
 def task_translate(translator, string):
