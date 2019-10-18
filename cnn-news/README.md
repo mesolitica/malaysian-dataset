@@ -9,3 +9,4 @@
 7. Part 7, https://f000.backblazeb2.com/file/huseinhouse/cnn-news-translated-60000-70000.json
 8. Part 8, https://f000.backblazeb2.com/file/huseinhouse/cnn-news-translated-70000-80000.json
 9. Part 9, https://f000.backblazeb2.com/file/huseinhouse/cnn-news-translated-80000-90000.json
+10. Part 10, https://f000.backblazeb2.com/file/huseinhouse/cnn-news-translated-90000-100000.json

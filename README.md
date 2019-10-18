@@ -936,7 +936,7 @@ Consist of body and summarization.
 
 Originally from [Question Answering Corpus](https://github.com/deepmind/rc-data), had permission to translate dataset to another language.
 
-Total size: 153.9 MB
+Total size: 453 MB
 
 ## [Speech](speech)
 
