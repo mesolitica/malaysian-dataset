@@ -1063,6 +1063,20 @@ Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-stora
 
 Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
 
+6. Random singlish text,
+
+Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
+
+Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/singlish.txt).
+
+Contributed by [brytjy](https://github.com/brytjy).
+
+7. Singapore news,
+
+Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
+
+Contributed by [brytjy](https://github.com/brytjy).
+
 #### [Subtitle](subtitle)
 
 Total size: 1.5 MB
