@@ -69,7 +69,13 @@
     * [SNLI](#snli)
   * [Dumping](#dumping)
     * [Karangan sekolah](#karangan-sekolah)
-    * [Multidomain](#multidomain)
+    * [Wikipedia](#wikipedia)
+    * [Instagram](#instagram)
+    * [Twitter](#twitter)
+    * [Public news](#public-news)
+    * [Parliament](#parliament)
+    * [Singlish text](#singlish-text)
+    * [Singapore news](#singapore-news)
     * [Subtitle](#subtitle)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
@@ -1037,9 +1043,7 @@ Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://
 
 Total size: 221 KB
 
-#### Multidomain
-
-1. Wikipedia,
+#### Wikipedia
 
 Total size: 240.2 MB, 1663373 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-6-july-2019.json).
 
@@ -1047,31 +1051,33 @@ Total size: 255.1 MB, 1303844 sentences, [download link](https://huseinhouse-sto
 
 **RAW**, Total size: 243.2 MB, 1748387 sentences, [download link](https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/wikidump1-raw.json)
 
-2. Instagram,
+#### Instagram
 
 Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
 
-3. Twitter,
+#### Twitter
 
 Total size: 577.5 MB, 10172726 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-twitter-6-july-2019.json).
 
-4. Public news,
+#### Public news
 
 Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
 
-5. Parliament,
+#### Parliament
 
 Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
 
-6. Random singlish text,
+#### Singlish text
 
 Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
+
+Random crawled from different singaporean websites and blogs.
 
 Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/singlish.txt).
 
 Contributed by [brytjy](https://github.com/brytjy).
 
-7. Singapore news,
+#### Singapore news
 
 Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
 
