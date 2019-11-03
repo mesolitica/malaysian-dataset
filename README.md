@@ -76,6 +76,7 @@
     * [Parliament](#parliament)
     * [Singlish text](#singlish-text)
     * [Singapore news](#singapore-news)
+    * [Foodpanda](#foodpanda)
     * [Subtitle](#subtitle)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
@@ -1082,6 +1083,14 @@ Contributed by [brytjy](https://github.com/brytjy).
 Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
 
 Contributed by [brytjy](https://github.com/brytjy).
+
+#### [Foodpanda](foodpanda)
+
+Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
+
+Contain location, restaurant name, star rating, characteristics, delivery methods and food descriptions.
+
+Total size: 94.1 MB
 
 #### [Subtitle](subtitle)
 
