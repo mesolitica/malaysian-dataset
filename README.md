@@ -1310,6 +1310,10 @@ Total size: 1.08 GB
 
 1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
 
+#### Manglish
+
+Total size: 1.9 GB
+
 ## [Optical Character Recognition](ocr)
 
 #### Malay-to-Jawi
