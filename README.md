@@ -76,8 +76,10 @@
     * [Parliament](#parliament)
     * [Singlish text](#singlish-text)
     * [Singapore news](#singapore-news)
-    * [Foodpanda](#foodpanda)
     * [Subtitle](#subtitle)
+  * [Crawl](#crawl)
+    * [Foodpanda](#foodpanda)
+    * [Klook](#klook)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -1433,7 +1435,13 @@ Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-sto
 
 Contributed by [brytjy](https://github.com/brytjy).
 
-#### [Foodpanda](foodpanda)
+#### [Subtitle](subtitle)
+
+Total size: 1.5 MB
+
+## [Crawl](crawl)
+
+#### [Foodpanda](crawl/foodpanda)
 
 Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
 
@@ -1441,9 +1449,11 @@ Contain location, restaurant name, star rating, characteristics, delivery method
 
 Total size: 94.1 MB
 
-#### [Subtitle](subtitle)
+#### [Klook](crawl/klook)
 
-Total size: 1.5 MB
+Crawled up to 200 interesting locations from MY and SG klook.
+
+Total size: 10.3 MB
 
 ## Suggestion
 
