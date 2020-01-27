@@ -27,18 +27,21 @@
     * [90k synonym](#90k-synonym)
     * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
     * [Ngrams](#ngrams)
+  * [Lexicon](#lexicon)
+    * [sentiment](#sentiment)
+    * [emotion](#emotion)
   * [Tagging](#tagging)
     * [Dependency](#dependency)
     * [Part of Speech](#part-of-speech)
     * [Entities](#entities-json)
-  * [Sentiment](#sentiment)
+  * [Sentiment](#sentiment-1)
     * [sentiment News](#sentiment-news)
     * [sentiment Twitter](#sentiment-twitter)
     * [sentiment Multidomain](#sentiment-multidomain)
     * [Polarity](#polarity)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
-    * [Emotion](#emotion)
+    * [Emotion](#emotion-1)
     * [Gender](#gender)
     * [Insincere question](#insincere-question)
     * [Irony](#irony)
@@ -69,7 +72,7 @@
     * [SNLI](#snli)
   * [Dumping](#dumping)
     * [Karangan sekolah](#karangan-sekolah)
-    * [Wikipedia](#wikipedia)
+    * [Wikipedia](#wikipedia-1)
     * [Instagram](#instagram)
     * [Twitter](#twitter)
     * [Public news](#public-news)
@@ -113,6 +116,22 @@ Total size: 92 MB
 Unigram and Bigram collected from news, structure,
 ```python
 {'saya': 1000}
+```
+
+## Lexicon
+
+Malaya provided lexicon generator to induce new lexicons, https://malaya.readthedocs.io/en/latest/Lexicon.html
+
+#### [sentiment](lexicon/sentiment.json)
+
+```python
+{'negative': ['str1','str2'], 'positive': ['str3','str4']}
+```
+
+#### [emotion](lexicon/emotion.json)
+
+```python
+{'anger': ['str1'], 'fear': ['str2'], 'joy': ['str3'], 'love': ['str4'], 'sadness': ['str5'], 'surprise': ['str6']}
 ```
 
 ## Tagging
@@ -1360,6 +1379,8 @@ Total size: 2.5 MB
 
 #### [SQUAD](squad-question-answer)
 
+**Translating still in progress**.
+
 Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/)
 
 Allow to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
@@ -1457,9 +1478,7 @@ Total size: 10.3 MB
 
 ## Suggestion
 
-1. Always apply text augmentation, like swapping based words using synonyms or thesaurus. We gathered some synonyms if you want to use it, [90k synonyms](synonym).
-2. Malaya also provided interface for text augmentation using word2vec, [Malaya-text-augmentation](https://malaya.readthedocs.io/en/latest/Generator.html#text-augmentation)
-3. Feel free to contact me to request new dataset.
+1. Feel free to contact me to request new dataset.
 
 ## Citation
 

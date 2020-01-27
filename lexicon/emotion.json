@@ -1,0 +1,71 @@
+{
+    "anger": [
+        "Berdukacita",
+        "Mendidih",
+        "Jengkel",
+        "Benci",
+        "Sebal",
+        "amuk",
+        "berang",
+        "marah",
+        "Bergelora",
+        "pedar",
+        "bengang",
+        "babi",
+        "annoying",
+        "pengecut",
+        "bodoh"
+    ],
+    "fear": [
+        "cuak",
+        "takut",
+        "horror",
+        "panic",
+        "anxiety",
+        "nervous",
+        "ngeri",
+        "phobia",
+        "fitnah"
+    ],
+    "joy": [
+        "bahagia",
+        "syok",
+        "riang",
+        "girang",
+        "happy",
+        "seronok",
+        "puas",
+        "cerita",
+        "suka"
+    ],
+    "love": [
+        "sayang",
+        "syg",
+        "baby",
+        "rindu",
+        "cinta",
+        "love",
+        "syang",
+        "rindukan",
+        "rindukn"
+    ],
+    "sadness": [
+        "sengsara",
+        "kecewa",
+        "tertekan",
+        "stress",
+        "bersalah",
+        "resah",
+        "sedih"
+    ],
+    "surprise": [
+        "surprise",
+        "terkejut",
+        "stun",
+        "pengsan",
+        "wtf",
+        "kagum",
+        "tertanya-tanya",
+        "tertanya2"
+    ]
+}
