@@ -45,7 +45,7 @@
     * [Gender](#gender)
     * [Insincere question](#insincere-question)
     * [Irony](#irony)
-    * [Language Detection, Wikipedia](#language-detection-wikipedia)
+    * [Language Detection](#language-detection)
     * [Malaysia Entities](#malaysia-entities)
     * [Malaysia Topics](#malaysia-topics)
     * [Political landscape](#political-landscape)
@@ -251,19 +251,14 @@ Total size: 465 KB
 1. Positive
 2. Negative
 
-#### [Language-detection, Wikipedia](language-detection)
+#### [Language-detection](language-detection)
 
-Total size: 26.2 MB
-```python
-(array(['OTHER', 'ara', 'ber', 'bul', 'ces', 'cmn', 'dan', 'deu', 'ell',
-        'eng', 'epo', 'fin', 'fra', 'heb', 'hun', 'ind', 'ita', 'jpn',
-        'kor', 'lat', 'lit', 'mar', 'mkd', 'nld', 'pol', 'por', 'rus',
-        'spa', 'srp', 'swe', 'toki', 'tur', 'ukr', 'zlm'], dtype='<U5'),
- array([37910, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000,
-        50000, 10000, 10000, 10000, 10000, 10000, 57327, 10000, 10000,
-         3687, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000,
-        10000, 10000, 10000, 10000, 10000, 10000, 53692]))
-```
+1. english
+2. malay
+3. indonesia
+4. rojak
+5. manglish
+6. others
 
 #### [Malaysia-entities](malaysia-entities)
 
