@@ -1,8 +1,14 @@
-[https://s3-ap-southeast-1.amazonaws.com/huseinhouse-data/language-detection-data-v4.json](https://s3-ap-southeast-1.amazonaws.com/huseinhouse-data/language-detection-data-v4.json)
+## how-to
 
-You can download any language from [https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles.xml.bz2](https://dumps.wikimedia.org/mswiki/latest/XXwiki-latest-pages-articles.xml.bz2), you just need to replace `XX` with language code.
+1. data from wikipedia, https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/formal-language.json
+2. data from social media, https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/social-language.json
+3. manglish, https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/manglish.json
 
-And execute,
-```bash
-python make-corpus.py XXwiki-latest-pages-articles.xml.bz2 wiki_XX.txt
-```
+## label
+
+1. english
+2. malay
+3. indonesia
+4. rojak
+5. manglish
+6. others
