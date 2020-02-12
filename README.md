@@ -16,9 +16,16 @@
 1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
 3. Using social media, we catch most of live data from Twitter, Facebook and Instagram using crawlers, So we just search using Elasticsearch query.
-4. For speech, we recorded using wired microphone attached to Macbook Air while read some random texts from bahasa wikipedia.
+4. For speech, we recorded using wired microphone attached to Macbook Air 2013 while read some random texts from bahasa wikipedia.
 5. We pay some linguists.
 6. Active learning, semi supervised.
+7. Heavily crawled, use the dataset with full caution.
+
+## Acknowledgement
+
+Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://www.facebook.com/ligblou), [Mesolitica](https://mesolitica.com/) and [KeyReply](https://www.keyreply.com/) for sponsoring AWS Google and private cloud to deploy distributed crawlers.
+
+<img alt="logo" width="50%" src="https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/ligblou-mesolitca-keyreply.png">
 
 ## Table of contents
   * [Dictionary](#dictionary)
@@ -83,6 +90,8 @@
   * [Crawl](#crawl)
     * [Foodpanda](#foodpanda)
     * [Klook](#klook)
+    * [IIUM-Confession](#iium-confession)
+    * [Wattpad](#wattpad)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -1457,6 +1466,8 @@ Total size: 1.5 MB
 
 ## [Crawl](crawl)
 
+**This is crawled data, proceed with caution**.
+
 #### [Foodpanda](crawl/foodpanda)
 
 Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
@@ -1470,6 +1481,24 @@ Total size: 94.1 MB
 Crawled up to 200 interesting locations from MY and SG klook.
 
 Total size: 10.3 MB
+
+#### [IIUM-Confession](crawl/iium-confession)
+
+Crawled up to 20k confession posts.
+
+#### [Wattpad](crawl/wattpad)
+
+Crawled using keywords,
+
+1. melayu
+2. malaysia
+3. seram
+4. hantu
+5. puisi
+6. sajak
+7. cerita
+
+Crawled up to 7k fiction stories.
 
 ## Suggestion
 
