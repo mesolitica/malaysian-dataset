@@ -19,7 +19,6 @@
 4. For speech, we recorded using wired microphone attached to Macbook Air 2013 while read some random texts from bahasa wikipedia.
 5. We pay some linguists.
 6. Active learning, semi supervised.
-7. Heavily crawled, use the dataset with full caution.
 
 ## Acknowledgement
 
