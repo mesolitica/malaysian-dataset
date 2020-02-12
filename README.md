@@ -91,6 +91,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Klook](#klook)
     * [IIUM-Confession](#iium-confession)
     * [Wattpad](#wattpad)
+    * [Dialect](#dialect)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -1498,6 +1499,20 @@ Crawled using keywords,
 7. cerita
 
 Crawled up to 7k fiction stories.
+
+#### [Dialect](crawl/dialect)
+
+Glossaries for,
+
+1. johor
+2. kedah
+3. kelantan
+4. negeri sembilan
+5. melaka
+6. pahang
+7. penang
+
+Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
 
 ## Suggestion
 
