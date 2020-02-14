@@ -1500,6 +1500,8 @@ Crawled using keywords,
 
 Crawled up to 7k fiction stories.
 
+Total size: 97 MB
+
 #### [Dialect](crawl/dialect)
 
 Glossaries for,
