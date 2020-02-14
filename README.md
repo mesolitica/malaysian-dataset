@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#readme">
-        <img alt="logo" width="50%" src="karangan-sekolah/wordcloud.png">
+        <img alt="logo" width="50%" src="wordcloud.png">
     </a>
 </p>
 <p align="center">
