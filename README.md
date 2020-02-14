@@ -32,6 +32,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [200k English-Malay](#200k-english-malay)
     * [90k synonym](#90k-synonym)
     * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
+    * [Dialect](#dialect)
     * [Ngrams](#ngrams)
   * [Lexicon](#lexicon)
     * [sentiment](#sentiment)
@@ -91,12 +92,11 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Klook](#klook)
     * [IIUM-Confession](#iium-confession)
     * [Wattpad](#wattpad)
-    * [Dialect](#dialect)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
 
-## Dictionary
+## [Dictionary](dictionary)
 
 **_Not an official released from Dewan Bahasa._**
 
@@ -106,19 +106,34 @@ Total size: 1.1 MB
 
 Originally posted by Facebook, https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
 
-#### [200k English-Malay](200k-english-malay)
+#### [200k English-Malay](dictionary/200k-english-malay)
 
 Total size: 6.9 MB
 
-#### [90k synonym](synonym)
+#### [90k synonym](dictionary/synonym)
 
 Total size: 4.7 MB    
 
-#### [Dictionary, 24550 unique words](dictionary)
+#### [Dictionary, 24550 unique words](dictionary/dictionary)
 
 Total size: 428 KB
 
-#### [Ngrams](ngram)
+#### [Dialect](dictionary/dialect)
+
+Glossaries for,
+
+1. johor
+2. kedah
+3. kelantan
+4. negeri sembilan
+5. melaka
+6. pahang
+7. penang
+8. sukuan
+
+Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
+
+#### [Ngrams](dictionary/ngram)
 
 Total size: 92 MB
 
@@ -127,7 +142,7 @@ Unigram and Bigram collected from news, structure,
 {'saya': 1000}
 ```
 
-## Lexicon
+## [Lexicon](lexicon)
 
 Malaya provided lexicon generator to induce new lexicons, https://malaya.readthedocs.io/en/latest/Lexicon.html
 
@@ -143,13 +158,13 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 {'anger': ['str1'], 'fear': ['str2'], 'joy': ['str3'], 'love': ['str4'], 'sadness': ['str5'], 'surprise': ['str6']}
 ```
 
-## Tagging
+## [Tagging](tagging)
 
-#### [Dependency](dependency)
+#### [Dependency](tagging/dependency)
 
 Total size: 24.1 MB
 
-#### [Part-of-Speech](part-of-speech)
+#### [Part-of-Speech](tagging/part-of-speech)
 
 Total size: 3.1 MB
 
@@ -171,7 +186,7 @@ Total size: 3.1 MB
 
 Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
 
-#### [Entities, JSON](entities)
+#### [Entities, JSON](tagging/entities)
 
 Total size: 3.1 MB
 
@@ -186,23 +201,23 @@ Total size: 3.1 MB
 
 Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
 
-## Sentiment
+## [Sentiment](sentiment)
 
-#### [Sentiment News](news-sentiment)
+#### [Sentiment News](sentiment/news-sentiment)
 
 Total size: 496 KB
 
 1. Positive
 2. Negative
 
-#### [Sentiment Twitter](twitter-sentiment)
+#### [Sentiment Twitter](sentiment/twitter-sentiment)
 
 Total size: 50.6 MB
 
 1. Positive
 2. Negative
 
-#### [Sentiment Multidomain](multidomain-sentiment)
+#### [Sentiment Multidomain](sentiment/multidomain-sentiment)
 
 Total size: 159 KB
 
@@ -210,23 +225,23 @@ Total size: 159 KB
 2. IMDB review, Positive and Negative
 3. Yelp review, Positive and Negative
 
-#### [Polarity](polarity)
+#### [Polarity](sentiment/polarity)
 
 Total size: 1.3 MB
 
 1. Positive
 2. Negative
 
-## Corpus
+## [Corpus](corpus)
 
-#### [Audience Nationality](audience)
+#### [Audience Nationality](corpus/audience)
 
 Total size: 246 KB
 
 1. constituency
 2. national
 
-#### [Emotion](emotion)
+#### [Emotion](corpus/emotion)
 
 Total size: 41.2 MB
 
@@ -237,7 +252,7 @@ Total size: 41.2 MB
 5. Sadness
 6. Surprise
 
-#### [Gender](gender)
+#### [Gender](corpus/gender)
 
 Total size: 2.2 MB
 
@@ -246,21 +261,21 @@ Total size: 2.2 MB
 3. Female
 4. Brand
 
-#### [Insincere question](insincere-question)
+#### [Insincere question](corpus/insincere-question)
 
 Total size: 60.4 MB
 
 1. Negative
 2. Positive
 
-#### [Irony](irony)
+#### [Irony](corpus/irony)
 
 Total size: 465 KB
 
 1. Positive
 2. Negative
 
-#### [Language-detection](language-detection)
+#### [Language-detection](corpus/language-detection)
 
 1. english
 2. malay
@@ -269,7 +284,7 @@ Total size: 465 KB
 5. manglish
 6. others
 
-#### [Malaysia-entities](malaysia-entities)
+#### [Malaysia-entities](corpus/malaysia-entities)
 
 Social media texts related to Malaysia entities.
 
@@ -490,7 +505,7 @@ Total size: 190.1 MB
 
 </details>
 
-#### [Malaysia Topics](malaysia-topics)
+#### [Malaysia Topics](corpus/malaysia-topics)
 
 Social media texts related to Malaysia topics.
 
@@ -750,25 +765,25 @@ Total size: 322.4 MB
 
 </details>
 
-#### [Sarcastic news-headline](sarcastic-news-headline)
+#### [Sarcastic news-headline](corpus/sarcastic-news-headline)
 
 Total size: 1.78 MB
 
 1. Positive
 2. Negative
 
-#### [Subjectivity](subjectivity)
+#### [Subjectivity](corpus/subjectivity)
 
 Total size: 1.4 MB
 
 1. Positive
 2. Negative
 
-#### [Toxicity](toxicity)
+#### [Toxicity](corpus/toxicity)
 
 Total size: 70 MB
 
-Toxicity is multilabel, prefer to use sigmoid based.
+Toxicity is multilabels and multiclasses, prefer to use sigmoid / logistic.
 
 1. toxic
 2. severe toxic
@@ -777,16 +792,16 @@ Toxicity is multilabel, prefer to use sigmoid based.
 5. insult
 6. identity hate
 
-#### [Political landscape](political-landscape)
+#### [Political landscape](corpus/political-landscape)
 
 Total size: 2 MB
 
-1. Kerajaan
-2. Pembangkang
+1. Kerajaan (BN)
+2. Pembangkang (PAS, DAP, PKR)
 
-## News
+## [News](news)
 
-#### [Fake News](fake-news)
+#### [Fake News](news/fake-news)
 
 Total size: 122.2 MB
 
@@ -795,7 +810,7 @@ Total size: 122.2 MB
 
 Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data)
 
-#### [30k News](news-30k)
+#### [30k News](news/news-30k)
 
 Total size: 66.6 MB
 
@@ -826,7 +841,7 @@ strings = [
 ]
 ```
 
-#### [News, crawled](news)
+#### [News, crawled](news/news-new)
 
 Total size: 308.7 MB
 
@@ -1297,7 +1312,7 @@ Total size: 308.7 MB
 
 </details>
 
-#### [Articles](articles)
+#### [Articles](news/articles)
 
 Total size: 3.1 MB
 
@@ -1307,7 +1322,7 @@ Total size: 3.1 MB
 4. Pendidikan
 5. Sekolah
 
-#### [CNN News](cnn-news)
+#### [CNN News](news/cnn-news)
 
 Consist of body and summarization.
 
@@ -1363,9 +1378,9 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png
 
 Total size: 91.2 MB
 
-## Question-Answer
+## [Question-Answer](question-answer)
 
-#### [General](question-answer)
+#### [General](question-answer/general)
 
 Total size: 2.5 MB
 
@@ -1381,7 +1396,7 @@ Total size: 2.5 MB
 23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
 ```
 
-#### [SQUAD](squad-question-answer)
+#### [SQUAD](question-answer/squad)
 
 **Translating still in progress**.
 
@@ -1389,13 +1404,13 @@ Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.
 
 Allow to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-## Normalization
+## [Normalization](normalization)
 
-#### [Normalize](normalize)
+#### [Normalize](normalization/normalize)
 
 Total size: 2.6 MB
 
-#### [Stemmer](stemmer)
+#### [Stemmer](normalization/stemmer)
 
 Total size: 6.5 MB
 
@@ -1414,9 +1429,11 @@ Total size: 60.8 MB
 
 Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
 
-## Dumping
+Total size: 55 MB
 
-#### [Karangan sekolah](karangan-sekolah)
+## [Dumping](dumping)
+
+#### [Karangan sekolah](dumping/karangan-sekolah)
 
 Total size: 221 KB
 
@@ -1460,7 +1477,7 @@ Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-sto
 
 Contributed by [brytjy](https://github.com/brytjy).
 
-#### [Subtitle](subtitle)
+#### [Subtitle](dumping/subtitle)
 
 Total size: 1.5 MB
 
@@ -1504,19 +1521,15 @@ Crawled up to 7k fiction stories.
 
 Total size: 97 MB
 
-#### [Dialect](crawl/dialect)
+#### [Academia PDF](crawl/pdf)
 
-Glossaries for,
+Crawled up to 42 pdfs related to,
 
-1. johor
-2. kedah
-3. kelantan
-4. negeri sembilan
-5. melaka
-6. pahang
-7. penang
+1. melayu
+2. sejarah
+3. etnik
 
-Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
+Total size: 11 MB
 
 ## Suggestion
 
