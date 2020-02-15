@@ -1528,11 +1528,13 @@ Total size: 97 MB
 
 #### [Academia PDF](crawl/pdf)
 
-Crawled up to 42 pdfs related to,
+Crawled up to 88 pdfs related to,
 
 1. melayu
 2. sejarah
 3. etnik
+4. bahasa
+5. politik
 
 Total size: 16 MB
 
