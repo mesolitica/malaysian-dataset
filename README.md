@@ -1454,9 +1454,9 @@ Total size: 255.1 MB, 1303844 sentences, [download link](https://huseinhouse-sto
 
 Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
 
-#### Twitter
+#### [Twitter](dumping/twitter)
 
-Total size: 577.5 MB, 10172726 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-twitter-6-july-2019.json).
+Total size: 1045 MB
 
 #### Public news
 
