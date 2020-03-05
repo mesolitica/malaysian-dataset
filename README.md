@@ -97,6 +97,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Klook](#klook)
     * [IIUM-Confession](#iium-confession)
     * [Wattpad](#wattpad)
+    * [Academia PDF](#academia-pdf)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
