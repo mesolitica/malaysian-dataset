@@ -1457,7 +1457,7 @@ Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-stor
 
 #### [Twitter](dumping/twitter)
 
-Total size: 1045 MB
+Total size: 1540.5 MB
 
 #### Public news
 

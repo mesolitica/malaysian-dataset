@@ -10,3 +10,9 @@ english, 136MB, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/dumping/t
 
 bahasa, 332MB, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/dumping/twitter/2020-02-22-twitter-dump-in.json
 
+3. 2020-02-22 - 2020-02-08,
+
+english, 138MB, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/dumping/twitter/2020-03-08-twitter-dump-en.json
+
+bahasa, 357MB, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/dumping/twitter/2020-03-08-twitter-dump-in.json
+
