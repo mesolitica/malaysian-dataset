@@ -290,6 +290,20 @@ Total size: 465 KB
 5. manglish
 6. others
 
+sublanguages,
+
+1. malay
+2. kedah
+3. johor
+4. melaka
+5. terengganu
+6. sarawak
+7. negeri-sembilan
+8. kelantan
+9. pahang
+10. perak
+11. sabah
+
 #### [Malaysia-entities](corpus/malaysia-entities)
 
 Social media texts related to Malaysia entities.
