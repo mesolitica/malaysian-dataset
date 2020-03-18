@@ -35,17 +35,18 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Dialect](#dialect)
     * [Ngrams](#ngrams)
   * [Lexicon](#lexicon)
-    * [sentiment](#sentiment)
-    * [emotion](#emotion)
+    * [Sentiment](#sentiment)
+    * [Emotion](#emotion)
   * [Tagging](#tagging)
     * [Dependency](#dependency)
-    * [Part of Speech](#part-of-speech)
+    * [Part-of-Speech](#part-of-speech)
     * [Entities](#entities-json)
   * [Sentiment](#sentiment-1)
-    * [sentiment News](#sentiment-news)
-    * [sentiment Twitter](#sentiment-twitter)
-    * [sentiment Multidomain](#sentiment-multidomain)
-    * [Polarity](#polarity)
+    * [Local News](#local-news)
+    * [Twitter](#twitter)
+    * [Translated Twitter](#Translated-Twitter)
+    * [Translated Multidomain](#Translated-Multidomain)
+    * [Translated Polarity](#Translated-Polarity)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Emotion](#emotion-1)
@@ -61,7 +62,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Toxicity](#toxicity)
   * [News](#news)
     * [Fake News](#fake-news)
-    * [News, crawled](#news-crawled)
+    * [Crawled News](#crawled-news)
     * [30k News](#30k-news)
     * [Articles](#articles)
     * [CNN](#cnn-news)
@@ -86,7 +87,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Karangan sekolah](#karangan-sekolah)
     * [Wikipedia](#wikipedia-1)
     * [Instagram](#instagram)
-    * [Twitter](#twitter)
+    * [Twitter](#twitter-1)
     * [Public news](#public-news)
     * [Parliament](#parliament)
     * [Singlish text](#singlish-text)
@@ -209,21 +210,28 @@ Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for o
 
 ## [Sentiment](sentiment)
 
-#### [Sentiment News](sentiment/news-sentiment)
+#### [Local News](sentiment/news-sentiment)
 
 Total size: 496 KB
 
 1. Positive
 2. Negative
 
-#### [Sentiment Twitter](sentiment/twitter-sentiment)
+#### [Twitter](sentiment/semi-supervised/twitter)
+
+Total size: 363 MB
+
+1. Positive
+2. Negative, 3018489 sentences
+
+#### [Translated Twitter](sentiment/translate/twitter-sentiment)
 
 Total size: 50.6 MB
 
 1. Positive
 2. Negative
 
-#### [Sentiment Multidomain](sentiment/multidomain-sentiment)
+#### [Translated Multidomain](sentiment/translate/multidomain-sentiment)
 
 Total size: 159 KB
 
@@ -231,7 +239,7 @@ Total size: 159 KB
 2. IMDB review, Positive and Negative
 3. Yelp review, Positive and Negative
 
-#### [Polarity](sentiment/polarity)
+#### [Translated Polarity](sentiment/translate/polarity)
 
 Total size: 1.3 MB
 
@@ -861,7 +869,7 @@ strings = [
 ]
 ```
 
-#### [News, crawled](news/news-new)
+#### [Crawled News](news/news-new)
 
 Total size: 308.7 MB
 
