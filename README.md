@@ -18,7 +18,7 @@
 3. Using social media, we catch most of live data from Twitter, Facebook and Instagram using crawlers, So we just search using Elasticsearch query.
 4. For speech, we recorded using wired microphone attached to Macbook Air 2013 while read some random texts from bahasa wikipedia.
 5. We pay some linguists.
-6. Active learning, semi supervised.
+6. Lexicon -> weak learning from translated -> confident learning -> 5 iterations from humans.
 
 ## Acknowledgement
 
@@ -219,10 +219,10 @@ Total size: 496 KB
 
 #### [Twitter](sentiment/semi-supervised/twitter)
 
-Total size: 363 MB
+Total size: 519.4 MB
 
-1. Positive
-2. Negative, 3018489 sentences
+1. Positive, 1085719 sentences
+2. Negative, 3463771 sentences
 
 #### [Translated Twitter](sentiment/translate/twitter-sentiment)
 
