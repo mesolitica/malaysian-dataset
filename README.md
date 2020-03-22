@@ -59,7 +59,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Political landscape](#political-landscape)
     * [Sarcastic news-headline](#sarcastic-news-headline)
     * [Subjectivity](#subjectivity)
-    * [Toxicity](#toxicity)
+    * [Toxicity-small](#toxicity-small)
+    * [Toxicity-large](#toxicity-large)
   * [News](#news)
     * [Fake News](#fake-news)
     * [Crawled News](#crawled-news)
@@ -807,11 +808,11 @@ Total size: 1.4 MB
 1. Positive
 2. Negative
 
-#### [Toxicity](corpus/toxicity)
+#### [Toxicity-small](corpus/toxicity-small)
 
 Total size: 70 MB
 
-Toxicity is multilabels and multiclasses, prefer to use sigmoid / logistic.
+Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic.
 
 1. toxic
 2. severe toxic
@@ -819,6 +820,42 @@ Toxicity is multilabels and multiclasses, prefer to use sigmoid / logistic.
 4. threat
 5. insult
 6. identity hate
+
+#### [Toxicity-large](corpus/toxicity-large)
+
+Total size: 92 MB
+
+Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic.
+
+1. severe toxic
+2. obscene
+3. identity_attack
+4. insult
+5. threat
+6. asian
+7. atheist
+8. bisexual
+9. black
+10. buddhist
+11. christian
+12. female
+13. heterosexual
+14. hindu
+15. homosexual, gay or lesbian
+16. intellectual or learning disability
+17. jewish
+18. latino
+19. male
+20. muslim
+21. other disability
+22. other gender
+23. other race or ethnicity
+24. other religion
+25. other sexual orientation
+26. physical disability
+27. psychiatric or mental illness
+28. transgender
+29. white
 
 #### [Political landscape](corpus/political-landscape)
 
