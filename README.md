@@ -810,7 +810,7 @@ Total size: 1.4 MB
 
 #### [Toxicity-small](corpus/toxicity-small)
 
-Total size: 70 MB
+Total size: 69 MB
 
 Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic.
 
@@ -823,7 +823,7 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 
 #### [Toxicity-large](corpus/toxicity-large)
 
-Total size: 92 MB
+Total size: 116 MB
 
 Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic.
 
