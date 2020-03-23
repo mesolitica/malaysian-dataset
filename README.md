@@ -823,13 +823,13 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 
 #### [Toxicity-large](corpus/toxicity-large)
 
-Total size: 116 MB
+Total size: 138 MB
 
 Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic.
 
 1. severe toxic
 2. obscene
-3. identity_attack
+3. identity attack
 4. insult
 5. threat
 6. asian
