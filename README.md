@@ -49,7 +49,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Translated Polarity](#Translated-Polarity)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
-    * [Emotion](#emotion-1)
+    * [Translated Emotion](#Translated-Emotion)
+    * [Twitter Emotion](#Twitter-Emotion)
     * [Gender](#gender)
     * [Insincere question](#insincere-question)
     * [Irony](#irony)
@@ -256,9 +257,9 @@ Total size: 246 KB
 1. constituency
 2. national
 
-#### [Emotion](corpus/emotion)
+#### [Translated Emotion](corpus/emotion/translate)
 
-Total size: 41.2 MB
+Total size: 7.2 MB
 
 1. Anger
 2. Fear
@@ -266,6 +267,17 @@ Total size: 41.2 MB
 4. Love
 5. Sadness
 6. Surprise
+
+#### [Twitter Emotion](corpus/emotion/lexicon)
+
+Total size: 113.7 MB
+
+1. Anger, 100808 rows
+2. Fear, 18656 rows
+3. Happy, 998541 rows
+4. love, 17786 rows
+5. Sadness, 22133 rows
+6. Surprise, 11923 rows
 
 #### [Gender](corpus/gender)
 
@@ -823,7 +835,7 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 
 #### [Toxicity-large](corpus/toxicity-large)
 
-Total size: 160.8 MB
+Total size: 280 MB
 
 Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic.
 
