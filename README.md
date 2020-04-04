@@ -101,6 +101,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [IIUM-Confession](#iium-confession)
     * [Wattpad](#wattpad)
     * [Academia PDF](#academia-pdf)
+    * [ticket2u](#ticket2u)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -1611,6 +1612,54 @@ Crawled up to 224 pdfs related to,
 7. idealogi
 
 Total size: 50 MB
+
+#### [ticket2u](crawl/ticket2u)
+
+Contains 4282 events in Malaysia from 2017,
+
+```python
+{'row': {'rownum': '4282',
+  'rowtotal': '4282',
+  'rowpp': '18',
+  'link': 'https://www.ticket2u.com.my/event/10223/emi-business-networking-3.0',
+  'time': '4:00PM',
+  'avatar': 'https://www.ticket2u.com.my/upload/event/listing/0-10223-8ce30523-200c-4bfa-98a9-daadd142989b-GYQ6_X.jpg',
+  'datefrom106': '26 Oct 2017',
+  'dateto106': '26 Oct 2017',
+  'day': 'Thursday',
+  'date': '26',
+  'month': 'Oct',
+  'year': '2017',
+  'datefrom': '2017-10-26T16:00:00',
+  'dateto': '2017-10-26T19:00:00',
+  'active': '1',
+  'id': '10223',
+  'name': 'EMI Business Networking 3.0',
+  'titlename': 'EMI Business Networking 3.0',
+  'excerpt': '',
+  'pid': '0',
+  'basecurrency': 'RM',
+  'online': '0',
+  'countryid': '1',
+  'stateid': '1',
+  'areaid': '0',
+  'locname': 'Denai Alam Recreational and Riding Club',
+  'statename': 'WP Kuala Lumpur',
+  'latitude': '3.150970999999999',
+  'type': '619',
+  'regboo': '0',
+  'pricefrom': '75.00',
+  'longitude': '101.51955099999998',
+  'eventcat': 'Business Sharing and Networking Event',
+  'eventcatcode': 'business',
+  'eventsubcat': 'Networking',
+  'eventsubcatcode': 'networking',
+  'showdate': '1',
+  'exclusive': '0',
+  'notexclusive': '0',
+  'issaleend': '1',
+  'status': 'expired'}}
+```
 
 ## Suggestion
 
