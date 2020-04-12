@@ -869,6 +869,8 @@ Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic
 27. psychiatric or mental illness
 28. transgender
 29. white
+30. malay
+31. chinese
 
 #### [Political landscape](corpus/political-landscape)
 
