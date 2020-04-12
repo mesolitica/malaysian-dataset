@@ -34,3 +34,5 @@ url, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/{filename}
 30. translated-950000.json
 
 chinese, malay and indian labels from local tweets, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/kaum.json
+
+Weak learning score using BERT Base for chinese, malay and indian labels, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/weak-learning-toxicity.json
