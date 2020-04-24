@@ -1565,7 +1565,7 @@ Total size: 1.5 MB
 
 List of `mse` language websites only. Please contact me personally to get entire data related.
 
-Total size: 16 MB
+Total size: 25.6 MB
 
 ## [Crawl](crawl)
 
