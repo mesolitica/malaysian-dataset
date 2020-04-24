@@ -271,14 +271,14 @@ Total size: 7.2 MB
 
 #### [Twitter Emotion](corpus/emotion/lexicon)
 
-Total size: 113.7 MB
+Total size: 27.4 MB
 
-1. Anger, 100808 rows
-2. Fear, 18656 rows
-3. Happy, 998541 rows
-4. love, 17786 rows
-5. Sadness, 22133 rows
-6. Surprise, 11923 rows
+1. Anger, 108813 rows
+2. Fear, 20316 rows
+3. Happy, 30962 rows
+4. love, 20783 rows
+5. Sadness, 26468 rows
+6. Surprise, 13107 rows
 
 #### [Gender](corpus/gender)
 
