@@ -1563,9 +1563,13 @@ Total size: 1.5 MB
 
 #### [Common-crawl](dumping/common-crawl)
 
-List of `mse` language websites only. Please contact me personally to get entire data related.
+List of `mse` language websites only. 
 
-Total size: 25.6 MB
+Total index size: 25.6 MB
+
+Total website size: ~7.0 GB
+
+**Please contact me personally to get entire data related**.
 
 ## [Crawl](crawl)
 
