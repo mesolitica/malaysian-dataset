@@ -79,6 +79,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Question-Answer](#question-answer)
     * [General](#general)
     * [SQUAD](#squad)
+    * [Natural Questions](#Natural-Questions)
   * [Normalization](#normalization)
     * [Normalize](#normalize)
     * [Stemmer](#stemmer)
@@ -1478,11 +1479,19 @@ Total size: 2.5 MB
 
 #### [SQUAD](question-answer/squad)
 
+Total size: 129.1MB
+
 **Translating still in progress**.
 
-Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/)
+Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/).
 
 Allow to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+#### [Natural Questions](question-answer/natural-questions)
+
+Total size: 8MB
+
+Originally from [Natural Questions](https://ai.google.com/research/NaturalQuestions/).
 
 ## [Normalization](normalization)
 
