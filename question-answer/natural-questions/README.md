@@ -8,6 +8,6 @@ Question <> Answer
 
 ```
 
-1. download train set here,
+1. download train set here, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/qa/natural/translated-train.json
 
 2. download validation set here, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/qa/natural/translated-validation.json
