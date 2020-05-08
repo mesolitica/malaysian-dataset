@@ -13,7 +13,7 @@
 
 **We will keep update this repository overtime**.
 
-## How we gather these corpus?
+## How we gather dataset?
 
 1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/misc/crawl).
 2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/misc/translator).
