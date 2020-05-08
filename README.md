@@ -9,15 +9,17 @@
 
 ---
 
-**Malaya-Dataset**, We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya) and [Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow). We will keep update this repository overtime.
+**Malaya-Dataset**, We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya) and [Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow). 
+
+**We will keep update this repository overtime**.
 
 ## How we gather these corpus?
 
-1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/crawl)
-2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/translator)
+1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/misc/crawl).
+2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/misc/translator).
 3. Using social media, we catch most of live data from Twitter, Facebook and Instagram using crawlers, So we just search using Elasticsearch query.
 4. For speech, we recorded using wired microphone attached to Macbook Air 2013 while read some random texts from bahasa wikipedia.
-5. We pay some linguists.
+5. We pay some linguists to supervised.
 6. Lexicon -> weak learning from translated -> confident learning -> 5 iterations from humans.
 
 ## Acknowledgement
@@ -27,26 +29,6 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 <img alt="logo" width="50%" src="https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/ligblou-mesolitca-keyreply.png">
 
 ## Table of contents
-  * [Dictionary](#dictionary)
-    * [73k English-Malay](#73k-english-malay)
-    * [200k English-Malay](#200k-english-malay)
-    * [90k synonym](#90k-synonym)
-    * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
-    * [Dialect](#dialect)
-    * [Ngrams](#ngrams)
-  * [Lexicon](#lexicon)
-    * [Sentiment](#sentiment)
-    * [Emotion](#emotion)
-  * [Tagging](#tagging)
-    * [Dependency](#dependency)
-    * [Part-of-Speech](#part-of-speech)
-    * [Entities](#entities-json)
-  * [Sentiment](#sentiment-1)
-    * [Local News](#local-news)
-    * [Twitter](#twitter)
-    * [Translated Twitter](#Translated-Twitter)
-    * [Translated Multidomain](#Translated-Multidomain)
-    * [Translated Polarity](#Translated-Polarity)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Translated Emotion](#Translated-Emotion)
@@ -62,30 +44,20 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Subjectivity](#subjectivity)
     * [Toxicity-small](#toxicity-small)
     * [Toxicity-large](#toxicity-large)
-  * [News](#news)
-    * [Fake News](#fake-news)
-    * [Crawled News](#crawled-news)
-    * [30k News](#30k-news)
-    * [Articles](#articles)
-    * [CNN](#cnn-news)
-  * [Speech](#speech)
-    * [Tolong sebut](#tolong-sebut)
-    * [Wikipedia](#wikipedia)
-    * [Manglish](#manglish)
-  * [Optical Character Recognition](#optical-character-recognition)
-    * [Malay-to-Jawi](#malay-to-jawi)
-    * [Malay handwriting (Satisfy-Regular)](#malay-handwriting-satisfy-regular)
-  * [English-Malay translation](#english-malay-translation)
-  * [Question-Answer](#question-answer)
-    * [General](#general)
-    * [SQUAD](#squad)
-    * [Natural Questions](#Natural-Questions)
-  * [Normalization](#normalization)
-    * [Normalize](#normalize)
-    * [Stemmer](#stemmer)
-  * [Text-similarity](#text-similarity)
-    * [Quora](#quora)
-    * [SNLI](#snli)
+  * [Crawl](#crawl)
+    * [Foodpanda](#foodpanda)
+    * [Klook](#klook)
+    * [IIUM-Confession](#iium-confession)
+    * [Wattpad](#wattpad)
+    * [Academia PDF](#academia-pdf)
+    * [ticket2u](#ticket2u)
+  * [Dictionary](#dictionary)
+    * [73k English-Malay](#73k-english-malay)
+    * [200k English-Malay](#200k-english-malay)
+    * [90k synonym](#90k-synonym)
+    * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
+    * [Dialect](#dialect)
+    * [Ngrams](#ngrams)
   * [Dumping](#dumping)
     * [Karangan sekolah](#karangan-sekolah)
     * [Wikipedia](#wikipedia-1)
@@ -96,159 +68,48 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Singlish text](#singlish-text)
     * [Singapore news](#singapore-news)
     * [Subtitle](#subtitle)
-  * [Crawl](#crawl)
-    * [Foodpanda](#foodpanda)
-    * [Klook](#klook)
-    * [IIUM-Confession](#iium-confession)
-    * [Wattpad](#wattpad)
-    * [Academia PDF](#academia-pdf)
-    * [ticket2u](#ticket2u)
+  * [English-Malay translation](#english-malay-translation)
+  * [Lexicon](#lexicon)
+    * [Sentiment](#sentiment)
+    * [Emotion](#emotion)
+  * [News](#news)
+    * [Fake News](#fake-news)
+    * [Crawled News](#crawled-news)
+    * [30k News](#30k-news)
+    * [Articles](#articles)
+  * [Normalization](#normalization)
+    * [Normalize](#normalize)
+    * [Stemmer](#stemmer)
+  * [Optical Character Recognition](#optical-character-recognition)
+    * [Malay-to-Jawi](#malay-to-jawi)
+    * [Malay handwriting (Satisfy-Regular)](#malay-handwriting-satisfy-regular)
+  * [Question-Answer](#question-answer)
+    * [General](#general)
+    * [SQUAD](#squad)
+    * [Natural Questions](#Natural-Questions)
+  * [Sentiment](#sentiment-1)
+    * [Local News](#local-news)
+    * [Twitter](#twitter)
+    * [Translated Twitter](#Translated-Twitter)
+    * [Translated Multidomain](#Translated-Multidomain)
+    * [Translated Polarity](#Translated-Polarity)
+  * [Speech](#speech)
+    * [Tolong sebut](#tolong-sebut)
+    * [Wikipedia](#wikipedia)
+    * [Manglish](#manglish)
+  * [Summarization](#summarization)
+    * [CNN News](#cnn-news)
+    * [Gigawords](#gigawords)
+  * [Tagging](#tagging)
+    * [Dependency](#dependency)
+    * [Part-of-Speech](#part-of-speech)
+    * [Entities](#entities-json)
+  * [Text-similarity](#text-similarity)
+    * [Quora](#quora)
+    * [SNLI](#snli)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
-
-## [Dictionary](dictionary)
-
-**_Not an official released from Dewan Bahasa._**
-
-#### 73k English-Malay
-
-Total size: 1.1 MB
-
-Originally posted by Facebook, https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
-
-#### [200k English-Malay](dictionary/200k-english-malay)
-
-Total size: 6.9 MB
-
-#### [90k synonym](dictionary/synonym)
-
-Total size: 4.7 MB    
-
-#### [Dictionary, 24550 unique words](dictionary/dictionary)
-
-Total size: 428 KB
-
-#### [Dialect](dictionary/dialect)
-
-Glossaries for,
-
-1. johor
-2. kedah
-3. kelantan
-4. negeri sembilan
-5. melaka
-6. pahang
-7. penang
-8. sukuan
-
-Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
-
-#### [Ngrams](dictionary/ngram)
-
-Total size: 92 MB
-
-Unigram and Bigram collected from news, structure,
-```python
-{'saya': 1000}
-```
-
-## [Lexicon](lexicon)
-
-Malaya provided lexicon generator to induce new lexicons, https://malaya.readthedocs.io/en/latest/Lexicon.html
-
-#### [sentiment](lexicon/sentiment.json)
-
-```python
-{'negative': ['str1','str2'], 'positive': ['str3','str4']}
-```
-
-#### [emotion](lexicon/emotion.json)
-
-```python
-{'anger': ['str1'], 'fear': ['str2'], 'joy': ['str3'], 'love': ['str4'], 'sadness': ['str5'], 'surprise': ['str6']}
-```
-
-## [Tagging](tagging)
-
-#### [Dependency](tagging/dependency)
-
-Total size: 24.1 MB
-
-#### [Part-of-Speech](tagging/part-of-speech)
-
-Total size: 3.1 MB
-
-1. ADJ - Adjective, kata sifat
-2. ADP - Adposition
-3. ADV - Adverb, kata keterangan
-4. ADX - Auxiliary verb, kata kerja tambahan
-5. CCONJ - Coordinating conjuction, kata hubung
-6. DET - Determiner, kata penentu
-7. NOUN - Noun, kata nama
-8. NUM - Number, nombor
-9. PART - Particle
-10. PRON - Pronoun, kata ganti
-11. PROPN - Proper noun, kata ganti nama khas
-12. SCONJ - Subordinating conjunction
-13. SYM - Symbol
-14. VERB - Verb, kata kerja
-15. X - Other
-
-Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
-
-#### [Entities, JSON](tagging/entities)
-
-Total size: 3.1 MB
-
-1. OTHER - Other
-2. law - law, regulation, related law documents, documents, etc
-3. location - location, place
-4. organization - organization, company, government, facilities, etc
-5. person - person, group of people, believes, etc
-6. quantity - numbers, quantity
-7. time - date, day, time, etc
-8. event - unique event happened, etc
-
-Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
-
-## [Sentiment](sentiment)
-
-#### [Local News](sentiment/news-sentiment)
-
-Total size: 496 KB
-
-1. Positive
-2. Negative
-
-#### [Twitter](sentiment/semi-supervised/twitter)
-
-Total size: 519.4 MB
-
-1. Positive, 1085719 sentences
-2. Negative, 3463771 sentences
-
-#### [Translated Twitter](sentiment/translate/twitter-sentiment)
-
-Total size: 50.6 MB
-
-1. Positive
-2. Negative
-
-#### [Translated Multidomain](sentiment/translate/multidomain-sentiment)
-
-Total size: 159 KB
-
-1. Amazon review, Positive and Negative
-2. IMDB review, Positive and Negative
-3. Yelp review, Positive and Negative
-
-#### [Translated Polarity](sentiment/translate/polarity)
-
-Total size: 1.3 MB
-
-1. Positive
-2. Negative
 
 ## [Corpus](corpus)
 
@@ -880,6 +741,236 @@ Total size: 2 MB
 1. Kerajaan (BN)
 2. Pembangkang (PAS, DAP, PKR)
 
+## [Crawl](crawl)
+
+**This is crawled data, proceed with caution**.
+
+#### [Foodpanda](crawl/foodpanda)
+
+Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
+
+Contain location, restaurant name, star rating, characteristics, delivery methods and food descriptions.
+
+Total size: 94.1 MB
+
+#### [Klook](crawl/klook)
+
+Crawled up to 200 interesting locations from MY and SG klook.
+
+Total size: 10.3 MB
+
+#### [IIUM-Confession](crawl/iium-confession)
+
+Crawled up to 20k confession posts.
+
+Total size: 75.1 MB
+
+#### [Wattpad](crawl/wattpad)
+
+Crawled using keywords,
+
+1. melayu
+2. malaysia
+3. seram
+4. hantu
+5. puisi
+6. sajak
+7. cerita
+
+Crawled up to 7k fiction stories.
+
+Total size: 97 MB
+
+#### [Academia PDF](crawl/pdf)
+
+Crawled up to 224 pdfs related to,
+
+1. melayu
+2. sejarah
+3. etnik
+4. bahasa
+5. politik
+6. makanan
+7. idealogi
+
+Total size: 50 MB
+
+#### [ticket2u](crawl/ticket2u)
+
+Contains 4282 events in Malaysia from 2017,
+
+```python
+{'row': {'rownum': '4282',
+  'rowtotal': '4282',
+  'rowpp': '18',
+  'link': 'https://www.ticket2u.com.my/event/10223/emi-business-networking-3.0',
+  'time': '4:00PM',
+  'avatar': 'https://www.ticket2u.com.my/upload/event/listing/0-10223-8ce30523-200c-4bfa-98a9-daadd142989b-GYQ6_X.jpg',
+  'datefrom106': '26 Oct 2017',
+  'dateto106': '26 Oct 2017',
+  'day': 'Thursday',
+  'date': '26',
+  'month': 'Oct',
+  'year': '2017',
+  'datefrom': '2017-10-26T16:00:00',
+  'dateto': '2017-10-26T19:00:00',
+  'active': '1',
+  'id': '10223',
+  'name': 'EMI Business Networking 3.0',
+  'titlename': 'EMI Business Networking 3.0',
+  'excerpt': '',
+  'pid': '0',
+  'basecurrency': 'RM',
+  'online': '0',
+  'countryid': '1',
+  'stateid': '1',
+  'areaid': '0',
+  'locname': 'Denai Alam Recreational and Riding Club',
+  'statename': 'WP Kuala Lumpur',
+  'latitude': '3.150970999999999',
+  'type': '619',
+  'regboo': '0',
+  'pricefrom': '75.00',
+  'longitude': '101.51955099999998',
+  'eventcat': 'Business Sharing and Networking Event',
+  'eventcatcode': 'business',
+  'eventsubcat': 'Networking',
+  'eventsubcatcode': 'networking',
+  'showdate': '1',
+  'exclusive': '0',
+  'notexclusive': '0',
+  'issaleend': '1',
+  'status': 'expired'}}
+```
+
+## [Dictionary](dictionary)
+
+**_Not an official released from Dewan Bahasa._**
+
+#### 73k English-Malay
+
+Total size: 1.1 MB
+
+Originally posted by Facebook, https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
+
+#### [200k English-Malay](dictionary/200k-english-malay)
+
+Total size: 6.9 MB
+
+#### [90k synonym](dictionary/synonym)
+
+Total size: 4.7 MB    
+
+#### [Dictionary, 24550 unique words](dictionary/dictionary)
+
+Total size: 428 KB
+
+#### [Dialect](dictionary/dialect)
+
+Glossaries for,
+
+1. johor
+2. kedah
+3. kelantan
+4. negeri sembilan
+5. melaka
+6. pahang
+7. penang
+8. sukuan
+
+Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
+
+#### [Ngrams](dictionary/ngram)
+
+Total size: 92 MB
+
+Unigram and Bigram collected from news, structure,
+```python
+{'saya': 1000}
+```
+
+## [Dumping](dumping)
+
+#### [Karangan sekolah](dumping/karangan-sekolah)
+
+Total size: 221 KB
+
+#### Wikipedia
+
+Total size: 240.2 MB, 1663373 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-6-july-2019.json).
+
+Total size: 255.1 MB, 1303844 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-20-july-2019.json).
+
+**RAW**, Total size: 243.2 MB, 1748387 sentences, [download link](https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/wikidump1-raw.json)
+
+#### Instagram
+
+Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
+
+#### [Twitter](dumping/twitter)
+
+Total size: 2955.2 MB
+
+#### Public news
+
+Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
+
+#### Parliament
+
+Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
+
+#### Singlish text
+
+Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
+
+Random crawled from different singaporean websites and blogs.
+
+Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/singlish.txt).
+
+Contributed by [brytjy](https://github.com/brytjy).
+
+#### Singapore news
+
+Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
+
+Contributed by [brytjy](https://github.com/brytjy).
+
+#### [Subtitle](dumping/subtitle)
+
+Total size: 1.5 MB
+
+#### [Common-crawl](dumping/common-crawl)
+
+List of `mse` language websites only. 
+
+Total index size: 25.6 MB
+
+Total website size: ~7.0 GB
+
+**Please contact me personally to get entire data related**.
+
+## [English-Malay translation](english-malay)
+
+**Output from Google Translate.**
+
+Total size: 91.2 MB
+
+## [Lexicon](lexicon)
+
+Malaya provided lexicon generator to induce new lexicons, https://malaya.readthedocs.io/en/latest/Lexicon.html
+
+#### [sentiment](lexicon/sentiment.json)
+
+```python
+{'negative': ['str1','str2'], 'positive': ['str3','str4']}
+```
+
+#### [emotion](lexicon/emotion.json)
+
+```python
+{'anger': ['str1'], 'fear': ['str2'], 'joy': ['str3'], 'love': ['str4'], 'sadness': ['str5'], 'surprise': ['str6']}
+```
+
 ## [News](news)
 
 #### [Fake News](news/fake-news)
@@ -1403,37 +1494,18 @@ Total size: 3.1 MB
 4. Pendidikan
 5. Sekolah
 
-#### [CNN News](news/cnn-news)
+## [Normalization](normalization)
 
-Consist of body and summarization.
+#### [Normalize](normalization/normalize)
 
-Originally from [Question Answering Corpus](https://github.com/deepmind/rc-data), had permission to translate dataset to another language.
+Total size: 2.6 MB
 
-Total size: 453 MB
+#### [Stemmer](normalization/stemmer)
 
-## [Speech](speech)
+Total size: 6.5 MB
 
-#### Tolong sebut
-
-Total size: 276 MB
-
-**Voices contributed by**,
-
-1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
-2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/)
-3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/)
-
-#### Wikipedia
-
-Total size: 1.08 GB
-
-**Voices contributed by**,
-
-1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
-
-#### Manglish
-
-Total size: 1.9 GB
+1. News stemming
+2. Wikipedia stemming
 
 ## [Optical Character Recognition](ocr)
 
@@ -1452,12 +1524,6 @@ Total size: 194.4 MB
 Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png).
 
 ![alt text](ocr/syarif.png)
-
-## [English-Malay translation](english-malay)
-
-**Output from Google Translate.**
-
-Total size: 91.2 MB
 
 ## [Question-Answer](question-answer)
 
@@ -1493,18 +1559,126 @@ Total size: 8MB
 
 Originally from [Natural Questions](https://ai.google.com/research/NaturalQuestions/).
 
-## [Normalization](normalization)
+## [Sentiment](sentiment)
 
-#### [Normalize](normalization/normalize)
+#### [Local News](sentiment/news-sentiment)
 
-Total size: 2.6 MB
+Total size: 496 KB
 
-#### [Stemmer](normalization/stemmer)
+1. Positive
+2. Negative
 
-Total size: 6.5 MB
+#### [Twitter](sentiment/semi-supervised/twitter)
 
-1. News stemming
-2. Wikipedia stemming
+Total size: 519.4 MB
+
+1. Positive, 1085719 sentences
+2. Negative, 3463771 sentences
+
+#### [Translated Twitter](sentiment/translate/twitter-sentiment)
+
+Total size: 50.6 MB
+
+1. Positive
+2. Negative
+
+#### [Translated Multidomain](sentiment/translate/multidomain-sentiment)
+
+Total size: 159 KB
+
+1. Amazon review, Positive and Negative
+2. IMDB review, Positive and Negative
+3. Yelp review, Positive and Negative
+
+#### [Translated Polarity](sentiment/translate/polarity)
+
+Total size: 1.3 MB
+
+1. Positive
+2. Negative
+
+## [Speech](speech)
+
+#### [Tolong sebut](speech/sebut-perkataan)
+
+Total size: 276 MB
+
+**Voices contributed by**,
+
+1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
+2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/)
+3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/)
+
+#### [Wikipedia](speech/wikipedia)
+
+Total size: 1.08 GB
+
+**Voices contributed by**,
+
+1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
+
+#### [Manglish](speech/manglish)
+
+Total size: 1.9 GB
+
+## [Summarization](summarization)
+
+#### [CNN News](summarization/cnn-news)
+
+Consist of long news and summary of it.
+
+Originally from [Question Answering Corpus](https://github.com/deepmind/rc-data), had permission to translate dataset to another language.
+
+Total size: 453 MB
+
+#### [Gigawords](summarization/gigawords)
+
+Consist of long texts and summary of it.
+
+Total size: 25.5 MB
+
+## [Tagging](tagging)
+
+#### [Dependency](tagging/dependency)
+
+Total size: 24.1 MB
+
+#### [Part-of-Speech](tagging/part-of-speech)
+
+Total size: 3.1 MB
+
+1. ADJ - Adjective, kata sifat
+2. ADP - Adposition
+3. ADV - Adverb, kata keterangan
+4. ADX - Auxiliary verb, kata kerja tambahan
+5. CCONJ - Coordinating conjuction, kata hubung
+6. DET - Determiner, kata penentu
+7. NOUN - Noun, kata nama
+8. NUM - Number, nombor
+9. PART - Particle
+10. PRON - Pronoun, kata ganti
+11. PROPN - Proper noun, kata ganti nama khas
+12. SCONJ - Subordinating conjunction
+13. SYM - Symbol
+14. VERB - Verb, kata kerja
+15. X - Other
+
+Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
+
+#### [Entities, JSON](tagging/entities)
+
+Total size: 3.1 MB
+
+1. OTHER - Other
+2. law - law, regulation, related law documents, documents, etc
+3. location - location, place
+4. organization - organization, company, government, facilities, etc
+5. person - person, group of people, believes, etc
+6. quantity - numbers, quantity
+7. time - date, day, time, etc
+8. event - unique event happened, etc
+
+Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
 
 ## [Text similarity](text-similarity)
 
@@ -1519,168 +1693,6 @@ Total size: 60.8 MB
 Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
 
 Total size: 55 MB
-
-## [Dumping](dumping)
-
-#### [Karangan sekolah](dumping/karangan-sekolah)
-
-Total size: 221 KB
-
-#### Wikipedia
-
-Total size: 240.2 MB, 1663373 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-6-july-2019.json).
-
-Total size: 255.1 MB, 1303844 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-20-july-2019.json).
-
-**RAW**, Total size: 243.2 MB, 1748387 sentences, [download link](https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/wikidump1-raw.json)
-
-#### Instagram
-
-Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
-
-#### [Twitter](dumping/twitter)
-
-Total size: 2955.2 MB
-
-#### Public news
-
-Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
-
-#### Parliament
-
-Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
-
-#### Singlish text
-
-Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
-
-Random crawled from different singaporean websites and blogs.
-
-Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/singlish.txt).
-
-Contributed by [brytjy](https://github.com/brytjy).
-
-#### Singapore news
-
-Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
-
-Contributed by [brytjy](https://github.com/brytjy).
-
-#### [Subtitle](dumping/subtitle)
-
-Total size: 1.5 MB
-
-#### [Common-crawl](dumping/common-crawl)
-
-List of `mse` language websites only. 
-
-Total index size: 25.6 MB
-
-Total website size: ~7.0 GB
-
-**Please contact me personally to get entire data related**.
-
-## [Crawl](crawl)
-
-**This is crawled data, proceed with caution**.
-
-#### [Foodpanda](crawl/foodpanda)
-
-Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
-
-Contain location, restaurant name, star rating, characteristics, delivery methods and food descriptions.
-
-Total size: 94.1 MB
-
-#### [Klook](crawl/klook)
-
-Crawled up to 200 interesting locations from MY and SG klook.
-
-Total size: 10.3 MB
-
-#### [IIUM-Confession](crawl/iium-confession)
-
-Crawled up to 20k confession posts.
-
-Total size: 75.1 MB
-
-#### [Wattpad](crawl/wattpad)
-
-Crawled using keywords,
-
-1. melayu
-2. malaysia
-3. seram
-4. hantu
-5. puisi
-6. sajak
-7. cerita
-
-Crawled up to 7k fiction stories.
-
-Total size: 97 MB
-
-#### [Academia PDF](crawl/pdf)
-
-Crawled up to 224 pdfs related to,
-
-1. melayu
-2. sejarah
-3. etnik
-4. bahasa
-5. politik
-6. makanan
-7. idealogi
-
-Total size: 50 MB
-
-#### [ticket2u](crawl/ticket2u)
-
-Contains 4282 events in Malaysia from 2017,
-
-```python
-{'row': {'rownum': '4282',
-  'rowtotal': '4282',
-  'rowpp': '18',
-  'link': 'https://www.ticket2u.com.my/event/10223/emi-business-networking-3.0',
-  'time': '4:00PM',
-  'avatar': 'https://www.ticket2u.com.my/upload/event/listing/0-10223-8ce30523-200c-4bfa-98a9-daadd142989b-GYQ6_X.jpg',
-  'datefrom106': '26 Oct 2017',
-  'dateto106': '26 Oct 2017',
-  'day': 'Thursday',
-  'date': '26',
-  'month': 'Oct',
-  'year': '2017',
-  'datefrom': '2017-10-26T16:00:00',
-  'dateto': '2017-10-26T19:00:00',
-  'active': '1',
-  'id': '10223',
-  'name': 'EMI Business Networking 3.0',
-  'titlename': 'EMI Business Networking 3.0',
-  'excerpt': '',
-  'pid': '0',
-  'basecurrency': 'RM',
-  'online': '0',
-  'countryid': '1',
-  'stateid': '1',
-  'areaid': '0',
-  'locname': 'Denai Alam Recreational and Riding Club',
-  'statename': 'WP Kuala Lumpur',
-  'latitude': '3.150970999999999',
-  'type': '619',
-  'regboo': '0',
-  'pricefrom': '75.00',
-  'longitude': '101.51955099999998',
-  'eventcat': 'Business Sharing and Networking Event',
-  'eventcatcode': 'business',
-  'eventsubcat': 'Networking',
-  'eventsubcatcode': 'networking',
-  'showdate': '1',
-  'exclusive': '0',
-  'notexclusive': '0',
-  'issaleend': '1',
-  'status': 'expired'}}
-```
 
 ## Suggestion
 
