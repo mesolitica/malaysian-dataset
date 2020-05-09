@@ -1635,7 +1635,7 @@ Total size: 453 MB
 
 Consist of long texts and summary of it.
 
-Total size: 51 MB
+Total size: 102 MB
 
 ## [Tagging](tagging)
 
