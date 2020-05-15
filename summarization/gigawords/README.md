@@ -17,3 +17,4 @@
 15. part15, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/summary/gigawords/translated-1400000.json
 16. part16, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/summary/gigawords/translated-1500000.json
 17. part17, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/summary/gigawords/translated-1600000.json
+18. part18, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/summary/gigawords/translated-1700000.json

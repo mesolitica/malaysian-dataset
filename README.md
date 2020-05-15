@@ -100,6 +100,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
+    * [Multinews](#multinews)
   * [Tagging](#tagging)
     * [Dependency](#dependency)
     * [Part-of-Speech](#part-of-speech)
@@ -1761,7 +1762,13 @@ Total size: 453 MB
 
 Consist of long texts and summary of it.
 
-Total size: 425 MB
+Total size: 450 MB
+
+#### [Multinews](summarization/multinews)
+
+Consist of long news and summary of it.
+
+Total size: 10 MB
 
 ## [Tagging](tagging)
 
