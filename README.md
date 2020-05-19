@@ -9,7 +9,9 @@
 
 ---
 
-**Malaya-Dataset**, We gather Bahasa Malaysia corpus! This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya) and [Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow). 
+**Malay-Dataset**, We gather Bahasa Malaysia corpus! 
+
+This repository to store corpus for [Malaya](https://github.com/huseinzol05/Malaya) and [Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow). 
 
 **We will keep update this repository overtime**.
 
@@ -1016,598 +1018,711 @@ strings = [
 
 #### [Crawled News](news/news-new)
 
-Total size: 428.4 MB
+Total size: 523.2 MB
 
-<details><summary>Complete list (588 news)</summary>
+<details><summary>Complete list (701 news)</summary>
 
-1. angkat berat
-2. aplikasi malaysia
-3. aset digital
-4. berenang
-5. bina badan
-6. bola baling
-7. bola jaring
-8. bola keranjang
-9. boling padang
-10. gelandangan
-11. godam
-12. hoki padang
-13. isu 1mdb
-14. isu afghanistan
-15. isu afrika
-16. isu agama islam
-17. isu agama
-18. isu agensi kelayakan malaysia
-19. isu agensi nuklear malaysia
-20. isu agensi penguatkuasaan maritim malaysia
-21. isu ahli dewan undangan negeri
-22. isu airasia
-23. isu akta pilihan raya
-24. isu akuakultur malaysia
-25. isu alam sekitar
-26. isu amerika
-27. isu anggota ambulans
-28. isu anggota bomba
-29. isu anggota polis
-30. isu angkatan tentera laut
-31. isu angkatan tentera malaysia
-32. isu angkatan tentera udara
-33. isu anthony loke siew fook
-34. isu anwar ibrahim
-35. isu apple
-36. isu arab
-37. isu argentina
-38. isu ariff md yusof
-39. isu arul kanda
-40. isu asean football organization
-41. isu ask me a question
-42. isu australia
-43. isu axiata
-44. isu bahagian hal ehwal undang-undang
-45. isu bahagian kabinet perlembangan perhubungan antara kerajaan
-46. isu bahagian kemajuan wilayah persekutuan perancangan lembah klang
-47. isu bahagian keselamatan negara
-48. isu bahagian pengurusan hartanah
-49. isu bahagian pengurusan perkhidmatan sumber manusia
-50. isu bahagian penyelidikan
-51. isu bahasa pengaturcaraan
-52. isu baling botol
-53. isu bangladesh
-54. isu bank kerjasama rakyat malaysia
-55. isu bank malaysia
-56. isu bank negara
-57. isu bank pertanian
-58. isu barisan nasional
-59. isu bebas tahanan
-60. isu berjaya group
-61. isu bernama
-62. isu bersatu
-63. isu bintulu airport
-64. isu biro bantuan guaman
-65. isu biro pengaduan awam
-66. isu biro tatanegara
-67. isu blackpink
-68. isu bmw
-69. isu bola sepak
-70. isu boling
-71. isu brazil
-72. isu brunei
-73. isu bumiputera
-74. isu bung mokhtar
-75. isu bursa malaysia
-76. isu cambodia
-77. isu cambridge analytica
-78. isu celcom
-79. isu chinese new year
-80. isu cimb
-81. isu colombia
-82. isu costa Rica
-83. isu counter strike global-offensive
-84. isu covid
-85. isu cukai
-86. isu dato vida
-87. isu datuk johari abdul
-88. isu datuk seri abdul hadi awang
-89. isu datuk seri azmin ali
-90. isu deepavali
-91. isu democratic action party
-92. isu denmark
-93. isu dewan bahasa pustaka
-94. isu dewan bandaraya kuala lumpur
-95. isu dewan rakyat
-96. isu diabetes
-97. isu digi
-98. isu donald trump
-99. isu dota2
-100. isu e-sport
-101. isu ekonomi
-102. isu euro 2020
-103. isu facebook
-104. isu felcra
-105. isu felda
-106. isu fifa
-107. isu finland
-108. isu foodpanda
-109. isu futsal
-110. isu gaji median
-111. isu gaji menteri
-112. isu gaji minimum
-113. isu gamuda berhad
-114. isu ganja
-115. isu gejala sosial
-116. isu german
-117. isu gimnastik
-118. isu golf
-119. isu google
-120. isu grab
-121. isu grabfood
-122. isu gst
-123. isu halal
-124. isu harga minyak
-125. isu hari raya aidiladha
-126. isu hari raya aidilfitri
-127. isu harimau malaya
-128. isu hassan merican
-129. isu highway tol
-130. isu hockey
-131. isu honda
-132. isu hortikultur malaysia
-133. isu humanoid
-134. isu hutang negara
-135. isu ibm
-136. isu icerd
-137. isu idealogi
-138. isu ikatan relawan rakyat malaysia
-139. isu ikea
-140. isu india
-141. isu individu penjara
-142. isu indonesia
-143. isu industri 4.0
-144. isu infrastruktur
-145. isu inisiatif peduli rakyat
-146. isu insitut kanser negara
-147. isu instagram
-148. isu institut diplomasi hal ehwal luar negeri
-149. isu institut diraja
-150. isu institut jantung negara
-151. isu institut kefahaman islam malaysia
-152. isu institut latihan kehakiman perundangan
-153. isu institut pendidikan guru malaysia
-154. isu institut penyelidikan kemajuan pertanian malaysia
-155. isu institut penyelidikan teknologi nuklear malaysia
-156. isu institut tadbiran awam negara
-157. isu institut terjemahan negara malaysia
-158. isu internet
-159. isu iran
-160. isu iraq
-161. isu israel
-162. isu istana negara
-163. isu isu badminton
-164. isu isu bmf
-165. isu isu china
-166. isu isu dadah
-167. isu isu diesel
-168. isu isu ecrl
-169. isu isu gaza
-170. isu isu kemiskinan
-171. isu isu kerugian
-172. isu isu kuil
-173. isu isu lynas
-174. isu isu masjid
-175. isu isu palestin
-176. isu isu plastik
-177. isu isu rohingya
-178. isu isu saudi arabia
-179. isu isu singapura
-180. isu isu sosma
-181. isu isu syria
-182. isu isu tanah
-183. isu isu tiket
-184. isu isu wanita
-185. isu isu yaman
-186. isu isytihar darurat
-187. isu itali
-188. isu jabatan agama islam wilayah persekutuan
-189. isu jabatan audit negara malaysia
-190. isu jabatan bekalan air
-191. isu jabatan bomba penyelamat malaysia
-192. isu jabatan bubar
-193. isu jabatan imigresen malaysia
-194. isu jabatan kebajikan masyarakat malaysia
-195. isu jabatan kemajuan islam (jakim) department of islamic development
-196. isu jabatan kerajaan tempatan
-197. isu jabatan kerja raya malaysia
-198. isu jabatan keselamatan jalan raya
-199. isu jabatan kimia malaysia
-200. isu jabatan landskap negara
-201. isu jabatan laut malaysia
-202. isu jabatan meteorologi malaysia
-203. isu jabatan parlimen malaysia
-204. isu jabatan peguam negara
-205. isu jabatan pelancongan malaysia
-206. isu jabatan pendaftaran negara malaysia
-207. isu jabatan penerangan malaysia
-208. isu jabatan penerbangan awam
-209. isu jabatan pengairan saliran
-210. isu jabatan pengangkutan jalan
-211. isu jabatan pengurusan sisa pepejal negara
-212. isu jabatan penjara malaysia
-213. isu jabatan perancangan bandar desa semenanjung malaysia
-214. isu jabatan perancangan bandar desa
-215. isu jabatan perdana menteri malaysia
-216. isu jabatan perikanan
-217. isu jabatan perkhidmatan awam malaysia
-218. isu jabatan perkhidmatan awam
-219. isu jabatan perkhidmatan pembetungan
-220. isu jabatan perkhidmatan veterinar
-221. isu jabatan perlindungan hidupan liar taman negara
-222. isu jabatan pertahanan awam malaysia
-223. isu jabatan pertanian malaysia
-224. isu jabatan perumahan negara
-225. isu jabatan tanah galian wilayah persekutuan
-226. isu jabatan tenaga kerja semenanjung malaysia
-227. isu jepun
-228. isu jho low
-229. isu jordan
-230. isu k-pop
-231. isu kadir jasin
-232. isu kapitalisme
-233. isu kaum cina
-234. isu kaum india
-235. isu kaum melayu
-236. isu kecerdasan buatan
-237. isu kecurian kereta
-238. isu kecurian motosikal
-239. isu kejora
-240. isu keluar parlimen
-241. isu keluar parti
-242. isu kemalangan maut
-243. isu kemalangan penumpang cedera
-244. isu kematian wabak
-245. isu kementerian dalam negeri malaysia
-246. isu kementerian kerja raya malaysia
-247. isu kementerian kesihatan malaysia
-248. isu kementerian kewangan malaysia
-249. isu kementerian komunikasi multimedia malaysia
-250. isu kementerian luar negeri malaysia
-251. isu kementerian pelancongan kebudayaan malaysia
-252. isu kementerian pembangunan luar bandar
-253. isu kementerian pembangunan wanita keluarga masyarakat malaysia
-254. isu kementerian pendidikan malaysia
-255. isu kementerian pengangkutan malaysia
-256. isu kementerian perdagangan antarabangsa industri
-257. isu kementerian perdagangan dalam negeri hal ehwal pengguna malaysia
-258. isu kementerian pertahanan malaysia
-259. isu kementerian pertanian industri asas tani
-260. isu kementerian perumahan kerajaan tempatan malaysia
-261. isu kementerian perusahaan perladangan komoditi
-262. isu kementerian sains teknologi inovasi malaysia
-263. isu kementerian sumber asli alam sekitar malaysia
-264. isu kementerian sumber manusia malaysia
-265. isu kementerian tenaga teknologi hijau air malaysia
-266. isu kementerian wilayah persekutuan malaysia
-267. isu kertas undi
-268. isu kes bawah umur
-269. isu kes buang bayi
-270. isu kes cabul
-271. isu kes lemas
-272. isu kes luar nikah
-273. isu kes pecah rumah
-274. isu kes ragut
-275. isu kes rasuah
-276. isu kes rogol
-277. isu kes rompakan
-278. isu kes tangkap basah
-279. isu kesihatan
-280. isu kewangan dan perniagaan
-281. isu kfc
-282. isu khazanah
-283. isu klinik 1malaysia
-284. isu kokain
-285. isu korea selatan
-286. isu korea utara
-287. isu kos sara hidup
-288. isu kota kinabalu airport
-289. isu kotak undi
-290. isu ks jomo
-291. isu kuala lumpur international airport
-292. isu kuching airport
-293. isu kumpulan pengganas asing
-294. isu kumpulan pengganas tempatan
-295. isu kuota haji
-296. isu kwsp
-297. isu labuan airport
-298. isu lahad datu airport
-299. isu langkawi airport
-300. isu laos
-301. isu lazada sells
-302. isu lembaga jurutera malaysia
-303. isu lembaga kemajuan ikan malaysia
-304. isu lembaga kemajuan pertanian kemubu
-305. isu lembaga kemajuan pertanian muda
-306. isu lembaga lebuhraya malaysia
-307. isu lembaga minyak sawit malaysia
-308. isu lembaga pelabuhan johor
-309. isu lembaga pelabuhan klang
-310. isu lembaga pelabuhan kuantan
-311. isu lembaga pelabuhan pulau pinang
-312. isu lembaga pemasaran pertanian persekutuan
-313. isu lembaga pembangunan industri pembinaan
-314. isu lembaga pembangunan pelaburan malaysia
-315. isu lembaga penapisan filem
-316. isu lembaga perindustrian nanas malaysia
-317. isu lembaga pertubuhan peladang
-318. isu lembaga tabung haji
-319. isu letupan bom
-320. isu lgbt
-321. isu lhdn
-322. isu liberalisme
-323. isu mahathir
-324. isu mahkamah persekutuan
-325. isu mahkamah syariah wilayah persekutuan
-326. isu majlis agama islam wilayah persekutuan
-327. isu majlis pakatan harapan
-328. isu majlis penasihat
-329. isu majlis tindakan ekonomik negara
-330. isu makanan malaysia
-331. isu makro-ekonomi
-332. isu maktab koperasi malaysia
-333. isu maktab rendah sains mara
-334. isu malacca airport
-335. isu malaysia airlines
-336. isu malaysia airport
-337. isu malaysia baru
-338. isu malaysia-indonesia
-339. isu malaysian green technology corporation
-340. isu masalah air
-341. isu masjid negara
-342. isu masyarakat
-343. isu mati dipukul
-344. isu maybank
-345. isu mca
-346. isu mcdonald
-347. isu media prima
-348. isu menteri belia dan sukan
-349. isu menteri besar johor
-350. isu menteri besar kedah
-351. isu menteri besar kelantan
-352. isu menteri besar negeri sembilan
-353. isu menteri besar perak
-354. isu menteri besar perlis
-355. isu menteri besar selangor
-356. isu menteri besar terengganu
-357. isu menteri dalam negeri
-358. isu menteri kewangan
-359. isu menteri pertahanan
-360. isu menyiasat skandal
-361. isu mercedes
-362. isu mesir
-363. isu mexico
-364. isu mh370
-365. isu mic
-366. isu microsoft
-367. isu mikro-ekonomi
-368. isu minyak
-369. isu miri airport
-370. isu motogp
-371. isu mrsm
-372. isu musim durian
-373. isu myanmar
-374. isu mydin
-375. isu najib razak
-376. isu nasa
-377. isu nepal
-378. isu new zealand
-379. isu nilai ringgit jatuh
-380. isu nurul izzah
-381. isu orang asli
-382. isu paedophilia
-383. isu pakatan harapan
-384. isu pakistan
-385. isu palestin
-386. isu parlimen
-387. isu parti amanah
-388. isu parti islam semalaysia
-389. isu parti keadilan rakyat
-390. isu parti pribumi bersatu malaysia
-391. isu pasaran saham malaysia
-392. isu pdrm
-393. isu pejabat ketua pegawai keselamatan kerajaan malaysia
-394. isu pejabat ketua setiausaha negara
-395. isu pejabat perdana menteri
-396. isu pejabat setiausaha persekutuan sabah
-397. isu pejabat setiausaha persekutuan sarawak
-398. isu pelancongan malaysia
-399. isu pemilihan agong
-400. isu penang airport
-401. isu penasihat sains
-402. isu pendapatan negara
-403. isu pendidikan
-404. isu pengangkutan awam
-405. isu pengedar dadah
-406. isu perabot
-407. isu perancis
-408. isu perbadanan harta intelek malaysia
-409. isu perbadanan labuan
-410. isu perbadanan nasional berhad
-411. isu perbadanan pengurusan sisa pepejal pembersihan awam
-412. isu perbadanan putrajaya
-413. isu perbadanan tabung pendidikan tinggi nasional
-414. isu perbendaharaan malaysia
-415. isu perdana menteri
-416. isu perkahwinan kanak-kanak
-417. isu perkasa
-418. isu perkhidmatan am persekutuan
-419. isu perkhidmatan awam
-420. isu perkhidmatan kehakiman
-421. isu perlembagaan malaysia
-422. isu perodua
-423. isu perpustakaan kuala lumpur
-424. isu pertanian durian
-425. isu pertanian getah
-426. isu pertanian kelapa sawit
-427. isu pertanian malaysia
-428. isu pertanian nenas
-429. isu pertanian padi
-430. isu pertanian pisang
-431. isu petrol
-432. isu petronas
-433. isu pewdiepie
-434. isu piala thomas
-435. isu pilihan raya kecil
-436. isu pilihan raya umum
-437. isu ping pong
-438. isu plus
-439. isu polis diraja malaysia
-440. isu portugal
-441. isu pos laju
-442. isu pos malaysia
-443. isu ppbm
-444. isu prasarana
-445. isu privasi
-446. isu produk berbahaya
-447. isu program latihan khidmat negara
-448. isu projek mega
-449. isu ptptn
-450. isu pusat daerah mangundi
-451. isu pusat sains negara
-452. isu pusat transformasi bandar
-453. isu racist
-454. isu radio televisyen malaysia
-455. isu rafizi ramli
-456. isu rais yatim
-457. isu reformasi
-458. isu rhb
-459. isu risda
-460. isu robert kuok
-461. isu rohingya
-462. isu rosmah mansur
-463. isu royalti minyak
-464. isu rumah mampu milik
-465. isu rusia
-466. isu sabotaj parti
-467. isu saham dan komoditi
-468. isu sahur
-469. isu sandakan airport
-470. isu saudi
-471. isu sekolah
-472. isu sepak takraw
-473. isu shafie apdal
-474. isu shopee sells
-475. isu sibu airport
-476. isu sime darby
-477. isu sirim
-478. isu skim peduli sihat
-479. isu sosco
-480. isu sosial media
-481. isu sosial
-482. isu ssm
-483. isu sst
-484. isu starbucks
-485. isu subsidi kerajaan
-486. isu sultan abdul halim airport
-487. isu sultan azlan shah airport
-488. isu sultan haji ahmad shah airport
-489. isu sultan ismail petra airport
-490. isu sultan johor
-491. isu sultan kedah
-492. isu sultan kelantan
-493. isu sultan mahmud airport
-494. isu sultan negeri sembilan
-495. isu sultan perlis
-496. isu sultan selangor
-497. isu sultan terengganu
-498. isu sumber asli
-499. isu sunway
-500. isu suruhanjaya komunikasi multimedia malaysia
-501. isu suruhanjaya koperasi malaysia
-502. isu suruhanjaya pencegahan rasuah malaysia
-503. isu suruhanjaya pengankutan awam darat
-504. isu suruhanjaya perdagangan komoditi
-505. isu suruhanjaya perkhidmatan air negara
-506. isu suruhanjaya perkhidmatan awam
-507. isu suruhanjaya perkhidmatan pendidikan
-508. isu suruhanjaya persaingan malaysia
-509. isu suruhanjaya pilihan raya malaysia
-510. isu suruhanjaya pilihan raya
-511. isu suruhanjaya syarikat malaysia
-512. isu suruhanjaya tenaga
-513. isu survei institut darul ehsan
-514. isu sweden
-515. isu syarikat permulaan
-516. isu syarikat
-517. isu syed saddiq
-518. isu syria
-519. isu tabung ekonomi kumpulan usaha niaga
-520. isu tabung haji
-521. isu tabung harapan
-522. isu taekwondo
-523. isu tan sri dr rais yatim
-524. isu tan sri mokhzani mahathir
-525. isu tawau airport
-526. isu teknologi
-527. isu telefon
-528. isu telekom malaysia
-529. isu tengku razaleigh hamzah
-530. isu tenis
-531. isu tentera darat malaysia
-532. isu tentera laut diraja malaysia
-533. isu tentera malaysia
-534. isu tentera udara diraja malaysia
-535. isu thai cave
-536. isu tiga penjuru
-537. isu timbalan perdana menteri
-538. isu tioman airport
-539. isu toyota
-540. isu tribunal perkhidmatan awam
-541. isu tribunal perumahan pengurusan strata
-542. isu tsunami fitnah
-543. isu tsunami
-544. isu tun daim zainuddin
-545. isu tunku ismail idris
-546. isu turki
-547. isu twitter
-548. isu u mobile
-549. isu uem
-550. isu umno
-551. isu undi pos
-552. isu undi rosak
-553. isu unifi
-554. isu unit khas teknologi tinggi
-555. isu unit pemodenan tadbiran perancangan pengurusan malaysia
-556. isu unit penyelarasan pelaksanaan
-557. isu unit perancang ekonomi
-558. isu united kingdom
-559. isu universiti
-560. isu valve corporation
-561. isu vietnam
-562. isu wan azizah
-563. isu world cup
-564. isu yaman
-565. isu yang di-pertuan agong
-566. isu yayasan hijau malaysia
-567. isu youtube rewind
-568. isu youtube
-569. isu ytl
-570. isu zakir naik
-571. isu zeti aziz
-572. kecerdasan buatan
-573. lumba basikal
-574. makanan segera
-575. mata wang digital
-576. mata wang malaysia
-577. memanah
-578. menembak
-579. nasional berhad
-580. olahraga
-581. parti bersatu
-582. pengaturcaraan
-583. perahu layar
-584. ragbi
-585. silat
-586. sukan elektronik
-587. tenaga nasional
-588. tinju
+1. Perayaan Cahaya
+2. Perayaan Ponggal
+3. Tahun Baru Hindu
+4. angkat berat
+5. anjing
+6. antarabangsa
+7. aplikasi malaysia
+8. arnab
+9. aset digital
+10. babi
+11. baca buku
+12. badak sumbu
+13. banjir
+14. berenang
+15. bina badan
+16. bola baling
+17. bola jaring
+18. bola keranjang
+19. boling padang
+20. buaya
+21. bulan
+22. burung
+23. dakwah islam
+24. disinfeksi
+25. dunia islam
+26. ekonomi islam
+27. gajah
+28. galaksi
+29. gelandangan
+30. godam
+31. hari krismas
+32. harimau
+33. hoki padang
+34. hujan
+35. ikan
+36. islam nusantara
+37. isu 1mdb
+38. isu Suku Bagahak
+39. isu Suku Bajau
+40. isu Suku Brunei
+41. isu Suku Iban
+42. isu Suku Idahan
+43. isu Suku Iranun
+44. isu Suku Kadazandusun
+45. isu Suku Lundayeh
+46. isu Suku Murut
+47. isu Suku Suluk
+48. isu Suku Tidong
+49. isu afghanistan
+50. isu afrika
+51. isu agama islam
+52. isu agama
+53. isu agensi kelayakan malaysia
+54. isu agensi nuklear malaysia
+55. isu agensi penguatkuasaan maritim malaysia
+56. isu ahli dewan undangan negeri
+57. isu airasia
+58. isu akta pilihan raya
+59. isu akuakultur malaysia
+60. isu alam sekitar
+61. isu amerika
+62. isu anggota ambulans
+63. isu anggota bomba
+64. isu anggota polis
+65. isu angkatan tentera laut
+66. isu angkatan tentera malaysia
+67. isu angkatan tentera udara
+68. isu anthony loke siew fook
+69. isu anwar ibrahim
+70. isu apple
+71. isu arab
+72. isu argentina
+73. isu ariff md yusof
+74. isu arul kanda
+75. isu asean football organization
+76. isu ask me a question
+77. isu australia
+78. isu axiata
+79. isu ayam penyet
+80. isu ayam
+81. isu baba dan nyonya
+82. isu bahagian hal ehwal undang-undang
+83. isu bahagian kabinet perlembangan perhubungan antara kerajaan
+84. isu bahagian kemajuan wilayah persekutuan perancangan lembah klang
+85. isu bahagian keselamatan negara
+86. isu bahagian pengurusan hartanah
+87. isu bahagian pengurusan perkhidmatan sumber manusia
+88. isu bahagian penyelidikan
+89. isu bahasa pengaturcaraan
+90. isu baling botol
+91. isu bangladesh
+92. isu bank kerjasama rakyat malaysia
+93. isu bank malaysia
+94. isu bank negara
+95. isu bank pertanian
+96. isu barisan nasional
+97. isu bebas tahanan
+98. isu berjaya group
+99. isu bernama
+100. isu bersatu
+101. isu bihun sup
+102. isu bintulu airport
+103. isu biro bantuan guaman
+104. isu biro pengaduan awam
+105. isu biro tatanegara
+106. isu blackpink
+107. isu bmw
+108. isu bola sepak
+109. isu boling
+110. isu brazil
+111. isu brunei
+112. isu bumi
+113. isu bumiputera
+114. isu bung mokhtar
+115. isu bursa malaysia
+116. isu cambodia
+117. isu cambridge analytica
+118. isu celcom
+119. isu chinese new year
+120. isu cikgu
+121. isu cimb
+122. isu colombia
+123. isu costa Rica
+124. isu counter strike global-offensive
+125. isu covid
+126. isu cukai
+127. isu daging
+128. isu dato vida
+129. isu datuk johari abdul
+130. isu datuk seri abdul hadi awang
+131. isu datuk seri azmin ali
+132. isu deepavali
+133. isu democratic action party
+134. isu denmark
+135. isu dewan bahasa pustaka
+136. isu dewan bandaraya kuala lumpur
+137. isu dewan rakyat
+138. isu diabetes
+139. isu digi
+140. isu doktor
+141. isu donald trump
+142. isu dota2
+143. isu e-sport
+144. isu ekonomi
+145. isu eropah
+146. isu euro 2020
+147. isu facebook
+148. isu felcra
+149. isu felda
+150. isu fifa
+151. isu finland
+152. isu foodpanda
+153. isu futsal
+154. isu gaji median
+155. isu gaji menteri
+156. isu gaji minimum
+157. isu gamuda berhad
+158. isu ganja
+159. isu gejala sosial
+160. isu german
+161. isu gimnastik
+162. isu golf
+163. isu google
+164. isu grab
+165. isu grabfood
+166. isu gst
+167. isu halal
+168. isu harga minyak
+169. isu hari raya aidiladha
+170. isu hari raya aidilfitri
+171. isu harimau malaya
+172. isu hassan merican
+173. isu highway tol
+174. isu hockey
+175. isu honda
+176. isu hortikultur malaysia
+177. isu humanoid
+178. isu hutang negara
+179. isu ibm
+180. isu icerd
+181. isu idealogi
+182. isu ikan
+183. isu ikatan relawan rakyat malaysia
+184. isu ikea
+185. isu india
+186. isu individu penjara
+187. isu indonesia
+188. isu industri 4.0
+189. isu infrastruktur
+190. isu inisiatif peduli rakyat
+191. isu insitut kanser negara
+192. isu instagram
+193. isu institut diplomasi hal ehwal luar negeri
+194. isu institut diraja
+195. isu institut jantung negara
+196. isu institut kefahaman islam malaysia
+197. isu institut latihan kehakiman perundangan
+198. isu institut pendidikan guru malaysia
+199. isu institut penyelidikan kemajuan pertanian malaysia
+200. isu institut penyelidikan teknologi nuklear malaysia
+201. isu institut tadbiran awam negara
+202. isu institut terjemahan negara malaysia
+203. isu internet
+204. isu iran
+205. isu iraq
+206. isu israel
+207. isu istana negara
+208. isu isu badminton
+209. isu isu bmf
+210. isu isu china
+211. isu isu dadah
+212. isu isu diesel
+213. isu isu ecrl
+214. isu isu gaza
+215. isu isu kemiskinan
+216. isu isu kerugian
+217. isu isu kuil
+218. isu isu lynas
+219. isu isu masjid
+220. isu isu palestin
+221. isu isu plastik
+222. isu isu rohingya
+223. isu isu saudi arabia
+224. isu isu singapura
+225. isu isu sosma
+226. isu isu syria
+227. isu isu tanah
+228. isu isu tiket
+229. isu isu wanita
+230. isu isu yaman
+231. isu isytihar darurat
+232. isu itali
+233. isu jabatan agama islam wilayah persekutuan
+234. isu jabatan audit negara malaysia
+235. isu jabatan bekalan air
+236. isu jabatan bomba penyelamat malaysia
+237. isu jabatan bubar
+238. isu jabatan imigresen malaysia
+239. isu jabatan kebajikan masyarakat malaysia
+240. isu jabatan kemajuan islam (jakim) department of islamic development
+241. isu jabatan kerajaan tempatan
+242. isu jabatan kerja raya malaysia
+243. isu jabatan keselamatan jalan raya
+244. isu jabatan kimia malaysia
+245. isu jabatan landskap negara
+246. isu jabatan laut malaysia
+247. isu jabatan meteorologi malaysia
+248. isu jabatan parlimen malaysia
+249. isu jabatan peguam negara
+250. isu jabatan pelancongan malaysia
+251. isu jabatan pendaftaran negara malaysia
+252. isu jabatan penerangan malaysia
+253. isu jabatan penerbangan awam
+254. isu jabatan pengairan saliran
+255. isu jabatan pengangkutan jalan
+256. isu jabatan pengurusan sisa pepejal negara
+257. isu jabatan penjara malaysia
+258. isu jabatan perancangan bandar desa semenanjung malaysia
+259. isu jabatan perancangan bandar desa
+260. isu jabatan perdana menteri malaysia
+261. isu jabatan perikanan
+262. isu jabatan perkhidmatan awam malaysia
+263. isu jabatan perkhidmatan awam
+264. isu jabatan perkhidmatan pembetungan
+265. isu jabatan perkhidmatan veterinar
+266. isu jabatan perlindungan hidupan liar taman negara
+267. isu jabatan pertahanan awam malaysia
+268. isu jabatan pertanian malaysia
+269. isu jabatan perumahan negara
+270. isu jabatan tanah galian wilayah persekutuan
+271. isu jabatan tenaga kerja semenanjung malaysia
+272. isu jepun
+273. isu jho low
+274. isu jordan
+275. isu k-pop
+276. isu kadir jasin
+277. isu kahwin
+278. isu kapitalisme
+279. isu kaum cina
+280. isu kaum india
+281. isu kaum melayu
+282. isu kecerdasan buatan
+283. isu kecurian kereta
+284. isu kecurian motosikal
+285. isu kejora
+286. isu keluar parlimen
+287. isu keluar parti
+288. isu kemalangan maut
+289. isu kemalangan penumpang cedera
+290. isu kematian wabak
+291. isu kementerian dalam negeri malaysia
+292. isu kementerian kerja raya malaysia
+293. isu kementerian kesihatan malaysia
+294. isu kementerian kewangan malaysia
+295. isu kementerian komunikasi multimedia malaysia
+296. isu kementerian luar negeri malaysia
+297. isu kementerian pelancongan kebudayaan malaysia
+298. isu kementerian pembangunan luar bandar
+299. isu kementerian pembangunan wanita keluarga masyarakat malaysia
+300. isu kementerian pendidikan malaysia
+301. isu kementerian pengangkutan malaysia
+302. isu kementerian perdagangan antarabangsa industri
+303. isu kementerian perdagangan dalam negeri hal ehwal pengguna malaysia
+304. isu kementerian pertahanan malaysia
+305. isu kementerian pertanian industri asas tani
+306. isu kementerian perumahan kerajaan tempatan malaysia
+307. isu kementerian perusahaan perladangan komoditi
+308. isu kementerian sains teknologi inovasi malaysia
+309. isu kementerian sumber asli alam sekitar malaysia
+310. isu kementerian sumber manusia malaysia
+311. isu kementerian tenaga teknologi hijau air malaysia
+312. isu kementerian wilayah persekutuan malaysia
+313. isu kereta
+314. isu kertas undi
+315. isu kes bawah umur
+316. isu kes buang bayi
+317. isu kes cabul
+318. isu kes lemas
+319. isu kes luar nikah
+320. isu kes pecah rumah
+321. isu kes ragut
+322. isu kes rasuah
+323. isu kes rogol
+324. isu kes rompakan
+325. isu kes tangkap basah
+326. isu kesihatan
+327. isu kewangan dan perniagaan
+328. isu kfc
+329. isu khazanah
+330. isu klinik 1malaysia
+331. isu kokain
+332. isu korea selatan
+333. isu korea utara
+334. isu kos sara hidup
+335. isu kota kinabalu airport
+336. isu kotak undi
+337. isu ks jomo
+338. isu kuala lumpur international airport
+339. isu kuching airport
+340. isu kumpulan pengganas asing
+341. isu kumpulan pengganas tempatan
+342. isu kuota haji
+343. isu kwsp
+344. isu labuan airport
+345. isu lahad datu airport
+346. isu laksa
+347. isu langkawi airport
+348. isu laos
+349. isu lazada sells
+350. isu lembaga jurutera malaysia
+351. isu lembaga kemajuan ikan malaysia
+352. isu lembaga kemajuan pertanian kemubu
+353. isu lembaga kemajuan pertanian muda
+354. isu lembaga lebuhraya malaysia
+355. isu lembaga minyak sawit malaysia
+356. isu lembaga pelabuhan johor
+357. isu lembaga pelabuhan klang
+358. isu lembaga pelabuhan kuantan
+359. isu lembaga pelabuhan pulau pinang
+360. isu lembaga pemasaran pertanian persekutuan
+361. isu lembaga pembangunan industri pembinaan
+362. isu lembaga pembangunan pelaburan malaysia
+363. isu lembaga penapisan filem
+364. isu lembaga perindustrian nanas malaysia
+365. isu lembaga pertubuhan peladang
+366. isu lembaga tabung haji
+367. isu letupan bom
+368. isu lgbt
+369. isu lhdn
+370. isu liberalisme
+371. isu mahathir
+372. isu mahkamah persekutuan
+373. isu mahkamah syariah wilayah persekutuan
+374. isu majlis agama islam wilayah persekutuan
+375. isu majlis pakatan harapan
+376. isu majlis penasihat
+377. isu majlis tindakan ekonomik negara
+378. isu makanan malaysia
+379. isu makro-ekonomi
+380. isu maktab koperasi malaysia
+381. isu maktab rendah sains mara
+382. isu malacca airport
+383. isu malaysia airlines
+384. isu malaysia airport
+385. isu malaysia baru
+386. isu malaysia-indonesia
+387. isu malaysian green technology corporation
+388. isu malware
+389. isu masalah air
+390. isu masjid negara
+391. isu masyarakat
+392. isu mati dipukul
+393. isu maybank
+394. isu mca
+395. isu mcdonald
+396. isu media prima
+397. isu memorandum
+398. isu menteri belia dan sukan
+399. isu menteri besar johor
+400. isu menteri besar kedah
+401. isu menteri besar kelantan
+402. isu menteri besar negeri sembilan
+403. isu menteri besar perak
+404. isu menteri besar perlis
+405. isu menteri besar selangor
+406. isu menteri besar terengganu
+407. isu menteri dalam negeri
+408. isu menteri kewangan
+409. isu menteri pertahanan
+410. isu menyiasat skandal
+411. isu mercedes
+412. isu mesir
+413. isu mexico
+414. isu mh370
+415. isu mic
+416. isu microsoft
+417. isu mikro-ekonomi
+418. isu minyak
+419. isu miri airport
+420. isu motogp
+421. isu motosikal
+422. isu mrsm
+423. isu muhyiddin
+424. isu murtabak
+425. isu musim durian
+426. isu myanmar
+427. isu mydin
+428. isu najib razak
+429. isu nasa
+430. isu nasi dagang
+431. isu nasi kandar
+432. isu nasi kerabu
+433. isu nasi
+434. isu nepal
+435. isu new zealand
+436. isu nilai ringgit jatuh
+437. isu novel
+438. isu nurul izzah
+439. isu orang asli
+440. isu paedophilia
+441. isu pakatan harapan
+442. isu pakistan
+443. isu palestin
+444. isu parlimen
+445. isu parti amanah
+446. isu parti islam semalaysia
+447. isu parti keadilan rakyat
+448. isu parti pribumi bersatu malaysia
+449. isu pasaran saham malaysia
+450. isu pdrm
+451. isu pejabat ketua pegawai keselamatan kerajaan malaysia
+452. isu pejabat ketua setiausaha negara
+453. isu pejabat perdana menteri
+454. isu pejabat setiausaha persekutuan sabah
+455. isu pejabat setiausaha persekutuan sarawak
+456. isu pelancongan malaysia
+457. isu pemilihan agong
+458. isu penang airport
+459. isu penasihat sains
+460. isu pendapatan negara
+461. isu pendidikan
+462. isu pengangkutan awam
+463. isu pengedar dadah
+464. isu perabot
+465. isu perancis
+466. isu perbadanan harta intelek malaysia
+467. isu perbadanan labuan
+468. isu perbadanan nasional berhad
+469. isu perbadanan pengurusan sisa pepejal pembersihan awam
+470. isu perbadanan putrajaya
+471. isu perbadanan tabung pendidikan tinggi nasional
+472. isu perbendaharaan malaysia
+473. isu perdana menteri
+474. isu perkahwinan kanak-kanak
+475. isu perkasa
+476. isu perkhidmatan am persekutuan
+477. isu perkhidmatan awam
+478. isu perkhidmatan kehakiman
+479. isu perlembagaan malaysia
+480. isu perodua
+481. isu perpustakaan kuala lumpur
+482. isu pertanian durian
+483. isu pertanian getah
+484. isu pertanian kelapa sawit
+485. isu pertanian malaysia
+486. isu pertanian nenas
+487. isu pertanian padi
+488. isu pertanian pisang
+489. isu petrol
+490. isu petronas
+491. isu pewdiepie
+492. isu piala thomas
+493. isu pilihan raya kecil
+494. isu pilihan raya umum
+495. isu ping pong
+496. isu plus
+497. isu polis diraja malaysia
+498. isu portugal
+499. isu pos laju
+500. isu pos malaysia
+501. isu pos
+502. isu ppbm
+503. isu prasarana
+504. isu privasi
+505. isu produk berbahaya
+506. isu program latihan khidmat negara
+507. isu projek mega
+508. isu ptptn
+509. isu pusat daerah mangundi
+510. isu pusat sains negara
+511. isu pusat transformasi bandar
+512. isu racist
+513. isu radio televisyen malaysia
+514. isu rafizi ramli
+515. isu rais yatim
+516. isu reformasi
+517. isu rhb
+518. isu risda
+519. isu robert kuok
+520. isu rohingya
+521. isu rosmah mansur
+522. isu roti canai
+523. isu royalti minyak
+524. isu rumah mampu milik
+525. isu rusia
+526. isu sabotaj parti
+527. isu saham dan komoditi
+528. isu sahur
+529. isu sandakan airport
+530. isu saudi
+531. isu sekolah
+532. isu sepak takraw
+533. isu shafie apdal
+534. isu shopee sells
+535. isu sibu airport
+536. isu sime darby
+537. isu sirim
+538. isu skim peduli sihat
+539. isu sosco
+540. isu sosial media
+541. isu sosial
+542. isu ssm
+543. isu sst
+544. isu starbucks
+545. isu subsidi kerajaan
+546. isu sultan abdul halim airport
+547. isu sultan azlan shah airport
+548. isu sultan haji ahmad shah airport
+549. isu sultan ismail petra airport
+550. isu sultan johor
+551. isu sultan kedah
+552. isu sultan kelantan
+553. isu sultan mahmud airport
+554. isu sultan negeri sembilan
+555. isu sultan perlis
+556. isu sultan selangor
+557. isu sultan terengganu
+558. isu sumber asli
+559. isu sungai
+560. isu sunway
+561. isu suruhanjaya komunikasi multimedia malaysia
+562. isu suruhanjaya koperasi malaysia
+563. isu suruhanjaya pencegahan rasuah malaysia
+564. isu suruhanjaya pengankutan awam darat
+565. isu suruhanjaya perdagangan komoditi
+566. isu suruhanjaya perkhidmatan air negara
+567. isu suruhanjaya perkhidmatan awam
+568. isu suruhanjaya perkhidmatan pendidikan
+569. isu suruhanjaya persaingan malaysia
+570. isu suruhanjaya pilihan raya malaysia
+571. isu suruhanjaya pilihan raya
+572. isu suruhanjaya syarikat malaysia
+573. isu suruhanjaya tenaga
+574. isu survei institut darul ehsan
+575. isu sweden
+576. isu syarikat permulaan
+577. isu syarikat
+578. isu syed saddiq
+579. isu syria
+580. isu tabung ekonomi kumpulan usaha niaga
+581. isu tabung haji
+582. isu tabung harapan
+583. isu taekwondo
+584. isu tan sri dr rais yatim
+585. isu tan sri mokhzani mahathir
+586. isu tawau airport
+587. isu teknologi
+588. isu telefon
+589. isu telegram
+590. isu telekom malaysia
+591. isu tengku razaleigh hamzah
+592. isu tenis
+593. isu tentera darat malaysia
+594. isu tentera laut diraja malaysia
+595. isu tentera malaysia
+596. isu tentera udara diraja malaysia
+597. isu thai cave
+598. isu tiga penjuru
+599. isu timbalan perdana menteri
+600. isu tioman airport
+601. isu toyota
+602. isu tribunal perkhidmatan awam
+603. isu tribunal perumahan pengurusan strata
+604. isu trojan
+605. isu tsunami fitnah
+606. isu tsunami
+607. isu tun daim zainuddin
+608. isu tunku ismail idris
+609. isu turki
+610. isu twitter
+611. isu u mobile
+612. isu uem
+613. isu umno
+614. isu undi pos
+615. isu undi rosak
+616. isu unifi
+617. isu unit khas teknologi tinggi
+618. isu unit pemodenan tadbiran perancangan pengurusan malaysia
+619. isu unit penyelarasan pelaksanaan
+620. isu unit perancang ekonomi
+621. isu united kingdom
+622. isu universiti
+623. isu ustaz
+624. isu ustazah
+625. isu vaksin
+626. isu valve corporation
+627. isu vietnam
+628. isu wan azizah
+629. isu whatsapp
+630. isu world cup
+631. isu yaman
+632. isu yang di-pertuan agong
+633. isu yayasan hijau malaysia
+634. isu youtube rewind
+635. isu youtube
+636. isu ytl
+637. isu zakir naik
+638. isu zeti aziz
+639. jururawat
+640. jurutera
+641. kambing
+642. kecerdasan buatan
+643. kelahiran jesus
+644. kelawar
+645. kemalangan
+646. kemarau
+647. kerajaan adil
+648. kerajaan prihatin
+649. kerajaan sayang
+650. kerajaan zalim
+651. kes dera
+652. kes positif
+653. kucing
+654. kuda
+655. landak
+656. lapangan terbang
+657. lelaki
+658. lembu
+659. lohong hitam
+660. lumba basikal
+661. makanan segera
+662. mata air
+663. mata wang digital
+664. mata wang kripto
+665. mata wang malaysia
+666. mata wang
+667. memanah
+668. menembak
+669. menganggur
+670. monyet
+671. musang
+672. nasional berhad
+673. olahraga
+674. parti bersatu
+675. peluang pekerjaan
+676. pencemaran air
+677. pencemaran udara
+678. pengaturcaraan
+679. perahu layar
+680. perayaan Hari Gawai
+681. perempuan
+682. permainan
+683. pesawat
+684. pinjaman bank
+685. pinjaman islam
+686. ragbi
+687. rusa
+688. saham syarikat
+689. sanitasi
+690. sejarah islam
+691. sejarah nabi
+692. silat
+693. singa
+694. strategi bisnes
+695. strategi perniagaan
+696. sukan elektronik
+697. swasta
+698. tanda kiamat
+699. tenaga nasional
+700. tinju
+701. zirafah
 
 </details>
 
@@ -1830,19 +1945,20 @@ Total size: 55 MB
 ## Suggestion
 
 1. Feel free to contact me to request new dataset.
+2. Feel free to open an issue if link to dataset to forbidden, sometime I forgot to make it open to public.
 
 ## Citation
 
 1. Please citate the repository if use these corpus.
 
 ```
-@misc{Malaya-Dataset, We gather Bahasa Malaysia corpus! This repository to store corpus for Malaya,
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!,
   author = {Husein, Zolkepli},
-  title = {Malaya-Dataset},
+  title = {Malay-Dataset},
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/Malaya-Dataset}}
+  howpublished = {\url{https://github.com/huseinzol05/Malay-Dataset}}
 }
 ```
 
