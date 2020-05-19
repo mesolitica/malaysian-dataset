@@ -1945,7 +1945,7 @@ Total size: 55 MB
 ## Suggestion
 
 1. Feel free to contact me to request new dataset.
-2. Feel free to open an issue if link to dataset to forbidden, sometime I forgot to make it open to public.
+2. Feel free to open an issue if link to dataset is forbidden, sometime I forgot to make it open to public.
 
 ## Citation
 
