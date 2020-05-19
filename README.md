@@ -1768,7 +1768,7 @@ Total size: 450 MB
 
 Consist of long news and summary of it.
 
-Total size: 10 MB
+Total size: 408 MB
 
 ## [Tagging](tagging)
 
