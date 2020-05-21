@@ -1883,7 +1883,7 @@ Total size: 450 MB
 
 Consist of long news and summary of it.
 
-Total size: 570 MB
+Total size: 680 MB
 
 ## [Tagging](tagging)
 
