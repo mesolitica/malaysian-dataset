@@ -103,6 +103,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
     * [Multinews](#multinews)
+    * [Semisupervised](#semisupervised)
   * [Tagging](#tagging)
     * [Dependency](#dependency)
     * [Part-of-Speech](#part-of-speech)
@@ -1884,6 +1885,12 @@ Total size: 450 MB
 Consist of long news and summary of it.
 
 Total size: 680 MB
+
+#### [Semisupervised](summarization/semisupervised)
+
+Abstractive output from T5-base-bahasa summarized 100k local news.
+
+Total size: 300 MB
 
 ## [Tagging](tagging)
 
