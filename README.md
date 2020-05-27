@@ -70,7 +70,6 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Singlish text](#singlish-text)
     * [Singapore news](#singapore-news)
     * [Subtitle](#subtitle)
-  * [English-Malay translation](#english-malay-translation)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -111,6 +110,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Text-similarity](#text-similarity)
     * [Quora](#quora)
     * [SNLI](#snli)
+  * [Translation](#translation)
+    * [Malay-English](#malay-english)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -1948,6 +1949,12 @@ Total size: 60.8 MB
 Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
 
 Total size: 55 MB
+
+## [Translation](translation)
+
+#### [Malay-English](translation/malay-english)
+
+Total size: 25 MB
 
 ## Suggestion
 
