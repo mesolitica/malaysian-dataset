@@ -1954,7 +1954,7 @@ Total size: 55 MB
 
 #### [Malay-English](translation/malay-english)
 
-Total size: 25 MB
+Total size: 120 MB
 
 ## Suggestion
 
