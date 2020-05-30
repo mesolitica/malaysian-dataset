@@ -1843,6 +1843,16 @@ Total size: 1.3 MB
 
 ## [Speech](speech)
 
+#### [IIUM](speech/iium)
+
+Read texts from IIUM confession.
+
+Total size: 225.9 MB
+
+**Voices contributed by**,
+
+1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
+
 #### [Tolong sebut](speech/sebut-perkataan)
 
 Total size: 276 MB
@@ -1954,7 +1964,7 @@ Total size: 55 MB
 
 #### [Malay-English](translation/malay-english)
 
-Total size: 120 MB
+Total size: 275 MB
 
 ## Suggestion
 
