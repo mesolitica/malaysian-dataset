@@ -914,7 +914,7 @@ Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-stor
 
 #### [Twitter](dumping/twitter)
 
-Total size: 3236.5 MB
+Total size: 3764.7 MB
 
 #### Public news
 
@@ -1847,11 +1847,12 @@ Total size: 1.3 MB
 
 Read texts from IIUM confession.
 
-Total size: 225.9 MB
+Total size: 575.4 MB
 
 **Voices contributed by**,
 
 1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
+2. voices by [Shafiqah Idayu](https://www.facebook.com/shafiqah.ayu)
 
 #### [Tolong sebut](speech/sebut-perkataan)
 
