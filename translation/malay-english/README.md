@@ -13,3 +13,8 @@ prefix, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/
 9. translation/malay-english/translated-800000.json
 10. translation/malay-english/translated-900000.json
 11. translation/malay-english/translated-1000000.json
+12. translation/malay-english/translated-1100000.json
+13. translation/malay-english/translated-1200000.json
+14. translation/malay-english/translated-1300000.json
+15. translation/malay-english/translated-1400000.json
+16. translation/malay-english/translated-1500000.json
