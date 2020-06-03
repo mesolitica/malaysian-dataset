@@ -1,3 +1,3 @@
 ## how-to
 
-1. download website indices, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/dumping/common-crawl/mse-index.zip
+1. download website indices, https://f000.backblazeb2.com/file/malay-dataset/dumping/common-crawl/mse-index.zip

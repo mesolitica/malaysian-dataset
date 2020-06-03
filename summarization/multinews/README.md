@@ -1,6 +1,6 @@
 ## how-to
 
-prefix, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/
+prefix, https://f000.backblazeb2.com/file/malay-dataset/
 
 1. summary/multinews/translated-multinews-0.json
 2. summary/multinews/translated-multinews-10500.json

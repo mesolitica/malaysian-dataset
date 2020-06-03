@@ -2,7 +2,7 @@
 
 Total size: 445.3 MB
 
-1. Download dataset from https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/jawi-rumi.tar.gz
+1. Download dataset from https://f000.backblazeb2.com/file/malay-dataset/jawi-rumi.tar.gz
 2. Download [train-test-rumi-to-jawi.json](train-test-rumi-to-jawi.json)
 
 You can check [rumi-to-jawi-to-image.ipynb](rumi-to-jawi-to-image.ipynb) on how to generate Malay to Jawi.

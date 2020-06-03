@@ -1,3 +1,3 @@
 ## How-to
 
-1. Download here, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/news/news.zip
+1. Download here, https://f000.backblazeb2.com/file/malay-dataset/news/news.zip

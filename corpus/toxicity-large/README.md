@@ -1,6 +1,6 @@
 ## how-to
 
-url, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/{filename}
+url, https://f000.backblazeb2.com/file/malay-dataset/toxicity/{filename}
 
 1. translated-0.json
 2. translated-1000000.json
@@ -33,6 +33,6 @@ url, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/{filename}
 29. translated-900000.json
 30. translated-950000.json
 
-chinese, malay and indian labels from local tweets, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/kaum.json
+chinese, malay and indian labels from local tweets, https://f000.backblazeb2.com/file/malay-dataset/toxicity/kaum.json
 
-Weak learning score using BERT Base for chinese, malay and indian labels, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/toxicity/weak-learning-toxicity.json
+Weak learning score using BERT Base for chinese, malay and indian labels, https://f000.backblazeb2.com/file/malay-dataset/toxicity/weak-learning-toxicity.json

@@ -1,6 +1,6 @@
 ## how-to
 
-prefix, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/
+prefix, https://f000.backblazeb2.com/file/malay-dataset/
 
 1. translation/malay-english/translated-0.json
 2. translation/malay-english/translated-100000.json
