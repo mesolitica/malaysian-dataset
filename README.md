@@ -110,6 +110,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Text-similarity](#text-similarity)
     * [Quora](#quora)
     * [SNLI](#snli)
+    * [MNLI](#mnli)
   * [Translation](#translation)
     * [Malay-English](#malay-english)
     * [Opus](#opus)
@@ -2120,6 +2121,10 @@ Total size: 60.8 MB
 Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
 
 Total size: 55 MB
+
+#### [MNLI](text-similarity/mnli)
+
+Total size: 22.9 MB
 
 ## [Translation](translation)
 
