@@ -2124,19 +2124,19 @@ Total size: 55 MB
 
 #### [MNLI](text-similarity/mnli)
 
-Total size: 45.9 MB
+Total size: 68.9 MB
 
 ## [Translation](translation)
 
 #### [Malay-English](translation/malay-english)
 
-Total size: 368 MB
+Total size: 482.4 MB
 
 #### [Opus](translation/opus)
 
 Parsed from http://opus.nlpl.eu/, ms (Malay) -> en (English)
 
-Total size: 250.5 MB
+Total size: 262.6 MB
 
 ## Suggestion
 
