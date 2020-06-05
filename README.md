@@ -102,6 +102,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
   * [Speech](#speech)
+    * [IIUM](#iium)
     * [Tolong sebut](#tolong-sebut)
     * [Wikipedia](#wikipedia)
     * [Manglish](#manglish)
@@ -2044,6 +2045,8 @@ Total size: 575.4 MB
 
 #### [Tolong sebut](speech/sebut-perkataan)
 
+Read random words from malay dictionary started with 'tolong sebut <word>'.
+
 Total size: 276 MB
 
 **Voices contributed by**,
@@ -2054,6 +2057,8 @@ Total size: 276 MB
 
 #### [Wikipedia](speech/wikipedia)
 
+Read texts from wikipedia.
+
 Total size: 1.08 GB
 
 **Voices contributed by**,
@@ -2061,6 +2066,8 @@ Total size: 1.08 GB
 1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
 
 #### [Manglish](speech/manglish)
+
+Read texts from random manglish texts. Publicly contributed.
 
 Total size: 1.9 GB
 
@@ -2118,7 +2125,7 @@ Total size: 3.1 MB
 14. VERB - Verb, kata kerja
 15. X - Other
 
-Thank you [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
+Thanks to [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
 
 #### [Entities, JSON](tagging/entities)
 
@@ -2133,7 +2140,7 @@ Total size: 3.1 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
-Thank you [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
+Thanks to [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
 
 ## [Text similarity](text-similarity)
 
