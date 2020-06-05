@@ -24,6 +24,12 @@ This repository to store corpus for [Malaya](https://github.com/huseinzol05/Mala
 5. We pay some linguists to supervised.
 6. Lexicon -> weak learning from translated -> confident learning -> 5 iterations from humans.
 
+## License
+
+Malay-Dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License, **only applied on specific datasets**.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 ## Acknowledgement
 
 Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://www.facebook.com/ligblou), [Mesolitica](https://mesolitica.com/) and [KeyReply](https://www.keyreply.com/) for sponsoring AWS Google and private cloud to deploy distributed crawlers.
