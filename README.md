@@ -53,6 +53,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Wattpad](#wattpad)
     * [Academia PDF](#academia-pdf)
     * [ticket2u](#ticket2u)
+    * [Iproperty](#iproperty)
   * [Dictionary](#dictionary)
     * [73k English-Malay](#73k-english-malay)
     * [200k English-Malay](#200k-english-malay)
@@ -750,9 +751,11 @@ Total size: 2 MB
 
 ## [Crawl](crawl)
 
-**This is crawled data, proceed with caution**.
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
 #### [Foodpanda](crawl/foodpanda)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
 Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
 
@@ -762,17 +765,23 @@ Total size: 94.1 MB
 
 #### [Klook](crawl/klook)
 
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.klook.com/policy/**
+
 Crawled up to 200 interesting locations from MY and SG klook.
 
 Total size: 10.3 MB
 
 #### [IIUM-Confession](crawl/iium-confession)
 
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
+
 Crawled up to 20k confession posts.
 
 Total size: 75.1 MB
 
 #### [Wattpad](crawl/wattpad)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://support.wattpad.com/hc/en-us/articles/216192503-Copyright-FAQ**
 
 Crawled using keywords,
 
@@ -790,6 +799,8 @@ Total size: 97 MB
 
 #### [Academia PDF](crawl/pdf)
 
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
+
 Crawled up to 224 pdfs related to,
 
 1. melayu
@@ -803,6 +814,8 @@ Crawled up to 224 pdfs related to,
 Total size: 50 MB
 
 #### [ticket2u](crawl/ticket2u)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.ticket2u.com.my/copyright**
 
 Contains 4282 events in Malaysia from 2017,
 
@@ -849,6 +862,14 @@ Contains 4282 events in Malaysia from 2017,
   'issaleend': '1',
   'status': 'expired'}}
 ```
+
+#### Iproperty(crawl/iproperty)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.iproperty.com.my/terms-of-use/**
+
+crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
+
+Total size: 1329 MB
 
 ## [Dictionary](dictionary)
 
