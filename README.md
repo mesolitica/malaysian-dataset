@@ -984,12 +984,6 @@ Total website size: ~7.0 GB
 
 **Please contact me personally to get entire data related**.
 
-## [English-Malay translation](english-malay)
-
-**Output from Google Translate.**
-
-Total size: 91.2 MB
-
 ## [Lexicon](lexicon)
 
 Malaya provided lexicon generator to induce new lexicons, https://malaya.readthedocs.io/en/latest/Lexicon.html
