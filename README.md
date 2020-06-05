@@ -2124,7 +2124,7 @@ Total size: 55 MB
 
 #### [MNLI](text-similarity/mnli)
 
-Total size: 22.9 MB
+Total size: 45.9 MB
 
 ## [Translation](translation)
 
