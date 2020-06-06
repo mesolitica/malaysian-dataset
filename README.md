@@ -2152,7 +2152,7 @@ Total size: 55 MB
 
 #### [MNLI](text-similarity/mnli)
 
-Total size: 68.9 MB
+Total size: 92.5 MB
 
 ## [Translation](translation)
 
