@@ -2158,7 +2158,7 @@ Total size: 92.5 MB
 
 #### [Malay-English](translation/malay-english)
 
-Total size: 539.1 MB
+Total size: 595.0 MB
 
 #### [Opus](translation/opus)
 
