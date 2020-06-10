@@ -91,6 +91,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Optical Character Recognition](#optical-character-recognition)
     * [Malay-to-Jawi](#malay-to-jawi)
     * [Malay handwriting (Satisfy-Regular)](#malay-handwriting-satisfy-regular)
+  * [Paraphrase](#paraphrase)
   * [Question-Answer](#question-answer)
     * [General](#general)
     * [SQUAD](#squad)
@@ -1951,6 +1952,10 @@ Total size: 194.4 MB
 Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png).
 
 ![alt text](ocr/syarif.png)
+
+## [Paraphrase](paraphrase)
+
+Total size: 31.0 MB
 
 ## [Question-Answer](question-answer)
 
