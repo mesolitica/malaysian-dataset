@@ -2163,7 +2163,7 @@ Total size: 92.5 MB
 
 #### [Malay-English](translation/malay-english)
 
-Total size: 707.0 MB
+Total size: 822.7 MB
 
 #### [Opus](translation/opus)
 
