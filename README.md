@@ -123,6 +123,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Translation](#translation)
     * [Malay-English](#malay-english)
     * [Opus](#opus)
+    * [Parliament](#parliament-1)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -2170,6 +2171,12 @@ Total size: 935.3 MB
 Parsed from http://opus.nlpl.eu/, ms (Malay) -> en (English)
 
 Total size: 262.6 MB
+
+#### [Parliament](translation/parliament)
+
+Parsed from parliament text, and translate to English.
+
+Total size: 47.6 MB
 
 ## Suggestion
 
