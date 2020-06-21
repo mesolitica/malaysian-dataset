@@ -67,6 +67,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
     * [Dialect](#dialect)
     * [Ngrams](#ngrams)
+  * [Document Ranking](#document-ranking)
+    * [MSMARCO](#msmarco)
   * [Dumping](#dumping)
     * [Karangan sekolah](#karangan-sekolah)
     * [Wikipedia](#wikipedia-1)
@@ -925,6 +927,12 @@ Unigram and Bigram collected from news, structure,
 ```python
 {'saya': 1000}
 ```
+
+## [Document Ranking](document-ranking)
+
+#### [MSMARCO](document-ranking/msmarco)
+
+Total size: 42.9 MB
 
 ## [Dumping](dumping)
 
