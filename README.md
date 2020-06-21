@@ -2045,7 +2045,7 @@ Total size: 1.3 MB
 
 Read texts from IIUM confession.
 
-Total size: 575.4 MB
+Total size: 838.4 MB
 
 **Voices contributed by**,
 
