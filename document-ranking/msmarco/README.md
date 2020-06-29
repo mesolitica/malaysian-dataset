@@ -15,6 +15,8 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/
 11. document-ranking/msmarco/translated-1000000.json
 12. document-ranking/msmarco/translated-1100000.json
 13. document-ranking/msmarco/translated-1200000.json
+14. document-ranking/msmarco/translated-1300000.json
+15. document-ranking/msmarco/translated-1400000.json
 
 ## mapping
 
