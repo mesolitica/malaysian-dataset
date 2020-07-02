@@ -137,7 +137,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 
 #### [Wiki Wizard](chatbot/wiki-wizard)
 
-Total size: 74.8 MB
+Total size: 134.1 MB
 
 ## [Corpus](corpus)
 
