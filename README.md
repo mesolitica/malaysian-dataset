@@ -37,6 +37,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 <img alt="logo" width="50%" src="https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/ligblou-mesolitca-keyreply.png">
 
 ## Table of contents
+  * [Chatbot](#chatbot)
+    * [Wiki Wizard](#wiki-wizard)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Translated Emotion](#Translated-Emotion)
@@ -130,6 +132,12 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
+
+## [Chatbot](chatbot)
+
+#### [Wiki Wizard](chatbot/wiki-wizard)
+
+Total size: 74.8 MB
 
 ## [Corpus](corpus)
 
