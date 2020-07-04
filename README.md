@@ -39,6 +39,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 ## Table of contents
   * [Chatbot](#chatbot)
     * [Wiki Wizard](#wiki-wizard)
+    * [ConvAI2](#convai2)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Translated Emotion](#Translated-Emotion)
@@ -96,6 +97,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Malay-to-Jawi](#malay-to-jawi)
     * [Malay handwriting (Satisfy-Regular)](#malay-handwriting-satisfy-regular)
   * [Paraphrase](#paraphrase)
+    * [General](#general)
+    * [Funpedia](#funpedia)
   * [Question-Answer](#question-answer)
     * [General](#general)
     * [SQUAD](#squad)
@@ -138,6 +141,10 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 #### [Wiki Wizard](chatbot/wiki-wizard)
 
 Total size: 397.4 MB
+
+#### [ConvAI2](chatbot/convai2)
+
+Total size: 127.9 MB
 
 ## [Corpus](corpus)
 
@@ -1973,7 +1980,13 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png
 
 ## [Paraphrase](paraphrase)
 
+#### [General](paraphrase/general)
+
 Total size: 31.0 MB
+
+#### [Funpedia](paraphrase/funpedia)
+
+Total size: 72.3 MB
 
 ## [Question-Answer](question-answer)
 
