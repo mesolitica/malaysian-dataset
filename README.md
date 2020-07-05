@@ -1986,7 +1986,7 @@ Total size: 31.0 MB
 
 #### [Funpedia](paraphrase/funpedia)
 
-Total size: 72.3 MB
+Total size: 68.8 MB
 
 ## [Question-Answer](question-answer)
 
