@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="154800000t" end="169600000t" style="normal" xml:id="subtitle0">[crickets chirping]</p>
+<p begin="170400000t" end="207200000t" style="normal" xml:id="subtitle1">-[man] What's wrong with my watch?<br/>-[woman] Enough with that, honey.</p>
+<p begin="208000000t" end="235600000t" style="normal" xml:id="subtitle2">[woman]<br/>You're so hung up with it.</p>
+<p begin="236400000t" end="258400000t" style="normal" xml:id="subtitle3">[woman]<br/>Let's talk about our baby instead.</p>
+<p begin="259200000t" end="298000000t" style="normal" xml:id="subtitle4">[sighs] If it's a baby girl,<br/>you choose her name, Kinah.</p>
+<p begin="298800000t" end="317600000t" style="normal" xml:id="subtitle5">If it's a boy, then I will.</p>
+<p begin="318400000t" end="329200000t" style="normal" xml:id="subtitle6">[Kinah giggles]</p>
+<p begin="330000000t" end="352000000t" style="normal" xml:id="subtitle7">-Okay?<br/>-[Kinah] What's that?</p>
+<p begin="352800000t" end="363200000t" style="normal" xml:id="subtitle8">[mellow music plays]</p>
+<p begin="364000000t" end="389600000t" style="normal" xml:id="subtitle9">[man]<br/>Wow! That's a shooting star!</p>
+<p begin="390400000t" end="419200000t" style="normal" xml:id="subtitle10">The white people believe that we<br/>should make a wish when seeing one.</p>
+<p begin="422400000t" end="436000000t" style="normal" xml:id="subtitle11">-[Kinah] Honey!<br/>-[man laughs]</p>
+<p begin="436800000t" end="459600000t" style="normal" xml:id="subtitle12">[Kinah] You're so obsessed<br/>with what they say.</p>
+<p begin="460400000t" end="502000000t" style="normal" xml:id="subtitle13">We're Malays.<br/>We don't believe in such things.</p>
+<p begin="502800000t" end="537600000t" style="normal" xml:id="subtitle14">It would be better<br/>if you say your prayers instead.</p>
+<p begin="544400000t" end="555600000t" style="normal" xml:id="subtitle15">[chuckles]</p>
+<p begin="556400000t" end="582000000t" style="normal" xml:id="subtitle16">All right. I will.</p>
+<p begin="582800000t" end="630800000t" style="normal" xml:id="subtitle17">I pray that our baby will always<br/>be healthy and live a long life.</p>
+<p begin="634800000t" end="684800000t" style="normal" xml:id="subtitle18">[upbeat trumpets play]</p>
+<p begin="733600000t" end="776400000t" style="normal" xml:id="subtitle19">[orchestral music plays]</p>
+<p begin="801600000t" end="822400000t" style="normal" xml:id="subtitle20">[indistinct chatter]</p>
+<p begin="823200000t" end="861600000t" style="normal" xml:id="subtitle21">[in English] David, the negotiation<br/>with the village head will be on Tuesday.</p>
+<p begin="862800000t" end="881200000t" style="normal" xml:id="subtitle22">Come and see me in the office.<br/>We'll discuss it.</p>
+<p begin="882000000t" end="893200000t" style="normal" xml:id="subtitle23">All right. I'll go.</p>
+<p begin="900800000t" end="931200000t" style="normal" xml:id="subtitle24">[in Malay] Where could I have left<br/>my watch? [sighs]</p>
+<p begin="935200000t" end="950800000t" style="normal" xml:id="subtitle25">[clicks tongue, sighs]</p>
+<p begin="957600000t" end="966400000t" style="normal" xml:id="subtitle26">[exclaims]</p>
+<p begin="974000000t" end="1002000000t" style="normal" xml:id="subtitle27">-[in English] Good morning, Mr. Johnson.<br/>-[in Malay] Good morning, Halim.</p>
+<p begin="1036400000t" end="1053600000t" style="normal" xml:id="subtitle28">Is Master in his office?</p>
+<p begin="1060400000t" end="1115200000t" style="normal" xml:id="subtitle29">[in English] Um, Master Swettenham<br/>entered his office 15 minutes ago, sir.</p>
+<p begin="1116000000t" end="1134800000t" style="normal" xml:id="subtitle30">[man shouting] Halim!</p>
+<p begin="1135600000t" end="1156800000t" style="normal" xml:id="subtitle31">-[Halim exclaims]<br/>-[panting] Halim!</p>
+<p begin="1157600000t" end="1166800000t" style="normal" xml:id="subtitle32">Your wife...</p>
+<p begin="1173200000t" end="1206000000t" style="normal" xml:id="subtitle33">-[man 1] Ouch! Watch where you walk!<br/>-[Halim cheering] Sorry!</p>
+<p begin="1206800000t" end="1248000000t" style="normal" xml:id="subtitle34">-[man 2] What's wrong with you, Halim?<br/>-[Halim] I have to go.</p>
+<p begin="1255600000t" end="1264000000t" style="normal" xml:id="subtitle35">[sighs]</p>
+<p begin="1271600000t" end="1290000000t" style="normal" xml:id="subtitle36">[whoops]</p>
+<p begin="1290800000t" end="1311600000t" style="normal" xml:id="subtitle37">-Play again!<br/>-Hey!</p>
+<p begin="1320400000t" end="1346000000t" style="normal" xml:id="subtitle38">[man in English] Hey, Halim!<br/>What's the rush?</p>
+<p begin="1346800000t" end="1380000000t" style="normal" xml:id="subtitle39">-My wife is giving birth, sir!<br/>-[man] Congratulations!</p>
+<p begin="1381600000t" end="1407200000t" style="normal" xml:id="subtitle40">[upbeat music plays]</p>
+<p begin="1408000000t" end="1439600000t" style="normal" xml:id="subtitle41"><span style="normal_1">♪ The day has arrived ♪</span></p>
+<p begin="1440400000t" end="1474400000t" style="normal" xml:id="subtitle42"><span style="normal_1">♪ The day I've waited for has arrived ♪</span></p>
+<p begin="1475200000t" end="1494000000t" style="normal" xml:id="subtitle43"><span style="normal_1">♪ I feel so excited ♪</span></p>
+<p begin="1494800000t" end="1512000000t" style="normal" xml:id="subtitle44"><span style="normal_1">♪ Full of anticipation ♪</span></p>
+<p begin="1512800000t" end="1539600000t" style="normal" xml:id="subtitle45"><span style="normal_1">♪ Soon, I will be a father ♪</span></p>
+<p begin="1540400000t" end="1577200000t" style="normal" xml:id="subtitle46"><span style="normal_1">♪ I'm truly happy ♪</span></p>
+<p begin="1578000000t" end="1609600000t" style="normal" xml:id="subtitle47"><span style="normal_1">-♪ I'm on the top of the world ♪</span><br/>-[man] Halim!</p>
+<p begin="1610400000t" end="1632000000t" style="normal" xml:id="subtitle48"><span style="normal_1">♪ It used to be just the two of us ♪</span></p>
+<p begin="1632800000t" end="1648800000t" style="normal" xml:id="subtitle49"><span style="normal_1">♪ Soon it will be three of us ♪</span></p>
+<p begin="1649600000t" end="1679600000t" style="normal" xml:id="subtitle50"><span style="normal_1">♪ We finally have a child ♪</span></p>
+<p begin="1680400000t" end="1715600000t" style="normal" xml:id="subtitle51"><span style="normal_1">-♪ I will be with you, my darling ♪</span><br/><span style="normal_1">-♪ Be with you ♪</span></p>
+<p begin="1716400000t" end="1731200000t" style="normal" xml:id="subtitle52"><span style="normal_1">♪ To receive the arrival ♪</span></p>
+<p begin="1732000000t" end="1748000000t" style="normal" xml:id="subtitle53"><span style="normal_1">-♪ Of the little one ♪</span><br/><span style="normal_1">-♪ The little one ♪</span></p>
+<p begin="1748800000t" end="1766400000t" style="normal" xml:id="subtitle54"><span style="normal_1">-♪ I'm going home ♪</span><br/><span style="normal_1">-♪ I'm going home ♪</span></p>
+<p begin="1767200000t" end="1783200000t" style="normal" xml:id="subtitle55"><span style="normal_1">-♪ I'm going home ♪</span><br/><span style="normal_1">-♪ I'm going home ♪</span></p>
+<p begin="1784000000t" end="1816800000t" style="normal" xml:id="subtitle56"><span style="normal_1">♪ Going as fast as my legs can take me ♪</span></p>
+<p begin="1817600000t" end="1851600000t" style="normal" xml:id="subtitle57"><span style="normal_1">♪ I'm going home</span><br/><span style="normal_1">I'm going home ♪</span></p>
+<p begin="1852400000t" end="1889200000t" style="normal" xml:id="subtitle58"><span style="normal_1">-♪ To welcome my Prince or Princess ♪</span><br/>-[speaking Tamil]</p>
+<p begin="1890000000t" end="1914400000t" style="normal" xml:id="subtitle59"><span style="normal_1">♪ To my palace ♪</span></p>
+<p begin="1915200000t" end="1930000000t" style="normal" xml:id="subtitle60">-[whoops]<br/>-Hey!</p>
+<p begin="1930800000t" end="1956400000t" style="normal" xml:id="subtitle61">-[speaking Tamil]<br/>-I'm a father!</p>
+<p begin="1957200000t" end="1978000000t" style="normal" xml:id="subtitle62">[upbeat music]</p>
+<p begin="1978800000t" end="1996400000t" style="normal" xml:id="subtitle63">-[chickens clucking]<br/>-[panting]</p>
+<p begin="1997200000t" end="2014000000t" style="normal" xml:id="subtitle64">-[woman] Halim!<br/>-[Halim exclaims]</p>
+<p begin="2014800000t" end="2029600000t" style="normal" xml:id="subtitle65">Going home already?</p>
+<p begin="2032800000t" end="2060000000t" style="normal" xml:id="subtitle66">-Kinah is in labor.<br/>-[in Arabic] Thank goodness.</p>
+<p begin="2060800000t" end="2092400000t" style="normal" xml:id="subtitle67"><span style="normal_1">♪ I'm truly happy ♪</span></p>
+<p begin="2093200000t" end="2128000000t" style="normal" xml:id="subtitle68"><span style="normal_1">♪ I'm on top of the world ♪</span></p>
+<p begin="2128800000t" end="2148000000t" style="normal" xml:id="subtitle69"><span style="normal_1">♪ It used to be just the two of us ♪</span></p>
+<p begin="2148800000t" end="2165600000t" style="normal" xml:id="subtitle70"><span style="normal_1">♪ Soon it will be three of us ♪</span></p>
+<p begin="2166400000t" end="2199200000t" style="normal" xml:id="subtitle71"><span style="normal_1">♪ We finally have a child ♪</span></p>
+<p begin="2200000000t" end="2221600000t" style="normal" xml:id="subtitle72">-Peace be upon you!<br/>-Peace be upon you, too!</p>
+<p begin="2222400000t" end="2233600000t" style="normal" xml:id="subtitle73">[baby crying]</p>
+<p begin="2234400000t" end="2250000000t" style="normal" xml:id="subtitle74">How is she, Pak Seman?</p>
+<p begin="2250800000t" end="2274400000t" style="normal" xml:id="subtitle75">-It's a boy, Halim.<br/>-[Pak Seman] Thank goodness.</p>
+<p begin="2275200000t" end="2315600000t" style="normal" xml:id="subtitle76">-[baby crying]<br/>-[chickens clucking]</p>
+<p begin="2328000000t" end="2349600000t" style="normal" xml:id="subtitle77">-[Kinah] Honey.<br/>-[Halim] Kinah.</p>
+<p begin="2357200000t" end="2390400000t" style="normal" xml:id="subtitle78">-[Kinah] It's a boy.<br/>-[Halim] Let me say a prayer in his ear.</p>
+<p begin="2391200000t" end="2410400000t" style="normal" xml:id="subtitle79">[Halim in Arabic]<br/>God is great.</p>
+<p begin="2411200000t" end="2425200000t" style="normal" xml:id="subtitle80">God is great.</p>
+<p begin="2445600000t" end="2491600000t" style="normal" xml:id="subtitle81">There is no deity but God.</p>
+<p begin="2494000000t" end="2521200000t" style="normal" xml:id="subtitle82">There is no deity but God.</p>
+<p begin="2522000000t" end="2566800000t" style="normal" xml:id="subtitle83">[murmuring prayers]</p>
+<p begin="2567600000t" end="2582799999t" style="normal" xml:id="subtitle84">I found this.</p>
+<p begin="2583600000t" end="2599200000t" style="normal" xml:id="subtitle85">It's still alive.</p>
+<p begin="2604800000t" end="2622800000t" style="normal" xml:id="subtitle86">-So big.<br/>-Let me see.</p>
+<p begin="2626000000t" end="2646000000t" style="normal" xml:id="subtitle87">Hey, shorty, go play somewhere else!</p>
+<p begin="2646800000t" end="2669200000t" style="normal" xml:id="subtitle88">-Let's go. He'll infect us.<br/>-Let's go.</p>
+<p begin="2670000000t" end="2685600000t" style="normal" xml:id="subtitle89">You freak!</p>
+<p begin="2686400000t" end="2728400000t" style="normal" xml:id="subtitle90">-Go bother someone else!<br/>-[Halim] Budi.</p>
+<p begin="2731200000t" end="2752000000t" style="normal" xml:id="subtitle91">-[Budi] Yes, Dad.<br/>-Take it easy, Halim.</p>
+<p begin="2755200000t" end="2764800000t" style="normal" xml:id="subtitle92">[sighs]</p>
+<p begin="2775600000t" end="2800400000t" style="normal" xml:id="subtitle93">Budi is a special boy.</p>
+<p begin="2801200000t" end="2810000000t" style="normal" xml:id="subtitle94">[sighs]</p>
+<p begin="2818800000t" end="2828000000t" style="normal" xml:id="subtitle95">I understand.</p>
+<p begin="2852000000t" end="2860800000t" style="normal" xml:id="subtitle96">But...</p>
+<p begin="2875600000t" end="2894000000t" style="normal" xml:id="subtitle97">it's been more than 40 years.</p>
+<p begin="2898800000t" end="2926800000t" style="normal" xml:id="subtitle98">What kind of curse is this?</p>
+<p begin="2927600000t" end="2948800000t" style="normal" xml:id="subtitle99">You shouldn't say things like that.</p>
+<p begin="2956800000t" end="3014800000t" style="normal" xml:id="subtitle100">He isn't as big as the others,<br/>but he's healthy, isn't he?</p>
+<p begin="3015600000t" end="3034800000t" style="normal" xml:id="subtitle101">[chuckles]<br/>I'm grateful.</p>
+<p begin="3038400000t" end="3076400000t" style="normal" xml:id="subtitle102">He may be stunted, but his mind isn't.</p>
+<p begin="3077200000t" end="3085600000t" style="normal" xml:id="subtitle103">I agree.</p>
+<p begin="3094000000t" end="3103600000t" style="normal" xml:id="subtitle104">Budi.</p>
+<p begin="3106000000t" end="3122400000t" style="normal" xml:id="subtitle105">-[Budi] Yes, Mom?<br/>-Let's go home.</p>
+<p begin="3126800000t" end="3154400000t" style="normal" xml:id="subtitle106">[man] Just follow what I'm saying.<br/>Don't tell anybody else.</p>
+<p begin="3155200000t" end="3173600000t" style="normal" xml:id="subtitle107">-When you're done...<br/>-[Halim] Khalid.</p>
+<p begin="3174400000t" end="3185200000t" style="normal" xml:id="subtitle108">[crickets chirping]</p>
+<p begin="3186000000t" end="3204800000t" style="normal" xml:id="subtitle109">[Halim]<br/>Having a meeting this late at night?</p>
+<p begin="3246000000t" end="3254400000t" style="normal" xml:id="subtitle110">Just...</p>
+<p begin="3264400000t" end="3274400000t" style="normal" xml:id="subtitle111">a little discussion.</p>
+<p begin="3283600000t" end="3298400000t" style="normal" xml:id="subtitle112">Someone wants to give me a job.</p>
+<p begin="3306400000t" end="3316400000t" style="normal" xml:id="subtitle113">The pay is good.</p>
+<p begin="3325200000t" end="3342800000t" style="normal" xml:id="subtitle114">It's too good to be refused.</p>
+<p begin="3343600000t" end="3353200000t" style="normal" xml:id="subtitle115">[clears throat]</p>
+<p begin="3360000000t" end="3370000000t" style="normal" xml:id="subtitle116">-[bicycle bell rings]<br/>-Hey.</p>
+<p begin="3438000000t" end="3476000000t" style="normal" xml:id="subtitle117">Mom, look, fireflies.<br/>I want to catch one and bring it home.</p>
+<p begin="3480800000t" end="3507200000t" style="normal" xml:id="subtitle118">[Kinah]<br/>Budi, don't do that to them.</p>
+<p begin="3514400000t" end="3537600000t" style="normal" xml:id="subtitle119">Our prayers have been answered, Kinah.</p>
+<p begin="3548800000t" end="3568000000t" style="normal" xml:id="subtitle120">Do you still remember this place?</p>
+<p begin="3577200000t" end="3607200000t" style="normal" xml:id="subtitle121">[exclaims] What's with the commotion<br/>at Mr. Johnson's house?</p>
+<p begin="3608000000t" end="3630000000t" style="normal" xml:id="subtitle122">[indistinct chatter]</p>
+<p begin="3630800000t" end="3660400000t" style="normal" xml:id="subtitle123">You and Budi go on home.<br/>Follow your mother.</p>
+<p begin="3685600000t" end="3711600000t" style="normal" xml:id="subtitle124">-Excuse me, sir. What's happening inside?<br/>-Halim. Johnson...</p>
+<p begin="3712400000t" end="3724400000t" style="normal" xml:id="subtitle125">-[Johnson] Halim!<br/>-[Halim] Yes?</p>
+<p begin="3729600000t" end="3755600000t" style="normal" xml:id="subtitle126">Come here. I have to go to Singapore.</p>
+<p begin="3756400000t" end="3775600000t" style="normal" xml:id="subtitle127">You take care of this place.</p>
+<p begin="3778800000t" end="3800800000t" style="normal" xml:id="subtitle128">[radio presenter]<span style="normal_1"> This is the news</span><br/><span style="normal_1">from the BBC in London</span></p>
+<p begin="3801600000t" end="3826800000t" style="normal" xml:id="subtitle129"><span style="normal_1">on the 11th of December, 1941.</span></p>
+<p begin="3827600000t" end="3855200000t" style="normal" xml:id="subtitle130"><span style="normal_1">All British troops</span><br/><span style="normal_1">based in Kuala Lumpur, Malaya</span></p>
+<p begin="3856000000t" end="3874800000t" style="normal" xml:id="subtitle131"><span style="normal_1">have been instructed</span><br/><span style="normal_1">to retreat to Singapore</span></p>
+<p begin="3875600000t" end="3906400000t" style="normal" xml:id="subtitle132"><span style="normal_1">after the attacks in Penang ten hours ago.</span></p>
+<p begin="3907200000t" end="3944000000t" style="normal" xml:id="subtitle133"><span style="normal_1">Her Majesty's troops are advised</span><br/><span style="normal_1">to be on high alert in the face of...</span></p>
+<p begin="3944800000t" end="3967600000t" style="normal" xml:id="subtitle134">-Is everything packed?<br/>-[radio presenter] <span style="normal_1">We shall broadcast</span></p>
+<p begin="3968400000t" end="3997600000t" style="normal" xml:id="subtitle135"><span style="normal_1">-all development here with the BBC...</span><br/>-[Kinah] Yes.</p>
+<p begin="4019200000t" end="4038400000t" style="normal" xml:id="subtitle136">It's been almost 50 years.</p>
+<p begin="4049200000t" end="4092800000t" style="normal" xml:id="subtitle137">How can those white people<br/>simply abandon us?</p>
+<p begin="4098400000t" end="4138800000t" style="normal" xml:id="subtitle138">[Halim] After dawn,<br/>go to Kak Senah's house with Budi.</p>
+<p begin="4145600000t" end="4174000000t" style="normal" xml:id="subtitle139">I have something to do.<br/>I need to help Mr. Johnson.</p>
+<p begin="4187200000t" end="4201200000t" style="normal" xml:id="subtitle140">Why do you want to help him?</p>
+<p begin="4215600000t" end="4255200000t" style="normal" xml:id="subtitle141">Enough with those white people.<br/>What about your own family?</p>
+<p begin="4267200000t" end="4283600000t" style="normal" xml:id="subtitle142">Hey, Kinah.</p>
+<p begin="4298400000t" end="4332000000t" style="normal" xml:id="subtitle143">Those white people have helped us a lot.</p>
+<p begin="4348000000t" end="4356400000t" style="normal" xml:id="subtitle144">By the way...</p>
+<p begin="4368000000t" end="4376400000t" style="normal" xml:id="subtitle145">where's Budi?</p>
+<p begin="4378400000t" end="4388800000t" style="normal" xml:id="subtitle146">[door opens]</p>
+<p begin="4409200000t" end="4424800000t" style="normal" xml:id="subtitle147">Dad, Mom.</p>
+<p begin="4435200000t" end="4451600000t" style="normal" xml:id="subtitle148">Why are these fireflies dead?</p>
+<p begin="4452400000t" end="4476800000t" style="normal" xml:id="subtitle149">[Halim inhales deeply then sighs]</p>
+<p begin="4477600000t" end="4486800000t" style="normal" xml:id="subtitle150">[thuds]</p>
+<p begin="4535600000t" end="4559200000t" style="normal" xml:id="subtitle151">[clattering]</p>
+<p begin="4609200000t" end="4631200000t" style="normal" xml:id="subtitle152">This place is our responsibility, Budi.</p>
+<p begin="4645600000t" end="4664800000t" style="normal" xml:id="subtitle153">[bicycle bell rings]</p>
+<p begin="4665600000t" end="4698800000t" style="normal" xml:id="subtitle154">[Kinah] Budi, if anything happens,<br/>head back home.</p>
+<p begin="4699600000t" end="4720400000t" style="normal" xml:id="subtitle155">[Budi]<br/>Why is everybody leaving this place?</p>
+<p begin="4721200000t" end="4746000000t" style="normal" xml:id="subtitle156">[panting] Soon somebody will come<br/>to take our land.</p>
+<p begin="4754800000t" end="4784800000t" style="normal" xml:id="subtitle157">[jet engine roars]</p>
+<p begin="4817200000t" end="4825600000t" style="normal" xml:id="subtitle158">Hurry, Budi.</p>
+<p begin="4839600000t" end="4848000000t" style="normal" xml:id="subtitle159">[Budi] Mom!</p>
+<p begin="4853600000t" end="4876800000t" style="normal" xml:id="subtitle160">[clamoring]</p>
+<p begin="4924000000t" end="4964000000t" style="normal" xml:id="subtitle161">[high-pitched ringing]</p>
+<p begin="5075200000t" end="5084000000t" style="normal" xml:id="subtitle162">Mom...</p>
+<p begin="5122000000t" end="5137999999t" style="normal" xml:id="subtitle163">Mom!</p>
+<p begin="5223200000t" end="5267200000t" style="normal" xml:id="subtitle164">Mom!</p>
+<p begin="5284800000t" end="5313200000t" style="normal" xml:id="subtitle165">[cries]</p>
+<p begin="5317600000t" end="5327600000t" style="normal" xml:id="subtitle166">[gasps]</p>
+<p begin="5337600000t" end="5352400000t" style="normal" xml:id="subtitle167">[crying] Help!</p>
+<p begin="5363600000t" end="5376000000t" style="normal" xml:id="subtitle168">Help!</p>
+<p begin="5385200000t" end="5404400000t" style="normal" xml:id="subtitle169">Mom!</p>
+<p begin="5414800000t" end="5423200000t" style="normal" xml:id="subtitle170">Mom!</p>
+<p begin="5426800000t" end="5455200000t" style="normal" xml:id="subtitle171">[Khalid] Why are you defending<br/>those white people, Halim?</p>
+<p begin="5458000000t" end="5479200000t" style="normal" xml:id="subtitle172">We are both Malays!</p>
+<p begin="5484400000t" end="5520800000t" style="normal" xml:id="subtitle173">-[cries]<br/>-Don't you ever call yourself a Malay!</p>
+<p begin="5528800000t" end="5562400000t" style="normal" xml:id="subtitle174">Malays will never betray their own race!</p>
+<p begin="5563200000t" end="5590400000t" style="normal" xml:id="subtitle175">[gasps] Where is your dignity?</p>
+<p begin="5596000000t" end="5623600000t" style="normal" xml:id="subtitle176">You sold your soul to this traitor.</p>
+<p begin="5624400000t" end="5637600000t" style="normal" xml:id="subtitle177">You're all the same!</p>
+<p begin="5638400000t" end="5656400000t" style="normal" xml:id="subtitle178">-Traitor!<br/>-Honey.</p>
+<p begin="5657200000t" end="5686000000t" style="normal" xml:id="subtitle179">-[Japanese soldier] Hey!<br/>-Don't kick him.</p>
+<p begin="5686800000t" end="5715600000t" style="normal" xml:id="subtitle180">-Don't kick him.<br/>-Asia is for Asians.</p>
+<p begin="5725200000t" end="5760400000t" style="normal" xml:id="subtitle181">-Who's the traitor now? [grunts]<br/>-[Kinah cries]</p>
+<p begin="5761200000t" end="5782000000t" style="normal" xml:id="subtitle182">[in Japanese] Stop!</p>
+<p begin="5782800000t" end="5792000000t" style="normal" xml:id="subtitle183">Mr. Miyamoto!</p>
+<p begin="5804000000t" end="5832800000t" style="normal" xml:id="subtitle184">You promised me<br/>that you would not beat any Malays.</p>
+<p begin="5833600000t" end="5854800000t" style="normal" xml:id="subtitle185">Especially a woman!</p>
+<p begin="5858400000t" end="5866800000t" style="normal" xml:id="subtitle186">[growls]</p>
+<p begin="5872800000t" end="5892800000t" style="normal" xml:id="subtitle187">I'll keep to my word!</p>
+<p begin="5912400000t" end="5954800000t" style="normal" xml:id="subtitle188">But this here...<br/>is the white people's dog! [spits]</p>
+<p begin="5979200000t" end="6010000000t" style="normal" xml:id="subtitle189">-Honey!<br/>-[screaming] Budi! Kinah!</p>
+<p begin="6010800000t" end="6030800000t" style="normal" xml:id="subtitle190">[Kinah crying hysterically]</p>
+<p begin="6031600000t" end="6045600000t" style="normal" xml:id="subtitle191">Honey!</p>
+<p begin="6046400000t" end="6068000000t" style="normal" xml:id="subtitle192">-Budi!<br/>-Mom!</p>
+<p begin="6068800000t" end="6097600000t" style="normal" xml:id="subtitle193">-Budi!<br/>-[screaming] Mom!</p>
+<p begin="6098400000t" end="6112000000t" style="normal" xml:id="subtitle194">-[Khalid] Don't!<br/>-Budi!</p>
+<p begin="6112800000t" end="6140000000t" style="normal" xml:id="subtitle195">[screaming] Mom!</p>
+<p begin="6140800000t" end="6167200000t" style="normal" xml:id="subtitle196">That's my mother! Let her go!</p>
+<p begin="6168000000t" end="6188800000t" style="normal" xml:id="subtitle197">-[cries]<br/>-Let me go!</p>
+<p begin="6193200000t" end="6221200000t" style="normal" xml:id="subtitle198">Mom!</p>
+<p begin="6244800000t" end="6254000000t" style="normal" xml:id="subtitle199">Hey!</p>
+<p begin="6257200000t" end="6272400000t" style="normal" xml:id="subtitle200">-[Budi] Mom!<br/>-Stupid Malays.</p>
+<p begin="6283200000t" end="6293200000t" style="normal" xml:id="subtitle201">[Budi] Mom!</p>
+<p begin="6396800000t" end="6414400000t" style="normal" xml:id="subtitle202">-[soldier grunts]<br/>-[Halim groans]</p>
+<p begin="6452000000t" end="6464400000t" style="normal" xml:id="subtitle203">That's it?</p>
+<p begin="6482400000t" end="6507200000t" style="normal" xml:id="subtitle204">Ouch.</p>
+<p begin="6510800000t" end="6520400000t" style="normal" xml:id="subtitle205">Razak!</p>
+<p begin="6530800000t" end="6566800000t" style="normal" xml:id="subtitle206">Why do you keep hitting me<br/>with your walking stick?</p>
+<p begin="6574400000t" end="6596400000t" style="normal" xml:id="subtitle207">-Huh?<br/>-How am I supposed to see you?</p>
+<p begin="6606400000t" end="6630000000t" style="normal" xml:id="subtitle208">Just be more careful next time.</p>
+<p begin="6639600000t" end="6657200000t" style="normal" xml:id="subtitle209">I'm really sorry.</p>
+<p begin="6658000000t" end="6678000000t" style="normal" xml:id="subtitle210">I heard there's a band performing today.</p>
+<p begin="6678800000t" end="6693600000t" style="normal" xml:id="subtitle211">-[announcer] <span style="normal_1">Malaya independence.</span><br/>-Hey.</p>
+<p begin="6694400000t" end="6712400000t" style="normal" xml:id="subtitle212"><span style="normal_1">-Come to the stadium.</span><br/>-Independence van.</p>
+<p begin="6713200000t" end="6736400000t" style="normal" xml:id="subtitle213"><span style="normal_1">-On 31st August in Independence Stadium.</span><br/>-Independence van?</p>
+<p begin="6737200000t" end="6762400000t" style="normal" xml:id="subtitle214">-[Razak] Happy independence!<br/>-<span style="normal_1">The independence of our nation...</span></p>
+<p begin="6769600000t" end="6784000000t" style="normal" xml:id="subtitle215">-Bro, happy independence!<br/>-So noisy.</p>
+<p begin="6784800000t" end="6834000000t" style="normal" xml:id="subtitle216">Sis, happy independence!<br/>Bro, happy independence!</p>
+<p begin="6834800000t" end="6872800000t" style="normal" xml:id="subtitle217">Razak, we're here to sell things.<br/>What's with all this campaigning?</p>
+<p begin="6888000000t" end="6896400000t" style="normal" xml:id="subtitle218">Budi.</p>
+<p begin="6905600000t" end="6922800000t" style="normal" xml:id="subtitle219">You have to know something.</p>
+<p begin="6928000000t" end="6952400000t" style="normal" xml:id="subtitle220">-Do you know how long<br/>-Miss?</p>
+<p begin="6953200000t" end="6986000000t" style="normal" xml:id="subtitle221">-we've been fighting for our independence?<br/>-Hey.</p>
+<p begin="6997600000t" end="7031200000t" style="normal" xml:id="subtitle222">I'm over there. Not here.<br/>That's a painting of a horse.</p>
+<p begin="7032000000t" end="7063200000t" style="normal" xml:id="subtitle223">-[girls shouting]<br/>-How would I know?</p>
+<p begin="7064000000t" end="7083600000t" style="normal" xml:id="subtitle224">[Razak] What's all the commotion, Budi?</p>
+<p begin="7084400000t" end="7109200000t" style="normal" xml:id="subtitle225">I don't know.<br/>Maybe it's someone prominent.</p>
+<p begin="7110000000t" end="7120400000t" style="normal" xml:id="subtitle226">It's R. Azmi!</p>
+<p begin="7121200000t" end="7146000000t" region="top" style="normal" xml:id="subtitle227">-[Razak] What? R. Azmi?<br/>-Yes! Let's take a look!</p>
+<p begin="7146800000t" end="7163600000t" style="normal" xml:id="subtitle228">-Where is he?<br/>-Hey!</p>
+<p begin="7164400000t" end="7174000000t" style="normal" xml:id="subtitle229">Ouch!</p>
+<p begin="7176400000t" end="7197600000t" style="normal" xml:id="subtitle230">-[in Chinese] Hey, are you blind?<br/>-Razak?</p>
+<p begin="7209600000t" end="7228400000t" style="normal" xml:id="subtitle231">Of course I'm blind.</p>
+<p begin="7229600000t" end="7255200000t" style="normal" xml:id="subtitle232">[in Chinese] Sister!</p>
+<p begin="7288400000t" end="7296800000t" style="normal" xml:id="subtitle233">I'm sorry.</p>
+<p begin="7325600000t" end="7348400000t" style="normal" xml:id="subtitle234">[Razak] Budi. Budi!</p>
+<p begin="7359600000t" end="7391200000t" style="normal" xml:id="subtitle235">Where's my walking stick?</p>
+<p begin="7410000000t" end="7428000000t" style="normal" xml:id="subtitle236">Come here, Razak.</p>
+<p begin="7448000000t" end="7471200000t" style="normal" xml:id="subtitle237">Ouch. That really hurts.</p>
+<p begin="7486000000t" end="7498000000t" style="normal" xml:id="subtitle238">-Budi.<br/>-Here you go.</p>
+<p begin="7505600000t" end="7515200000t" style="normal" xml:id="subtitle239">Hey!</p>
+<p begin="7530400000t" end="7546400000t" style="normal" xml:id="subtitle240">Where did you get this photo of R. Azmi?</p>
+<p begin="7547200000t" end="7597200000t" style="normal" xml:id="subtitle241">["Helo Helo Sayang" is playing]</p>
+<p begin="7600400000t" end="7636400000t" style="normal" xml:id="subtitle242"><span style="normal_1">♪ Hello, hello, darling</span><br/><span style="normal_1">What is your problem ♪</span></p>
+<p begin="7637200000t" end="7658000000t" style="normal" xml:id="subtitle243"><span style="normal_1">-♪ Your voice is sulken ♪</span><br/>-Budi, it's hot.</p>
+<p begin="7658800000t" end="7698800000t" style="normal" xml:id="subtitle244"><span style="normal_1">-♪ As a woman suffers in love ♪</span><br/>Budi, slow down.</p>
+<p begin="7699600000t" end="7739600000t" style="normal" xml:id="subtitle245"><span style="normal_1">-♪ As a woman suffers in love ♪</span><br/>I walk in a slow pace.</p>
+<p begin="7740400000t" end="7754000000t" style="normal" xml:id="subtitle246"><span style="normal_1">♪ Hello, hello, darling ♪</span></p>
+<p begin="7754800000t" end="7783200000t" style="normal" xml:id="subtitle247">Razak, Mr. Salam is here.</p>
+<p begin="7784000000t" end="7805600000t" style="normal" xml:id="subtitle248">-Mr. Salam?<br/>-[indistinct chatter]</p>
+<p begin="7811600000t" end="7833200000t" style="normal" xml:id="subtitle249">-[Halim] He's brought a new girl.<br/>-[Razak] A new girl?</p>
+<p begin="7834000000t" end="7843600000t" style="normal" xml:id="subtitle250">[woman laughs]</p>
+<p begin="7844400000t" end="7855200000t" style="normal" xml:id="subtitle251">-Mr. Salam.<br/>-Hi.</p>
+<p begin="7870800000t" end="7888800000t" style="normal" xml:id="subtitle252">-Mr. Salam.<br/>-Over here.</p>
+<p begin="7889600000t" end="7904000000t" style="normal" xml:id="subtitle253">-Over there.<br/>-Mr. Salam.</p>
+<p begin="7908800000t" end="7924800000t" style="normal" xml:id="subtitle254">-How are you?<br/>-Good, Mr. Salam.</p>
+<p begin="7925600000t" end="7945600000t" style="normal" xml:id="subtitle255">[birds chirping]</p>
+<p begin="7946400000t" end="7954800000t" style="normal" xml:id="subtitle256">[sighs]</p>
+<p begin="7966400000t" end="7975200000t" style="normal" xml:id="subtitle257">What's your name?</p>
+<p begin="7978800000t" end="8010400000t" style="normal" xml:id="subtitle258">[mumbling]</p>
+<p begin="8035600000t" end="8067200000t" style="normal" xml:id="subtitle259">She's telling you<br/>that her name is Khatijah.</p>
+<p begin="8082800000t" end="8109200000t" style="normal" xml:id="subtitle260">-She's mute.<br/>-Yes.</p>
+<p begin="8127200000t" end="8166000000t" style="normal" xml:id="subtitle261">Khatijah let me show you how to do this.</p>
+<p begin="8196000000t" end="8208400000t" style="normal" xml:id="subtitle262">-Can you?<br/>-[clears throat]</p>
+<p begin="8209200000t" end="8229600000t" style="normal" xml:id="subtitle263">-Mak Tam.<br/>-Yes?</p>
+<p begin="8230400000t" end="8258400000t" style="normal" xml:id="subtitle264">-I'm going to the stadium tomorrow.<br/>-[Mak Tam] Really?</p>
+<p begin="8260800000t" end="8301200000t" style="normal" xml:id="subtitle265">I need your help to iron my new shirt.<br/>Please?</p>
+<p begin="8311200000t" end="8327200000t" style="normal" xml:id="subtitle266">-New shirt?<br/>-Yes.</p>
+<p begin="8350000000t" end="8365600000t" style="normal" xml:id="subtitle267">What's with this worn shirt?</p>
+<p begin="8366400000t" end="8392800000t" style="normal" xml:id="subtitle268">-Where did you get this from?<br/>-[all laughing]</p>
+<p begin="8393600000t" end="8425600000t" style="normal" xml:id="subtitle269">-Isn't it new?<br/>-It's worn out.</p>
+<p begin="8432000000t" end="8447600000t" style="normal" xml:id="subtitle270">Budi said he bought a new one.</p>
+<p begin="8455600000t" end="8485600000t" style="normal" xml:id="subtitle271">Don't believe everything he says.</p>
+<p begin="8494400000t" end="8509200000t" style="normal" xml:id="subtitle272">[Razak] How dare you?</p>
+<p begin="8520000000t" end="8552000000t" style="normal" xml:id="subtitle273">So you tricked me, did you?</p>
+<p begin="8552800000t" end="8578400000t" style="normal" xml:id="subtitle274">You're going to get it.</p>
+<p begin="8587600000t" end="8601200000t" style="normal" xml:id="subtitle275">Where's my walking stick?</p>
+<p begin="8602000000t" end="8629600000t" style="normal" xml:id="subtitle276">[all laughing]</p>
+<p begin="8630400000t" end="8638800000t" style="normal" xml:id="subtitle277">[Razak] Budi?</p>
+<p begin="8641200000t" end="8662000000t" style="normal" xml:id="subtitle278">-Mak Tam. [grunts]<br/>-Yes.</p>
+<p begin="8669200000t" end="8681600000t" style="normal" xml:id="subtitle279">I don't think...</p>
+<p begin="8692400000t" end="8712000000t" style="normal" xml:id="subtitle280">we'll be working tomorrow.</p>
+<p begin="8722000000t" end="8742400000t" style="normal" xml:id="subtitle281">[traditional festive song playing]</p>
+<p begin="8743200000t" end="8758400000t" style="normal" xml:id="subtitle282">[Budi] It stopped raining.</p>
+<p begin="8767600000t" end="8782400000t" style="normal" xml:id="subtitle283">[Razak] A blessing from the heavens.</p>
+<p begin="8797600000t" end="8836000000t" style="normal" xml:id="subtitle284"><span style="normal_1">♪ Waiting for people's desire ♪</span></p>
+<p begin="8836800000t" end="8872800000t" style="normal" xml:id="subtitle285"><span style="normal_1">♪ Many people saying a prayer ♪</span></p>
+<p begin="8873600000t" end="8906800000t" style="normal" xml:id="subtitle286"><span style="normal_1">-♪ Together waits for a happines ♪</span><br/>-[man] There are so many people!</p>
+<p begin="8907600000t" end="8928800000t" style="normal" xml:id="subtitle287">Excuse me.</p>
+<p begin="8938000000t" end="8946400000t" style="normal" xml:id="subtitle288">Excuse me.</p>
+<p begin="8962000000t" end="8984000000t" style="normal" xml:id="subtitle289">-Please excuse us.<br/>-Sure.</p>
+<p begin="9014400000t" end="9044000000t" style="normal" xml:id="subtitle290">-Budi, who's out there?<br/>-<span style="normal_1">Her Majesty...</span></p>
+<p begin="9044800000t" end="9062400000t" style="normal" xml:id="subtitle291">-Many different people.<br/>-Really?</p>
+<p begin="9063200000t" end="9087200000t" style="normal" xml:id="subtitle292">There are soldiers and all the Sultans.</p>
+<p begin="9088000000t" end="9106000000t" style="normal" xml:id="subtitle293">Even the ministers<br/>accompanying the white men.</p>
+<p begin="9106800000t" end="9135200000t" style="normal" xml:id="subtitle294">-This is so exciting.<br/>-[Prince Henry] It is with great honor</p>
+<p begin="9136000000t" end="9181200000t" style="normal" xml:id="subtitle295">that I officially hand over<br/>the constitution of Malaya's independence</p>
+<p begin="9182000000t" end="9239200000t" style="normal" xml:id="subtitle296">to the honorable Prime Minister as a<br/>representative of the people of Malaya.</p>
+<p begin="9275200000t" end="9298800000t" style="normal" xml:id="subtitle297">[people cheering and clapping]</p>
+<p begin="9490800000t" end="9527200000t" style="normal" xml:id="subtitle298">That's Tunku!<br/>He's about to give his speech.</p>
+<p begin="9533200000t" end="9578800000t" style="normal" xml:id="subtitle299">In the name of God the most merciful<br/>and most compassionate,</p>
+<p begin="9583600000t" end="9631200000t" style="normal" xml:id="subtitle300">now, the time has come</p>
+<p begin="9632000000t" end="9664800000t" style="normal" xml:id="subtitle301">for the Malay federation</p>
+<p begin="9665600000t" end="9730800000t" style="normal" xml:id="subtitle302">to achieve a status of independence</p>
+<p begin="9731600000t" end="9785200000t" style="normal" xml:id="subtitle303">same as the rest of the sovereign nations.</p>
+<p begin="9794800000t" end="9812800000t" style="normal" xml:id="subtitle304">-Aren't there any empty seats?<br/>-[Tunku] Indeed,</p>
+<p begin="9813600000t" end="9848800000t" style="normal" xml:id="subtitle305">-My legs are getting tired.<br/>-with said agreements</p>
+<p begin="9850000000t" end="9880400000t" style="normal" xml:id="subtitle306">-I can't see any. They're all taken.<br/>-marks the end of Federation</p>
+<p begin="9881200000t" end="9902000000t" style="normal" xml:id="subtitle307">-I don't even mind squatting.<br/>-of Malaya Agreement</p>
+<p begin="9902800000t" end="9921200000t" style="normal" xml:id="subtitle308">that has been made between...</p>
+<p begin="9922000000t" end="9948000000t" style="normal" xml:id="subtitle309">-You can ask people to get up<br/>-His Royal Highness,</p>
+<p begin="9948800000t" end="9976800000t" style="normal" xml:id="subtitle310">-from their seats, can't you?<br/>-Malay Sultans...</p>
+<p begin="9977600000t" end="9997600000t" style="normal" xml:id="subtitle311">[romantic music plays]</p>
+<p begin="10043200000t" end="10051600000t" style="normal" xml:id="subtitle312">Hey.</p>
+<p begin="10052400000t" end="10112800000t" style="normal" xml:id="subtitle313">[Tunku] Happiness of its people and<br/>maintenance of a just peace among nations.</p>
+<p begin="10120800000t" end="10137200000t" style="normal" xml:id="subtitle314">[crowd cheering]</p>
+<p begin="10138000000t" end="10164800000t" style="normal" xml:id="subtitle315">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10168800000t" end="10202000000t" style="normal" xml:id="subtitle316">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10202800000t" end="10229600000t" style="normal" xml:id="subtitle317">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10230400000t" end="10260400000t" style="normal" xml:id="subtitle318">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10261199999t" end="10284400000t" style="normal" xml:id="subtitle319">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10285200000t" end="10309200000t" style="normal" xml:id="subtitle320">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10313599999t" end="10340400000t" style="normal" xml:id="subtitle321">-Happy independence!<br/>-Happy independence!</p>
+<p begin="10402800000t" end="10420799999t" style="normal" xml:id="subtitle322">[Razak] Why are we in a hurry?</p>
+<p begin="10421600000t" end="10450000000t" style="normal" xml:id="subtitle323">-You go home first. I want to stay here.<br/>-Just follow me!</p>
+<p begin="10450799999t" end="10468399999t" style="normal" xml:id="subtitle324">[exclaims] Hey!</p>
+<p begin="10469200000t" end="10494800000t" style="normal" xml:id="subtitle325">-Thief! How dare you?<br/>-[speaking Chinese]</p>
+<p begin="10495600000t" end="10514800000t" style="normal" xml:id="subtitle326">[in Chinese] Help!</p>
+<p begin="10515600000t" end="10540800000t" style="normal" xml:id="subtitle327">-Get lost!<br/>-He ran away?</p>
+<p begin="10546400000t" end="10560400000t" style="normal" xml:id="subtitle328">[girl 1 in Chinese] Are you alright?</p>
+<p begin="10562800000t" end="10585200000t" style="normal" xml:id="subtitle329">-[girl 2 in Chinese] I'm fine.<br/>-It's hers.</p>
+<p begin="10606800000t" end="10624000000t" style="normal" xml:id="subtitle330">Miss, is this yours?</p>
+<p begin="10630400000t" end="10643600000t" style="normal" xml:id="subtitle331">[in Chinese] Thank him.</p>
+<p begin="10644400000t" end="10666800000t" style="normal" xml:id="subtitle332">-[in Malay] Thank you.<br/>-You're welcome.</p>
+<p begin="10667600000t" end="10684400000t" style="normal" xml:id="subtitle333">-And you are?<br/>-[stuttering]</p>
+<p begin="10685200000t" end="10718400000t" style="normal" xml:id="subtitle334">My name is Budi. This is my friend, Razak.</p>
+<p begin="10719200000t" end="10727600000t" style="normal" xml:id="subtitle335">I'm Razak.</p>
+<p begin="10729200000t" end="10761200000t" style="normal" xml:id="subtitle336">-Hey. I think I've seen you both before.<br/>-Hey.</p>
+<p begin="10762000000t" end="10770400000t" style="normal" xml:id="subtitle337">He's blind.</p>
+<p begin="10790400000t" end="10802000000t" style="normal" xml:id="subtitle338">[chuckles]</p>
+<p begin="10802800000t" end="10832400000t" style="normal" xml:id="subtitle339">I remember. At the Turf Club yesterday.</p>
+<p begin="10833200000t" end="10852400000t" style="normal" xml:id="subtitle340">-Yes.<br/>-Thank you very much.</p>
+<p begin="10853200000t" end="10870000000t" style="normal" xml:id="subtitle341">-[in Chinese] Let's go.<br/>-Okay.</p>
+<p begin="10870800000t" end="10881200000t" style="normal" xml:id="subtitle342">Miss.</p>
+<p begin="10895200000t" end="10930400000t" style="normal" xml:id="subtitle343">I heard your mom calling you "Aci".</p>
+<p begin="10931200000t" end="10947600000t" style="normal" xml:id="subtitle344">[giggles] No.</p>
+<p begin="10954400000t" end="10965600000t" style="normal" xml:id="subtitle345">My name is Lily.</p>
+<p begin="10966400000t" end="11029600000t" style="normal" xml:id="subtitle346">If you don't mind I would like to...<br/>meet you again this weekend.</p>
+<p begin="11037600000t" end="11064800000t" style="normal" xml:id="subtitle347">We're planning to watch a movie<br/>at the cinema this weekend.</p>
+<p begin="11065600000t" end="11087200000t" style="normal" xml:id="subtitle348">-[in Chinese] Sis, dad's waiting for us.<br/>-[honking]</p>
+<p begin="11088000000t" end="11116800000t" style="normal" xml:id="subtitle349">-[in Chinese] Come on.<br/><span style="normal_1">-♪ At the garden ♪</span></p>
+<p begin="11127600000t" end="11158800000t" style="normal" xml:id="subtitle350"><span style="normal_1">-♪ Where is it ♪</span><br/>-Who was that, Budi?</p>
+<p begin="11161200000t" end="11181200000t" style="normal" xml:id="subtitle351"><span style="normal_1">♪ Where is the person ♪</span></p>
+<p begin="11182000000t" end="11191600000t" style="normal" xml:id="subtitle352">[speaking Chinese]</p>
+<p begin="11215200000t" end="11225200000t" style="normal" xml:id="subtitle353">My future wife.</p>
+<p begin="11232800000t" end="11253600000t" style="normal" xml:id="subtitle354">-Your future wife? What about mine?<br/>-Yes.</p>
+<p begin="11254400000t" end="11266000000t" style="normal" xml:id="subtitle355">Of course you have one.</p>
+<p begin="11271600000t" end="11289600000t" style="normal" xml:id="subtitle356">[Budi] Here's your future.</p>
+<p begin="11290400000t" end="11308400000t" style="normal" xml:id="subtitle357">[coins clinking]</p>
+<p begin="11309200000t" end="11327600000t" style="normal" xml:id="subtitle358">[Razak] Get real, Budi.</p>
+<p begin="11333200000t" end="11363600000t" style="normal" xml:id="subtitle359">She said she wants to watch a movie.<br/>It's so hard to get the coins out.</p>
+<p begin="11370400000t" end="11401600000t" style="normal" xml:id="subtitle360">She did but not with you.</p>
+<p begin="11414000000t" end="11465600000t" style="normal" xml:id="subtitle361">What movie do you think she'll watch?</p>
+<p begin="11482000000t" end="11494000000t" style="normal" xml:id="subtitle362"><span style="normal_1">Tarzan?</span></p>
+<p begin="11506800000t" end="11518000000t" style="normal" xml:id="subtitle363">A Hindi film?</p>
+<p begin="11526800000t" end="11552800000t" style="normal" xml:id="subtitle364">Why don't you come along<br/>and watch a movie with me?</p>
+<p begin="11553600000t" end="11579600000t" style="normal" xml:id="subtitle365">I'm shy, it feels awkward to go alone.</p>
+<p begin="11581600000t" end="11592800000t" style="normal" xml:id="subtitle366">I don't want to.</p>
+<p begin="11595200000t" end="11626800000t" style="normal" xml:id="subtitle367">You want to get the girl?<br/>You got to get her by yourself.</p>
+<p begin="11632800000t" end="11652800000t" style="normal" xml:id="subtitle368">[groans] I'm going to bed.</p>
+<p begin="11653600000t" end="11662000000t" style="normal" xml:id="subtitle369">Ouch.</p>
+<p begin="11698800000t" end="11712400000t" style="normal" xml:id="subtitle370">["Kalau Mau Kenal" playing]</p>
+<p begin="11713200000t" end="11748000000t" style="normal" xml:id="subtitle371"><span style="normal_1">♪ If you want to know ♪</span></p>
+<p begin="11748800000t" end="11790800000t" style="normal" xml:id="subtitle372"><span style="normal_1">♪ Which one is langsat leaves</span><br/><span style="normal_1">Which one is henna leaves ♪</span></p>
+<p begin="11791600000t" end="11831600000t" style="normal" xml:id="subtitle373"><span style="normal_1">♪ Which one is the white ant</span><br/><span style="normal_1">Which one is termite ♪</span></p>
+<p begin="11832400000t" end="11870400000t" style="normal" xml:id="subtitle374"><span style="normal_1">♪ Which one is roti prata</span><br/><span style="normal_1">Which one is roti canai ♪</span></p>
+<p begin="11871200000t" end="11892400000t" style="normal" xml:id="subtitle375"><span style="normal_1">♪ Oh, my goodness ♪</span></p>
+<p begin="11893200000t" end="11916000000t" style="normal" xml:id="subtitle376">[clock ticking]</p>
+<p begin="11928800000t" end="11947600000t" style="normal" xml:id="subtitle377">[Budi] <span style="normal_1">It's already noon.</span></p>
+<p begin="11962400000t" end="11984400000t" style="normal" xml:id="subtitle378"><span style="normal_1">Could she be watching the evening show?</span></p>
+<p begin="11985200000t" end="12006800000t" style="normal" xml:id="subtitle379"><span style="normal_1">♪ Which one is roti prata ♪</span></p>
+<p begin="12007600000t" end="12016000000t" style="normal" xml:id="subtitle380"><span style="normal_1">I'll wait.</span></p>
+<p begin="12020000000t" end="12052800000t" style="normal" xml:id="subtitle381"><span style="normal_1">He must be love-struck!</span></p>
+<p begin="12062400000t" end="12089200000t" style="normal" xml:id="subtitle382">[clock ticking]</p>
+<p begin="12099200000t" end="12146400000t" style="normal" xml:id="subtitle383"><span style="normal_1">Maybe Razak was right.</span></p>
+<p begin="12147200000t" end="12172000000t" style="normal" xml:id="subtitle384">[Razak] <span style="normal_1">Get real, Budi.</span></p>
+<p begin="12172800000t" end="12199600000t" style="normal" xml:id="subtitle385">[clock ticking]</p>
+<p begin="12200400000t" end="12215200000t" style="normal" xml:id="subtitle386"><span style="normal_1">I should just go home.</span></p>
+<p begin="12216400000t" end="12240800000t" style="normal" xml:id="subtitle387"><span style="normal_1">-What a waste of money.</span><br/>-[speaking in Chinese]</p>
+<p begin="12243600000t" end="12262000000t" style="normal" xml:id="subtitle388">-Hey!<br/>-Oh, God.</p>
+<p begin="12262800000t" end="12294800000t" style="normal" xml:id="subtitle389">-Miss Lily. Thank you. Glad you could...<br/>-Huh.</p>
+<p begin="12295600000t" end="12321200000t" style="normal" xml:id="subtitle390"><span style="normal_1">Darn, her nosy sister is here too.</span></p>
+<p begin="12322000000t" end="12332400000t" style="normal" xml:id="subtitle391">You're Budi, right?</p>
+<p begin="12333200000t" end="12387200000t" style="normal" xml:id="subtitle392">[in Chinese]<br/><span style="normal_1">Not him again. But he looks cute.</span></p>
+<p begin="12390400000t" end="12414400000t" style="normal" xml:id="subtitle393">I bought two tickets.</p>
+<p begin="12415200000t" end="12450800000t" style="normal" xml:id="subtitle394">Thank you so much, Mr. Budi.</p>
+<p begin="12451600000t" end="12496400000t" style="normal" xml:id="subtitle395">-One good turn deserves another.<br/>-[Lily giggles]</p>
+<p begin="12497200000t" end="12530400000t" style="normal" xml:id="subtitle396">[clock ticking]</p>
+<p begin="12567200000t" end="12621600000t" style="normal" xml:id="subtitle397">[people chattering indistinctly]</p>
+<p begin="12625200000t" end="12663600000t" style="normal" xml:id="subtitle398">[speaking in Chinese]</p>
+<p begin="12664400000t" end="12718400000t" style="normal" xml:id="subtitle399">[speaking in Chinese]</p>
+<p begin="12719200000t" end="12735600000t" style="normal" xml:id="subtitle400">-Miss Lily.<br/>-Huh?</p>
+<p begin="12742000000t" end="12766800000t" style="normal" xml:id="subtitle401">-How was the movie? Was it fun?<br/>-[Lily sighs]</p>
+<p begin="12772000000t" end="12809600000t" style="normal" xml:id="subtitle402">Very much. Such a shame you missed it.</p>
+<p begin="12810400000t" end="12819600000t" style="normal" xml:id="subtitle403">[grunts]</p>
+<p begin="12824000000t" end="12834800000t" style="normal" xml:id="subtitle404">It was enjoyable.</p>
+<p begin="12835600000t" end="12860800000t" style="normal" xml:id="subtitle405">-But--<br/>-Never mind.</p>
+<p begin="12861600000t" end="12897200000t" style="normal" xml:id="subtitle406">-May I take you to your home?<br/>-Wow, you have a car?</p>
+<p begin="12907600000t" end="12928000000t" style="normal" xml:id="subtitle407">No, I don't, but we can walk.</p>
+<p begin="12928800000t" end="12947600000t" style="normal" xml:id="subtitle408">-[giggles]<br/>-Shall we?</p>
+<p begin="12948400000t" end="12974800000t" style="normal" xml:id="subtitle409">-[in Chinese] Serves you right.<br/>-Hmm.</p>
+<p begin="12975600000t" end="13018400000t" style="normal" xml:id="subtitle410">All right. We accept your offer.</p>
+<p begin="13024400000t" end="13041200000t" style="normal" xml:id="subtitle411">-[speaking in Chinese]<br/>-[sighs]</p>
+<p begin="13049600000t" end="13078000000t" style="normal" xml:id="subtitle412">-Miss Lily. I found this picture.<br/>-[birds chirping]</p>
+<p begin="13078800000t" end="13118400000t" style="normal" xml:id="subtitle413">Hey! I thought I'd lost this.<br/>So you were the one who stole it.</p>
+<p begin="13119200000t" end="13147200000t" style="normal" xml:id="subtitle414">I did not. I found the picture.</p>
+<p begin="13151200000t" end="13184800000t" style="normal" xml:id="subtitle415">You must have dropped it.<br/>You're lucky that I found it.</p>
+<p begin="13185600000t" end="13206400000t" style="normal" xml:id="subtitle416">-[Lily giggles]<br/>-Thanks a lot.</p>
+<p begin="13212400000t" end="13246400000t" style="normal" xml:id="subtitle417">Looks like we have<br/>another R. Azmi fan here.</p>
+<p begin="13284400000t" end="13322400000t" style="normal" xml:id="subtitle418">Miss Lily.<br/>Actually, I like P. Ramlee more.</p>
+<p begin="13332000000t" end="13342800000t" style="normal" xml:id="subtitle419">-Really?<br/>-Yes.</p>
+<p begin="13343600000t" end="13361600000t" style="normal" xml:id="subtitle420">I'm also a fan of P. Ramlee.</p>
+<p begin="13362400000t" end="13380400000t" style="normal" xml:id="subtitle421">-Really?<br/>-I like him so much!</p>
+<p begin="13381200000t" end="13401200000t" style="normal" xml:id="subtitle422">-R. Azmi is better.<br/>-He's not.</p>
+<p begin="13402000000t" end="13428000000t" style="normal" xml:id="subtitle423">I have a lot of P. Ramlee pictures.<br/>They're even autographed.</p>
+<p begin="13428800000t" end="13460800000t" style="normal" xml:id="subtitle424">R. Azmi's picture<br/>is nothing compared to it.</p>
+<p begin="13461600000t" end="13486000000t" style="normal" xml:id="subtitle425">-Wow, where did you get them?<br/>-[laughs]</p>
+<p begin="13499600000t" end="13510400000t" style="normal" xml:id="subtitle426">A while back.</p>
+<p begin="13519200000t" end="13543200000t" style="normal" xml:id="subtitle427">When I was at...</p>
+<p begin="13551200000t" end="13560000000t" style="normal" xml:id="subtitle428">um...</p>
+<p begin="13562400000t" end="13572400000t" style="normal" xml:id="subtitle429">The Majestic.</p>
+<p begin="13583200000t" end="13627200000t" style="normal" xml:id="subtitle430">If we can meet again,<br/>I wouldn't mind giving you those pictures.</p>
+<p begin="13637200000t" end="13657600000t" style="normal" xml:id="subtitle431">[giggles]</p>
+<p begin="13660800000t" end="13672000000t" style="normal" xml:id="subtitle432">Who's Ramlee?</p>
+<p begin="13672800000t" end="13704800000t" style="normal" xml:id="subtitle433">-[crickets chirping]<br/>-Don't ask. Just sign this.</p>
+<p begin="13714800000t" end="13754800000t" style="normal" xml:id="subtitle434">If I were to sign it,<br/>she will recognize my handwriting.</p>
+<p begin="13763600000t" end="13772000000t" style="normal" xml:id="subtitle435">Huh.</p>
+<p begin="13820800000t" end="13833200000t" style="normal" xml:id="subtitle436">-Razak.<br/>-Yes.</p>
+<p begin="13854800000t" end="13872800000t" style="normal" xml:id="subtitle437">She wants to see me again tomorrow.</p>
+<p begin="13873600000t" end="13889200000t" style="normal" xml:id="subtitle438">[laughs]</p>
+<p begin="13890000000t" end="13904000000t" style="normal" xml:id="subtitle439">-She wants to meet you?<br/>-Yes.</p>
+<p begin="13912400000t" end="13948800000t" style="normal" xml:id="subtitle440">Budi. It takes two to tango.</p>
+<p begin="13964400000t" end="13976000000t" style="normal" xml:id="subtitle441">There's a sound, right?</p>
+<p begin="13978400000t" end="14001600000t" style="normal" xml:id="subtitle442">But there will be no sound if you clap...</p>
+<p begin="14012000000t" end="14022800000t" style="normal" xml:id="subtitle443">with just one hand.</p>
+<p begin="14023600000t" end="14055600000t" style="normal" xml:id="subtitle444">-You're saying the feeling isn't mutual?<br/>-Yes.</p>
+<p begin="14062400000t" end="14070800000t" style="normal" xml:id="subtitle445">Listen.</p>
+<p begin="14079200000t" end="14112000000t" style="normal" xml:id="subtitle446">Don't be jealous<br/>when she's head over heels over me.</p>
+<p begin="14112800000t" end="14121200000t" style="normal" xml:id="subtitle447">Yeah, right.</p>
+<p begin="14122000000t" end="14146800000t" style="normal" xml:id="subtitle448">[birds chirping]</p>
+<p begin="14195600000t" end="14229600000t" style="normal" xml:id="subtitle449">-Miss Lily! You made it.<br/>-Yes.</p>
+<p begin="14236400000t" end="14265200000t" style="normal" xml:id="subtitle450">-[clears throat]<br/>-I'm sorry that I kept you waiting.</p>
+<p begin="14269200000t" end="14285200000t" style="normal" xml:id="subtitle451">I wanted to come, but...</p>
+<p begin="14291600000t" end="14351600000t" style="normal" xml:id="subtitle452">It's all right.<br/>I'm glad you actually turned up.</p>
+<p begin="14354800000t" end="14365600000t" style="normal" xml:id="subtitle453">-[giggles]<br/>-[chuckles]</p>
+<p begin="14372400000t" end="14398400000t" style="normal" xml:id="subtitle454">-Have a seat.<br/>-Thanks.</p>
+<p begin="14399200000t" end="14420400000t" style="normal" xml:id="subtitle455">-[birds chirping]<br/>-Hmm...</p>
+<p begin="14422800000t" end="14481600000t" style="normal" xml:id="subtitle456">This is the picture<br/>that I promised to give to you.</p>
+<p begin="14498000000t" end="14506800000t" style="normal" xml:id="subtitle457">Huh?</p>
+<p begin="14516800000t" end="14541600000t" style="normal" xml:id="subtitle458">Why does his signature look so ugly?</p>
+<p begin="14548400000t" end="14575600000t" style="normal" xml:id="subtitle459">[stuttering]</p>
+<p begin="14576400000t" end="14633600000t" style="normal" xml:id="subtitle460">Anyway, I'm here not just for the picture.</p>
+<p begin="14643600000t" end="14655600000t" style="normal" xml:id="subtitle461">[Budi laughs nervously]</p>
+<p begin="14698800000t" end="14708000000t" style="normal" xml:id="subtitle462">[laughs nervously]</p>
+<p begin="14708800000t" end="14726800000t" style="normal" xml:id="subtitle463">Why are you looking at me like that?</p>
+<p begin="14727600000t" end="14740800000t" style="normal" xml:id="subtitle464">[laugh nervously]</p>
+<p begin="14765600000t" end="14788800000t" style="normal" xml:id="subtitle465">Don't be mistaken<br/>that I'm admiring your looks.</p>
+<p begin="14789600000t" end="14810800000t" style="normal" xml:id="subtitle466">Your glasses left marks on your nose.</p>
+<p begin="14811600000t" end="14821600000t" style="normal" xml:id="subtitle467">Really?</p>
+<p begin="14826400000t" end="14838800000t" style="normal" xml:id="subtitle468">You're so mean!</p>
+<p begin="14839600000t" end="14872800000t" style="normal" xml:id="subtitle469">-[sighs]<br/>-[birds chirping]</p>
+<p begin="14877200000t" end="14886000000t" style="normal" xml:id="subtitle470">[hums in thought]</p>
+<p begin="14893600000t" end="14928400000t" style="normal" xml:id="subtitle471">Tell me something interesting<br/>about yourself.</p>
+<p begin="14968800000t" end="14994800000t" style="normal" xml:id="subtitle472">My birthday...</p>
+<p begin="15008400000t" end="15020400000t" style="normal" xml:id="subtitle473">occurs...</p>
+<p begin="15036800000t" end="15056800000t" style="normal" xml:id="subtitle474">very rarely.</p>
+<p begin="15062000000t" end="15071200000t" style="normal" xml:id="subtitle475">Huh?</p>
+<p begin="15076800000t" end="15122400000t" style="normal" xml:id="subtitle476">-My birthday is on the 29th of February.<br/>-Huh?</p>
+<p begin="15130000000t" end="15145200000t" style="normal" xml:id="subtitle477">-The 29th of February?<br/>-Yes.</p>
+<p begin="15146000000t" end="15163200000t" style="normal" xml:id="subtitle478">-A leap year?<br/>-Yes.</p>
+<p begin="15164000000t" end="15196000000t" style="normal" xml:id="subtitle479">-Petal--<br/>-What? You mean the flower petal?</p>
+<p begin="15196800000t" end="15215600000t" style="normal" xml:id="subtitle480">-[laughs]<br/>-You're lying!</p>
+<p begin="15231600000t" end="15264400000t" style="normal" xml:id="subtitle481">-Too bad it occurs once every four years.<br/>-Why would I lie about my birthday?</p>
+<p begin="15265200000t" end="15280800000t" style="normal" xml:id="subtitle482">Because it's too close to mine.</p>
+<p begin="15284800000t" end="15316400000t" style="normal" xml:id="subtitle483">-Are you serious?<br/>-Yes, I am.</p>
+<p begin="15320000000t" end="15332400000t" style="normal" xml:id="subtitle484">When is your birthday?</p>
+<p begin="15333200000t" end="15347200000t" style="normal" xml:id="subtitle485">Just a day away from yours.</p>
+<p begin="15349600000t" end="15376800000t" style="normal" xml:id="subtitle486">-The 28th or the 27th?<br/>-No.</p>
+<p begin="15386800000t" end="15406400000t" style="normal" xml:id="subtitle487">-First of March?<br/>-Yes.</p>
+<p begin="15407200000t" end="15419600000t" style="normal" xml:id="subtitle488">You're lying!</p>
+<p begin="15420400000t" end="15447600000t" style="normal" xml:id="subtitle489">-No, you're lying.<br/>-I'm telling you the truth.</p>
+<p begin="15448400000t" end="15459200000t" style="normal" xml:id="subtitle490">-Really?<br/>-Yes.</p>
+<p begin="15460400000t" end="15479600000t" style="normal" xml:id="subtitle491">So you don't celebrate<br/>your birthday often?</p>
+<p begin="15480400000t" end="15512400000t" style="normal" xml:id="subtitle492">I guess that's why when we met,</p>
+<p begin="15522400000t" end="15551200000t" style="normal" xml:id="subtitle493">we were attracted to each other.</p>
+<p begin="15556400000t" end="15580400000t" style="normal" xml:id="subtitle494">-[giggles] That's what you think.<br/>-I think so.</p>
+<p begin="15599200000t" end="15620000000t" style="normal" xml:id="subtitle495">-[sighs]<br/>-I'm just kidding.</p>
+<p begin="15628000000t" end="15650000000t" style="normal" xml:id="subtitle496">So, tell me something interesting<br/>about you.</p>
+<p begin="15656000000t" end="15678000000t" style="normal" xml:id="subtitle497">-I like music.<br/>-Really?</p>
+<p begin="15684400000t" end="15710400000t" style="normal" xml:id="subtitle498">-My ambition is to be a singer.<br/>-I see.</p>
+<p begin="15722000000t" end="15732000000t" style="normal" xml:id="subtitle499">But...</p>
+<p begin="15753200000t" end="15770400000t" style="normal" xml:id="subtitle500">[dog barks]</p>
+<p begin="15862000000t" end="15884000000t" style="normal" xml:id="subtitle501">[door squeaks]</p>
+<p begin="15992400000t" end="16000800000t" style="normal" xml:id="subtitle502">[gasps]</p>
+<p begin="16010000000t" end="16038800000t" style="normal" xml:id="subtitle503">[in Chinese] Uncle Hew came earlier<br/>to discuss something with you.</p>
+<p begin="16039600000t" end="16051600000t" style="normal" xml:id="subtitle504">But you were not here.</p>
+<p begin="16066400000t" end="16078000000t" style="normal" xml:id="subtitle505">[bell rings]</p>
+<p begin="16078800000t" end="16113200000t" style="normal" xml:id="subtitle506"><span style="normal_1">♪ If you miss me ♪</span></p>
+<p begin="16114000000t" end="16141600000t" style="normal" xml:id="subtitle507"><span style="normal_1">♪ Call out my name ♪</span></p>
+<p begin="16148400000t" end="16157200000t" style="normal" xml:id="subtitle508">[in Chinese]<br/>Sis.</p>
+<p begin="16173600000t" end="16191200000t" style="normal" xml:id="subtitle509">Are you going out<br/>with that Malay boy again?</p>
+<p begin="16192000000t" end="16232000000t" style="normal" xml:id="subtitle510">[in Chinese] None of your business.<br/>Don't tell Dad. You go home first.</p>
+<p begin="16232800000t" end="16286800000t" style="normal" xml:id="subtitle511"><span style="normal_1">-♪ If you love me, don't you worry ♪</span><br/>-[people chattering indistinctly]</p>
+<p begin="16291600000t" end="16311600000t" style="normal" xml:id="subtitle512">-Have you been waiting long?<br/>-Hey.</p>
+<p begin="16312400000t" end="16336400000t" style="normal" xml:id="subtitle513">-No. Shall we go?<br/>-<span style="normal_1">♪ When the moon shines ♪</span></p>
+<p begin="16337200000t" end="16349200000t" style="normal" xml:id="subtitle514"><span style="normal_1">♪ I see your face ♪</span></p>
+<p begin="16350000000t" end="16374400000t" style="normal" xml:id="subtitle515">Where are we going with this guitar?<br/>Why are they stopping here?</p>
+<p begin="16378400000t" end="16386800000t" style="normal" xml:id="subtitle516">You'll see.</p>
+<p begin="16393600000t" end="16430800000t" style="normal" xml:id="subtitle517">[Budi] Every time I come here,<br/>I am reminded of my father...</p>
+<p begin="16431600000t" end="16449600000t" style="normal" xml:id="subtitle518">[birds chirping]</p>
+<p begin="16450400000t" end="16460400000t" style="normal" xml:id="subtitle519">And my mother.</p>
+<p begin="16532000000t" end="16556000000t" style="normal" xml:id="subtitle520">It feels like they're still here.</p>
+<p begin="16602400000t" end="16627200000t" style="normal" xml:id="subtitle521">That's why I keep coming back...</p>
+<p begin="16640800000t" end="16666800000t" style="normal" xml:id="subtitle522">to this place.</p>
+<p begin="16671600000t" end="16681600000t" style="normal" xml:id="subtitle523">Hmm.</p>
+<p begin="16714800000t" end="16726800000t" style="normal" xml:id="subtitle524">Unlike me.</p>
+<p begin="16740000000t" end="16770000000t" style="normal" xml:id="subtitle525">My home is like a cocoon.</p>
+<p begin="16779200000t" end="16815600000t" style="normal" xml:id="subtitle526">Maybe you feel much safer<br/>and more peaceful...</p>
+<p begin="16831200000t" end="16843200000t" style="normal" xml:id="subtitle527">when you stay at home.</p>
+<p begin="16868800000t" end="16898800000t" style="normal" xml:id="subtitle528">We live in two different worlds.</p>
+<p begin="16904400000t" end="16915200000t" style="normal" xml:id="subtitle529">One fine day...</p>
+<p begin="16937600000t" end="16954800000t" style="normal" xml:id="subtitle530">I would like to refurbish this house.</p>
+<p begin="16955600000t" end="16970800000t" style="normal" xml:id="subtitle531">-Any suggestions?<br/>-Really?</p>
+<p begin="16971600000t" end="17013200000t" style="normal" xml:id="subtitle532">-If you ask for my opinion...<br/>-[Budi whispers] Suddenly, she's serious.</p>
+<p begin="17014000000t" end="17034000000t" style="normal" xml:id="subtitle533">Let me see...</p>
+<p begin="17038800000t" end="17084000000t" style="normal" xml:id="subtitle534">-Over here, Budi.<br/>-Go upstairs? What?</p>
+<p begin="17094400000t" end="17111200000t" style="normal" xml:id="subtitle535">The garden at the front.</p>
+<p begin="17112000000t" end="17121600000t" style="normal" xml:id="subtitle536">If we...</p>
+<p begin="17130400000t" end="17180400000t" style="normal" xml:id="subtitle537">I mean, if you grow flowers there,<br/>it will look beautiful.</p>
+<p begin="17208000000t" end="17222000000t" style="normal" xml:id="subtitle538">You like flowers?</p>
+<p begin="17240000000t" end="17254800000t" style="normal" xml:id="subtitle539">What kind of flower do you like?</p>
+<p begin="17255600000t" end="17267600000t" style="normal" xml:id="subtitle540">Take a guess.</p>
+<p begin="17275600000t" end="17286000000t" style="normal" xml:id="subtitle541">-Guess?<br/>-Yes.</p>
+<p begin="17298400000t" end="17346400000t" style="normal" xml:id="subtitle542">-The flower that I like has many colors.<br/>-I see.</p>
+<p begin="17354000000t" end="17393600000t" style="normal" xml:id="subtitle543">The flower is beautiful.</p>
+<p begin="17394400000t" end="17424400000t" style="normal" xml:id="subtitle544">-Beautiful?<br/>-It has a beautiful name as well.</p>
+<p begin="17431600000t" end="17442400000t" style="normal" xml:id="subtitle545">Just like...</p>
+<p begin="17446400000t" end="17465200000t" style="normal" xml:id="subtitle546">-I know.<br/>-Hmm?</p>
+<p begin="17466000000t" end="17485600000t" style="normal" xml:id="subtitle547">It must be...</p>
+<p begin="17486400000t" end="17496400000t" style="normal" xml:id="subtitle548">Lantana camara.</p>
+<p begin="17497200000t" end="17519200000t" style="normal" xml:id="subtitle549">You're so mean!</p>
+<p begin="17520000000t" end="17543200000t" style="normal" xml:id="subtitle550">-I know, it's lilies.<br/>-Hmph.</p>
+<p begin="17544000000t" end="17557200000t" style="normal" xml:id="subtitle551">-Come here.<br/>-What?</p>
+<p begin="17558000000t" end="17576000000t" style="normal" xml:id="subtitle552">-I don't want to.<br/>-Come here.</p>
+<p begin="17576800000t" end="17606400000t" style="normal" xml:id="subtitle553">I would like to show you<br/>something special. Come with me.</p>
+<p begin="17614000000t" end="17652000000t" style="normal" xml:id="subtitle554">-[whispers] Come with me.<br/>-It's getting dark. Where are we going?</p>
+<p begin="17652800000t" end="17684800000t" style="normal" xml:id="subtitle555">Just for a while. Come with me.</p>
+<p begin="17711200000t" end="17728800000t" style="normal" xml:id="subtitle556">Budi, it's getting late.</p>
+<p begin="17729600000t" end="17753600000t" style="normal" xml:id="subtitle557">My father will be furious<br/>if I'm not home soon.</p>
+<p begin="17754400000t" end="17769200000t" style="normal" xml:id="subtitle558">Bear with me for a while.</p>
+<p begin="17774000000t" end="17818800000t" style="normal" xml:id="subtitle559">You can only see this once it gets dark.</p>
+<p begin="17819600000t" end="17849600000t" style="normal" xml:id="subtitle560">[crickets chirping]</p>
+<p begin="17850400000t" end="17900400000t" style="normal" xml:id="subtitle561">[romantic music playing]</p>
+<p begin="17954000000t" end="17993200000t" style="normal" xml:id="subtitle562">It's so beautiful.</p>
+<p begin="18007600000t" end="18020400000t" style="normal" xml:id="subtitle563">My mother once told me...</p>
+<p begin="18040400000t" end="18055600000t" style="normal" xml:id="subtitle564">that fireflies shine bright...</p>
+<p begin="18072800000t" end="18104000000t" style="normal" xml:id="subtitle565">to guide other fireflies in darkness.</p>
+<p begin="18181600000t" end="18217600000t" style="normal" xml:id="subtitle566">If they could speak,<br/>this is what they would say.</p>
+<p begin="18284000000t" end="18348000000t" style="normal" xml:id="subtitle567"><span style="normal_1">♪ When dusk ends the day ♪</span></p>
+<p begin="18348800000t" end="18414000000t" style="normal" xml:id="subtitle568"><span style="normal_1">♪ When clouds hide the stars ♪</span></p>
+<p begin="18414800000t" end="18472800000t" style="normal" xml:id="subtitle569"><span style="normal_1">♪ I will try to shine ♪</span></p>
+<p begin="18473600000t" end="18538400000t" style="normal" xml:id="subtitle570"><span style="normal_1">♪ To brighten up your night ♪</span></p>
+<p begin="18547200000t" end="18607200000t" style="normal" xml:id="subtitle571"><span style="normal_1">♪ If the moon doesn't glow ♪</span></p>
+<p begin="18610800000t" end="18676800000t" style="normal" xml:id="subtitle572"><span style="normal_1">♪ And you can't find your way ♪</span></p>
+<p begin="18677600000t" end="18735200000t" style="normal" xml:id="subtitle573"><span style="normal_1">♪ I will be your guiding light ♪</span></p>
+<p begin="18736000000t" end="18800800000t" style="normal" xml:id="subtitle574"><span style="normal_1">♪ Sparkle like a firefly ♪</span></p>
+<p begin="18804000000t" end="18867600000t" style="normal" xml:id="subtitle575"><span style="normal_1">♪ Hold on to my hand ♪</span></p>
+<p begin="18873200000t" end="18926800000t" style="normal" xml:id="subtitle576">[Lily]<br/><span style="normal_1">♪ Tell me where you wish to be ♪</span></p>
+<p begin="18937200000t" end="18990000000t" style="normal" xml:id="subtitle577">[Lily and Budi]<br/><span style="normal_1">♪ I will lead the way ♪</span></p>
+<p begin="18990800000t" end="19059600000t" style="normal" xml:id="subtitle578"><span style="normal_1">♪ And fly with you ♪</span></p>
+<p begin="19072000000t" end="19138800000t" style="normal" xml:id="subtitle579">[Lily]<br/><span style="normal_1">♪ If we ever part ♪</span></p>
+<p begin="19139600000t" end="19204000000t" style="normal" xml:id="subtitle580">[Budi]<br/><span style="normal_1">♪ Don't you worry ♪</span></p>
+<p begin="19204800000t" end="19260000000t" style="normal" xml:id="subtitle581">[Lily and Budi]<br/><span style="normal_1">♪ I will be your guiding light ♪</span></p>
+<p begin="19260800000t" end="19326000000t" style="normal" xml:id="subtitle582"><span style="normal_1">♪ Sparkle like a firefly ♪</span></p>
+<p begin="19326800000t" end="19377600000t" style="normal" xml:id="subtitle583">[Lily] <span style="normal_1">Budi, if you were a firefly</span><br/><span style="normal_1">where would you fly to?</span></p>
+<p begin="19378400000t" end="19392400000t" style="normal" xml:id="subtitle584">[Budi]<br/><span style="normal_1">Nowhere.</span></p>
+<p begin="19398000000t" end="19430000000t" style="normal" xml:id="subtitle585"><span style="normal_1">I just want to stay here</span><br/><span style="normal_1">to brighten up your life.</span></p>
+<p begin="19436400000t" end="19468400000t" style="normal" xml:id="subtitle586"><span style="normal_1">And you? Where would you fly to?</span></p>
+<p begin="19469200000t" end="19499200000t" style="normal" xml:id="subtitle587">[Lily]<br/><span style="normal_1">I would follow wherever you go.</span></p>
+<p begin="19500000000t" end="19515200000t" style="normal" xml:id="subtitle588">-[Budi] <span style="normal_1">Are you sure?</span><br/>-[Lily] Mm-hmm.</p>
+<p begin="19516000000t" end="19586000000t" style="normal" xml:id="subtitle589">[Lily and Budi]<br/><span style="normal_1">♪ I will fly with you ♪</span></p>
+<p begin="19633200000t" end="19699200000t" style="normal" xml:id="subtitle590"><span style="normal_1">♪ If we ever part ♪</span></p>
+<p begin="19700000000t" end="19764800000t" style="normal" xml:id="subtitle591"><span style="normal_1">♪ Don't you worry</span> <span style="normal_1">♪</span></p>
+<p begin="19765600000t" end="19822000000t" style="normal" xml:id="subtitle592"><span style="normal_1">♪ I will be your guiding light ♪</span></p>
+<p begin="19822800000t" end="19882800000t" style="normal" xml:id="subtitle593"><span style="normal_1">♪ Sparkle like a firefly ♪</span></p>
+<p begin="19886800000t" end="19956800000t" style="normal" xml:id="subtitle594"><span style="normal_1">♪ Sparkle like a firefly ♪</span></p>
+<p begin="20008000000t" end="20025600000t" style="normal" xml:id="subtitle595">How do you like my singing?</p>
+<p begin="20035200000t" end="20044000000t" style="normal" xml:id="subtitle596">Wow!</p>
+<p begin="20064800000t" end="20073600000t" style="normal" xml:id="subtitle597">Absolutely...</p>
+<p begin="20090800000t" end="20110800000t" style="normal" xml:id="subtitle598">Very...</p>
+<p begin="20123600000t" end="20135600000t" style="normal" xml:id="subtitle599">[sighs]</p>
+<p begin="20136400000t" end="20146400000t" style="normal" xml:id="subtitle600">mediocre.</p>
+<p begin="20158000000t" end="20185200000t" style="normal" xml:id="subtitle601">You're so mean!</p>
+<p begin="20201200000t" end="20231200000t" style="normal" xml:id="subtitle602">-Budi, I really enjoy singing.<br/>-[clears throat]</p>
+<p begin="20235600000t" end="20259600000t" style="normal" xml:id="subtitle603">I want to be a singer.<br/>Teach me more songs.</p>
+<p begin="20260400000t" end="20284400000t" style="normal" xml:id="subtitle604">-[birds chirping]<br/>-[strumming guitar]</p>
+<p begin="20285200000t" end="20315200000t" style="normal" xml:id="subtitle605">But your family wants you to be a teacher.</p>
+<p begin="20319600000t" end="20338800000t" style="normal" xml:id="subtitle606">[strumming guitar]</p>
+<p begin="20343200000t" end="20368000000t" style="normal" xml:id="subtitle607">They should know better about your future.</p>
+<p begin="20374400000t" end="20384800000t" style="normal" xml:id="subtitle608">[strumming guitar]</p>
+<p begin="20388800000t" end="20436800000t" style="normal" xml:id="subtitle609">-[sighs] That is their wish, not mine.<br/>-[strumming guitar]</p>
+<p begin="20437600000t" end="20479600000t" style="normal" xml:id="subtitle610">If it were up to me,<br/>I would go to Pulau Pinang.</p>
+<p begin="20486000000t" end="20519200000t" style="normal" xml:id="subtitle611">I heard there are a lot<br/>of famous clubs there.</p>
+<p begin="20533600000t" end="20561599999t" style="normal" xml:id="subtitle612">Furthermore, there are many<br/>Radio Malaya representatives.</p>
+<p begin="20562399999t" end="20599600000t" style="normal" xml:id="subtitle613">If they like my singing,<br/>you can hear my voice on the radio.</p>
+<p begin="20600400000t" end="20614400000t" style="normal" xml:id="subtitle614">I'll be famous.</p>
+<p begin="20615200000t" end="20632399999t" style="normal" xml:id="subtitle615">What about me?</p>
+<p begin="20633200000t" end="20675200000t" style="normal" xml:id="subtitle616">I will leave you in my memories.</p>
+<p begin="20680400000t" end="20716399999t" style="normal" xml:id="subtitle617">Once I'm famous, there will be<br/>many other men interested in me.</p>
+<p begin="20721599999t" end="20745600000t" style="normal" xml:id="subtitle618">How could you say that?</p>
+<p begin="20760000000t" end="20777199999t" style="normal" xml:id="subtitle619">-Budi.<br/>-Hmm?</p>
+<p begin="20778000000t" end="20794000000t" style="normal" xml:id="subtitle620">[grass rustles]</p>
+<p begin="20794800000t" end="20804000000t" style="normal" xml:id="subtitle621">[sighs]</p>
+<p begin="20804800000t" end="20832800000t" style="normal" xml:id="subtitle622">-Next week...<br/>-I thought you'll never mention it.</p>
+<p begin="20836000000t" end="20845200000t" style="normal" xml:id="subtitle623">[Budi sighs]</p>
+<p begin="20863200000t" end="20876799999t" style="normal" xml:id="subtitle624">Your birthday is next week.</p>
+<p begin="20894800000t" end="20908800000t" style="normal" xml:id="subtitle625">Where are you going to celebrate it?</p>
+<p begin="20929200000t" end="20939600000t" style="normal" xml:id="subtitle626">[Lily chuckles]</p>
+<p begin="20950800000t" end="20959600000t" style="normal" xml:id="subtitle627">Budi...</p>
+<p begin="21011600000t" end="21020400000t" style="normal" xml:id="subtitle628">[sighs]</p>
+<p begin="21021200000t" end="21038400000t" style="normal" xml:id="subtitle629">Be honest with me.</p>
+<p begin="21061200000t" end="21088000000t" style="normal" xml:id="subtitle630">What do you really feel about me?</p>
+<p begin="21095600000t" end="21138800000t" style="normal" xml:id="subtitle631">I mean, what are your feelings toward me?</p>
+<p begin="21171200000t" end="21183200000t" style="normal" xml:id="subtitle632">[Budi clears his throat]</p>
+<p begin="21207600000t" end="21226000000t" style="normal" xml:id="subtitle633">-[laughs]<br/>-What's the matter?</p>
+<p begin="21231600000t" end="21260400000t" style="normal" xml:id="subtitle634">-Be honest with me.<br/>-I think...</p>
+<p begin="21261200000t" end="21270000000t" style="normal" xml:id="subtitle635">[clears throat]</p>
+<p begin="21278000000t" end="21298000000t" style="normal" xml:id="subtitle636">I like you.</p>
+<p begin="21313600000t" end="21333600000t" style="normal" xml:id="subtitle637">I like you.</p>
+<p begin="21367600000t" end="21400400000t" style="normal" xml:id="subtitle638">Don't you feel...</p>
+<p begin="21401200000t" end="21419200000t" style="normal" xml:id="subtitle639">[stuttering]</p>
+<p begin="21435600000t" end="21447200000t" style="normal" xml:id="subtitle640">What is it?</p>
+<p begin="21477200000t" end="21485600000t" style="normal" xml:id="subtitle641">[sighs]</p>
+<p begin="21490000000t" end="21498400000t" style="normal" xml:id="subtitle642">Forget it.</p>
+<p begin="21524800000t" end="21562000000t" style="normal" xml:id="subtitle643">[Lily] Maybe we have to trust<br/>the ones that love us.</p>
+<p begin="21576800000t" end="21588800000t" style="normal" xml:id="subtitle644">What you said is true.</p>
+<p begin="21607200000t" end="21627200000t" style="normal" xml:id="subtitle645">Our family knows us best.</p>
+<p begin="21639200000t" end="21672000000t" style="normal" xml:id="subtitle646">Does your family know about us?</p>
+<p begin="21681200000t" end="21717600000t" style="normal" xml:id="subtitle647">[in Chinese] Sis, you promised<br/>to go pick up our dresses yesterday.</p>
+<p begin="21718400000t" end="21747200000t" style="normal" xml:id="subtitle648">Why were you late?<br/>Now the tailor's shop is closed.</p>
+<p begin="21768400000t" end="21800400000t" style="normal" xml:id="subtitle649">[in Chinese] I had to meet Teacher Indra<br/>earlier. We'll go tomorrow.</p>
+<p begin="21807200000t" end="21834400000t" style="normal" xml:id="subtitle650">-[chopsticks clinking]<br/>-[munching]</p>
+<p begin="21835200000t" end="21858800000t" style="normal" xml:id="subtitle651">[in Chinese]<br/>Lily, you don't like my cooking?</p>
+<p begin="21877200000t" end="21934400000t" style="normal" xml:id="subtitle652">I had a drink with Teacher Indra just now.<br/>I am still full.</p>
+<p begin="21946000000t" end="21988000000t" style="normal" xml:id="subtitle653">[Mr. Ho] Is that true?<br/>I also met him for afternoon tea.</p>
+<p begin="21988800000t" end="22022000000t" style="normal" xml:id="subtitle654">I didn't see you with him.</p>
+<p begin="22032800000t" end="22082800000t" style="normal" xml:id="subtitle655">He told me you failed all your subjects.</p>
+<p begin="22089600000t" end="22114400000t" style="normal" xml:id="subtitle656">You've been skipping school.</p>
+<p begin="22129600000t" end="22156800000t" style="normal" xml:id="subtitle657">So who's lying now?</p>
+<p begin="22157600000t" end="22201600000t" style="normal" xml:id="subtitle658">You or Teacher Indra?</p>
+<p begin="22207600000t" end="22218000000t" style="normal" xml:id="subtitle659">[chopsticks clatter]</p>
+<p begin="22224000000t" end="22278800000t" style="normal" xml:id="subtitle660">You promised to let me<br/>further my studies overseas.</p>
+<p begin="22281600000t" end="22306400000t" style="normal" xml:id="subtitle661">But you and Uncle Hew made other plans.</p>
+<p begin="22307200000t" end="22317200000t" style="normal" xml:id="subtitle662">[scoffs]</p>
+<p begin="22318000000t" end="22342800000t" style="normal" xml:id="subtitle663">No university<br/>will accept a failure like you.</p>
+<p begin="22343600000t" end="22368400000t" style="normal" xml:id="subtitle664">What's to become of you?</p>
+<p begin="22370400000t" end="22387200000t" style="normal" xml:id="subtitle665">-So you plan to sell me off?<br/>-Huh?</p>
+<p begin="22390400000t" end="22400000000t" style="normal" xml:id="subtitle666">Be patient.</p>
+<p begin="22406000000t" end="22422000000t" style="normal" xml:id="subtitle667">Mind your language, Lily.</p>
+<p begin="22422800000t" end="22446000000t" style="normal" xml:id="subtitle668">That's why Alex doesn't like you,<br/>so disrespectful!</p>
+<p begin="22446800000t" end="22474800000t" style="normal" xml:id="subtitle669">-She doesn't like Alex anyway.<br/>-[Lily] Shut up!</p>
+<p begin="22475600000t" end="22489600000t" style="normal" xml:id="subtitle670">[Mrs. Ho]<br/>Stay out of this, Julie.</p>
+<p begin="22490400000t" end="22522400000t" style="normal" xml:id="subtitle671">Is this how you've been raising them?</p>
+<p begin="22523200000t" end="22541600000t" style="normal" xml:id="subtitle672">[Julie]<br/>Shall I or you tell them yourself?</p>
+<p begin="22542400000t" end="22568000000t" style="normal" xml:id="subtitle673">-Keep quiet!<br/>-Just admit it!</p>
+<p begin="22568800000t" end="22579600000t" style="normal" xml:id="subtitle674">Enough!</p>
+<p begin="22580400000t" end="22607200000t" style="normal" xml:id="subtitle675">-She's fallen in love with someone.<br/>-[Lily] Mind your own business!</p>
+<p begin="22608000000t" end="22624000000t" style="normal" xml:id="subtitle676">Stop fighting!</p>
+<p begin="22630000000t" end="22650800000t" style="normal" xml:id="subtitle677">Lily, next time come home earlier.</p>
+<p begin="22651600000t" end="22662400000t" style="normal" xml:id="subtitle678">Next time...</p>
+<p begin="22674400000t" end="22699200000t" style="normal" xml:id="subtitle679">don't come back home at all!</p>
+<p begin="22722000000t" end="22746800000t" style="normal" xml:id="subtitle680">Next week's arrangement<br/>will be for your own good.</p>
+<p begin="22807600000t" end="22818800000t" style="normal" xml:id="subtitle681">What are you reading?</p>
+<p begin="22852400000t" end="22874400000t" style="normal" xml:id="subtitle682">-It's about Tunku.<br/>-About Tunku?</p>
+<p begin="22875200000t" end="22895200000t" style="normal" xml:id="subtitle683">-Yes.<br/>-That's good.</p>
+<p begin="22898800000t" end="22926000000t" style="normal" xml:id="subtitle684">His efforts in fighting for our<br/>independence have not gone unnoticed.</p>
+<p begin="22927200000t" end="22949200000t" style="normal" xml:id="subtitle685">At least there's someone<br/>who wants to read his book.</p>
+<p begin="22953600000t" end="22998400000t" style="normal" xml:id="subtitle686">If not him, who else is going to fight<br/>for our independence?</p>
+<p begin="22999200000t" end="23026400000t" style="normal" xml:id="subtitle687">-[Razak] Tell me, who else will read it?<br/>-[floor creaking]</p>
+<p begin="23027200000t" end="23070400000t" style="normal" xml:id="subtitle688">-You? Me? Of course not.<br/>-Since when did you like flowers?</p>
+<p begin="23071200000t" end="23084400000t" style="normal" xml:id="subtitle689">-Not really.<br/>-Huh?</p>
+<p begin="23085200000t" end="23112400000t" style="normal" xml:id="subtitle690">-[laughs]<br/>-This is about that Chinese girl, is it?</p>
+<p begin="23116800000t" end="23126800000t" style="normal" xml:id="subtitle691">[chuckles]</p>
+<p begin="23134800000t" end="23144000000t" style="normal" xml:id="subtitle692">[clears throat]</p>
+<p begin="23144800000t" end="23185600000t" style="normal" xml:id="subtitle693">I know it's none of my business,<br/>but I don't want to see you disappointed.</p>
+<p begin="23188800000t" end="23220000000t" style="normal" xml:id="subtitle694">She's from different race,<br/>a different religion.</p>
+<p begin="23220800000t" end="23251600000t" style="normal" xml:id="subtitle695">Do you think her family will accept you?<br/>Furthermore, you have no family.</p>
+<p begin="23252400000t" end="23268400000t" style="normal" xml:id="subtitle696">That's a bit harsh, Mak Tam.</p>
+<p begin="23275200000t" end="23312400000t" style="normal" xml:id="subtitle697">Here's the thing you asked for last week.<br/>Is it for her?</p>
+<p begin="23313200000t" end="23329200000t" style="normal" xml:id="subtitle698">[chuckles]<br/>Thank you, Mak Tam.</p>
+<p begin="23330000000t" end="23368000000t" style="normal" xml:id="subtitle699">It's for her birthday.<br/>Tomorrow, the 1st of March.</p>
+<p begin="23368800000t" end="23414800000t" style="normal" xml:id="subtitle700">-Isn't that your birthday, too?<br/>-No, it isn't.</p>
+<p begin="23415600000t" end="23457600000t" style="normal" xml:id="subtitle701">My birthday is on the 29th of February.<br/>Tomorrow is the 1st of March.</p>
+<p begin="23458400000t" end="23475600000t" style="normal" xml:id="subtitle702">There isn't a 29th of February this year.</p>
+<p begin="23476400000t" end="23516000000t" style="normal" xml:id="subtitle703">-It's almost the same day.<br/>-But it isn't. Thank you anyway.</p>
+<p begin="23516800000t" end="23540400000t" style="normal" xml:id="subtitle704">[Razak] If not because of him,<br/>we won't have our independence.</p>
+<p begin="23541200000t" end="23552000000t" style="normal" xml:id="subtitle705">-True.<br/>-Do you hear me, Budi?</p>
+<p begin="23552800000t" end="23590400000t" style="normal" xml:id="subtitle706">-[in Chinese] Cheers!<br/>-[glasses clinking]</p>
+<p begin="23591200000t" end="23626400000t" style="normal" xml:id="subtitle707">[people chatting in Chinese]</p>
+<p begin="23627200000t" end="23665200000t" style="normal" xml:id="subtitle708">[birds chirping]</p>
+<p begin="23704800000t" end="23718800000t" style="normal" xml:id="subtitle709">[in Chinese]<br/>Where's Lily?</p>
+<p begin="23719600000t" end="23733600000t" style="normal" xml:id="subtitle710">[in Chinese]<br/>She's inside.</p>
+<p begin="23737200000t" end="23763200000t" style="normal" xml:id="subtitle711">Ask her to come out.<br/>What is she doing inside?</p>
+<p begin="23764000000t" end="23776400000t" style="normal" xml:id="subtitle712">I'll go get her.</p>
+<p begin="23777200000t" end="23802800000t" style="normal" xml:id="subtitle713">-Welcome, Alex.<br/>-Thank you.</p>
+<p begin="23803600000t" end="23841600000t" style="normal" xml:id="subtitle714">[birds chirping]</p>
+<p begin="23911600000t" end="23931600000t" style="normal" xml:id="subtitle715">-[people chatting in Chinese]<br/>-[laughs]</p>
+<p begin="23932400000t" end="23948000000t" style="normal" xml:id="subtitle716">[in Chinese]<br/>When's your turn?</p>
+<p begin="23948800000t" end="23993200000t" style="normal" xml:id="subtitle717">-[dogs barking]<br/>-[Chinese music playing]</p>
+<p begin="23994000000t" end="24016400000t" style="normal" xml:id="subtitle718">-Sorry, I don't have time for everybody.<br/>-Let's drink.</p>
+<p begin="24017200000t" end="24033200000t" style="normal" xml:id="subtitle719">-Let's drink.<br/>-Yeah.</p>
+<p begin="24034000000t" end="24052800000t" style="normal" xml:id="subtitle720">[people chatting in Chinese]</p>
+<p begin="24055600000t" end="24074800000t" style="normal" xml:id="subtitle721">-Help yourselves.<br/>-[speaks in Chinese]</p>
+<p begin="24076800000t" end="24090000000t" style="normal" xml:id="subtitle722">[speaks in Chinese]</p>
+<p begin="24126400000t" end="24150400000t" style="normal" xml:id="subtitle723">-Budi.<br/>-[people chatting in Chinese]</p>
+<p begin="24151200000t" end="24160000000t" style="normal" xml:id="subtitle724">[gasps]</p>
+<p begin="24160800000t" end="24224000000t" style="normal" xml:id="subtitle725">[people chatting in Chinese]</p>
+<p begin="24287200000t" end="24300800000t" style="normal" xml:id="subtitle726">What are you doing here?</p>
+<p begin="24307200000t" end="24345200000t" style="normal" xml:id="subtitle727">Lily, why didn't you show up?<br/>I waited for so long.</p>
+<p begin="24353200000t" end="24375600000t" style="normal" xml:id="subtitle728">You said you wanted<br/>to celebrate your birthday with me.</p>
+<p begin="24394800000t" end="24417600000t" style="normal" xml:id="subtitle729">I didn't know that your family<br/>was throwing a party.</p>
+<p begin="24418400000t" end="24433600000t" style="normal" xml:id="subtitle730">[people chattering in Chinese]</p>
+<p begin="24434400000t" end="24442800000t" style="normal" xml:id="subtitle731">[sighs]</p>
+<p begin="24443600000t" end="24463600000t" style="normal" xml:id="subtitle732">There are many more things<br/>that you don't know.</p>
+<p begin="24470800000t" end="24492800000t" style="normal" xml:id="subtitle733">And you're better off not knowing.</p>
+<p begin="24500400000t" end="24516800000t" style="normal" xml:id="subtitle734">Happy Birthday, Lily.</p>
+<p begin="24534000000t" end="24562800000t" style="normal" xml:id="subtitle735">Listen to me, you have to go now</p>
+<p begin="24566000000t" end="24588000000t" style="normal" xml:id="subtitle736">before Father and Alex<br/>finds out about this.</p>
+<p begin="24595600000t" end="24609600000t" style="normal" xml:id="subtitle737">-Find out about what?<br/>-[Lily gasps]</p>
+<p begin="24623600000t" end="24635600000t" style="normal" xml:id="subtitle738">[breathes heavily]</p>
+<p begin="24643600000t" end="24654800000t" style="normal" xml:id="subtitle739">[in Chinese]<br/>Who is he?</p>
+<p begin="24666000000t" end="24678000000t" style="normal" xml:id="subtitle740">[in Chinese]<br/>My friend.</p>
+<p begin="24678800000t" end="24706800000t" style="normal" xml:id="subtitle741">[in Chinese]<br/>A friend who gives you flowers?</p>
+<p begin="24711200000t" end="24743600000t" style="normal" xml:id="subtitle742">-[laughter]<br/>-That's hers.</p>
+<p begin="24744400000t" end="24759200000t" style="normal" xml:id="subtitle743">-[in Chinese] Uncle!<br/>-Huh?</p>
+<p begin="24762800000t" end="24787200000t" style="normal" xml:id="subtitle744">-What's all this?<br/>-[in Chinese] What's the matter, Alex?</p>
+<p begin="24788000000t" end="24824000000t" style="normal" xml:id="subtitle745">-You said she's a nice girl.<br/>-Yes, that's true.</p>
+<p begin="24824800000t" end="24869600000t" style="normal" xml:id="subtitle746">Then why did that boy turn up<br/>on our engagement day?</p>
+<p begin="24873600000t" end="24886400000t" style="normal" xml:id="subtitle747">He even gave her flowers.</p>
+<p begin="24894800000t" end="24903200000t" style="normal" xml:id="subtitle748">Tell me!</p>
+<p begin="24909600000t" end="24930000000t" style="normal" xml:id="subtitle749">I swear.</p>
+<p begin="24930800000t" end="24959600000t" style="normal" xml:id="subtitle750">-There is nothing going on between them.<br/>-Lily, why are they angry?</p>
+<p begin="24960400000t" end="24995200000t" style="normal" xml:id="subtitle751">There's nothing going on between them?<br/>I hate liars.</p>
+<p begin="24998400000t" end="25028400000t" style="normal" xml:id="subtitle752">I have my family's reputation to uphold.</p>
+<p begin="25029200000t" end="25049200000t" style="normal" xml:id="subtitle753">-I understand.<br/>-Sis.</p>
+<p begin="25052800000t" end="25070000000t" style="normal" xml:id="subtitle754">I warned you,</p>
+<p begin="25073600000t" end="25098400000t" style="normal" xml:id="subtitle755">but you insisted<br/>in befriending that Malay boy.</p>
+<p begin="25116400000t" end="25144400000t" style="normal" xml:id="subtitle756">Alex, we can settle this. Let me explain.</p>
+<p begin="25145200000t" end="25165200000t" style="normal" xml:id="subtitle757">-I'm leaving.<br/>-Alex, don't go!</p>
+<p begin="25168800000t" end="25194800000t" style="normal" xml:id="subtitle758">What have you done? You've shamed me!</p>
+<p begin="25206400000t" end="25229600000t" style="normal" xml:id="subtitle759">-Alex!<br/>-[people speaking indistinctly]</p>
+<p begin="25230400000t" end="25238800000t" style="normal" xml:id="subtitle760">[sighs]</p>
+<p begin="25265200000t" end="25290000000t" style="normal" xml:id="subtitle761">-Who are you?<br/>-[stuttering] My name is Budi.</p>
+<p begin="25290800000t" end="25334000000t" style="normal" xml:id="subtitle762">Didn't your parents teach you not<br/>to interfere with other people's matters?</p>
+<p begin="25346000000t" end="25373200000t" style="normal" xml:id="subtitle763">-[in Chinese] Dad, let me explain.<br/>-[in Chinese] How dare you speak up!</p>
+<p begin="25374000000t" end="25408400000t" style="normal" xml:id="subtitle764">You've tarnished my reputation.<br/>I'd rather not have a daughter like you.</p>
+<p begin="25409200000t" end="25432400000t" style="normal" xml:id="subtitle765">You're an embarrassment!</p>
+<p begin="25440800000t" end="25475600000t" style="normal" xml:id="subtitle766">Everybody, listen up! You can leave now.</p>
+<p begin="25479200000t" end="25497200000t" style="normal" xml:id="subtitle767">Don't bother finishing your meals.</p>
+<p begin="25504400000t" end="25552000000t" style="normal" xml:id="subtitle768">My daughter thinks she's all grown up.<br/>She can be independent.</p>
+<p begin="25554400000t" end="25580400000t" style="normal" xml:id="subtitle769">She wants to live her life<br/>according to her own ways.</p>
+<p begin="25581200000t" end="25603600000t" style="normal" xml:id="subtitle770">She doesn't care about getting married.</p>
+<p begin="25622400000t" end="25654000000t" style="normal" xml:id="subtitle771">She wants to be single her entire life.<br/>What are you looking at?</p>
+<p begin="25671600000t" end="25683600000t" style="normal" xml:id="subtitle772">[huffs]</p>
+<p begin="25702800000t" end="25712800000t" style="normal" xml:id="subtitle773">[in Chinese]<br/>Sis.</p>
+<p begin="25768000000t" end="25817600000t" style="normal" xml:id="subtitle774">[in Malay] This is a family matter.<br/>Do you see your family here?</p>
+<p begin="25841600000t" end="25850000000t" style="normal" xml:id="subtitle775">Look around.</p>
+<p begin="25986800000t" end="25998800000t" style="normal" xml:id="subtitle776">They're not here, right?</p>
+<p begin="26009200000t" end="26031200000t" style="normal" xml:id="subtitle777">You found your way in,<br/>now find your way out.</p>
+<p begin="26039200000t" end="26047600000t" style="normal" xml:id="subtitle778">[huffs]</p>
+<p begin="26126800000t" end="26162800000t" style="normal" xml:id="subtitle779">["Oh Dewi" by Ahmad Jais plays]</p>
+<p begin="26205200000t" end="26244000000t" style="normal" xml:id="subtitle780"><span style="normal_1">♪ Oh, goddess ♪</span></p>
+<p begin="26244800000t" end="26258000000t" style="normal" xml:id="subtitle781">[indistinct chatter]</p>
+<p begin="26258800000t" end="26287600000t" style="normal" xml:id="subtitle782">Budi. What's wrong?</p>
+<p begin="26288400000t" end="26313200000t" style="normal" xml:id="subtitle783">What's with the long face?</p>
+<p begin="26315200000t" end="26333200000t" style="normal" xml:id="subtitle784">[in Tamil]<br/>What happened, buddy?</p>
+<p begin="26345600000t" end="26360400000t" style="normal" xml:id="subtitle785">It's a long story.</p>
+<p begin="26371200000t" end="26387200000t" style="normal" xml:id="subtitle786">Long story? Listen.</p>
+<p begin="26408800000t" end="26439600000t" style="normal" xml:id="subtitle787">I'm all ears. You can tell me.</p>
+<p begin="26444000000t" end="26478000000t" style="normal" xml:id="subtitle788">This is about a girl, isn't it?</p>
+<p begin="26480000000t" end="26503200000t" style="normal" xml:id="subtitle789">I thought that love was enough.</p>
+<p begin="26535600000t" end="26565600000t" style="normal" xml:id="subtitle790">But it seems that<br/>without money and family,</p>
+<p begin="26566400000t" end="26580000000t" style="normal" xml:id="subtitle791">no one is going to accept me.</p>
+<p begin="26585200000t" end="26593600000t" style="normal" xml:id="subtitle792">[glasses clink]</p>
+<p begin="26603200000t" end="26648000000t" style="normal" xml:id="subtitle793">Budi, with matters of the heart,<br/>you can't force things.</p>
+<p begin="26653600000t" end="26689600000t" style="normal" xml:id="subtitle794">I used to be broke. Nobody wanted me.</p>
+<p begin="26696400000t" end="26748000000t" style="normal" xml:id="subtitle795">Now I own a shop, I have money,<br/>and I can enjoy myself.</p>
+<p begin="26748800000t" end="26766000000t" style="normal" xml:id="subtitle796">I'm sure you can.</p>
+<p begin="26766800000t" end="26801600000t" style="normal" xml:id="subtitle797">You know how to run a business,<br/>you own a barber shop. I know nothing.</p>
+<p begin="26810400000t" end="26822400000t" style="normal" xml:id="subtitle798">[sighs]</p>
+<p begin="26832000000t" end="26844000000t" style="normal" xml:id="subtitle799">[sighs]</p>
+<p begin="26859600000t" end="26878400000t" style="normal" xml:id="subtitle800">Budi, don't worry.</p>
+<p begin="26883200000t" end="26939200000t" style="normal" xml:id="subtitle801">You're still young.<br/>You still have a lot of time.</p>
+<p begin="26968800000t" end="26977600000t" style="normal" xml:id="subtitle802">Time?</p>
+<p begin="27001600000t" end="27017600000t" style="normal" xml:id="subtitle803">I've had too much time.</p>
+<p begin="27053200000t" end="27066400000t" style="normal" xml:id="subtitle804">[Lily cries]</p>
+<p begin="27074800000t" end="27103600000t" style="normal" xml:id="subtitle805">Why did Father do this to me?</p>
+<p begin="27106800000t" end="27130800000t" style="normal" xml:id="subtitle806">Because he loves you, I suppose.</p>
+<p begin="27158000000t" end="27172800000t" style="normal" xml:id="subtitle807">Budi.</p>
+<p begin="27177600000t" end="27189600000t" style="normal" xml:id="subtitle808">Lily.</p>
+<p begin="27190400000t" end="27236400000t" style="normal" xml:id="subtitle809">You two talk things over.<br/>Listen to my advice.</p>
+<p begin="27237200000t" end="27245600000t" style="normal" xml:id="subtitle810">[cries]</p>
+<p begin="27258000000t" end="27268000000t" style="normal" xml:id="subtitle811">Mak Tam.</p>
+<p begin="27268800000t" end="27293600000t" style="normal" xml:id="subtitle812">I'll leave you two.</p>
+<p begin="27302400000t" end="27311200000t" style="normal" xml:id="subtitle813">[sobs]</p>
+<p begin="27326800000t" end="27335600000t" style="normal" xml:id="subtitle814">Mak Tam.</p>
+<p begin="27360000000t" end="27369200000t" style="normal" xml:id="subtitle815">[sobs]</p>
+<p begin="27381600000t" end="27390000000t" style="normal" xml:id="subtitle816">Budi.</p>
+<p begin="27414000000t" end="27424800000t" style="normal" xml:id="subtitle817">Forgive me.</p>
+<p begin="27451200000t" end="27473200000t" style="normal" xml:id="subtitle818">I should have told you much earlier.</p>
+<p begin="27474000000t" end="27499600000t" style="normal" xml:id="subtitle819">[Budi] I thought your father knows<br/>what's best for you.</p>
+<p begin="27510400000t" end="27542400000t" style="normal" xml:id="subtitle820">Whose side are you on? My father or me?</p>
+<p begin="27564800000t" end="27580800000t" style="normal" xml:id="subtitle821">I don't have much time.</p>
+<p begin="27597600000t" end="27644800000t" style="normal" xml:id="subtitle822">He wants me to marry Alex.</p>
+<p begin="27700000000t" end="27724000000t" style="normal" xml:id="subtitle823">How could you do this to me?</p>
+<p begin="27738000000t" end="27770800000t" style="normal" xml:id="subtitle824">-You made a fool out of me.<br/>-I didn't mean to.</p>
+<p begin="27771600000t" end="27787600000t" style="normal" xml:id="subtitle825">-You go marry Alex!<br/>-Budi.</p>
+<p begin="27788400000t" end="27810400000t" style="normal" xml:id="subtitle826">It's better for a Chinese<br/>to marry a Chinese.</p>
+<p begin="27811200000t" end="27834400000t" style="normal" xml:id="subtitle827">Why marry a Malay boy who has nothing?</p>
+<p begin="27835200000t" end="27869200000t" style="normal" xml:id="subtitle828">But I don't want to marry Alex.<br/>I don't love him!</p>
+<p begin="27891600000t" end="27906400000t" style="normal" xml:id="subtitle829">Help me.</p>
+<p begin="27931200000t" end="27940000000t" style="normal" xml:id="subtitle830">Budi.</p>
+<p begin="27965200000t" end="27986400000t" style="normal" xml:id="subtitle831">Do you love me?</p>
+<p begin="27994000000t" end="28031600000t" style="normal" xml:id="subtitle832">[dramatic music plays]</p>
+<p begin="28119600000t" end="28128000000t" style="normal" xml:id="subtitle833">[sniffles]</p>
+<p begin="28159600000t" end="28189600000t" style="normal" xml:id="subtitle834">[violin plays]</p>
+<p begin="28312000000t" end="28328000000t" style="normal" xml:id="subtitle835">Why didn't you go after her?</p>
+<p begin="28379600000t" end="28403600000t" style="normal" xml:id="subtitle836">Not all problems have a solution, Mak Tam.</p>
+<p begin="28412800000t" end="28440800000t" style="normal" xml:id="subtitle837">Budi, listen to my advice.</p>
+<p begin="28448400000t" end="28502000000t" style="normal" xml:id="subtitle838">If you truly love her,<br/>do it the right way.</p>
+<p begin="28504400000t" end="28538400000t" style="normal" xml:id="subtitle839">[Mak Tam]<br/><span style="normal_1">Tell her family your true intentions.</span></p>
+<p begin="28539200000t" end="28561200000t" style="normal" xml:id="subtitle840"><span style="normal_1">I'm sure they won't object.</span></p>
+<p begin="28664800000t" end="28689600000t" style="normal" xml:id="subtitle841">[Budi]<br/>I want to pawn a necklace.</p>
+<p begin="28783600000t" end="28821600000t" style="normal" xml:id="subtitle842">I will try my best to find a suitable job.</p>
+<p begin="28831600000t" end="28865600000t" style="normal" xml:id="subtitle843">I'll even look for a second job<br/>and work from day till night.</p>
+<p begin="28888000000t" end="28909200000t" style="normal" xml:id="subtitle844">I have plans for the house.</p>
+<p begin="28924000000t" end="28947200000t" style="normal" xml:id="subtitle845">-I'll rebuild it nicely for occupancy.<br/>-[sighs]</p>
+<p begin="28960000000t" end="28988800000t" style="normal" xml:id="subtitle846">Do you see something that I don't?</p>
+<p begin="29002000000t" end="29010800000t" style="normal" xml:id="subtitle847">[sighs]</p>
+<p begin="29022800000t" end="29062800000t" style="normal" xml:id="subtitle848">-That's enough. Let's just end it here.<br/>-Mr. Ho.</p>
+<p begin="29070800000t" end="29088800000t" style="normal" xml:id="subtitle849">My intentions are truly sincere.</p>
+<p begin="29101200000t" end="29115200000t" style="normal" xml:id="subtitle850">I want to marry Lily.</p>
+<p begin="29128800000t" end="29173600000t" style="normal" xml:id="subtitle851">[Mr. Ho laughs]</p>
+<p begin="29183600000t" end="29200800000t" style="normal" xml:id="subtitle852">What? Marry her?</p>
+<p begin="29202000000t" end="29210400000t" style="normal" xml:id="subtitle853">[chuckles]</p>
+<p begin="29211200000t" end="29235200000t" style="normal" xml:id="subtitle854">You've wasted my time. Enough is enough.</p>
+<p begin="29236000000t" end="29260800000t" style="normal" xml:id="subtitle855">Mr. Ho, I can prove it to you.<br/>I'm able to provide for her.</p>
+<p begin="29261600000t" end="29270000000t" style="normal" xml:id="subtitle856">Hey!</p>
+<p begin="29276800000t" end="29296800000t" style="normal" xml:id="subtitle857">Don't you understand what I just said?</p>
+<p begin="29300400000t" end="29320400000t" style="normal" xml:id="subtitle858">Do I have to shout to make it clearer?</p>
+<p begin="29328400000t" end="29359200000t" style="normal" xml:id="subtitle859">You want to marry my daughter?</p>
+<p begin="29360000000t" end="29382000000t" style="normal" xml:id="subtitle860">Over my dead body.</p>
+<p begin="29382800000t" end="29392800000t" style="normal" xml:id="subtitle861">Get it?</p>
+<p begin="29397600000t" end="29446400000t" style="normal" xml:id="subtitle862">To show my sincerity, here's my proof.</p>
+<p begin="29462000000t" end="29472800000t" style="normal" xml:id="subtitle863">A token of my intentions.</p>
+<p begin="29473600000t" end="29482000000t" style="normal" xml:id="subtitle864">[sniffles]</p>
+<p begin="29490000000t" end="29508000000t" style="normal" xml:id="subtitle865">-I can do it.<br/>-[grunts]</p>
+<p begin="29523200000t" end="29540400000t" style="normal" xml:id="subtitle866">[clinks]</p>
+<p begin="29582400000t" end="29608400000t" style="normal" xml:id="subtitle867">And here's my proof<br/>of not accepting you, ever.</p>
+<p begin="29612400000t" end="29628400000t" style="normal" xml:id="subtitle868">[Julie speaking in Chinese]<br/>Lily!</p>
+<p begin="29650800000t" end="29688800000t" style="normal" xml:id="subtitle869">Why are you doing this, Budi?<br/>This is not what I meant.</p>
+<p begin="29692400000t" end="29724400000t" style="normal" xml:id="subtitle870">Listen. You've messed up my daughter.</p>
+<p begin="29729200000t" end="29755200000t" style="normal" xml:id="subtitle871">Don't you dare try<br/>to mess my family up, too.</p>
+<p begin="29769600000t" end="29780400000t" style="normal" xml:id="subtitle872">I hope...</p>
+<p begin="29790400000t" end="29825200000t" style="normal" xml:id="subtitle873">I will never meet someone like you again.</p>
+<p begin="29853600000t" end="29873600000t" style="normal" xml:id="subtitle874">-[Lily] Budi.<br/>-[in Chinese] Don't move.</p>
+<p begin="29874400000t" end="29905200000t" style="normal" xml:id="subtitle875">[in Chinese] From this day on,<br/>you will do exactly as I tell you.</p>
+<p begin="29906000000t" end="29916000000t" style="normal" xml:id="subtitle876">Do you understand?</p>
+<p begin="29992800000t" end="30008800000t" style="normal" xml:id="subtitle877">[Khatijah speaks in a muffled voice]</p>
+<p begin="30015600000t" end="30045600000t" style="normal" xml:id="subtitle878">[crickets chirping]</p>
+<p begin="30066000000t" end="30084000000t" style="normal" xml:id="subtitle879">Why are you still awake?</p>
+<p begin="30109200000t" end="30133200000t" style="normal" xml:id="subtitle880">Go to sleep, okay? It's getting late.</p>
+<p begin="30243200000t" end="30251600000t" style="normal" xml:id="subtitle881">Razak.</p>
+<p begin="30264800000t" end="30278800000t" style="normal" xml:id="subtitle882">I know you're still awake.</p>
+<p begin="30294400000t" end="30307600000t" style="normal" xml:id="subtitle883">[Razak]<br/>I'm already asleep.</p>
+<p begin="30346000000t" end="30360000000t" style="normal" xml:id="subtitle884">You're upset with me, too?</p>
+<p begin="30375200000t" end="30411200000t" style="normal" xml:id="subtitle885">What's the matter with you?<br/>I thought you were getting married?</p>
+<p begin="30420000000t" end="30443600000t" style="normal" xml:id="subtitle886">She doesn't want me, Razak.</p>
+<p begin="30456800000t" end="30468800000t" style="normal" xml:id="subtitle887">Because I'm a nobody.</p>
+<p begin="30486000000t" end="30514800000t" style="normal" xml:id="subtitle888">If worse comes to worst,<br/>let's just marry each other.</p>
+<p begin="30515600000t" end="30531600000t" style="normal" xml:id="subtitle889">Are you out of your mind?</p>
+<p begin="30547200000t" end="30565200000t" style="normal" xml:id="subtitle890">How unfortunate it is to be an orphan.</p>
+<p begin="30578400000t" end="30586800000t" style="normal" xml:id="subtitle891">Budi.</p>
+<p begin="30608000000t" end="30623200000t" style="normal" xml:id="subtitle892">You're a grown man.</p>
+<p begin="30624000000t" end="30637200000t" style="normal" xml:id="subtitle893">Get over it.</p>
+<p begin="30645600000t" end="30665600000t" style="normal" xml:id="subtitle894">You could bear a child.</p>
+<p begin="30666400000t" end="30676400000t" style="normal" xml:id="subtitle895">[laughs]</p>
+<p begin="30677200000t" end="30696000000t" style="normal" xml:id="subtitle896">Where are we going to peddle our stuff<br/>tomorrow?</p>
+<p begin="30718000000t" end="30754000000t" style="normal" xml:id="subtitle897"><span style="normal_1">-♪ Bello, bello, bello ♪</span><br/>-Rattan baskets for sale!</p>
+<p begin="30754800000t" end="30778000000t" style="normal" xml:id="subtitle898">-Sir. Ma'am.<br/>-No, thanks.</p>
+<p begin="30787600000t" end="30801600000t" style="normal" xml:id="subtitle899">-Only 1.50 ringgit.<br/>-Budi?</p>
+<p begin="30802400000t" end="30832400000t" style="normal" xml:id="subtitle900">-Budi, we haven't sold anything yet.<br/>-It's okay.</p>
+<p begin="30837200000t" end="30853600000t" style="normal" xml:id="subtitle901">-Only one ringgit, sir.<br/>-Sir.</p>
+<p begin="30856000000t" end="30878800000t" style="normal" xml:id="subtitle902">-Come buy rattan baskets.<br/><span style="normal_1">-♪ If you like it ♪</span></p>
+<p begin="30879600000t" end="30901600000t" style="normal" xml:id="subtitle903"><span style="normal_1">-♪ Come and dance ♪</span><br/>-Rattan baskets.</p>
+<p begin="30902400000t" end="30923200000t" style="normal" xml:id="subtitle904"><span style="normal_1">♪ Sounds of the rebana ♪</span></p>
+<p begin="30924000000t" end="30938800000t" style="normal" xml:id="subtitle905">So, what are we supposed to do now?</p>
+<p begin="30944000000t" end="30974000000t" style="normal" xml:id="subtitle906">How long do we have to stay here?</p>
+<p begin="31000000000t" end="31012000000t" style="normal" xml:id="subtitle907">I don't know, Razak.</p>
+<p begin="31021600000t" end="31045600000t" style="normal" xml:id="subtitle908">I don't know,<br/>I'm really not in the mood today.</p>
+<p begin="31070000000t" end="31080000000t" style="normal" xml:id="subtitle909">Let's just go home.</p>
+<p begin="31099600000t" end="31108400000t" style="normal" xml:id="subtitle910">All right.</p>
+<p begin="31154800000t" end="31178800000t" style="normal" xml:id="subtitle911">Budi. My walking stick.</p>
+<p begin="31179600000t" end="31216400000t" style="normal" xml:id="subtitle912">-[Mr. Ho] Tell me, where is Budi?<br/>-[Mak Tam] I don't know, he left earlier.</p>
+<p begin="31217200000t" end="31229600000t" style="normal" xml:id="subtitle913">When will he be back?</p>
+<p begin="31230400000t" end="31252000000t" style="normal" xml:id="subtitle914">-I have no idea.<br/>-You!</p>
+<p begin="31258000000t" end="31283200000t" style="normal" xml:id="subtitle915">-Where did you hide my daughter?<br/>-I don't know where she is.</p>
+<p begin="31284000000t" end="31302800000t" style="normal" xml:id="subtitle916">-Hey!<br/>-[Mak Tam screams]</p>
+<p begin="31303600000t" end="31330400000t" style="normal" xml:id="subtitle917">[Mak Tam]<br/>Budi! Help!</p>
+<p begin="31331200000t" end="31370400000t" style="normal" xml:id="subtitle918">Budi! Help!</p>
+<p begin="31375600000t" end="31393600000t" style="normal" xml:id="subtitle919">-[grunts]<br/>-Hey!</p>
+<p begin="31394400000t" end="31404400000t" style="normal" xml:id="subtitle920">-[grunts]<br/>-[Mak Tam] Budi!</p>
+<p begin="31411200000t" end="31430400000t" style="normal" xml:id="subtitle921">-[Mak Tam] Stop it!<br/>-[grunts]</p>
+<p begin="31433200000t" end="31441600000t" style="normal" xml:id="subtitle922">[Budi]<br/>Razak!</p>
+<p begin="31455600000t" end="31478800000t" style="normal" xml:id="subtitle923">-[grunts]<br/>-[speaking in Chinese]</p>
+<p begin="31479600000t" end="31519200000t" style="normal" xml:id="subtitle924">-Run, Razak!<br/>-[grunts]</p>
+<p begin="31520000000t" end="31530000000t" style="normal" xml:id="subtitle925">Budi!</p>
+<p begin="31551600000t" end="31561200000t" style="normal" xml:id="subtitle926">[Mak Tam]<br/>Stop it!</p>
+<p begin="31599200000t" end="31625600000t" style="normal" xml:id="subtitle927">-What's the meaning of this, Mr. Ho?<br/>-Where's my daughter?</p>
+<p begin="31635600000t" end="31646800000t" style="normal" xml:id="subtitle928">[both grunt]</p>
+<p begin="31652000000t" end="31674000000t" style="normal" xml:id="subtitle929">I told you, I don't know!</p>
+<p begin="31681200000t" end="31691200000t" style="normal" xml:id="subtitle930">[yells]</p>
+<p begin="31694000000t" end="31711200000t" style="normal" xml:id="subtitle931">[groans]</p>
+<p begin="31712000000t" end="31747200000t" style="normal" xml:id="subtitle932">Why are you doing this to me? Getting your<br/>men to beat me up? What have I done wrong?</p>
+<p begin="31748000000t" end="31785600000t" style="normal" xml:id="subtitle933">Hey! Stop! Stop it, I said.</p>
+<p begin="31786400000t" end="31824400000t" style="normal" xml:id="subtitle934">Hey, what are you all doing here?</p>
+<p begin="31832400000t" end="31851600000t" style="normal" xml:id="subtitle935">This is my territory!</p>
+<p begin="31853600000t" end="31886800000t" style="normal" xml:id="subtitle936">Leave or I will call the police!<br/>You have no right to be here!</p>
+<p begin="31904000000t" end="31916000000t" style="normal" xml:id="subtitle937">[in Chinese]<br/>Let's go.</p>
+<p begin="31916800000t" end="31926800000t" style="normal" xml:id="subtitle938">Get lost!</p>
+<p begin="31990000000t" end="32008400000t" style="normal" xml:id="subtitle939">What were you thinking?</p>
+<p begin="32009200000t" end="32030800000t" style="normal" xml:id="subtitle940">-Have you lost your mind?<br/>-[Mak Tam] Calm down.</p>
+<p begin="32033600000t" end="32068000000t" style="normal" xml:id="subtitle941">You!</p>
+<p begin="32075200000t" end="32112400000t" style="normal" xml:id="subtitle942">What is wrong with you?<br/>You weren't like this before.</p>
+<p begin="32113200000t" end="32148400000t" style="normal" xml:id="subtitle943">Since you befriended that Chinese girl,<br/>you've been nothing but trouble.</p>
+<p begin="32149200000t" end="32170000000t" style="normal" xml:id="subtitle944">You're really a burden to everyone.</p>
+<p begin="32170800000t" end="32182400000t" style="normal" xml:id="subtitle945">-Mr. Salam!<br/>-[Mak Tam cries]</p>
+<p begin="32185200000t" end="32215200000t" style="normal" xml:id="subtitle946">Maybe this place will be better off<br/>without you.</p>
+<p begin="32216000000t" end="32236800000t" style="normal" xml:id="subtitle947">Budi, tell him that it wasn't your fault.</p>
+<p begin="32237600000t" end="32265200000t" style="normal" xml:id="subtitle948">-Mr. Salam. Budi has done nothing wrong!<br/>-Mr. Salam!</p>
+<p begin="32268000000t" end="32298000000t" style="normal" xml:id="subtitle949">[Mak Tam cries]</p>
+<p begin="32301200000t" end="32324000000t" style="normal" xml:id="subtitle950">Budi, don't you go anywhere, my dear.</p>
+<p begin="32354000000t" end="32374000000t" style="normal" xml:id="subtitle951">I've been here for years, Mak Tam.</p>
+<p begin="32384000000t" end="32410000000t" style="normal" xml:id="subtitle952">I took care of this place<br/>while welcoming others.</p>
+<p begin="32435200000t" end="32460800000t" style="normal" xml:id="subtitle953">-But now I've been kicked out.<br/>-No, Budi.</p>
+<p begin="32461600000t" end="32484800000t" style="normal" xml:id="subtitle954">-Where are you going?<br/>-Budi!</p>
+<p begin="32491600000t" end="32500000000t" style="normal" xml:id="subtitle955">[Mak Tam]<br/>Budi!</p>
+<p begin="32719600000t" end="32728400000t" style="normal" xml:id="subtitle956">[Budi grunts]</p>
+<p begin="32752000000t" end="32765600000t" style="normal" xml:id="subtitle957">[coughs]</p>
+<p begin="32865600000t" end="32874000000t" style="normal" xml:id="subtitle958">[coughs]</p>
+<p begin="33150000000t" end="33188000000t" style="normal" xml:id="subtitle959">This place is our responsibility, Budi.</p>
+<p begin="33369200000t" end="33377600000t" style="normal" xml:id="subtitle960">[grunts]</p>
+<p begin="33540800000t" end="33562800000t" style="normal" xml:id="subtitle961">"Halim bin Kamal."</p>
+<p begin="33576800000t" end="33613600000t" style="normal" xml:id="subtitle962">["Hidup Bersama" by A. Ramlie plays]</p>
+<p begin="33718800000t" end="33729600000t" style="normal" xml:id="subtitle963">-Sir.<br/>-Yes.</p>
+<p begin="33744400000t" end="33777600000t" style="normal" xml:id="subtitle964">-Have a seat. Have you had lunch?<br/>-Yes, I have.</p>
+<p begin="33786800000t" end="33798800000t" style="normal" xml:id="subtitle965">-The usual haircut?<br/>-Yes.</p>
+<p begin="33799600000t" end="33814000000t" style="normal" xml:id="subtitle966">-The usual.<br/>-[man] Hello, Mr. Rajan.</p>
+<p begin="33814800000t" end="33838800000t" style="normal" xml:id="subtitle967">[in Tamil]<br/>How are all the cases today?</p>
+<p begin="33845200000t" end="33857200000t" style="normal" xml:id="subtitle968">-Budi, could you please...<br/>-Hey.</p>
+<p begin="33858000000t" end="33868800000t" style="normal" xml:id="subtitle969">pass me the bigger comb?</p>
+<p begin="33869600000t" end="33882800000t" style="normal" xml:id="subtitle970">-The bigger comb?<br/>-Yes.</p>
+<p begin="33883600000t" end="33928400000t" style="normal" xml:id="subtitle971"><span style="normal_1">♪ I sit alone, the feeling around me ♪</span></p>
+<p begin="33929200000t" end="33942000000t" style="normal" xml:id="subtitle972">SINGAPORE SEPARATED FROM MALAYSIA</p>
+<p begin="33942800000t" end="33952800000t" style="normal" xml:id="subtitle973"><span style="normal_1">♪ The surroundings ♪</span></p>
+<p begin="33985200000t" end="34007200000t" style="normal" xml:id="subtitle974">SALAM'S ORPHANAGE</p>
+<p begin="34008000000t" end="34038000000t" style="normal" xml:id="subtitle975">[birds chirping]</p>
+<p begin="34079200000t" end="34113200000t" style="normal" xml:id="subtitle976">-Peace be upon you, Mr. Budi.<br/>-How did you know it was me?</p>
+<p begin="34121200000t" end="34155200000t" style="normal" xml:id="subtitle977">I just know your scent.<br/>You smell of cigarettes.</p>
+<p begin="34159600000t" end="34184400000t" style="normal" xml:id="subtitle978">Well, there are a lot of other smokers<br/>out there.</p>
+<p begin="34185200000t" end="34198400000t" style="normal" xml:id="subtitle979">Yes, there are.</p>
+<p begin="34199200000t" end="34249200000t" style="normal" xml:id="subtitle980">But I could hear the sound of your fancy<br/>new leather shoes from a mile away.</p>
+<p begin="34250000000t" end="34262000000t" style="normal" xml:id="subtitle981">Whatever.</p>
+<p begin="34296800000t" end="34305600000t" style="normal" xml:id="subtitle982">Razak.</p>
+<p begin="34344000000t" end="34356000000t" style="normal" xml:id="subtitle983">Here, I have...</p>
+<p begin="34379200000t" end="34400400000t" style="normal" xml:id="subtitle984">some pocket money for you this month.</p>
+<p begin="34406800000t" end="34417200000t" style="normal" xml:id="subtitle985">You can have it.</p>
+<p begin="34446800000t" end="34455600000t" style="normal" xml:id="subtitle986">Thank you, Budi.</p>
+<p begin="34468800000t" end="34482000000t" style="normal" xml:id="subtitle987">How are the kids?</p>
+<p begin="34492800000t" end="34511600000t" style="normal" xml:id="subtitle988">They're all fine and well.</p>
+<p begin="34512400000t" end="34528400000t" style="normal" xml:id="subtitle989">But two of them left last week.</p>
+<p begin="34546000000t" end="34554400000t" style="normal" xml:id="subtitle990">[clears throat]</p>
+<p begin="34555200000t" end="34577600000t" style="normal" xml:id="subtitle991">They left? Why?</p>
+<p begin="34581200000t" end="34601200000t" style="normal" xml:id="subtitle992">They've been adopted.</p>
+<p begin="34602000000t" end="34612000000t" style="normal" xml:id="subtitle993">[clears throat]</p>
+<p begin="34616000000t" end="34628800000t" style="normal" xml:id="subtitle994">[Khatijah calls out to Budi]</p>
+<p begin="34656800000t" end="34665200000t" style="normal" xml:id="subtitle995">Sis.</p>
+<p begin="34684400000t" end="34709200000t" style="normal" xml:id="subtitle996">Uh... How are you?</p>
+<p begin="34729200000t" end="34749600000t" style="normal" xml:id="subtitle997">[speaks indistinctly]</p>
+<p begin="34754000000t" end="34786400000t" style="normal" xml:id="subtitle998">It's all right. I'm here to chat<br/>with Razak for a while.</p>
+<p begin="34792000000t" end="34819200000t" style="normal" xml:id="subtitle999">[speaks indistinctly]</p>
+<p begin="34837600000t" end="34848000000t" style="normal" xml:id="subtitle1000">[chuckles]</p>
+<p begin="34878800000t" end="34906000000t" style="normal" xml:id="subtitle1001">-You threw my cigarette?<br/>-I can't stand it.</p>
+<p begin="34934000000t" end="34944800000t" style="normal" xml:id="subtitle1002">Move.</p>
+<p begin="34945600000t" end="34958800000t" style="normal" xml:id="subtitle1003">-Budi.<br/>-What?</p>
+<p begin="34965200000t" end="34995200000t" style="normal" xml:id="subtitle1004">How much longer<br/>do you think I'll be stuck here?</p>
+<p begin="35007200000t" end="35019200000t" style="normal" xml:id="subtitle1005">Where do you want to go?</p>
+<p begin="35023200000t" end="35056400000t" style="normal" xml:id="subtitle1006">I want to have a job like you, too.<br/>And buy a house.</p>
+<p begin="35059200000t" end="35084800000t" style="normal" xml:id="subtitle1007">By the way,<br/>any updates on your Colonial house?</p>
+<p begin="35095600000t" end="35110400000t" style="normal" xml:id="subtitle1008">That house is my father's inheritance.</p>
+<p begin="35111200000t" end="35140000000t" style="normal" xml:id="subtitle1009">I'm just wondering<br/>if you get to inherit it.</p>
+<p begin="35141200000t" end="35165600000t" style="normal" xml:id="subtitle1010">When are you going to let me stay<br/>with you?</p>
+<p begin="35176400000t" end="35184800000t" style="normal" xml:id="subtitle1011">Razak.</p>
+<p begin="35198400000t" end="35226400000t" style="normal" xml:id="subtitle1012">I have a friend who wants to help me<br/>sort out all the legalities.</p>
+<p begin="35228000000t" end="35250400000t" style="normal" xml:id="subtitle1013">Once everything's worked out...</p>
+<p begin="35251200000t" end="35260000000t" style="normal" xml:id="subtitle1014">[coughs]</p>
+<p begin="35266800000t" end="35292800000t" style="normal" xml:id="subtitle1015">I will bring you and the rest<br/>to stay with me there.</p>
+<p begin="35293600000t" end="35303600000t" style="normal" xml:id="subtitle1016">[coughs]</p>
+<p begin="35311200000t" end="35322000000t" style="normal" xml:id="subtitle1017">-Really?<br/>-Yes.</p>
+<p begin="35335200000t" end="35355200000t" style="normal" xml:id="subtitle1018">[in Arabic]<br/>All praises be to God.</p>
+<p begin="35356000000t" end="35378400000t" style="normal" xml:id="subtitle1019">-I have a name for the house already.<br/>-What is it?</p>
+<p begin="35386000000t" end="35421200000t" style="normal" xml:id="subtitle1020">Budi's Shack.<br/>You're the one who does the good deeds.</p>
+<p begin="35422000000t" end="35458000000t" style="normal" xml:id="subtitle1021">Same old story,<br/>relying on me for everything again?</p>
+<p begin="35458800000t" end="35474800000t" style="normal" xml:id="subtitle1022">You never change, do you?</p>
+<p begin="35478800000t" end="35496000000t" style="normal" xml:id="subtitle1023">I wasn't born perfect as you are.</p>
+<p begin="35496800000t" end="35506800000t" style="normal" xml:id="subtitle1024">[sighs]</p>
+<p begin="35507600000t" end="35520800000t" style="normal" xml:id="subtitle1025">Come on, Razak.</p>
+<p begin="35529600000t" end="35564800000t" style="normal" xml:id="subtitle1026">Have a little initiative.<br/>You can make baskets to sell.</p>
+<p begin="35565600000t" end="35596800000t" style="normal" xml:id="subtitle1027">Try to be independent.<br/>You can't keep relying on me.</p>
+<p begin="35597600000t" end="35633600000t" style="normal" xml:id="subtitle1028">Till when will you do that? I gotta go.<br/>I have an appointment tomorrow morning.</p>
+<p begin="35675600000t" end="35693600000t" style="normal" xml:id="subtitle1029">[car engine revs]</p>
+<p begin="35865600000t" end="35877600000t" style="normal" xml:id="subtitle1030">[door hinge squeaks]</p>
+<p begin="35914000000t" end="35936000000t" style="normal" xml:id="subtitle1031">Budi? How did it go?</p>
+<p begin="35936800000t" end="35945200000t" style="normal" xml:id="subtitle1032">[sighs]</p>
+<p begin="35986800000t" end="36004800000t" style="normal" xml:id="subtitle1033">[chuckles]</p>
+<p begin="36016400000t" end="36041200000t" style="normal" xml:id="subtitle1034">-That's great.<br/>-[laughs]</p>
+<p begin="36046800000t" end="36085600000t" style="normal" xml:id="subtitle1035">-I knew it.<br/>-Let's do a celebration dance.</p>
+<p begin="36086400000t" end="36098400000t" style="normal" xml:id="subtitle1036">[exclaims in joy]</p>
+<p begin="36099200000t" end="36107600000t" style="normal" xml:id="subtitle1037">Thank you.</p>
+<p begin="36108400000t" end="36128400000t" style="normal" xml:id="subtitle1038">If it wasn't for your help,<br/>I wouldn't be here today.</p>
+<p begin="36129200000t" end="36147200000t" style="normal" xml:id="subtitle1039">-No problem.<br/>-Let me buy you a drink.</p>
+<p begin="36148000000t" end="36156400000t" style="normal" xml:id="subtitle1040">Sure.</p>
+<p begin="36157200000t" end="36206000000t" style="normal" xml:id="subtitle1041"><span style="normal_1">♪ Oh, my dear Zunika ♪</span></p>
+<p begin="36206800000t" end="36258800000t" style="normal" xml:id="subtitle1042"><span style="normal_1">♪ Your face shines like a moon ♪</span></p>
+<p begin="36265600000t" end="36311600000t" style="normal" xml:id="subtitle1043"><span style="normal_1">-♪ Your voice made me long for you ♪</span><br/>-[clears throat]</p>
+<p begin="36312400000t" end="36322400000t" style="normal" xml:id="subtitle1044">Mr. Salam.</p>
+<p begin="36332000000t" end="36340400000t" style="normal" xml:id="subtitle1045">Uh...</p>
+<p begin="36350800000t" end="36362800000t" style="normal" xml:id="subtitle1046">Can I offer you a drink?</p>
+<p begin="36374800000t" end="36398800000t" style="normal" xml:id="subtitle1047">[sighs]</p>
+<p begin="36409600000t" end="36436800000t" style="normal" xml:id="subtitle1048">Excuse me, ma'am.</p>
+<p begin="36443200000t" end="36463200000t" style="normal" xml:id="subtitle1049">-One Green Spot, please.<br/>-[bottles clink]</p>
+<p begin="36464000000t" end="36476000000t" style="normal" xml:id="subtitle1050">Just warm water for me.</p>
+<p begin="36580800000t" end="36594800000t" style="normal" xml:id="subtitle1051">Thank you.</p>
+<p begin="36604400000t" end="36646400000t" style="normal" xml:id="subtitle1052">I'm here to tell you<br/>something about Razak.</p>
+<p begin="36662000000t" end="36682000000t" style="normal" xml:id="subtitle1053">What about him, Mr. Salam?</p>
+<p begin="36703600000t" end="36719600000t" style="normal" xml:id="subtitle1054">He's gone.</p>
+<p begin="36737200000t" end="36751200000t" style="normal" xml:id="subtitle1055">He has passed away.</p>
+<p begin="36758400000t" end="36790400000t" style="normal" xml:id="subtitle1056">[dramatic music playing]</p>
+<p begin="36834400000t" end="36842800000t" style="normal" xml:id="subtitle1057">When?</p>
+<p begin="36870000000t" end="36880000000t" style="normal" xml:id="subtitle1058">This morning.</p>
+<p begin="36932800000t" end="36976000000t" style="normal" xml:id="subtitle1059">[news anchor] <span style="normal_1">The 1969 election results</span><br/><span style="normal_1">caused serious tension</span></p>
+<p begin="36976800000t" end="37026000000t" style="normal" xml:id="subtitle1060"><span style="normal_1">as irresponsible parties</span><br/><span style="normal_1">provoked emotions to create havoc.</span></p>
+<p begin="37026800000t" end="37064000000t" style="normal" xml:id="subtitle1061"><span style="normal_1">Even though the coalition party</span><br/><span style="normal_1">sustained a majority,</span></p>
+<p begin="37064800000t" end="37088000000t" region="top" style="normal" xml:id="subtitle1062"><span style="normal_1">the government had to declare</span><br/><span style="normal_1">a state of emergency.</span></p>
+<p begin="37088800000t" end="37107200000t" region="top" style="normal" xml:id="subtitle1063">[Tunku]<br/>Although we have achieved independence,</p>
+<p begin="37108000000t" end="37138800000t" style="normal" xml:id="subtitle1064">we failed to keep the country harmonious.</p>
+<p begin="37186400000t" end="37216400000t" style="normal" xml:id="subtitle1065">[thunder rumbles]</p>
+<p begin="37282800000t" end="37314400000t" style="normal" xml:id="subtitle1066">[people screaming]</p>
+<p begin="37315200000t" end="37375200000t" style="normal" xml:id="subtitle1067">-Chase him!<br/>-[man shouting in Chinese]</p>
+<p begin="37376000000t" end="37418000000t" style="normal" xml:id="subtitle1068">Budi, lock the door!<br/>People are rampaging outside.</p>
+<p begin="37418800000t" end="37432000000t" style="normal" xml:id="subtitle1069">Turn off the lights!</p>
+<p begin="37439200000t" end="37455200000t" style="normal" xml:id="subtitle1070">-[whimpers]<br/>-Lock the door?</p>
+<p begin="37456000000t" end="37475600000t" style="normal" xml:id="subtitle1071">-Yes!<br/>-[man shouting in Chinese]</p>
+<p begin="37509200000t" end="37559200000t" style="normal" xml:id="subtitle1072">[rioters]<br/>Open this door!</p>
+<p begin="37568800000t" end="37586800000t" style="normal" xml:id="subtitle1073">[rioter 1]<br/>Open this door!</p>
+<p begin="37591600000t" end="37603600000t" style="normal" xml:id="subtitle1074">[cries]</p>
+<p begin="37606800000t" end="37620800000t" style="normal" xml:id="subtitle1075">[rioter 1]<br/>Open this door!</p>
+<p begin="37621600000t" end="37641600000t" style="normal" xml:id="subtitle1076">[rioters shout indistinctly]</p>
+<p begin="37642400000t" end="37668800000t" style="normal" xml:id="subtitle1077">[rioter 2]<br/>He's not in there. Let's look elsewhere.</p>
+<p begin="37669600000t" end="37687600000t" style="normal" xml:id="subtitle1078">-[shouting fades]<br/>-[sighs]</p>
+<p begin="37699200000t" end="37730400000t" style="normal" xml:id="subtitle1079">[suspenseful music playing]</p>
+<p begin="37833600000t" end="37863600000t" style="normal" xml:id="subtitle1080">[stuttering]</p>
+<p begin="37924800000t" end="37934800000t" style="normal" xml:id="subtitle1081">[sighs]</p>
+<p begin="38017600000t" end="38026000000t" style="normal" xml:id="subtitle1082">[sighs]</p>
+<p begin="38132000000t" end="38166800000t" style="normal" xml:id="subtitle1083">It's been years since Lily left us.</p>
+<p begin="38186800000t" end="38198800000t" style="normal" xml:id="subtitle1084">This is all my fault.</p>
+<p begin="38214000000t" end="38251200000t" style="normal" xml:id="subtitle1085">If I didn't force her against her will,</p>
+<p begin="38262400000t" end="38276400000t" style="normal" xml:id="subtitle1086">she wouldn't have ran away.</p>
+<p begin="38312000000t" end="38334000000t" style="normal" xml:id="subtitle1087">I still can't believe<br/>she left just like that.</p>
+<p begin="38369600000t" end="38412800000t" style="normal" xml:id="subtitle1088">Do you still live at that same place?</p>
+<p begin="38462400000t" end="38470800000t" style="normal" xml:id="subtitle1089">No.</p>
+<p begin="38495600000t" end="38516400000t" style="normal" xml:id="subtitle1090">I'm living on my own now, Mr. Ho.</p>
+<p begin="38544400000t" end="38552800000t" style="normal" xml:id="subtitle1091">Well...</p>
+<p begin="38580400000t" end="38598400000t" style="normal" xml:id="subtitle1092">I suppose it was time for me...</p>
+<p begin="38618400000t" end="38633200000t" style="normal" xml:id="subtitle1093">to explore the world...</p>
+<p begin="38664400000t" end="38678800000t" style="normal" xml:id="subtitle1094">leaving the house behind...</p>
+<p begin="38699200000t" end="38711200000t" style="normal" xml:id="subtitle1095">to find my destiny.</p>
+<p begin="38740400000t" end="38751200000t" style="normal" xml:id="subtitle1096">Just like Lily.</p>
+<p begin="38776000000t" end="38832000000t" style="normal" xml:id="subtitle1097">But I don't think<br/>she's mature enough to be on her own.</p>
+<p begin="38832800000t" end="38870800000t" style="normal" xml:id="subtitle1098">She will learn to become independent,<br/>Mr. Ho.</p>
+<p begin="38879600000t" end="38888000000t" style="normal" xml:id="subtitle1099">Am I right?</p>
+<p begin="38894000000t" end="38904000000t" style="normal" xml:id="subtitle1100">[scoffs]</p>
+<p begin="38906000000t" end="38924000000t" style="normal" xml:id="subtitle1101">A few years back...</p>
+<p begin="38944400000t" end="38974800000t" style="normal" xml:id="subtitle1102">Julie heard some news from Penang.</p>
+<p begin="38975600000t" end="38993200000t" style="normal" xml:id="subtitle1103">[dramatic music playing]</p>
+<p begin="38994000000t" end="39034800000t" style="normal" xml:id="subtitle1104">But we haven't received any more news<br/>after that.</p>
+<p begin="39059200000t" end="39072000000t" style="normal" xml:id="subtitle1105">We have asked for help...</p>
+<p begin="39085200000t" end="39108400000t" style="normal" xml:id="subtitle1106">from friends and relatives who live there.</p>
+<p begin="39126000000t" end="39136000000t" style="normal" xml:id="subtitle1107">Pulau Pinang?</p>
+<p begin="39196800000t" end="39212800000t" style="normal" xml:id="subtitle1108">I lost a daughter, Budi.</p>
+<p begin="39299600000t" end="39311600000t" style="normal" xml:id="subtitle1109">[birds chirping]</p>
+<p begin="39312400000t" end="39338400000t" style="normal" xml:id="subtitle1110">Take care.</p>
+<p begin="39357600000t" end="39366400000t" style="normal" xml:id="subtitle1111">I will, Budi.</p>
+<p begin="39405600000t" end="39426400000t" style="normal" xml:id="subtitle1112">[Budi]<br/>Please look after the house for me.</p>
+<p begin="39438400000t" end="39451600000t" style="normal" xml:id="subtitle1113">I'm leaving now, Mak Tam.</p>
+<p begin="39452400000t" end="39493600000t" style="normal" xml:id="subtitle1114">[Mak Tam sobbing]</p>
+<p begin="39527600000t" end="39556400000t" style="normal" xml:id="subtitle1115">Goodbye, everyone.<br/>Send my regards to everyone.</p>
+<p begin="39566400000t" end="39581200000t" style="normal" xml:id="subtitle1116">[Khatijah calls out to Budi]</p>
+<p begin="39612000000t" end="39644000000t" style="normal" xml:id="subtitle1117">Goodbye.</p>
+<p begin="39663200000t" end="39703200000t" style="normal" xml:id="subtitle1118">I love you.</p>
+<p begin="39740800000t" end="39792800000t" style="normal" xml:id="subtitle1119">I love you too.</p>
+<p begin="39852400000t" end="39875200000t" style="normal" xml:id="subtitle1120">-[in Arabic] Peace be upon you.<br/>-[in Arabic] And to you.</p>
+<p begin="39876000000t" end="39890800000t" style="normal" xml:id="subtitle1121">Peace be upon you too.</p>
+<p begin="39954000000t" end="39970000000t" style="normal" xml:id="subtitle1122">[ferry horn honks]</p>
+<p begin="39994000000t" end="40024000000t" style="normal" xml:id="subtitle1123">-Lily!<br/>-[ferry horn honks]</p>
+<p begin="40032800000t" end="40100800000t" style="normal" xml:id="subtitle1124"><span style="normal_1">♪ A day feels like a week ♪</span></p>
+<p begin="40101600000t" end="40167600000t" style="normal" xml:id="subtitle1125"><span style="normal_1">♪ A month feels like a year ♪</span></p>
+<p begin="40168400000t" end="40226400000t" style="normal" xml:id="subtitle1126"><span style="normal_1">♪ Looking for love that is lost ♪</span></p>
+<p begin="40227200000t" end="40272400000t" style="normal" xml:id="subtitle1127"><span style="normal_1">♪ From my grasp ♪</span></p>
+<p begin="40273200000t" end="40338000000t" style="normal" xml:id="subtitle1128"><span style="normal_1">♪ An inch feels like a mile ♪</span></p>
+<p begin="40338800000t" end="40408000000t" style="normal" xml:id="subtitle1129"><span style="normal_1">♪ This journey seems endless ♪</span></p>
+<p begin="40408800000t" end="40460400000t" style="normal" xml:id="subtitle1130"><span style="normal_1">♪ But I will not lose hope ♪</span></p>
+<p begin="40463600000t" end="40520000000t" style="normal" xml:id="subtitle1131"><span style="normal_1">♪ To be with you ♪</span></p>
+<p begin="40529600000t" end="40577600000t" style="normal" xml:id="subtitle1132"><span style="normal_1">♪ Should there be a chance ♪</span></p>
+<p begin="40584000000t" end="40650400000t" style="normal" xml:id="subtitle1133"><span style="normal_1">♪ For us to meet again ♪</span></p>
+<p begin="40651200000t" end="40715200000t" style="normal" xml:id="subtitle1134"><span style="normal_1">♪ Will you still remember me ♪</span></p>
+<p begin="40716000000t" end="40770000000t" style="normal" xml:id="subtitle1135"><span style="normal_1">♪ Just as before?</span> <span style="normal_1">♪</span></p>
+<p begin="40770800000t" end="40818800000t" style="normal" xml:id="subtitle1136"><span style="normal_1">♪ And at that moment</span> <span style="normal_1">♪</span></p>
+<p begin="40819600000t" end="40888400000t" style="normal" xml:id="subtitle1137"><span style="normal_1">♪ Is your heart willing</span> <span style="normal_1">♪</span></p>
+<p begin="40889200000t" end="40952400000t" style="normal" xml:id="subtitle1138"><span style="normal_1">♪ To let me love you?</span> <span style="normal_1">♪</span></p>
+<p begin="40953200000t" end="41009200000t" style="normal" xml:id="subtitle1139"><span style="normal_1">♪ Or do you no longer</span> <span style="normal_1">♪</span></p>
+<p begin="41010000000t" end="41061200000t" style="normal" xml:id="subtitle1140"><span style="normal_1">♪ Feel the same as you did before? ♪</span></p>
+<p begin="41086400000t" end="41131200000t" style="normal" xml:id="subtitle1141">-[indistinct chatter]<br/>-[man 1 coughs]</p>
+<p begin="41158400000t" end="41168400000t" style="normal" xml:id="subtitle1142">Excuse me.</p>
+<p begin="41169200000t" end="41218000000t" style="normal" xml:id="subtitle1143">Do you mind putting out that cigarette?<br/>My father has asthma.</p>
+<p begin="41239200000t" end="41281200000t" style="normal" xml:id="subtitle1144">[man 1 clears his throat, coughs]</p>
+<p begin="41288800000t" end="41306000000t" style="normal" xml:id="subtitle1145">[man 1 clears his throat, coughs]</p>
+<p begin="41345200000t" end="41354799999t" style="normal" xml:id="subtitle1146">[man 2]<br/>Ouch.</p>
+<p begin="41359600000t" end="41378400000t" style="normal" xml:id="subtitle1147">-What is it?<br/>-<span style="normal_1">♪ Always guiding ♪</span></p>
+<p begin="41379200000t" end="41405200000t" style="normal" xml:id="subtitle1148">Can you earn a living these days<br/>by selling baskets?</p>
+<p begin="41413999999t" end="41440000000t" style="normal" xml:id="subtitle1149">We're doing fine.<br/>I'm doing this part time.</p>
+<p begin="41440800000t" end="41463599999t" style="normal" xml:id="subtitle1150">-Help my family earn some money.<br/>-[man 3] Look at that hair.</p>
+<p begin="41464399999t" end="41481600000t" style="normal" xml:id="subtitle1151">-For a living.<br/>-Your hair is long.</p>
+<p begin="41495200000t" end="41528400000t" style="normal" xml:id="subtitle1152">-Not your hair.<br/>-Are you for real?</p>
+<p begin="41529200000t" end="41553999999t" style="normal" xml:id="subtitle1153">-Dad, let's go. Ina is here.<br/>-Hey, look at that.</p>
+<p begin="41554799999t" end="41573999999t" style="normal" xml:id="subtitle1154">I thought they were poor,<br/>but look at that car.</p>
+<p begin="41574799999t" end="41583999999t" style="normal" xml:id="subtitle1155">Be careful.</p>
+<p begin="41604799999t" end="41613199999t" style="normal" xml:id="subtitle1156">[hums]</p>
+<p begin="41615600000t" end="41636400000t" style="normal" xml:id="subtitle1157">That car looks cool.</p>
+<p begin="41658000000t" end="41690000000t" style="normal" xml:id="subtitle1158">-Peace be upon you.<br/>-Peace be upon you too. Nice car.</p>
+<p begin="41711600000t" end="41737200000t" style="normal" xml:id="subtitle1159">Budi. My walking stick.</p>
+<p begin="41738000000t" end="41749200000t" style="normal" xml:id="subtitle1160">Yes, Dad.</p>
+<p begin="41776800000t" end="41804399999t" style="normal" xml:id="subtitle1161">This is my father's walking stick.</p>
+<p begin="41810000000t" end="41826800000t" style="normal" xml:id="subtitle1162">-Sir.<br/>-What's his problem?</p>
+<p begin="41835200000t" end="41861600000t" style="normal" xml:id="subtitle1163">The walking stick belongs to the old man.</p>
+<p begin="41880400000t" end="41924799999t" style="normal" xml:id="subtitle1164">-Drive safe!<br/>-[people cheering]</p>
+<p begin="41927200000t" end="41978000000t" style="normal" xml:id="subtitle1165"><span style="normal_1">♪ Should there be a chance</span> <span style="normal_1">♪</span></p>
+<p begin="41980800000t" end="42045600000t" style="normal" xml:id="subtitle1166"><span style="normal_1">♪ For us to meet again</span> <span style="normal_1">♪</span></p>
+<p begin="42046400000t" end="42112400000t" style="normal" xml:id="subtitle1167"><span style="normal_1">♪ Will you still remember me</span> <span style="normal_1">♪</span></p>
+<p begin="42113200000t" end="42167200000t" style="normal" xml:id="subtitle1168"><span style="normal_1">♪ Just as before</span> <span style="normal_1">♪</span></p>
+<p begin="42168000000t" end="42216000000t" style="normal" xml:id="subtitle1169"><span style="normal_1">♪ And at that moment</span> <span style="normal_1">♪</span></p>
+<p begin="42217200000t" end="42286400000t" style="normal" xml:id="subtitle1170"><span style="normal_1">♪ Is your heart willing</span> <span style="normal_1">♪</span></p>
+<p begin="42287200000t" end="42350000000t" style="normal" xml:id="subtitle1171"><span style="normal_1">♪ To let me love you</span> <span style="normal_1">♪</span></p>
+<p begin="42350800000t" end="42404800000t" style="normal" xml:id="subtitle1172"><span style="normal_1">♪ Or do you no longer</span> <span style="normal_1">♪</span></p>
+<p begin="42405600000t" end="42464800000t" style="normal" xml:id="subtitle1173"><span style="normal_1">♪ Feel the same like before ♪</span></p>
+<p begin="42472000000t" end="42495600000t" style="normal" xml:id="subtitle1174">[news anchor]<span style="normal_1"> Earlier today,</span><br/><span style="normal_1">the Prime Minister launched</span></p>
+<p begin="42496400000t" end="42515600000t" style="normal" xml:id="subtitle1175"><span style="normal_1">our first national car, the Proton Saga</span></p>
+<p begin="42516400000t" end="42545200000t" style="normal" xml:id="subtitle1176"><span style="normal_1">and officiated</span><br/><span style="normal_1">the opening of Penang Bridge.</span></p>
+<p begin="42548400000t" end="42583200000t" style="normal" xml:id="subtitle1177"><span style="normal_1">The public took this opportunity</span><br/><span style="normal_1">to meet the Prime Minister,</span></p>
+<p begin="42584000000t" end="42598800000t" style="normal" xml:id="subtitle1178"><span style="normal_1">Dr. Mahathir Mohamad.</span></p>
+<p begin="42600000000t" end="42609600000t" style="normal" xml:id="subtitle1179">[TV static]</p>
+<p begin="42610400000t" end="42633200000t" style="normal" xml:id="subtitle1180">["Di Penghujungnya"<br/>by Iqa Nasra is playing]</p>
+<p begin="42634000000t" end="42654800000t" region="top" style="normal" xml:id="subtitle1181">D'FLORA SOUVENIRS AND FLORIST</p>
+<p begin="42734400000t" end="42775600000t" region="top" style="normal" xml:id="subtitle1182">♪<span style="normal_1"> After every utterance</span> ♪</p>
+<p begin="42776400000t" end="42805200000t" style="normal" xml:id="subtitle1183">-Joe. Is everything ready for delivery?<br/>-Yes?</p>
+<p begin="42812000000t" end="42845600000t" style="normal" xml:id="subtitle1184">Yes. Just waiting for Arif.</p>
+<p begin="42864400000t" end="42874400000t" style="normal" xml:id="subtitle1185">Where is he?</p>
+<p begin="42890000000t" end="42922400000t" style="normal" xml:id="subtitle1186">[coughs] He's always late to work.</p>
+<p begin="42942800000t" end="42957200000t" style="normal" xml:id="subtitle1187">I'll let him know.</p>
+<p begin="42969200000t" end="42977600000t" style="normal" xml:id="subtitle1188">Huh?</p>
+<p begin="42979600000t" end="43006400000t" style="normal" xml:id="subtitle1189">-Good morning.<br/>-Good afternoon.</p>
+<p begin="43010400000t" end="43031200000t" style="normal" xml:id="subtitle1190">Just you wait. You're in big trouble.</p>
+<p begin="43032000000t" end="43060400000t" style="normal" xml:id="subtitle1191">By the way, happy birthday, boss.</p>
+<p begin="43061600000t" end="43072800000t" style="normal" xml:id="subtitle1192">Happy birthday.</p>
+<p begin="43073600000t" end="43082000000t" style="normal" xml:id="subtitle1193">[Joe giggles]</p>
+<p begin="43087600000t" end="43117200000t" style="normal" xml:id="subtitle1194">Don't forget tonight at nine o'clock.</p>
+<p begin="43125600000t" end="43141600000t" style="normal" xml:id="subtitle1195">-Don't be late.<br/>-Sure, boss.</p>
+<p begin="43142400000t" end="43155600000t" style="normal" xml:id="subtitle1196">[Budi coughing]</p>
+<p begin="43168000000t" end="43178000000t" style="normal" xml:id="subtitle1197">[huffs]</p>
+<p begin="43181200000t" end="43204400000t" style="normal" xml:id="subtitle1198">What's with this mess?</p>
+<p begin="43213600000t" end="43245200000t" style="normal" xml:id="subtitle1199">[sighs] Arif must have left<br/>this computer switched on.</p>
+<p begin="43246000000t" end="43256000000t" style="normal" xml:id="subtitle1200">[breathes deeply]</p>
+<p begin="43265200000t" end="43274400000t" style="normal" xml:id="subtitle1201">What's this?</p>
+<p begin="43282800000t" end="43296400000t" style="normal" xml:id="subtitle1202">[breathes deeply]</p>
+<p begin="43318000000t" end="43364000000t" style="normal" xml:id="subtitle1203">How do you expect me to help you<br/>if you keep acting like this?</p>
+<p begin="43371600000t" end="43410400000t" style="normal" xml:id="subtitle1204">[Joe] You've got to change.<br/>You're so terrible.</p>
+<p begin="43413600000t" end="43425200000t" style="normal" xml:id="subtitle1205">[Arif]<br/>What can I do?</p>
+<p begin="43443200000t" end="43454800000t" style="normal" xml:id="subtitle1206">I got back late last night.</p>
+<p begin="43458400000t" end="43478400000t" style="normal" xml:id="subtitle1207">CHEMOTHERAPY PROCEDURE</p>
+<p begin="43479200000t" end="43507200000t" style="normal" xml:id="subtitle1208">-I only slept at four in the morning.<br/>-Listen.</p>
+<p begin="43522400000t" end="43565200000t" region="top" style="normal" xml:id="subtitle1209">Don't be too obsessed with women.</p>
+<p begin="43566000000t" end="43577600000t" region="top" style="normal" xml:id="subtitle1210">You will never know.</p>
+<p begin="43581200000t" end="43610400000t" style="normal" xml:id="subtitle1211">She's different. You'll never understand.</p>
+<p begin="43612400000t" end="43626400000t" style="normal" xml:id="subtitle1212">Yeah, right.</p>
+<p begin="43630000000t" end="43646000000t" style="normal" xml:id="subtitle1213">[Joe humming]</p>
+<p begin="43647200000t" end="43675600000t" style="normal" xml:id="subtitle1214">Have you done the bouquet<br/>that I asked for yesterday?</p>
+<p begin="43676400000t" end="43688800000t" style="normal" xml:id="subtitle1215">[shushing]</p>
+<p begin="43722000000t" end="43760000000t" style="normal" xml:id="subtitle1216">Not yet. I'll do it for you tomorrow.</p>
+<p begin="43762800000t" end="43788000000t" style="normal" xml:id="subtitle1217">[loud music playing]</p>
+<p begin="43788800000t" end="43806800000t" style="normal" xml:id="subtitle1218">You are funny.</p>
+<p begin="43817600000t" end="43841600000t" style="normal" xml:id="subtitle1219">-[Arabic] Peace be upon you.<br/>-[Arabic] Peace be upon you, too.</p>
+<p begin="43844400000t" end="43882400000t" style="normal" xml:id="subtitle1220">-Where's Arif?<br/>-He's going to be a bit late.</p>
+<p begin="43883200000t" end="43908400000t" style="normal" xml:id="subtitle1221">He asked me to come first.<br/>He'll join us later.</p>
+<p begin="43913200000t" end="43966800000t" style="normal" xml:id="subtitle1222">As usual, he'll leave the office with<br/>the lights and computer switched on.</p>
+<p begin="43967600000t" end="43992000000t" style="normal" xml:id="subtitle1223">-The electricity bill will skyrocket.<br/>-Come on.</p>
+<p begin="43995600000t" end="44029200000t" style="normal" xml:id="subtitle1224">You're the birthday boy,<br/>you shouldn't be angry.</p>
+<p begin="44030000000t" end="44059200000t" style="normal" xml:id="subtitle1225">-[people chattering indistinctly]<br/>-[hesitating to speak]</p>
+<p begin="44070400000t" end="44084000000t" style="normal" xml:id="subtitle1226">[clicks tongue]</p>
+<p begin="44088000000t" end="44099200000t" style="normal" xml:id="subtitle1227">-Boss.<br/>-Yes.</p>
+<p begin="44106800000t" end="44128800000t" style="normal" xml:id="subtitle1228">Is it just the two of us?<br/>No one else is joining us?</p>
+<p begin="44133600000t" end="44162800000t" style="normal" xml:id="subtitle1229">Yes, just us. Is that a problem?</p>
+<p begin="44173600000t" end="44203600000t" style="normal" xml:id="subtitle1230">-Feels like we're on a date.<br/>-That's ridiculous.</p>
+<p begin="44212800000t" end="44228800000t" style="normal" xml:id="subtitle1231">[people chattering indistinctly]</p>
+<p begin="44233600000t" end="44262800000t" style="normal" xml:id="subtitle1232">[funny romantic music is playing]</p>
+<p begin="44419600000t" end="44439200000t" style="normal" xml:id="subtitle1233">[muttering gibberish]</p>
+<p begin="44449600000t" end="44472400000t" style="normal" xml:id="subtitle1234">[people chattering indistinctly]</p>
+<p begin="44497200000t" end="44536400000t" style="normal" xml:id="subtitle1235">Any girls joining us tonight?</p>
+<p begin="44576000000t" end="44587600000t" style="normal" xml:id="subtitle1236">What's your problem?</p>
+<p begin="44625200000t" end="44638400000t" style="normal" xml:id="subtitle1237">I don't have a girlfriend.</p>
+<p begin="44653200000t" end="44681200000t" style="normal" xml:id="subtitle1238">Don't tell me you don't have<br/>any female friends?</p>
+<p begin="44694000000t" end="44728400000t" style="normal" xml:id="subtitle1239">No girlfriend and no female friends.</p>
+<p begin="44729200000t" end="44762800000t" style="normal" xml:id="subtitle1240">I don't even have any other friends.<br/>Both you and Arif are all I have.</p>
+<p begin="44763600000t" end="44772000000t" style="normal" xml:id="subtitle1241">[coughs]</p>
+<p begin="44775600000t" end="44798400000t" style="normal" xml:id="subtitle1242">You're like my family. [coughs]</p>
+<p begin="44842400000t" end="44850800000t" style="normal" xml:id="subtitle1243">[keys clink]</p>
+<p begin="44865600000t" end="44880400000t" style="normal" xml:id="subtitle1244">[keys clinking]</p>
+<p begin="44888000000t" end="44948400000t" style="normal" xml:id="subtitle1245">[cuckoo clock sounding off]</p>
+<p begin="45014800000t" end="45029200000t" style="normal" xml:id="subtitle1246">Happy Birthday, Lily!</p>
+<p begin="45030000000t" end="45070000000t" style="normal" xml:id="subtitle1247">[dramatic music playing]</p>
+<p begin="45159600000t" end="45172000000t" style="normal" xml:id="subtitle1248">[Budi]<br/>Arif. [coughs]</p>
+<p begin="45172800000t" end="45184000000t" style="normal" xml:id="subtitle1249">D'FLORA SOUVENIRS AND FLORIST</p>
+<p begin="45196000000t" end="45210400000t" style="normal" xml:id="subtitle1250">Arif. [coughs]</p>
+<p begin="45241600000t" end="45257200000t" style="normal" xml:id="subtitle1251">-Arif.<br/>-Huh?</p>
+<p begin="45268800000t" end="45315600000t" style="normal" xml:id="subtitle1252">Arif isn't here. He called me earlier<br/>to say he's on emergency leave today.</p>
+<p begin="45340400000t" end="45362000000t" style="normal" xml:id="subtitle1253">So who's going to deliver these flowers?</p>
+<p begin="45385600000t" end="45400400000t" style="normal" xml:id="subtitle1254">He's so unreliable.</p>
+<p begin="45402800000t" end="45423200000t" style="normal" xml:id="subtitle1255">-Hang on.<br/>-Keep an eye on the shop.</p>
+<p begin="45432800000t" end="45460800000t" style="normal" xml:id="subtitle1256">-[Budi coughs]<br/>-Boss.</p>
+<p begin="45470400000t" end="45478800000t" style="normal" xml:id="subtitle1257">Boss!</p>
+<p begin="45488000000t" end="45504000000t" style="normal" xml:id="subtitle1258">That's Arif's bouquet.</p>
+<p begin="45506000000t" end="45544000000t" style="normal" xml:id="subtitle1259">[car engine revving]</p>
+<p begin="45550800000t" end="45559200000t" style="normal" xml:id="subtitle1260">Sorry.</p>
+<p begin="45572400000t" end="45598400000t" style="normal" xml:id="subtitle1261">[mumbling]</p>
+<p begin="45599200000t" end="45607600000t" style="normal" xml:id="subtitle1262">Okay.</p>
+<p begin="45714000000t" end="45722400000t" style="normal" xml:id="subtitle1263">Okay.</p>
+<p begin="45746400000t" end="45759200000t" style="normal" xml:id="subtitle1264">[inhales deeply]</p>
+<p begin="45760000000t" end="45794800000t" style="normal" xml:id="subtitle1265">Three-nine-zero. Ho Lai Lai.</p>
+<p begin="45799600000t" end="45829600000t" style="normal" xml:id="subtitle1266">[dramatic music plays]</p>
+<p begin="45896400000t" end="45904800000t" style="normal" xml:id="subtitle1267">[clears throat]</p>
+<p begin="46004000000t" end="46012400000t" style="normal" xml:id="subtitle1268">Yes?</p>
+<p begin="46030400000t" end="46042400000t" style="normal" xml:id="subtitle1269">You. [gasps]</p>
+<p begin="46049200000t" end="46079200000t" style="normal" xml:id="subtitle1270">-Budi.<br/>-Arif?</p>
+<p begin="46100000000t" end="46133200000t" style="normal" xml:id="subtitle1271">-What are you doing here?<br/>-What are you doing here, Arif?</p>
+<p begin="46168000000t" end="46186800000t" style="normal" xml:id="subtitle1272">I'm taking care of my aunt.</p>
+<p begin="46224800000t" end="46252000000t" style="normal" xml:id="subtitle1273">I'm sorry that I'm not at work today.</p>
+<p begin="46267200000t" end="46284400000t" style="normal" xml:id="subtitle1274">[beeping]</p>
+<p begin="46285200000t" end="46318400000t" style="normal" xml:id="subtitle1275">[in Chinese]<br/>Auntie. This is my friend, Budi.</p>
+<p begin="46319200000t" end="46340000000t" style="normal" xml:id="subtitle1276">[beeping]</p>
+<p begin="46340800000t" end="46357200000t" style="normal" xml:id="subtitle1277">Today is Aunt Lily's birthday.</p>
+<p begin="46439600000t" end="46448000000t" style="normal" xml:id="subtitle1278">Budi?</p>
+<p begin="46482800000t" end="46491200000t" style="normal" xml:id="subtitle1279">Lily?</p>
+<p begin="46609200000t" end="46635600000t" style="normal" xml:id="subtitle1280">[Halim]<br/><span style="normal_1">What kind of curse is this?</span></p>
+<p begin="46636400000t" end="46651200000t" style="normal" xml:id="subtitle1281">[gasping]</p>
+<p begin="46656400000t" end="46679600000t" style="normal" xml:id="subtitle1282">[Lily]<span style="normal_1"> Twenty-ninth of February?</span><br/><span style="normal_1">A leap year?</span></p>
+<p begin="46680400000t" end="46702000000t" style="normal" xml:id="subtitle1283"><span style="normal_1">Poor you, that occurs only once</span><br/><span style="normal_1">every four years.</span></p>
+<p begin="46702800000t" end="46723200000t" style="normal" xml:id="subtitle1284"><span style="normal_1">Isn't it your birthday?</span><br/><span style="normal_1">You'll never get old.</span></p>
+<p begin="46724000000t" end="46773600000t" style="normal" xml:id="subtitle1285">[shouts hysterically]</p>
+<p begin="46803600000t" end="46823600000t" style="normal" xml:id="subtitle1286">[Halim]<br/><span style="normal_1">What kind of curse is this?</span></p>
+<p begin="46824400000t" end="46838000000t" style="normal" xml:id="subtitle1287">[Lily]<br/><span style="normal_1">Isn't it your birthday?</span></p>
+<p begin="46839600000t" end="46859600000t" style="normal" xml:id="subtitle1288">[Mr. Salam]<br/><span style="normal_1">You're a burden to everyone!</span></p>
+<p begin="46860400000t" end="46894400000t" style="normal" xml:id="subtitle1289">[Maniappan]<br/><span style="normal_1">You're still young and have a lot of time.</span></p>
+<p begin="46900400000t" end="46930400000t" style="normal" xml:id="subtitle1290">[Mak Tam]<br/><span style="normal_1">Budi!</span></p>
+<p begin="46931200000t" end="46959200000t" style="normal" xml:id="subtitle1291">[Mr. Salam]<br/><span style="normal_1">You're a burden to everyone!</span></p>
+<p begin="46965600000t" end="46994000000t" style="normal" xml:id="subtitle1292">[Halim]<br/><span style="normal_1">What kind of curse is this?</span></p>
+<p begin="47041200000t" end="47070400000t" style="normal" xml:id="subtitle1293">[panting]</p>
+<p begin="47075600000t" end="47098000000t" style="normal" xml:id="subtitle1294">Boss!</p>
+<p begin="47104400000t" end="47145600000t" style="normal" xml:id="subtitle1295">Because of Aunt Lily, my grandfather<br/>approved of my parents' marriage.</p>
+<p begin="47146400000t" end="47164800000t" style="normal" xml:id="subtitle1296">-[people chattering indistinctly]<br/>-[phone rings]</p>
+<p begin="47165600000t" end="47198800000t" style="normal" xml:id="subtitle1297">After my father died,<br/>my mother brought me here.</p>
+<p begin="47212800000t" end="47226000000t" style="normal" xml:id="subtitle1298">To stay with Aunt Lily.</p>
+<p begin="47230800000t" end="47266800000t" style="normal" xml:id="subtitle1299">-[phone ringing]<br/>-[people chattering indistinctly]</p>
+<p begin="47269600000t" end="47306400000t" style="normal" xml:id="subtitle1300">But not long after that,<br/>my mother passed away, too.</p>
+<p begin="47332800000t" end="47355200000t" style="normal" xml:id="subtitle1301">Aunt Lily is the only family that I have.</p>
+<p begin="47410400000t" end="47427200000t" style="normal" xml:id="subtitle1302">[sobbing]</p>
+<p begin="47462000000t" end="47476800000t" style="normal" xml:id="subtitle1303">What else did the doctor say?</p>
+<p begin="47501200000t" end="47530800000t" style="normal" xml:id="subtitle1304">The doctor said that there<br/>isn't much time left for her.</p>
+<p begin="47542000000t" end="47563600000t" style="normal" xml:id="subtitle1305">When Aunt Lily<br/>found out about her disease...</p>
+<p begin="47582800000t" end="47596800000t" style="normal" xml:id="subtitle1306">it was already at the final stage.</p>
+<p begin="47616800000t" end="47658400000t" style="normal" xml:id="subtitle1307">She was advised to be warded,<br/>so that they could monitor her.</p>
+<p begin="47664400000t" end="47674400000t" style="normal" xml:id="subtitle1308">It's alright, Arif.</p>
+<p begin="47683200000t" end="47705200000t" style="normal" xml:id="subtitle1309">Now that I'm here,<br/>I can help look after her.</p>
+<p begin="47734000000t" end="47769600000t" style="normal" xml:id="subtitle1310">[traditional Chinese musical instrument<br/>playing]</p>
+<p begin="47770400000t" end="47828400000t" style="normal" xml:id="subtitle1311">[Lily] <span style="normal_1">Why would you want to waste</span><br/><span style="normal_1">your life on a person like me?</span></p>
+<p begin="47841200000t" end="47860800000t" style="normal" xml:id="subtitle1312">[Budi]<br/><span style="normal_1">To know you, give me a day.</span></p>
+<p begin="47876800000t" end="47899200000t" style="normal" xml:id="subtitle1313"><span style="normal_1">To love you, give me a year.</span></p>
+<p begin="47909200000t" end="47944800000t" style="normal" xml:id="subtitle1314">But to forget you,<br/>even a lifetime isn't enough.</p>
+<p begin="47974000000t" end="48029600000t" style="normal" xml:id="subtitle1315">[Lily] <span style="normal_1">You should have just forgotten</span><br/><span style="normal_1">about me.</span></p>
+<p begin="48035200000t" end="48053600000t" style="normal" xml:id="subtitle1316">[Budi]<br/><span style="normal_1">I tried.</span></p>
+<p begin="48064000000t" end="48082000000t" style="normal" xml:id="subtitle1317"><span style="normal_1">I tried to find love.</span></p>
+<p begin="48109600000t" end="48131600000t" style="normal" xml:id="subtitle1318"><span style="normal_1">-But it just wasn't the same.</span><br/>-[Lily hums]</p>
+<p begin="48145600000t" end="48197200000t" style="normal" xml:id="subtitle1319">[Lily] <span style="normal_1">How do you know</span><br/><span style="normal_1">when you truly love someone?</span></p>
+<p begin="48202400000t" end="48224800000t" style="normal" xml:id="subtitle1320"><span style="normal_1">Fondness is temporary...</span></p>
+<p begin="48235200000t" end="48284000000t" style="normal" xml:id="subtitle1321">but true love will last forever.</p>
+<p begin="48314400000t" end="48356800000t" style="normal" xml:id="subtitle1322"><span style="normal_1">Knowing you is like</span><br/><span style="normal_1">a beautiful dream, Budi.</span></p>
+<p begin="48369600000t" end="48394400000t" style="normal" xml:id="subtitle1323"><span style="normal_1">Don't ever wake me up from my dream.</span></p>
+<p begin="48439200000t" end="48472000000t" style="normal" xml:id="subtitle1324">[coughing]</p>
+<p begin="48472800000t" end="48511200000t" style="normal" xml:id="subtitle1325">[Arif] Enough with the cigarettes, boss.<br/>Even the doctor asked you to quit smoking.</p>
+<p begin="48512000000t" end="48520400000t" style="normal" xml:id="subtitle1326">[spits]</p>
+<p begin="48524400000t" end="48540800000t" style="normal" xml:id="subtitle1327">[inhales deeply]</p>
+<p begin="48541600000t" end="48558800000t" style="normal" xml:id="subtitle1328">Maybe I should quit smoking.</p>
+<p begin="48573200000t" end="48588000000t" style="normal" xml:id="subtitle1329">[coughs]</p>
+<p begin="48600000000t" end="48608400000t" style="normal" xml:id="subtitle1330">[inhales]</p>
+<p begin="48612400000t" end="48633600000t" style="normal" xml:id="subtitle1331"><span style="normal_1">-♪ Come and go ♪</span><br/>-[coughs]</p>
+<p begin="48634400000t" end="48651600000t" style="normal" xml:id="subtitle1332">-Peace be upon you.<br/>-Peace be upon you, too.</p>
+<p begin="48652400000t" end="48679200000t" style="normal" xml:id="subtitle1333">Boss. Rajan called me earlier.</p>
+<p begin="48680000000t" end="48703600000t" style="normal" xml:id="subtitle1334">He has e-mailed his quotation<br/>for the gardening works.</p>
+<p begin="48707200000t" end="48740000000t" style="normal" xml:id="subtitle1335">He has also completed painting the house.</p>
+<p begin="48742000000t" end="48757600000t" style="normal" xml:id="subtitle1336">And replaced the roof, too.</p>
+<p begin="48759600000t" end="48776400000t" style="normal" xml:id="subtitle1337">You bought a new house, boss?</p>
+<p begin="48777200000t" end="48816400000t" style="normal" xml:id="subtitle1338">No. It was abandoned<br/>for a while, so I'm fixing it.</p>
+<p begin="48827200000t" end="48845600000t" style="normal" xml:id="subtitle1339">-Where's it at?<br/>-Kuala Lumpur.</p>
+<p begin="48856000000t" end="48900000000t" style="normal" xml:id="subtitle1340">So you plan to move back there?</p>
+<p begin="48911200000t" end="48934400000t" style="normal" xml:id="subtitle1341">That was the initial plan but...</p>
+<p begin="48958400000t" end="48973600000t" style="normal" xml:id="subtitle1342">I don't have the heart to leave Penang.</p>
+<p begin="48976000000t" end="48986400000t" style="normal" xml:id="subtitle1343">[giggles]</p>
+<p begin="48987200000t" end="49013600000t" style="normal" xml:id="subtitle1344">-[sighs] Boss.<br/>-What?</p>
+<p begin="49014400000t" end="49056800000t" style="normal" xml:id="subtitle1345">Just sell off that old house.<br/>Buy a house at Balik Pulau with the money.</p>
+<p begin="49057600000t" end="49083600000t" style="normal" xml:id="subtitle1346">I can't, that house<br/>has become my responsibility.</p>
+<p begin="49101200000t" end="49130400000t" style="normal" xml:id="subtitle1347">So, what's your plan?</p>
+<p begin="49146400000t" end="49167200000t" style="normal" xml:id="subtitle1348">Even if I don't stay at the house...</p>
+<p begin="49172400000t" end="49180800000t" style="normal" xml:id="subtitle1349">[coughs]</p>
+<p begin="49193200000t" end="49212400000t" style="normal" xml:id="subtitle1350">I plan to give it to those in need.</p>
+<p begin="49229200000t" end="49253600000t" style="normal" xml:id="subtitle1351">Not everyone is as lucky as us,<br/>aren't they?</p>
+<p begin="49260800000t" end="49280400000t" style="normal" xml:id="subtitle1352">-[Budi coughing]<br/>-Everything is ready.</p>
+<p begin="49289200000t" end="49326000000t" style="normal" xml:id="subtitle1353">-Put those flowers in the back of the van.<br/>-Okay.</p>
+<p begin="49326800000t" end="49358400000t" style="normal" xml:id="subtitle1354">-Joe, pass me the keys.<br/>-What?</p>
+<p begin="49364400000t" end="49429200000t" style="normal" xml:id="subtitle1355">You trust his driving? You're going to<br/>end up being stopped by the police.</p>
+<p begin="49438000000t" end="49449200000t" style="normal" xml:id="subtitle1356">[sighs]</p>
+<p begin="49465600000t" end="49494400000t" style="normal" xml:id="subtitle1357">When are you ever going to learn to drive?</p>
+<p begin="49510800000t" end="49533200000t" style="normal" xml:id="subtitle1358">No rush. I have all the time in the world.</p>
+<p begin="49534000000t" end="49576400000t" style="normal" xml:id="subtitle1359">[doctor] In cases like this, she has<br/>to be strong to fight the disease.</p>
+<p begin="49582000000t" end="49606400000t" style="normal" xml:id="subtitle1360">But ever since you took care of her,</p>
+<p begin="49607200000t" end="49634400000t" style="normal" xml:id="subtitle1361">she seems more cheerful and energized.</p>
+<p begin="49635200000t" end="49669600000t" style="normal" xml:id="subtitle1362">The most important thing is<br/>the support from family and friends.</p>
+<p begin="49674000000t" end="49688400000t" style="normal" xml:id="subtitle1363">Show her love and affection.</p>
+<p begin="49700400000t" end="49724800000t" style="normal" xml:id="subtitle1364">If you don't mind me asking,</p>
+<p begin="49730400000t" end="49747200000t" style="normal" xml:id="subtitle1365">are you and Arif related?</p>
+<p begin="49784400000t" end="49801200000t" style="normal" xml:id="subtitle1366">No. Actually I have known Lily...</p>
+<p begin="49816400000t" end="49831600000t" style="normal" xml:id="subtitle1367">ever since we were younger.</p>
+<p begin="49851200000t" end="49873600000t" style="normal" xml:id="subtitle1368">[wheelchair creaking]</p>
+<p begin="49929200000t" end="49951600000t" style="normal" xml:id="subtitle1369">[Lily gasping]</p>
+<p begin="49952400000t" end="49964400000t" style="normal" xml:id="subtitle1370">How beautiful.</p>
+<p begin="49971200000t" end="49985600000t" style="normal" xml:id="subtitle1371">It's beautiful, Budi.</p>
+<p begin="49986400000t" end="50018000000t" style="normal" xml:id="subtitle1372">Each flower represents<br/>each year since I've met you.</p>
+<p begin="50028400000t" end="50041200000t" style="normal" xml:id="subtitle1373">Independence Day, 1957.</p>
+<p begin="50042000000t" end="50055600000t" style="normal" xml:id="subtitle1374">[gasping]</p>
+<p begin="50056400000t" end="50072800000t" style="normal" xml:id="subtitle1375">It has been 55 years, Lily.</p>
+<p begin="50073600000t" end="50088800000t" style="normal" xml:id="subtitle1376">[gasping]</p>
+<p begin="50111200000t" end="50152000000t" style="normal" xml:id="subtitle1377">Budi. I'm afraid to die.</p>
+<p begin="50180000000t" end="50215600000t" style="normal" xml:id="subtitle1378">[sobbing]</p>
+<p begin="50221600000t" end="50283600000t" style="normal" xml:id="subtitle1379"><span style="normal_1">♪ When dusk ends the day</span> <span style="normal_1">♪</span></p>
+<p begin="50288400000t" end="50354000000t" style="normal" xml:id="subtitle1380"><span style="normal_1">♪ When clouds hide the stars</span> <span style="normal_1">♪</span></p>
+<p begin="50354800000t" end="50410800000t" style="normal" xml:id="subtitle1381"><span style="normal_1">♪ I will try to shine</span> <span style="normal_1">♪</span></p>
+<p begin="50411600000t" end="50473200000t" style="normal" xml:id="subtitle1382"><span style="normal_1">♪ To brighten up your night ♪</span></p>
+<p begin="50485200000t" end="50549200000t" style="normal" xml:id="subtitle1383"><span style="normal_1">♪ If the moon doesn't glow</span> <span style="normal_1">♪</span></p>
+<p begin="50550000000t" end="50609200000t" style="normal" xml:id="subtitle1384"><span style="normal_1">♪ And you couldn't find your ways</span> <span style="normal_1">♪</span></p>
+<p begin="50616800000t" end="50673600000t" style="normal" xml:id="subtitle1385"><span style="normal_1">♪ I will be your guiding light</span> <span style="normal_1">♪</span></p>
+<p begin="50674400000t" end="50742800000t" style="normal" xml:id="subtitle1386"><span style="normal_1">♪ Sparkle like a firefly</span> <span style="normal_1">♪</span></p>
+<p begin="50746000000t" end="50800000000t" style="normal" xml:id="subtitle1387"><span style="normal_1">♪ Hold on to my hand</span> <span style="normal_1">♪</span></p>
+<p begin="50809600000t" end="50868400000t" style="normal" xml:id="subtitle1388"><span style="normal_1">♪ Tell me where you wish to be</span> <span style="normal_1">♪</span></p>
+<p begin="50878000000t" end="50924800000t" style="normal" xml:id="subtitle1389"><span style="normal_1">♪ I will lead the way ♪</span></p>
+<p begin="50925600000t" end="50970000000t" style="normal" xml:id="subtitle1390"><span style="normal_1">♪ And fly with you</span> <span style="normal_1">♪</span></p>
+<p begin="50970800000t" end="51009200000t" style="normal" xml:id="subtitle1391"><span style="normal_1">♪ Away ♪</span></p>
+<p begin="51014800000t" end="51078800000t" style="normal" xml:id="subtitle1392"><span style="normal_1">♪ If we ever part ♪ </span>[cries]</p>
+<p begin="51079600000t" end="51141600000t" style="normal" xml:id="subtitle1393"><span style="normal_1">♪ Don't you worry</span> <span style="normal_1">♪</span></p>
+<p begin="51142400000t" end="51202000000t" style="normal" xml:id="subtitle1394"><span style="normal_1">♪ I will be your guiding light ♪</span></p>
+<p begin="51202800000t" end="51269600000t" style="normal" xml:id="subtitle1395"><span style="normal_1">♪ Sparkle like a firefly</span> <span style="normal_1">♪</span></p>
+<p begin="51270400000t" end="51330000000t" style="normal" xml:id="subtitle1396"><span style="normal_1">♪ Sparkle like a firefly</span> <span style="normal_1">♪</span></p>
+<p begin="51342400000t" end="51358800000t" style="normal" xml:id="subtitle1397">[hoarse voice] I love you, Lily.</p>
+<p begin="51484400000t" end="51493200000t" style="normal" xml:id="subtitle1398">[upbeat music]</p>
+<p begin="51494400000t" end="51530000000t" style="normal" xml:id="subtitle1399">[radio deejay]<br/><span style="normal_1">To all our listeners in Pulau Pinang,</span></p>
+<p begin="51530800000t" end="51560400000t" style="normal" xml:id="subtitle1400"><span style="normal_1">due to our 55th</span><br/><span style="normal_1">Independence Day celebrations,</span></p>
+<p begin="51561200000t" end="51598000000t" style="normal" xml:id="subtitle1401"><span style="normal_1">do avoid Lebuh Pantai</span><br/><span style="normal_1">and its surrounding areas</span></p>
+<p begin="51598800000t" end="51627600000t" style="normal" xml:id="subtitle1402"><span style="normal_1">as it will be closed for the parade.</span></p>
+<p begin="51628400000t" end="51663600000t" style="normal" xml:id="subtitle1403"><span style="normal_1">Happy 55th Independence Day!</span></p>
+<p begin="51811200000t" end="51841200000t" style="normal" xml:id="subtitle1404">[suspenseful music]</p>
+<p begin="51852000000t" end="51880000000t" style="normal" xml:id="subtitle1405"><span style="normal_1">Budi!</span></p>
+<p begin="51881600000t" end="51890000000t" style="normal" xml:id="subtitle1406"><span style="normal_1">Sir.</span></p>
+<p begin="51902800000t" end="51945200000t" style="normal" xml:id="subtitle1407">[shouting]</p>
+<p begin="51950000000t" end="51974800000t" style="normal" xml:id="subtitle1408">[Lily]<br/><span style="normal_1">Take care of yourself.</span></p>
+<p begin="51993600000t" end="52007200000t" style="normal" xml:id="subtitle1409">[beeping]</p>
+<p begin="52008000000t" end="52024800000t" style="normal" xml:id="subtitle1410">-[gasps]<br/>-[in Chinese] Auntie?</p>
+<p begin="52025600000t" end="52059600000t" style="normal" xml:id="subtitle1411">-[gasping]<br/>-Auntie?</p>
+<p begin="52060400000t" end="52114800000t" style="normal" xml:id="subtitle1412">-[gasping]<br/>-What's wrong, Auntie?</p>
+<p begin="52121600000t" end="52146000000t" style="normal" xml:id="subtitle1413">Let me call the doctor.</p>
+<p begin="52146800000t" end="52168000000t" style="normal" xml:id="subtitle1414">[in Malay] Doctor! Help!</p>
+<p begin="52168800000t" end="52192000000t" style="normal" xml:id="subtitle1415">Sir, let me handle this.</p>
+<p begin="52195200000t" end="52250800000t" style="normal" xml:id="subtitle1416">-[beeping intensifies]<br/>-[panting]</p>
+<p begin="52262400000t" end="52327600000t" style="normal" xml:id="subtitle1417">[phone ringing]</p>
+<p begin="52340000000t" end="52361600000t" style="normal" xml:id="subtitle1418">-[phone ringing]<br/>[groans]</p>
+<p begin="52362400000t" end="52379200000t" style="normal" xml:id="subtitle1419">[phone continues to ring]</p>
+<p begin="52392000000t" end="52400400000t" style="normal" xml:id="subtitle1420">[beeps]</p>
+<p begin="52414800000t" end="52423200000t" style="normal" xml:id="subtitle1421">Hello.</p>
+<p begin="52424000000t" end="52445200000t" style="normal" xml:id="subtitle1422">[Arif]<br/><span style="normal_1">You need to come here now.</span></p>
+<p begin="52466400000t" end="52477600000t" style="normal" xml:id="subtitle1423">I'll be on my way.</p>
+<p begin="52486000000t" end="52516000000t" style="normal" xml:id="subtitle1424">[dramatic music plays]</p>
+<p begin="52533200000t" end="52603200000t" style="normal" xml:id="subtitle1425">[sobbing]</p>
+<p begin="52639600000t" end="52705600000t" style="normal" xml:id="subtitle1426"><span style="normal_1">♪ No more shedding tears</span> <span style="normal_1">♪</span></p>
+<p begin="52706400000t" end="52756800000t" style="normal" xml:id="subtitle1427"><span style="normal_1">♪ Wipe the teardrops away</span> <span style="normal_1">♪</span></p>
+<p begin="52767600000t" end="52833600000t" style="normal" xml:id="subtitle1428"><span style="normal_1">♪ Sadness will not heal this heartache</span> <span style="normal_1">♪</span></p>
+<p begin="52834400000t" end="52894000000t" style="normal" xml:id="subtitle1429"><span style="normal_1">♪ For she will never return</span> <span style="normal_1">♪</span></p>
+<p begin="52899600000t" end="52950800000t" style="normal" xml:id="subtitle1430"><span style="normal_1">♪ Fate changed our lives</span> <span style="normal_1">♪</span></p>
+<p begin="52951600000t" end="52987600000t" style="normal" xml:id="subtitle1431"><span style="normal_1">♪ The moment ♪</span></p>
+<p begin="52988400000t" end="53030800000t" style="normal" xml:id="subtitle1432"><span style="normal_1">♪ She's gone</span> <span style="normal_1">♪</span></p>
+<p begin="53031600000t" end="53097200000t" style="normal" xml:id="subtitle1433"><span style="normal_1">♪ Words can only be expressed</span> <span style="normal_1">♪</span></p>
+<p begin="53098000000t" end="53168000000t" style="normal" xml:id="subtitle1434"><span style="normal_1">♪ In prayers to God ♪</span></p>
+<p begin="53176400000t" end="53192800000t" style="normal" xml:id="subtitle1435">[sobbing]</p>
+<p begin="53198000000t" end="53241600000t" style="normal" xml:id="subtitle1436"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="53242400000t" end="53309200000t" style="normal" xml:id="subtitle1437"><span style="normal_1">♪ Give me courage</span> <span style="normal_1">♪</span></p>
+<p begin="53326800000t" end="53370800000t" style="normal" xml:id="subtitle1438"><span style="normal_1">♪ To live a lonely life</span> <span style="normal_1">♪</span></p>
+<p begin="53374000000t" end="53426400000t" style="normal" xml:id="subtitle1439"><span style="normal_1">♪ And strength in facing fate</span> <span style="normal_1">♪</span></p>
+<p begin="53427200000t" end="53468000000t" style="normal" xml:id="subtitle1440"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="53473200000t" end="53524000000t" style="normal" xml:id="subtitle1441"><span style="normal_1">♪ Let us meet again</span> <span style="normal_1">♪</span></p>
+<p begin="53526400000t" end="53558000000t" style="normal" xml:id="subtitle1442"><span style="normal_1">♪ Somewhere</span> <span style="normal_1">♪</span></p>
+<p begin="53558800000t" end="53581200000t" style="normal" xml:id="subtitle1443"><span style="normal_1">♪ Till then ♪</span></p>
+<p begin="53582000000t" end="53635200000t" style="normal" xml:id="subtitle1444"><span style="normal_1">♪ All I ask of you</span> <span style="normal_1">♪</span></p>
+<p begin="53646000000t" end="53684400000t" style="normal" xml:id="subtitle1445"><span style="normal_1">♪ Take care of her</span> <span style="normal_1">♪</span></p>
+<p begin="53685200000t" end="53718800000t" style="normal" xml:id="subtitle1446">-[people cheering]<br/>-[coughing]</p>
+<p begin="53722400000t" end="53758400000t" style="normal" xml:id="subtitle1447">Lily!</p>
+<p begin="53823200000t" end="53845200000t" style="normal" xml:id="subtitle1448">[man]<br/>Hey!</p>
+<p begin="53846000000t" end="53895200000t" style="normal" xml:id="subtitle1449">[panting]</p>
+<p begin="53905200000t" end="53920800000t" style="normal" xml:id="subtitle1450">[panting]</p>
+<p begin="53934400000t" end="53942800000t" style="normal" xml:id="subtitle1451">[panting]</p>
+<p begin="53970800000t" end="54002000000t" style="normal" xml:id="subtitle1452">[panting]</p>
+<p begin="54002800000t" end="54046000000t" style="normal" xml:id="subtitle1453"><span style="normal_1">♪ Let us meet again</span> <span style="normal_1">♪</span></p>
+<p begin="54046800000t" end="54092400000t" style="normal" xml:id="subtitle1454">-<span style="normal_1">♪ Somewhere</span> <span style="normal_1">♪</span><br/>-[coughs]</p>
+<p begin="54104000000t" end="54137600000t" style="normal" xml:id="subtitle1455">[coughing]</p>
+<p begin="54171200000t" end="54206800000t" style="normal" xml:id="subtitle1456"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="54209600000t" end="54218000000t" style="normal" xml:id="subtitle1457">Sir?</p>
+<p begin="54232400000t" end="54274400000t" style="normal" xml:id="subtitle1458"><span style="normal_1">♪ Give me courage</span> <span style="normal_1">♪</span></p>
+<p begin="54300800000t" end="54350800000t" style="normal" xml:id="subtitle1459"><span style="normal_1">♪ To live a lonely life</span> <span style="normal_1">♪</span></p>
+<p begin="54351600000t" end="54389600000t" style="normal" xml:id="subtitle1460"><span style="normal_1">-♪ And strength in facing fate</span> <span style="normal_1">♪</span><br/>-[car horn honking]</p>
+<p begin="54457200000t" end="54474000000t" style="normal" xml:id="subtitle1461">[motorcycle honking]</p>
+<p begin="54730800000t" end="54756800000t" style="normal" xml:id="subtitle1462">Take care of yourself.</p>
+<p begin="54773600000t" end="54794400000t" style="normal" xml:id="subtitle1463">[car horn honking]</p>
+<p begin="54800800000t" end="54822000000t" style="normal" xml:id="subtitle1464">[tires screeching]</p>
+<p begin="54940800000t" end="54955600000t" style="normal" xml:id="subtitle1465">[gasping]</p>
+<p begin="54987600000t" end="54996000000t" style="normal" xml:id="subtitle1466">Budi.</p>
+<p begin="55100000000t" end="55109600000t" style="normal" xml:id="subtitle1467">[gasping]</p>
+<p begin="55128800000t" end="55141200000t" style="normal" xml:id="subtitle1468">[groans in pain]</p>
+<p begin="55160000000t" end="55209200000t" style="normal" xml:id="subtitle1469"><span style="normal_1">♪ All I ask of you</span> <span style="normal_1">♪</span></p>
+<p begin="55214800000t" end="55258800000t" style="normal" xml:id="subtitle1470"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="55261600000t" end="55321600000t" style="normal" xml:id="subtitle1471"><span style="normal_1">♪ Take care of her</span> <span style="normal_1">♪</span></p>
+<p begin="55343200000t" end="55388000000t" style="normal" xml:id="subtitle1472"><span style="normal_1">-♪ To live a lonely life ♪</span><br/>-[gasping]</p>
+<p begin="55392400000t" end="55446000000t" style="normal" xml:id="subtitle1473"><span style="normal_1">♪ And strength in facing fate</span> <span style="normal_1">♪</span></p>
+<p begin="55446800000t" end="55490000000t" style="normal" xml:id="subtitle1474"><span style="normal_1">♪ Dear God ♪</span></p>
+<p begin="55490800000t" end="55547200000t" style="normal" xml:id="subtitle1475"><span style="normal_1">-♪ Let us meet again ♪</span><br/>-Budi!</p>
+<p begin="55549600000t" end="55580800000t" style="normal" xml:id="subtitle1476"><span style="normal_1">-♪ Somewhere ♪</span><br/>-[clinking]</p>
+<p begin="55581600000t" end="55651600000t" style="normal" xml:id="subtitle1477"><span style="normal_1">♪ Till then ♪</span></p>
+<p begin="55662400000t" end="55702400000t" style="normal" xml:id="subtitle1478"><span style="normal_1">♪ Take care of him</span> <span style="normal_1">♪</span></p>
+<p begin="55703200000t" end="55729200000t" style="normal" xml:id="subtitle1479">[beeping]</p>
+<p begin="55730000000t" end="55788800000t" style="normal" xml:id="subtitle1480">[heartbeat flatline]</p>
+<p begin="56004800000t" end="56019600000t" style="normal" xml:id="subtitle1481">D'FLORA SOUVENIRS AND FLORIST</p>
+<p begin="56020400000t" end="56030800000t" style="normal" xml:id="subtitle1482">[keys clinking]</p>
+<p begin="56031600000t" end="56057600000t" style="normal" xml:id="subtitle1483">-Have you taken the vase?<br/>-Yes.</p>
+<p begin="56058400000t" end="56071200000t" style="normal" xml:id="subtitle1484">[keys clink, lock clicks]</p>
+<p begin="56072000000t" end="56085200000t" style="normal" xml:id="subtitle1485">Carry those boxes, too.</p>
+<p begin="56119600000t" end="56150000000t" style="normal" xml:id="subtitle1486">-Are you Mr. Arif bin Khairuddin?<br/>-Yes.</p>
+<p begin="56153600000t" end="56178400000t" style="normal" xml:id="subtitle1487">-We're from Razif and Associates.<br/>-[grunts]</p>
+<p begin="56179200000t" end="56221200000t" style="normal" xml:id="subtitle1488">Do you know Mr. Budi bin Halim?</p>
+<p begin="56228000000t" end="56250000000t" style="normal" xml:id="subtitle1489">Yes. He has passed away.</p>
+<p begin="56268800000t" end="56282000000t" style="normal" xml:id="subtitle1490">[grunts]</p>
+<p begin="56285200000t" end="56294800000t" style="normal" xml:id="subtitle1491">You tell him.</p>
+<p begin="56311200000t" end="56341600000t" style="normal" xml:id="subtitle1492">We know that, but do you know<br/>that you're the sole heir</p>
+<p begin="56342400000t" end="56362800000t" style="normal" xml:id="subtitle1493">to the late Madam Ho Lai Lai?</p>
+<p begin="56421600000t" end="56430400000t" style="normal" xml:id="subtitle1494">Yes, I do.</p>
+<p begin="56456400000t" end="56470000000t" style="normal" xml:id="subtitle1495">How can I help you?</p>
+<p begin="56474000000t" end="56492800000t" style="normal" xml:id="subtitle1496">According to this will,</p>
+<p begin="56493600000t" end="56530400000t" style="normal" xml:id="subtitle1497">Mr. Budi left all his assets<br/>to the late Madam.</p>
+<p begin="56531200000t" end="56564400000t" style="normal" xml:id="subtitle1498">Meaning you are now the heir<br/>to his inheritance.</p>
+<p begin="56580800000t" end="56589600000t" style="normal" xml:id="subtitle1499">What inheritance?</p>
+<p begin="56621600000t" end="56633200000t" style="normal" xml:id="subtitle1500">Thank you, Kak Jah.</p>
+<p begin="56636000000t" end="56663200000t" style="normal" xml:id="subtitle1501">-[crickets chirping]<br/>-[gulps]</p>
+<p begin="56674400000t" end="56682800000t" style="normal" xml:id="subtitle1502">[glass clinks]</p>
+<p begin="56709200000t" end="56717600000t" style="normal" xml:id="subtitle1503">So...</p>
+<p begin="56735600000t" end="56750400000t" style="normal" xml:id="subtitle1504">I did what I was told by him.</p>
+<p begin="56761200000t" end="56775200000t" style="normal" xml:id="subtitle1505">I formed this orphanage.</p>
+<p begin="56804400000t" end="56825200000t" style="normal" xml:id="subtitle1506">And here we are...</p>
+<p begin="56844400000t" end="56886400000t" style="normal" xml:id="subtitle1507">even though<br/>there's no electricity tonight.</p>
+<p begin="56887200000t" end="56920000000t" style="normal" xml:id="subtitle1508">[all]<br/>Are you kidding? It's hot!</p>
+<p begin="56920800000t" end="56944000000t" style="normal" xml:id="subtitle1509">I know. [laughs]</p>
+<p begin="56944800000t" end="56972000000t" style="normal" xml:id="subtitle1510">-How old was Uncle Budi?<br/>-What?</p>
+<p begin="56973600000t" end="56998800000t" style="normal" xml:id="subtitle1511">Maybe 120 years old?</p>
+<p begin="57002400000t" end="57017600000t" style="normal" xml:id="subtitle1512">That can't be right.</p>
+<p begin="57018400000t" end="57049600000t" style="normal" xml:id="subtitle1513">-No one lives until they're 120 years old.<br/>-[all laugh]</p>
+<p begin="57070400000t" end="57086400000t" style="normal" xml:id="subtitle1514">It's hard to believe, isn't it?</p>
+<p begin="57100800000t" end="57114400000t" style="normal" xml:id="subtitle1515">But it's true.</p>
+<p begin="57120000000t" end="57165200000t" style="normal" xml:id="subtitle1516">So the song that you always sing<br/>is Uncle Budi's song?</p>
+<p begin="57242800000t" end="57252800000t" style="normal" xml:id="subtitle1517">Yes.</p>
+<p begin="57261200000t" end="57291200000t" style="normal" xml:id="subtitle1518">The song of Budi and Lily.</p>
+<p begin="57299600000t" end="57364800000t" style="normal" xml:id="subtitle1519"><span style="normal_1">♪ When dusk ends the day</span> <span style="normal_1">♪</span></p>
+<p begin="57365600000t" end="57429600000t" style="normal" xml:id="subtitle1520"><span style="normal_1">♪ When clouds hide the stars</span> <span style="normal_1">♪</span></p>
+<p begin="57430400000t" end="57488000000t" style="normal" xml:id="subtitle1521"><span style="normal_1">♪ I will try to shine</span> <span style="normal_1">♪</span></p>
+<p begin="57488800000t" end="57542800000t" style="normal" xml:id="subtitle1522"><span style="normal_1">♪ To brighten up your night</span> <span style="normal_1">♪</span></p>
+<p begin="57543600000t" end="57559600000t" style="normal" xml:id="subtitle1523">-[laughs]<br/>-[Arif giggles]</p>
+<p begin="57562800000t" end="57627600000t" style="normal" xml:id="subtitle1524"><span style="normal_1">♪ If the moon doesn't glow ♪</span></p>
+<p begin="57628400000t" end="57688800000t" style="normal" xml:id="subtitle1525"><span style="normal_1">♪ And you couldn't find your way ♪</span></p>
+<p begin="57693600000t" end="57748000000t" style="normal" xml:id="subtitle1526"><span style="normal_1">♪ I will be your guiding light</span> <span style="normal_1">♪</span></p>
+<p begin="57752000000t" end="57811600000t" style="normal" xml:id="subtitle1527"><span style="normal_1">♪ Sparkle like a firefly</span> <span style="normal_1">♪</span></p>
+<p begin="57817200000t" end="57852800000t" style="normal" xml:id="subtitle1528">-<span style="normal_1">♪ Sparkle like a firefly ♪</span><br/>-The electricity is back on!</p>
+<p begin="57858400000t" end="57885600000t" style="normal" xml:id="subtitle1529">- Where are you guys going?<br/>-[all] Hooray!</p>
+<p begin="57886400000t" end="57916400000t" style="normal" xml:id="subtitle1530">[Khatijah signaling<br/>"shining like fireflies" to Arif]</p>
+<p begin="57953600000t" end="57968400000t" style="normal" xml:id="subtitle1531">Let's go inside, Kak Jah.</p>
+<p begin="57969200000t" end="57999200000t" style="normal" xml:id="subtitle1532">[music plays]</p>
+<p begin="58043600000t" end="58093600000t" region="top" style="normal" xml:id="subtitle1533">BUDI'S SHACK ORPHANAGE<br/>FOUNDER, BUDI BIN HALIM</p>
+<p begin="58175600000t" end="58219200000t" style="normal" xml:id="subtitle1534">[Lily] <span style="normal_1">Budi, if you were a firefly,</span><br/><span style="normal_1">where would you fly to?</span></p>
+<p begin="58227600000t" end="58265600000t" style="normal" xml:id="subtitle1535">[Budi] <span style="normal_1">Nowhere.</span><br/><span style="normal_1">I just want to stay here...</span></p>
+<p begin="58273600000t" end="58298800000t" style="normal" xml:id="subtitle1536"><span style="normal_1">-to brighten up your life.</span><br/>-[Lily giggles]</p>
+<p begin="58306400000t" end="58333600000t" style="normal" xml:id="subtitle1537">[Budi] <span style="normal_1">And you? Where would you fly to?</span></p>
+<p begin="58342800000t" end="58376800000t" style="normal" xml:id="subtitle1538">[Lily] <span style="normal_1">I would follow wherever you may go.</span></p>
+<p begin="58377600000t" end="58405200000t" style="normal" xml:id="subtitle1539">[both giggle]</p>
+<p begin="58407600000t" end="58437600000t" style="normal" xml:id="subtitle1540">[crickets chirping]</p>
+<p begin="58469600000t" end="58508800000t" style="normal" xml:id="subtitle1541">[watch ticking]</p>
+<p begin="58532400000t" end="58558800000t" style="normal" xml:id="subtitle1542">THE END</p>
+<p begin="58584800000t" end="58624800000t" style="normal" xml:id="subtitle1543"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="58628000000t" end="58687200000t" style="normal" xml:id="subtitle1544"><span style="normal_1">♪ Give me courage</span> <span style="normal_1">♪</span></p>
+<p begin="58714400000t" end="58759200000t" style="normal" xml:id="subtitle1545"><span style="normal_1">♪ To live a lonely life</span> <span style="normal_1">♪</span></p>
+<p begin="58760000000t" end="58811600000t" style="normal" xml:id="subtitle1546"><span style="normal_1">♪ And strength in facing fate</span> <span style="normal_1">♪</span></p>
+<p begin="58812400000t" end="58857200000t" style="normal" xml:id="subtitle1547"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="58859200000t" end="58907200000t" style="normal" xml:id="subtitle1548"><span style="normal_1">♪ Let us meet again</span> <span style="normal_1">♪</span></p>
+<p begin="58908000000t" end="58941200000t" style="normal" xml:id="subtitle1549"><span style="normal_1">♪ Somewhere</span> <span style="normal_1">♪</span></p>
+<p begin="58942000000t" end="58966800000t" style="normal" xml:id="subtitle1550"><span style="normal_1">♪ Till then ♪</span></p>
+<p begin="58967600000t" end="59006400000t" style="normal" xml:id="subtitle1551"><span style="normal_1">♪ All I ask of you</span> <span style="normal_1">♪</span></p>
+<p begin="59010800000t" end="59054400000t" style="normal" xml:id="subtitle1552"><span style="normal_1">♪ Dear God</span> <span style="normal_1">♪</span></p>
+<p begin="59055200000t" end="59122000000t" style="normal" xml:id="subtitle1553"><span style="normal_1">♪ Give me courage</span> <span style="normal_1">♪</span></p>
+<p begin="59140800000t" end="59186800000t" style="normal" xml:id="subtitle1554"><span style="normal_1">♪ To live a lonely life</span> <span style="normal_1">♪</span></p>
+<p begin="59187600000t" end="59240400000t" style="normal" xml:id="subtitle1555"><span style="normal_1">♪ And strength in facing fate</span> <span style="normal_1">♪</span></p>
+<p begin="59241200000t" end="59286800000t" style="normal" xml:id="subtitle1556"><span style="normal_1">♪ Dear God ♪</span></p>
+<p begin="59288000000t" end="59336800000t" style="normal" xml:id="subtitle1557"><span style="normal_1">♪ Let us meet again</span> <span style="normal_1">♪</span></p>
+<p begin="59337600000t" end="59371600000t" style="normal" xml:id="subtitle1558"><span style="normal_1">♪ Somewhere ♪</span></p>
+<p begin="59372400000t" end="59396000000t" style="normal" xml:id="subtitle1559"><span style="normal_1">♪ Till then ♪</span></p>
+<p begin="59396800000t" end="59437200000t" style="normal" xml:id="subtitle1560"><span style="normal_1">♪ All I ask of you</span> <span style="normal_1">♪</span></p>
+<p begin="59570400000t" end="59640400000t" style="normal" xml:id="subtitle1561"><span style="normal_1">♪ All I ask of you</span> <span style="normal_1">♪</span></p>
+<p begin="59658000000t" end="59678000000t" style="normal" xml:id="subtitle1562"><span style="normal_1">♪ Take care of her</span> <span style="normal_1">♪</span></p>
+<p begin="59678800000t" end="59708800000t" style="normal" xml:id="subtitle1563">Subtitle translation by Izwan Ibrahim</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="style.center"/>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="style.center_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="region.after"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="region.before"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="12400000t" end="24400000t" region="region.after" style="style.center" xml:id="subtitle0">[bell rings]</p>
+<p begin="25200000t" end="38800000t" region="region.after" style="style.center" xml:id="subtitle1">[theme song starts playing]</p>
+<p begin="99600000t" end="118800000t" region="region.after" style="style.center" xml:id="subtitle2"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="119600000t" end="132800000t" region="region.after" style="style.center" xml:id="subtitle3"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="136800000t" end="159200000t" region="region.after" style="style.center" xml:id="subtitle4"><span style="style.center_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="168800000t" end="183600000t" region="region.after" style="style.center" xml:id="subtitle5"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="184400000t" end="201200000t" region="region.after" style="style.center" xml:id="subtitle6"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="202000000t" end="236400000t" region="region.after" style="style.center" xml:id="subtitle7"><span style="style.center_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="274800000t" end="302800000t" region="region.after" style="style.center" xml:id="subtitle8"><span style="style.center_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="327599999t" end="345600000t" region="region.after" style="style.center" xml:id="subtitle9">THIS IS NO ORDINARY PIRATE SHIP!</p>
+<p begin="401600000t" end="425600000t" region="region.after" style="style.center" xml:id="subtitle10">No more excuses, Professor Klone.</p>
+<p begin="428800000t" end="447600000t" region="region.after" style="style.center" xml:id="subtitle11">-But--<br/><span style="style.center_1">-And no buts!</span></p>
+<p begin="454000000t" end="490400000t" region="region.after" style="style.center" xml:id="subtitle12">You pay back every cent<br/>you owe me tomorrow</p>
+<p begin="491200000t" end="511200000t" region="region.after" style="style.center" xml:id="subtitle13">or things will get very unpleasant.</p>
+<p begin="515600000t" end="552000000t" region="region.after" style="style.center" xml:id="subtitle14">I will, I will.<br/>I just need a little more time to...</p>
+<p begin="555600000t" end="584000000t" region="region.after" style="style.center" xml:id="subtitle15">-Time is money! And your time is up!<br/>-[glass breaking]</p>
+<p begin="603600000t" end="642800000t" region="region.after" style="style.center" xml:id="subtitle16">This isn't personal, you understand,<br/>it's just business.</p>
+<p begin="657200000t" end="713600000t" region="region.after" style="style.center" xml:id="subtitle17">You will pay tomorrow, Professor Klone,<br/>one way or another.</p>
+<p begin="730800000t" end="746400000t" region="region.after" style="style.center" xml:id="subtitle18">Just business!</p>
+<p begin="750000000t" end="762800000t" region="region.after" style="style.center" xml:id="subtitle19">[grunts]</p>
+<p begin="781200000t" end="790400000t" region="region.before" style="style.center" xml:id="subtitle20">[bell ringing]</p>
+<p begin="791200000t" end="808400000t" region="region.after" style="style.center" xml:id="subtitle21">Thank you for accepting my invitation</p>
+<p begin="809200000t" end="835200000t" region="region.after" style="style.center" xml:id="subtitle22">to join our history lesson this morning,<br/>Miss Chi.</p>
+<p begin="842800000t" end="861200000t" region="region.after" style="style.center" xml:id="subtitle23">How could I resist, Miss Campbell?</p>
+<p begin="865600000t" end="894400000t" region="region.after" style="style.center" xml:id="subtitle24">[Miss Campbell] Danny has been working<br/>very hard on his history project.</p>
+<p begin="897600000t" end="929200000t" region="region.after" style="style.center" xml:id="subtitle25">I'm sure we're all dying to see<br/>what he has come up with.</p>
+<p begin="947600000t" end="982800000t" region="region.after" style="style.center" xml:id="subtitle26">Over 3,000 match-sticks<br/>were used in its construction.</p>
+<p begin="987200000t" end="1002000000t" region="region.after" style="style.center" xml:id="subtitle27">How clever!</p>
+<p begin="1002800000t" end="1045200000t" region="region.after" style="style.center" xml:id="subtitle28">She's an exact 1:1200 scale replica<br/>of the Dozy Dragon,</p>
+<p begin="1046000000t" end="1086000000t" region="region.after" style="style.center" xml:id="subtitle29">a pirate ship which sank<br/>off our shores in the year 1720.</p>
+<p begin="1090000000t" end="1107200000t" region="region.after" style="style.center" xml:id="subtitle30">This is fascinating, Danny!</p>
+<p begin="1108000000t" end="1146800000t" region="region.after" style="style.center" xml:id="subtitle31">The Dozy Dragon was carrying<br/>a plundered cargo of gold coins</p>
+<p begin="1147600000t" end="1158800000t" region="region.after" style="style.center" xml:id="subtitle32">when she sank.</p>
+<p begin="1163200000t" end="1188800000t" region="region.after" style="style.center" xml:id="subtitle33">Did you say gold coins?</p>
+<p begin="1198000000t" end="1210800000t" region="region.after" style="style.center" xml:id="subtitle34">Yes, Miss Chi.</p>
+<p begin="1216800000t" end="1258800000t" region="region.after" style="style.center" xml:id="subtitle35">I calculated they'd be worth<br/>about 50 million dollars in today's money.</p>
+<p begin="1259600000t" end="1290800000t" region="region.after" style="style.center" xml:id="subtitle36">That's a lot of zeros.</p>
+<p begin="1352400000t" end="1376400000t" region="region.after" style="style.center" xml:id="subtitle37">Why such a long face, Professor?</p>
+<p begin="1381600000t" end="1411600000t" region="region.after" style="style.center" xml:id="subtitle38">One word, Goldslax.</p>
+<p begin="1415200000t" end="1455200000t" region="region.after" style="style.center" xml:id="subtitle39">Oh, Mr. Goldslax,<br/>the famous master criminal.</p>
+<p begin="1460000000t" end="1474400000t" region="region.after" style="style.center" xml:id="subtitle40">[Miss Chi]<br/>He is very...</p>
+<p begin="1475200000t" end="1488000000t" region="region.after" style="style.center" xml:id="subtitle41">Powerful.</p>
+<p begin="1488800000t" end="1522000000t" region="region.after" style="style.center" xml:id="subtitle42">-Yes, and not to mention...<br/>-Ruthless.</p>
+<p begin="1522800000t" end="1558400000t" region="region.after" style="style.center" xml:id="subtitle43">[Miss Chi]<br/>Quite, but only if one owes him...</p>
+<p begin="1561200000t" end="1573200000t" region="region.after" style="style.center" xml:id="subtitle44">Money!</p>
+<p begin="1577600000t" end="1606000000t" region="region.after" style="style.center" xml:id="subtitle45">Ah. How much...</p>
+<p begin="1606800000t" end="1629600000t" region="region.after" style="style.center" xml:id="subtitle46">Forty million dollars.</p>
+<p begin="1634000000t" end="1642800000t" region="region.after" style="style.center" xml:id="subtitle47">[Miss Chi gasps]</p>
+<p begin="1643600000t" end="1665200000t" region="region.after" style="style.center" xml:id="subtitle48">What did you spend all that on?</p>
+<p begin="1666000000t" end="1682400000t" region="region.after" style="style.center" xml:id="subtitle49">Just a few trinkets.</p>
+<p begin="1759600000t" end="1778000000t" region="region.after" style="style.center" xml:id="subtitle50">[boat engine rumbling]</p>
+<p begin="1820800000t" end="1851600000t" region="region.after" style="style.center" xml:id="subtitle51">And the development<br/>of my latest invention.</p>
+<p begin="1866400000t" end="1884800000t" region="region.after" style="style.center" xml:id="subtitle52">[Professor Klone]<br/>The T.T. Ray!</p>
+<p begin="1889600000t" end="1908000000t" region="region.after" style="style.center" xml:id="subtitle53">And what does it do?</p>
+<p begin="1908800000t" end="1941200000t" region="region.after" style="style.center" xml:id="subtitle54">You simply enter the coordinates<br/>and era into this control panel,</p>
+<p begin="1942000000t" end="1960800000t" region="region.after" style="style.center" xml:id="subtitle55">press the big red button,</p>
+<p begin="1961600000t" end="2001600000t" region="region.after" style="style.center" xml:id="subtitle56">and the ray transports you instantly<br/>to any historical place</p>
+<p begin="2002400000t" end="2024400000t" region="region.after" style="style.center" xml:id="subtitle57">or period of your choosing.</p>
+<p begin="2025200000t" end="2035600000t" region="region.after" style="style.center" xml:id="subtitle58">[gasps]</p>
+<p begin="2036400000t" end="2058800000t" region="region.after" style="style.center" xml:id="subtitle59">You built a time machine?</p>
+<p begin="2059600000t" end="2070400000t" region="region.after" style="style.center" xml:id="subtitle60">That is the theory.</p>
+<p begin="2076000000t" end="2120400000t" region="region.after" style="style.center" xml:id="subtitle61">So, it could potentially transport<br/>somebody back through history,</p>
+<p begin="2121200000t" end="2148000000t" region="region.after" style="style.center" xml:id="subtitle62">to say, the year 1720?</p>
+<p begin="2148800000t" end="2164000000t" region="region.after" style="style.center" xml:id="subtitle63">Of course!</p>
+<p begin="2164800000t" end="2189600000t" region="region.after" style="style.center" xml:id="subtitle64">-But what good would that do me, Miss Chi?<br/>-[Miss Chi] Yes.</p>
+<p begin="2190400000t" end="2211200000t" region="region.after" style="style.center" xml:id="subtitle65">[Miss Chi]<br/>Fifty million dollars' worth of good.</p>
+<p begin="2218400000t" end="2242800000t" region="region.after" style="style.center" xml:id="subtitle66">How much do you know about pirates,<br/>Professor?</p>
+<p begin="2308000000t" end="2321200000t" region="region.after" style="style.center" xml:id="subtitle67">[both gasp]</p>
+<p begin="2322000000t" end="2335200000t" region="region.after" style="style.center" xml:id="subtitle68">Watch out, Harry!</p>
+<p begin="2339200000t" end="2382400000t" region="region.after" style="style.center" xml:id="subtitle69">Oops! I was in a rush<br/>to catch a few rays during the break.</p>
+<p begin="2386000000t" end="2410800000t" region="region.after" style="style.center" xml:id="subtitle70">Danny,<br/>why are you inside on a day like this?</p>
+<p begin="2411600000t" end="2433600000t" region="region.after" style="style.center" xml:id="subtitle71">I'm on my way to see Miss Chi.</p>
+<p begin="2438800000t" end="2460800000t" region="region.after" style="style.center" xml:id="subtitle72">She wants me to tell Dr. Kline</p>
+<p begin="2461600000t" end="2486400000t" region="region.after" style="style.center" xml:id="subtitle73">all about my ideas<br/>on the Dozy Dragon's pirate treasure.</p>
+<p begin="2487200000t" end="2499600000t" region="region.after" style="style.center" xml:id="subtitle74">Catch you later.</p>
+<p begin="2519200000t" end="2550000000t" region="region.after" style="style.center" xml:id="subtitle75">Treasure? Dragons? Kline?</p>
+<p begin="2560799999t" end="2603200000t" region="region.after" style="style.center" xml:id="subtitle76">Sounds like Geckoman should listen in<br/>on that meeting!</p>
+<p begin="2658800000t" end="2695600000t" region="region.after" style="style.center" xml:id="subtitle77">Time to do some superhero snooping!</p>
+<p begin="2710400000t" end="2732800000t" region="region.after" style="style.center" xml:id="subtitle78">[grunts]</p>
+<p begin="2733600000t" end="2767600000t" region="region.after" style="style.center" xml:id="subtitle79">Oh, my. I really need to stop snacking<br/>between snacks!</p>
+<p begin="2782400000t" end="2809200000t" region="region.after" style="style.center" xml:id="subtitle80">Why are we in an empty classroom?</p>
+<p begin="2814800000t" end="2844400000t" region="region.after" style="style.center" xml:id="subtitle81">And where is this expert on pirate gold,<br/>Miss Chi?</p>
+<p begin="2845200000t" end="2865200000t" region="region.after" style="style.center" xml:id="subtitle82">The boy will be here shortly,<br/>oh master of patience.</p>
+<p begin="2866000000t" end="2916800000t" region="region.after" style="style.center" xml:id="subtitle83">Maybe you should change<br/>into something more suitable for school.</p>
+<p begin="2932800000t" end="2954000000t" region="region.after" style="style.center" xml:id="subtitle84">Ah, yes. Of course.</p>
+<p begin="2954800000t" end="2993600000t" region="region.after" style="style.center" xml:id="subtitle85">Time for Luna High's headmaster<br/>to make an appearance.</p>
+<p begin="2994400000t" end="3038000000t" region="region.after" style="style.center" xml:id="subtitle86">Goodbye, Professor Klone,<br/>and welcome, Dr. Kline.</p>
+<p begin="3052800000t" end="3105200000t" region="region.after" style="style.center" xml:id="subtitle87">Coordinates entered, power steady.<br/>We are good to go on our treasure hunt.</p>
+<p begin="3106000000t" end="3130800000t" region="region.after" style="style.center" xml:id="subtitle88">Once we have spoken<br/>to this expert of yours.</p>
+<p begin="3143200000t" end="3181200000t" region="region.after" style="style.center" xml:id="subtitle89">Now you two lamebrains<br/>need to stand here next to me.</p>
+<p begin="3185600000t" end="3221200000t" region="region.after" style="style.center" xml:id="subtitle90">And when I say "yes,"<br/>you'll press the big red button.</p>
+<p begin="3222000000t" end="3232000000t" region="region.after" style="style.center" xml:id="subtitle91">Got it?</p>
+<p begin="3235200000t" end="3260800000t" region="region.after" style="style.center" xml:id="subtitle92">-Press the button.<br/>-Got it!</p>
+<p begin="3272000000t" end="3307600000t" region="region.after" style="style.center" xml:id="subtitle93">[Danny]<br/>Miss Chi? Dr. Kline? Can I come in?</p>
+<p begin="3314800000t" end="3330400000t" region="region.after" style="style.center" xml:id="subtitle94">Yes! Please, do come in.</p>
+<p begin="3333600000t" end="3349200000t" region="region.after" style="style.center" xml:id="subtitle95">Press button.</p>
+<p begin="3359200000t" end="3381600000t" region="region.after" style="style.center" xml:id="subtitle96">-[machine ringing]<br/>-What? No, not now!</p>
+<p begin="3390000000t" end="3422000000t" region="region.after" style="style.center" xml:id="subtitle97">[Dr. Kline screams]</p>
+<p begin="3441200000t" end="3456000000t" region="region.after" style="style.center" xml:id="subtitle98">-Oh?<br/>-Huh?</p>
+<p begin="3456800000t" end="3491200000t" region="region.after" style="style.center" xml:id="subtitle99">What's this? The floor is moving?</p>
+<p begin="3495600000t" end="3511600000t" region="region.after" style="style.center" xml:id="subtitle100">It's an earthquake!</p>
+<p begin="3516400000t" end="3562400000t" region="region.after" style="style.center" xml:id="subtitle101">It's not an earthquake, Dr. Kline.<br/>We're onboard a ship.</p>
+<p begin="3565600000t" end="3582800000t" region="region.after" style="style.center" xml:id="subtitle102">[Dr. Kline]<br/>A pirate ship!</p>
+<p begin="3586000000t" end="3598000000t" region="region.after" style="style.center" xml:id="subtitle103">[Danny]<br/>Wow!</p>
+<p begin="3598800000t" end="3617600000t" region="region.after" style="style.center" xml:id="subtitle104">This is no ordinary pirate ship.</p>
+<p begin="3618400000t" end="3656000000t" region="region.after" style="style.center" xml:id="subtitle105">It's the Dozy Dragon,<br/>the pirate ship with gold!</p>
+<p begin="3667200000t" end="3724800000t" region="region.after" style="style.center" xml:id="subtitle106">Gold? I did it! I did it!<br/>The gold is mine, all mine!</p>
+<p begin="3725600000t" end="3734000000t" region="region.after" style="style.center" xml:id="subtitle107">[Dr. Kline laughs]</p>
+<p begin="3734800000t" end="3747200000t" region="region.after" style="style.center" xml:id="subtitle108">[Dr. Kline]<br/>Yay!</p>
+<p begin="3748000000t" end="3762400000t" region="region.after" style="style.center" xml:id="subtitle109">[panting]</p>
+<p begin="3763200000t" end="3794800000t" region="region.after" style="style.center" xml:id="subtitle110">[pirates laughing]</p>
+<p begin="3795600000t" end="3816800000t" region="region.after" style="style.center" xml:id="subtitle111">Seize these scurvy swabs!</p>
+<p begin="3822800000t" end="3862800000t" region="region.after" style="style.center" xml:id="subtitle112">-They've come to steal our treasure.<br/>-Pirates?</p>
+<p begin="3863600000t" end="3892800000t" region="region.after" style="style.center" xml:id="subtitle113">This has to be the best dream ever!</p>
+<p begin="3903200000t" end="3913200000t" region="region.after" style="style.center" xml:id="subtitle114">Dream?</p>
+<p begin="3914000000t" end="3923200000t" region="region.after" style="style.center" xml:id="subtitle115">[Danny chuckles]</p>
+<p begin="3930800000t" end="3974800000t" region="region.after" style="style.center" xml:id="subtitle116">Frankly, you've got no chance,<br/>because no one comes back</p>
+<p begin="3975600000t" end="3999200000t" region="region.after" style="style.center" xml:id="subtitle117">from a walk on the plank!</p>
+<p begin="4000000000t" end="4023200000t" region="region.after" style="style.center" xml:id="subtitle118">[pirates laugh]</p>
+<p begin="4024000000t" end="4056800000t" region="region.after" style="style.center" xml:id="subtitle119">Stop! No! You can't do this to me!</p>
+<p begin="4057600000t" end="4078800000t" region="region.after" style="style.center" xml:id="subtitle120">I am a master criminal too!</p>
+<p begin="4082400000t" end="4095600000t" region="region.after" style="style.center" xml:id="subtitle121">[Danny laughs]</p>
+<p begin="4096400000t" end="4119200000t" region="region.after" style="style.center" xml:id="subtitle122">You're not a master criminal, Dr. Kline.</p>
+<p begin="4120000000t" end="4144400000t" region="region.after" style="style.center" xml:id="subtitle123">You're my headmaster at Luna High School!</p>
+<p begin="4145200000t" end="4172000000t" region="region.after" style="style.center" xml:id="subtitle124">Huh? A teacher and a liar!</p>
+<p begin="4172800000t" end="4216400000t" region="region.after" style="style.center" xml:id="subtitle125">We have no need of either<br/>aboard the Dozy Dragon!</p>
+<p begin="4240400000t" end="4285600000t" region="region.after" style="style.center" xml:id="subtitle126">[Miss Chi] You two fools have sent<br/>Professor Klone and that boy back in time.</p>
+<p begin="4297200000t" end="4307600000t" region="region.after" style="style.center" xml:id="subtitle127">Danny!</p>
+<p begin="4317200000t" end="4362400000t" region="region.after" style="style.center" xml:id="subtitle128">The question is, how do we<br/>get them and the gold back?</p>
+<p begin="4363200000t" end="4390000000t" region="region.after" style="style.center" xml:id="subtitle129">Maybe the Professor<br/>left something in his notes?</p>
+<p begin="4408400000t" end="4443200000t" region="region.after" style="style.center" xml:id="subtitle130">You two don't touch any buttons<br/>on that machine!</p>
+<p begin="4448800000t" end="4468800000t" region="region.after" style="style.center" xml:id="subtitle131">Do not touch the button!</p>
+<p begin="4469600000t" end="4481200000t" region="region.after" style="style.center" xml:id="subtitle132">Got it!</p>
+<p begin="4556800000t" end="4581600000t" region="region.after" style="style.center" xml:id="subtitle133">[pirate 1]<br/>Time for a walk.</p>
+<p begin="4582400000t" end="4593600000t" region="region.after" style="style.center" xml:id="subtitle134">[pirate 1 laughs]</p>
+<p begin="4594400000t" end="4622400000t" region="region.after" style="style.center" xml:id="subtitle135">Don't worry, it's a very short walk.</p>
+<p begin="4623200000t" end="4639600000t" region="region.after" style="style.center" xml:id="subtitle136">-[pirates laugh]<br/>-[Danny exclaims]</p>
+<p begin="4640400000t" end="4661200000t" region="region.after" style="style.center" xml:id="subtitle137">He's going to make us walk the plank!</p>
+<p begin="4666000000t" end="4686400000t" region="region.after" style="style.center" xml:id="subtitle138">What? No!</p>
+<p begin="4691200000t" end="4726800000t" region="region.after" style="style.center" xml:id="subtitle139">Don't worry, Dr. Kline.<br/>This really is only a dream.</p>
+<p begin="4727600000t" end="4757600000t" region="region.after" style="style.center" xml:id="subtitle140">We must have bumped our heads<br/>after the explosion in Miss Chi's office.</p>
+<p begin="4764000000t" end="4779200000t" region="region.after" style="style.center" xml:id="subtitle141">What explosion?</p>
+<p begin="4780000000t" end="4832800000t" region="region.after" style="style.center" xml:id="subtitle142">[Dr. Kline] There are sharks out there<br/>that will eat us! We're dead!</p>
+<p begin="4858800000t" end="4868400000t" region="region.after" style="style.center" xml:id="subtitle143">[Geckoman grunts]</p>
+<p begin="4869200000t" end="4883600000t" region="region.after" style="style.center" xml:id="subtitle144">-[thump]<br/>-[Linda screams]</p>
+<p begin="4884400000t" end="4909200000t" region="region.after" style="style.center" xml:id="subtitle145">-Geckoman! Have you seen Danny?<br/>-[Geckoman groans]</p>
+<p begin="4910400000t" end="4922800000t" region="region.after" style="style.center" xml:id="subtitle146">I was supposed to meet him</p>
+<p begin="4923600000t" end="4952800000t" region="region.after" style="style.center" xml:id="subtitle147">at the Micro-Circuit-Board club,<br/>but he never showed up.</p>
+<p begin="4953600000t" end="4986000000t" region="region.after" style="style.center" xml:id="subtitle148">Try the year 1720.</p>
+<p begin="4992800000t" end="5012400000t" region="region.after" style="style.center" xml:id="subtitle149">What? No, seriously.</p>
+<p begin="5016000000t" end="5034800000t" region="region.after" style="style.center" xml:id="subtitle150">I am being serious!</p>
+<p begin="5035600000t" end="5067600000t" region="region.after" style="style.center" xml:id="subtitle151">I'll explain later, but first,<br/>I'll need your help.</p>
+<p begin="5072000000t" end="5086000000t" region="region.after" style="style.center" xml:id="subtitle152">Okay, just name it.</p>
+<p begin="5086800000t" end="5110400000t" region="region.after" style="style.center" xml:id="subtitle153">[Geckoman laughs]</p>
+<p begin="5157600000t" end="5198400000t" region="region.after" style="style.center" xml:id="subtitle154">Hi, Miss Chi wants to see you both<br/>right away in her office!</p>
+<p begin="5199199999t" end="5222400000t" region="region.after" style="style.center" xml:id="subtitle155">-Huh?<br/>-Huh.</p>
+<p begin="5243200000t" end="5260000000t" region="region.after" style="style.center" xml:id="subtitle156">[Ginger Twins pant]</p>
+<p begin="5260800000t" end="5269600000t" region="region.after" style="style.center" xml:id="subtitle157">[Geckoman grunts]</p>
+<p begin="5276000000t" end="5290800000t" region="region.after" style="style.center" xml:id="subtitle158">Great work, Linda.</p>
+<p begin="5291600000t" end="5313200000t" region="region.after" style="style.center" xml:id="subtitle159">I don't see how that helped.</p>
+<p begin="5314000000t" end="5346000000t" region="region.after" style="style.center" xml:id="subtitle160">You don't have to know about it,<br/>I will settle the matter.</p>
+<p begin="5346800000t" end="5365600000t" region="region.after" style="style.center" xml:id="subtitle161">[Geckoman]<br/>Now to get Danny back.</p>
+<p begin="5400400000t" end="5422400000t" region="region.after" style="style.center" xml:id="subtitle162">Bring forth the fish paste!</p>
+<p begin="5427600000t" end="5454000000t" region="region.after" style="style.center" xml:id="subtitle163">[Danny] Cool, it looks like<br/>we're going to get a snack.</p>
+<p begin="5471200000t" end="5492000000t" region="region.after" style="style.center" xml:id="subtitle164">[laughs]</p>
+<p begin="5492800000t" end="5512800000t" region="region.after" style="style.center" xml:id="subtitle165">[Danny grunts]</p>
+<p begin="5516800000t" end="5542000000t" region="region.after" style="style.center" xml:id="subtitle166">What are you doing,<br/>you timber-legged twerp?</p>
+<p begin="5542800000t" end="5560000000t" region="region.after" style="style.center" xml:id="subtitle167">[laughs]</p>
+<p begin="5560800000t" end="5600800000t" region="region.after" style="style.center" xml:id="subtitle168">The sharks do enjoy<br/>a fishy topping on their snacks!</p>
+<p begin="5607600000t" end="5620800000t" region="region.after" style="style.center" xml:id="subtitle169">I'm doomed.</p>
+<p begin="5621600000t" end="5640400000t" region="region.after" style="style.center" xml:id="subtitle170">[Dr. Kline sobs]</p>
+<p begin="5641200000t" end="5664800000t" region="region.after" style="style.center" xml:id="subtitle171">Don't worry, we’ll wake up soon!</p>
+<p begin="5670400000t" end="5686800000t" region="region.after" style="style.center" xml:id="subtitle172">[grunts]</p>
+<p begin="5687600000t" end="5705600000t" region="region.after" style="style.center" xml:id="subtitle173">It's not a dream!</p>
+<p begin="5706400000t" end="5714800000t" region="region.after" style="style.center" xml:id="subtitle174">[Dr. Kline]<br/>See?</p>
+<p begin="5715600000t" end="5738000000t" region="region.after" style="style.center" xml:id="subtitle175">Ow! That hurt!</p>
+<p begin="5738800000t" end="5790800000t" region="region.after" style="style.center" xml:id="subtitle176">Hey, so if this isn't a dream,<br/>then we need to do something fast!</p>
+<p begin="5796000000t" end="5810800000t" region="region.after" style="style.center" xml:id="subtitle177">Finally!</p>
+<p begin="5821600000t" end="5860400000t" region="region.after" style="style.center" xml:id="subtitle178">Right, who's to be first<br/>to meet the nasty big fishies?</p>
+<p begin="5893600000t" end="5902800000t" region="region.after" style="style.center" xml:id="subtitle179">[Geckoman]<br/>What's that?</p>
+<p begin="5903600000t" end="5938800000t" region="region.after" style="style.center" xml:id="subtitle180">[Linda] It looks like a rather basic<br/>set of programming processes.</p>
+<p begin="5939600000t" end="5977600000t" region="region.after" style="style.center" xml:id="subtitle181">We just need to enter<br/>the coordinates via the clock face.</p>
+<p begin="5978400000t" end="6005200000t" region="region.after" style="style.center" xml:id="subtitle182">That will be 1720.</p>
+<p begin="6006000000t" end="6014800000t" region="region.after" style="style.center" xml:id="subtitle183">[clicks]</p>
+<p begin="6015600000t" end="6035600000t" region="region.after" style="style.center" xml:id="subtitle184">[beeping]</p>
+<p begin="6036400000t" end="6056000000t" region="region.after" style="style.center" xml:id="subtitle185">Okay. And then hit "reverse"!</p>
+<p begin="6076000000t" end="6087200000t" region="region.after" style="style.center" xml:id="subtitle186">[beeps]</p>
+<p begin="6096400000t" end="6118400000t" region="region.after" style="style.center" xml:id="subtitle187">-[machine ringing]<br/>-[Geckoman gasps]</p>
+<p begin="6124000000t" end="6150400000t" region="region.after" style="style.center" xml:id="subtitle188">-Now what?<br/>-We hope it works.</p>
+<p begin="6185200000t" end="6210800000t" region="region.after" style="style.center" xml:id="subtitle189">-[Dr. Kline screams]<br/>-[pirates laugh]</p>
+<p begin="6218400000t" end="6249600000t" region="region.after" style="style.center" xml:id="subtitle190">We have one chance. Do as I do.</p>
+<p begin="6250400000t" end="6288400000t" region="region.after" style="style.center" xml:id="subtitle191">-It's no time for acrobatics!<br/>-Oh, yes it is!</p>
+<p begin="6289200000t" end="6314400000t" region="region.after" style="style.center" xml:id="subtitle192">One, two, jump!</p>
+<p begin="6320400000t" end="6342800000t" region="region.after" style="style.center" xml:id="subtitle193">-[pirates gasp]<br/>-[Dr. Kline grunts]</p>
+<p begin="6343600000t" end="6358000000t" region="region.after" style="style.center" xml:id="subtitle194">Attack!</p>
+<p begin="6370000000t" end="6380800000t" region="region.after" style="style.center" xml:id="subtitle195">On guard!</p>
+<p begin="6386400000t" end="6418400000t" region="region.after" style="style.center" xml:id="subtitle196">[pirates scream]</p>
+<p begin="6419200000t" end="6436800000t" region="region.after" style="style.center" xml:id="subtitle197">[ringing]</p>
+<p begin="6450000000t" end="6476000000t" region="region.after" style="style.center" xml:id="subtitle198">[pirates gasp]</p>
+<p begin="6476800000t" end="6494400000t" region="region.after" style="style.center" xml:id="subtitle199">Where did they go?</p>
+<p begin="6539200000t" end="6575600000t" region="region.after" style="style.center" xml:id="subtitle200">-Abandon ship! Captain's first!<br/>-Run!</p>
+<p begin="6629200000t" end="6645600000t" region="region.after" style="style.center" xml:id="subtitle201">[Professor Klone screams]</p>
+<p begin="6668000000t" end="6692800000t" region="region.after" style="style.center" xml:id="subtitle202">What? How did I get here?</p>
+<p begin="6697600000t" end="6732400000t" region="region.after" style="style.center" xml:id="subtitle203"><span style="style.center_1">So what about the 40 million,</span><br/><span style="style.center_1">Professor Klone?</span></p>
+<p begin="6750000000t" end="6779200000t" region="region.after" style="style.center" xml:id="subtitle204">Oh, no! I haven't got it!<br/>I told you that already.</p>
+<p begin="6780000000t" end="6802000000t" region="region.after" style="style.center" xml:id="subtitle205">I will pay it back when I have it.</p>
+<p begin="6805200000t" end="6827200000t" region="region.after" style="style.center" xml:id="subtitle206">What are you talking about?</p>
+<p begin="6828000000t" end="6856000000t" region="region.after" style="style.center" xml:id="subtitle207">It's you who wants to borrow<br/>40 million from me</p>
+<p begin="6856800000t" end="6876000000t" region="region.after" style="style.center" xml:id="subtitle208">to build some crazy time machine.</p>
+<p begin="6879600000t" end="6898400000t" region="region.after" style="style.center" xml:id="subtitle209">I do? Brilliant.</p>
+<p begin="6902400000t" end="6928400000t" region="region.after" style="style.center" xml:id="subtitle210">I must have gone back in time.</p>
+<p begin="6931600000t" end="6950400000t" region="region.after" style="style.center" xml:id="subtitle211">What are you talking about?</p>
+<p begin="6954800000t" end="6983600000t" region="region.after" style="style.center" xml:id="subtitle212">I mean, I did want to borrow the money,<br/>but thinking about it,</p>
+<p begin="6984400000t" end="7015200000t" region="region.after" style="style.center" xml:id="subtitle213">time machines are more trouble<br/>than they are worth.</p>
+<p begin="7019600000t" end="7034800000t" region="region.after" style="style.center" xml:id="subtitle214">You can keep your money.</p>
+<p begin="7035600000t" end="7055600000t" region="region.after" style="style.center" xml:id="subtitle215">And I can keep my idea.</p>
+<p begin="7090000000t" end="7107200000t" region="region.after" style="style.center" xml:id="subtitle216">RUN, GECKOMAN, RUN!</p>
+<p begin="7160000000t" end="7188000000t" region="region.before" style="style.center" xml:id="subtitle217">Soon, these streets will be filled<br/>with hundreds of runners,</p>
+<p begin="7188800000t" end="7213600000t" region="region.before" style="style.center" xml:id="subtitle218">all taking part in the Metrofulus Marathon</p>
+<p begin="7214400000t" end="7254400000t" region="region.before" style="style.center" xml:id="subtitle219">and all competing for that<br/>fabulous million-dollar prize!</p>
+<p begin="7255200000t" end="7274400000t" region="region.after" style="style.center" xml:id="subtitle220">It's so exciting!</p>
+<p begin="7276400000t" end="7298400000t" region="region.after" style="style.center" xml:id="subtitle221">I'd love to win that race.</p>
+<p begin="7301600000t" end="7323600000t" region="region.after" style="style.center" xml:id="subtitle222">Not to mention the million dollars.</p>
+<p begin="7327200000t" end="7351600000t" region="region.before" style="style.center" xml:id="subtitle223">Hey, you could get yourself a Geckomobile.</p>
+<p begin="7354000000t" end="7382800000t" region="region.after" style="style.center" xml:id="subtitle224">No, Danny, I don't want to win for myself.</p>
+<p begin="7388400000t" end="7409200000t" region="region.after" style="style.center" xml:id="subtitle225">I plan to donate the million dollars</p>
+<p begin="7410000000t" end="7446000000t" region="region.after" style="style.center" xml:id="subtitle226">to the Sanctuary for The Wild<br/>but Still Quite Cute Animals.</p>
+<p begin="7453600000t" end="7482000000t" region="region.after" style="style.center" xml:id="subtitle227">That place where Latifah<br/>sometimes helps out?</p>
+<p begin="7484400000t" end="7496400000t" region="region.after" style="style.center" xml:id="subtitle228">[chuckles]</p>
+<p begin="7530000000t" end="7545600000t" region="region.after" style="style.center" xml:id="subtitle229">Here, kitty, kitty, kitty.</p>
+<p begin="7558000000t" end="7581200000t" region="region.after" style="style.center" xml:id="subtitle230">[roars]</p>
+<p begin="7589600000t" end="7645600000t" region="region.after" style="style.center" xml:id="subtitle231">[hawk screeching]</p>
+<p begin="7654400000t" end="7686400000t" region="region.after" style="style.center" xml:id="subtitle232">Hey, that tickles.<br/>Would you quit fooling around?</p>
+<p begin="7690800000t" end="7726800000t" region="region.after" style="style.center" xml:id="subtitle233">Those animals love her.<br/>And it's a great cause.</p>
+<p begin="7727600000t" end="7745600000t" region="region.after" style="style.center" xml:id="subtitle234">We might not be any good at running,</p>
+<p begin="7746400000t" end="7774400000t" region="region.after" style="style.center" xml:id="subtitle235">but Linda and I could help you train<br/>more scientifically.</p>
+<p begin="7776800000t" end="7804800000t" region="region.after" style="style.center" xml:id="subtitle236">Fabulous! Let's get started!</p>
+<p begin="7808400000t" end="7816800000t" region="region.after" style="style.center" xml:id="subtitle237">[Harry gasps]</p>
+<p begin="7828000000t" end="7844000000t" region="region.after" style="style.center" xml:id="subtitle238">[Harry grunts]</p>
+<p begin="7856400000t" end="7864800000t" region="region.after" style="style.center" xml:id="subtitle239">[grunts]</p>
+<p begin="7865600000t" end="7894400000t" region="region.after" style="style.center" xml:id="subtitle240">I hate it when work piles up on me.</p>
+<p begin="7902000000t" end="7934000000t" region="region.after" style="style.center" xml:id="subtitle241">Uh, maybe we should train<br/>on the playing field?</p>
+<p begin="7979600000t" end="8007600000t" region="region.after" style="style.center" xml:id="subtitle242"><span style="style.center_1">...that fabulous million-dollar prize.</span></p>
+<p begin="8011600000t" end="8026400000t" region="region.after" style="style.center" xml:id="subtitle243">A million dollars.</p>
+<p begin="8027200000t" end="8048400000t" region="region.after" style="style.center" xml:id="subtitle244">With that, I could pay back<br/>Zena Ruffhouse.</p>
+<p begin="8050800000t" end="8066800000t" region="region.after" style="style.center" xml:id="subtitle245">Zena Ruffhouse,</p>
+<p begin="8067600000t" end="8101600000t" region="region.after" style="style.center" xml:id="subtitle246">the female gang leader<br/>with bad taste in Hawaiian blouses?</p>
+<p begin="8102400000t" end="8116000000t" region="region.after" style="style.center" xml:id="subtitle247">How come you owe her money?</p>
+<p begin="8118800000t" end="8148800000t" region="region.after" style="style.center" xml:id="subtitle248">She, um, helped me do some moving.</p>
+<p begin="8156000000t" end="8177200000t" region="region.after" style="style.center" xml:id="subtitle249">-[owl hoots]<br/>-[crickets chirping]</p>
+<p begin="8201600000t" end="8213600000t" region="region.after" style="style.center" xml:id="subtitle250">Ah.</p>
+<p begin="8226400000t" end="8256000000t" region="region.after" style="style.center" xml:id="subtitle251">[laughs]</p>
+<p begin="8271600000t" end="8280000000t" region="region.after" style="style.center" xml:id="subtitle252">[clanks]</p>
+<p begin="8280800000t" end="8296800000t" region="region.after" style="style.center" xml:id="subtitle253">[helicopter whirring]</p>
+<p begin="8402000000t" end="8446800000t" region="region.after" style="style.center" xml:id="subtitle254">You may be a criminal mastermind,<br/>but you'll never win a marathon.</p>
+<p begin="8448400000t" end="8462400000t" region="region.after" style="style.center" xml:id="subtitle255">Your legs are too short.</p>
+<p begin="8463200000t" end="8479200000t" region="region.after" style="style.center" xml:id="subtitle256">[Ginger Twins laugh]</p>
+<p begin="8496400000t" end="8526800000t" region="region.after" style="style.center" xml:id="subtitle257">No, Miss Chi, I won't win the race.</p>
+<p begin="8527600000t" end="8552400000t" region="region.after" style="style.center" xml:id="subtitle258">But one of the Ginger Twins will.</p>
+<p begin="8691600000t" end="8705600000t" region="region.after" style="style.center" xml:id="subtitle259">[Harry pants]</p>
+<p begin="8717200000t" end="8748000000t" region="region.before" style="style.center" xml:id="subtitle260">[Harry grunts]</p>
+<p begin="8758000000t" end="8790000000t" region="region.after" style="style.center" xml:id="subtitle261">They may have no brains, but they can run.</p>
+<p begin="8791600000t" end="8822400000t" region="region.after" style="style.center" xml:id="subtitle262">Yes, but they're going<br/>in the wrong direction!</p>
+<p begin="8824800000t" end="8861200000t" region="region.after" style="style.center" xml:id="subtitle263">The other way, lamebrains!</p>
+<p begin="8922400000t" end="8935600000t" region="region.after" style="style.center" xml:id="subtitle264">[pants]</p>
+<p begin="8953200000t" end="8967200000t" region="region.before" style="style.center" xml:id="subtitle265">Go, Harry!</p>
+<p begin="9026000000t" end="9054000000t" region="region.after" style="style.center" xml:id="subtitle266">He's going to win tomorrow's marathon,<br/>Miss Chi.</p>
+<p begin="9060400000t" end="9085200000t" region="region.after" style="style.center" xml:id="subtitle267">So sorry, but no.</p>
+<p begin="9086800000t" end="9122000000t" region="region.after" style="style.center" xml:id="subtitle268">As much as I would love to see you<br/>take part, Harry,</p>
+<p begin="9122800000t" end="9148000000t" region="region.after" style="style.center" xml:id="subtitle269">official school policy forbids it.</p>
+<p begin="9151600000t" end="9177600000t" region="region.after" style="style.center" xml:id="subtitle270">Yes. Check your contract.</p>
+<p begin="9185200000t" end="9194000000t" region="region.after" style="style.center" xml:id="subtitle271">[Harry sighs]</p>
+<p begin="9223600000t" end="9255600000t" region="region.after" style="style.center" xml:id="subtitle272">It's true, right there in the small print.</p>
+<p begin="9256400000t" end="9288800000t" region="region.after" style="style.center" xml:id="subtitle273">I can't take part in any sporting events,<br/>or I'll be dismissed.</p>
+<p begin="9289600000t" end="9305600000t" region="region.after" style="style.center" xml:id="subtitle274">That is so unfair.</p>
+<p begin="9312400000t" end="9350400000t" region="region.after" style="style.center" xml:id="subtitle275">Looks like the Sanctuary for The Wild<br/>but Still Quite Cute Animals</p>
+<p begin="9351200000t" end="9374000000t" region="region.after" style="style.center" xml:id="subtitle276">will have to do without our help.</p>
+<p begin="9380000000t" end="9390000000t" region="region.after" style="style.center" xml:id="subtitle277">Hmm...</p>
+<p begin="9390800000t" end="9410800000t" region="region.after" style="style.center" xml:id="subtitle278">Think again, Linda.</p>
+<p begin="9411600000t" end="9453600000t" region="region.after" style="style.center" xml:id="subtitle279">Miss Chi might be able to stop me<br/>from taking part in the marathon,</p>
+<p begin="9454400000t" end="9482000000t" region="region.after" style="style.center" xml:id="subtitle280">but who's to stop Geckoman?</p>
+<p begin="9540000000t" end="9550400000t" region="region.after" style="style.center" xml:id="subtitle281">[sighs contentedly]</p>
+<p begin="9568800000t" end="9604800000t" region="region.after" style="style.center" xml:id="subtitle282">To make sure those two orange-topped<br/>no-hopers come first,</p>
+<p begin="9605600000t" end="9642000000t" region="region.after" style="style.center" xml:id="subtitle283">I've devised another brilliant invention.</p>
+<p begin="9670400000t" end="9683600000t" region="region.after" style="style.center" xml:id="subtitle284">Running shoes?</p>
+<p begin="9687200000t" end="9720400000t" region="region.after" style="style.center" xml:id="subtitle285">These are no ordinary running shoes.</p>
+<p begin="9725600000t" end="9761600000t" region="region.after" style="style.center" xml:id="subtitle286">They're capable of running<br/>80 miles per hour.</p>
+<p begin="9780800000t" end="9811600000t" region="region.after" style="style.center" xml:id="subtitle287">-The prize money will be ours.<br/>-[Ginger Twins exclaim]</p>
+<p begin="9820800000t" end="9861200000t" region="region.after" style="style.center" xml:id="subtitle288">It's marathon day, and this is Steff Wong,<br/>your <span style="style.center_1">Metrofulus News 24</span> host.</p>
+<p begin="9862000000t" end="9875200000t" region="region.after" style="style.center" xml:id="subtitle289">Lithe, toned bodies</p>
+<p begin="9876000000t" end="9908400000t" region="region.after" style="style.center" xml:id="subtitle290">will soon be pounding through<br/>the streets of our beautiful city,</p>
+<p begin="9909200000t" end="9932400000t" region="region.after" style="style.center" xml:id="subtitle291">and I'm here to report on it all.</p>
+<p begin="9935600000t" end="9952800000t" region="region.after" style="style.center" xml:id="subtitle292">What a thrill!</p>
+<p begin="9953600000t" end="9976000000t" region="region.after" style="style.center" xml:id="subtitle293">Go, Geckoman, go!</p>
+<p begin="9980800000t" end="10018000000t" region="region.after" style="style.center" xml:id="subtitle294">You'll be able to help even more animals<br/>if Geckoman wins the Marathon.</p>
+<p begin="10022000000t" end="10056000000t" region="region.after" style="style.center" xml:id="subtitle295">Don't you mean "when"?<br/>Who can match Geckospeed?</p>
+<p begin="10056800000t" end="10066800000t" region="region.after" style="style.center" xml:id="subtitle296">[grunt]</p>
+<p begin="10088400000t" end="10096800000t" region="region.after" style="style.center" xml:id="subtitle297">Huh?</p>
+<p begin="10122400000t" end="10155200000t" region="region.after" style="style.center" xml:id="subtitle298">I've never seen<br/>running shoes like that before.</p>
+<p begin="10156000000t" end="10194800000t" region="region.after" style="style.center" xml:id="subtitle299">Danny, you're an expert in microcircuitry,<br/>not sports gear.</p>
+<p begin="10201600000t" end="10222400000t" region="region.after" style="style.center" xml:id="subtitle300">What worries me more is Geckoman.</p>
+<p begin="10223200000t" end="10240799999t" region="region.after" style="style.center" xml:id="subtitle301">He should be here by now.</p>
+<p begin="10358000000t" end="10372000000t" region="region.after" style="style.center" xml:id="subtitle302">[fly buzzing]</p>
+<p begin="10376800000t" end="10400000000t" region="region.after" style="style.center" xml:id="subtitle303">[retches]</p>
+<p begin="10403199999t" end="10415200000t" region="region.after" style="style.center" xml:id="subtitle304">Gross.</p>
+<p begin="10419600000t" end="10454400000t" region="region.after" style="style.center" xml:id="subtitle305">But they say that protein is good for you<br/>before a race.</p>
+<p begin="10511600000t" end="10530000000t" region="region.after" style="style.center" xml:id="subtitle306">[cheering]</p>
+<p begin="10530800000t" end="10579200000t" region="region.after" style="style.center" xml:id="subtitle307">[crowd cheering continuously]</p>
+<p begin="10590800000t" end="10604000000t" region="region.after" style="style.center" xml:id="subtitle308">Geckoman.</p>
+<p begin="10611200000t" end="10626000000t" region="region.after" style="style.center" xml:id="subtitle309">Impossible!</p>
+<p begin="10638000000t" end="10656000000t" region="region.after" style="style.center" xml:id="subtitle310">-[Geckoman laughs]<br/>-[crowd cheers]</p>
+<p begin="10662000000t" end="10675600000t" region="region.after" style="style.center" xml:id="subtitle311">To start the marathon,</p>
+<p begin="10676400000t" end="10707200000t" region="region.after" style="style.center" xml:id="subtitle312">we have here someone so famous,<br/>I think I'm going to faint.</p>
+<p begin="10708000000t" end="10739600000t" region="region.after" style="style.center" xml:id="subtitle313">Fabulous pop star, Lordy Gogo!</p>
+<p begin="10759600000t" end="10771600000t" region="region.after" style="style.center" xml:id="subtitle314">[gunfire]</p>
+<p begin="10772400000t" end="10797200000t" region="region.after" style="style.center" xml:id="subtitle315">[crowd cheering]</p>
+<p begin="10871200000t" end="10886000000t" region="region.after" style="style.center" xml:id="subtitle316">[Geckoman grunts]</p>
+<p begin="10896000000t" end="10905600000t" region="region.after" style="style.center" xml:id="subtitle317">[groans]</p>
+<p begin="10917200000t" end="10926400000t" region="region.after" style="style.center" xml:id="subtitle318">Hey!</p>
+<p begin="10927200000t" end="10956000000t" region="region.after" style="style.center" xml:id="subtitle319">We'd better get out on that course<br/>and help Geckoman.</p>
+<p begin="10956800000t" end="10985600000t" region="region.after" style="style.center" xml:id="subtitle320">It looks like some of his rivals<br/>are going to play dirty.</p>
+<p begin="11010800000t" end="11026800000t" region="region.after" style="style.center" xml:id="subtitle321">[groans]</p>
+<p begin="11050400000t" end="11067600000t" region="region.before" style="style.center" xml:id="subtitle322">[Steff]<br/><span style="style.center_1">The twins are still leading,</span></p>
+<p begin="11069200000t" end="11099600000t" region="region.before" style="style.center" xml:id="subtitle323"><span style="style.center_1">but a familiar man in a costume</span><br/><span style="style.center_1">is closing fast.</span></p>
+<p begin="11111600000t" end="11124400000t" region="region.after" style="style.center" xml:id="subtitle324">Geckoman?</p>
+<p begin="11125200000t" end="11161200000t" region="region.after" style="style.center" xml:id="subtitle325">What is that half-wit lizard<br/>doing running a marathon?</p>
+<p begin="11174000000t" end="11211200000t" region="region.after" style="style.center" xml:id="subtitle326">And Geckoman takes the lead. What a guy!</p>
+<p begin="11215600000t" end="11227600000t" region="region.after" style="style.center" xml:id="subtitle327">Calling Miss Chi.</p>
+<p begin="11228400000t" end="11241200000t" region="region.after" style="style.center" xml:id="subtitle328">Did you hear that?</p>
+<p begin="11242000000t" end="11266000000t" region="region.after" style="style.center" xml:id="subtitle329">Nothing must stop the Ginger Twins<br/>from winning.</p>
+<p begin="11266800000t" end="11291600000t" region="region.after" style="style.center" xml:id="subtitle330">Especially not Geckoman.</p>
+<p begin="11292400000t" end="11312400000t" region="region.after" style="style.center" xml:id="subtitle331">Put Plan B into action!</p>
+<p begin="11313200000t" end="11338000000t" region="region.after" style="style.center" xml:id="subtitle332">I repeat, proceed with Plan B!</p>
+<p begin="11340400000t" end="11359200000t" region="region.after" style="style.center" xml:id="subtitle333">Commencing Plan B.</p>
+<p begin="11435200000t" end="11466000000t" region="region.after" style="style.center" xml:id="subtitle334">Huh? It's like I'm running on air!</p>
+<p begin="11469200000t" end="11492400000t" region="region.after" style="style.center" xml:id="subtitle335">-[camera shutter clicks]<br/>-Hey, I am!</p>
+<p begin="11493200000t" end="11524800000t" region="region.after" style="style.center" xml:id="subtitle336">Put me down, guys.<br/>I promise I'll talk to the press later.</p>
+<p begin="11541200000t" end="11550000000t" region="region.after" style="style.center" xml:id="subtitle337">Danny!</p>
+<p begin="11550800000t" end="11589200000t" region="region.after" style="style.center" xml:id="subtitle338">That's no press vehicle!<br/>Someone just kidnapped Geckoman!</p>
+<p begin="11597200000t" end="11619600000t" region="region.after" style="style.center" xml:id="subtitle339">Understood. They're coming this way.</p>
+<p begin="11621200000t" end="11637600000t" region="region.after" style="style.center" xml:id="subtitle340">How can I stop them?</p>
+<p begin="11638400000t" end="11676400000t" region="region.after" style="style.center" xml:id="subtitle341">-[crowd cheers]<br/>-[camera shutter clicks]</p>
+<p begin="11677200000t" end="11693600000t" region="region.after" style="style.center" xml:id="subtitle342">Sorry, I need to borrow this.</p>
+<p begin="11727600000t" end="11736400000t" region="region.after" style="style.center" xml:id="subtitle343">[grunts]</p>
+<p begin="11737200000t" end="11749200000t" region="region.after" style="style.center" xml:id="subtitle344">[tires screech]</p>
+<p begin="11756800000t" end="11775600000t" region="region.after" style="style.center" xml:id="subtitle345">[Danny]<br/>Run, Geckoman, run!</p>
+<p begin="11793200000t" end="11813200000t" region="region.after" style="style.center" xml:id="subtitle346">[pants]</p>
+<p begin="11814000000t" end="11840800000t" region="region.after" style="style.center" xml:id="subtitle347">Must catch up!</p>
+<p begin="11841600000t" end="11881600000t" region="region.after" style="style.center" xml:id="subtitle348">Geckoman panting]</p>
+<p begin="11938800000t" end="11966000000t" region="region.after" style="style.center" xml:id="subtitle349">Oh, I'm capable of such evil,</p>
+<p begin="11968000000t" end="11994000000t" region="region.after" style="style.center" xml:id="subtitle350">I don't even like myself sometimes.</p>
+<p begin="12010400000t" end="12032400000t" region="region.after" style="style.center" xml:id="subtitle351">[pants, exclaims]</p>
+<p begin="12054000000t" end="12076400000t" region="region.after" style="style.center" xml:id="subtitle352">-[cars honking]<br/>-[gasps]</p>
+<p begin="12110400000t" end="12125200000t" region="region.after" style="style.center" xml:id="subtitle353">[honking]</p>
+<p begin="12126000000t" end="12134800000t" region="region.after" style="style.center" xml:id="subtitle354">[Geckoman gasps]</p>
+<p begin="12142000000t" end="12171200000t" region="region.after" style="style.center" xml:id="subtitle355">Someone is desperate<br/>for me not to win this race.</p>
+<p begin="12172400000t" end="12195600000t" region="region.after" style="style.center" xml:id="subtitle356">Time to run, gecko!</p>
+<p begin="12404000000t" end="12441200000t" region="region.after" style="style.center" xml:id="subtitle357">[Steff] <span style="style.center_1">The Masked Twins still have</span><br/><span style="style.center_1">the lead with their incredible style.</span></p>
+<p begin="12442000000t" end="12469200000t" region="region.after" style="style.center" xml:id="subtitle358"><span style="style.center_1">They run so smoothly,</span><br/><span style="style.center_1">almost like machines!</span></p>
+<p begin="12470000000t" end="12478800000t" region="region.after" style="style.center" xml:id="subtitle359"><span style="style.center_1">But wait...</span></p>
+<p begin="12479600000t" end="12495600000t" region="region.after" style="style.center" xml:id="subtitle360"><span style="style.center_1">Is there a problem?</span></p>
+<p begin="12502400000t" end="12518400000t" region="region.after" style="style.center" xml:id="subtitle361">[shoes splutter]</p>
+<p begin="12519200000t" end="12536400000t" region="region.after" style="style.center" xml:id="subtitle362">Shoe hot.</p>
+<p begin="12541200000t" end="12576000000t" region="region.after" style="style.center" xml:id="subtitle363">[crowd cheers]</p>
+<p begin="12580400000t" end="12604400000t" region="region.after" style="style.center" xml:id="subtitle364">-Go, Geckoman, you can do it!<br/>-Go, Geckoman, you can do it!</p>
+<p begin="12610000000t" end="12648800000t" region="region.before" style="style.center" xml:id="subtitle365">[Steff]<span style="style.center_1"> The amazing Geckoman</span><br/><span style="style.center_1">is now gaining with every stride!</span></p>
+<p begin="12651600000t" end="12681600000t" region="region.after" style="style.center" xml:id="subtitle366">Faster, you Ginger Twerps. Faster!</p>
+<p begin="12684400000t" end="12718400000t" region="region.after" style="style.center" xml:id="subtitle367">Forget the shoes! Run barefoot!</p>
+<p begin="12725200000t" end="12738000000t" region="region.after" style="style.center" xml:id="subtitle368">-[gasps]<br/>-[grunts]</p>
+<p begin="12738800000t" end="12748000000t" region="region.after" style="style.center" xml:id="subtitle369">Ouch!</p>
+<p begin="12753600000t" end="12763200000t" region="region.after" style="style.center" xml:id="subtitle370">[grunts]</p>
+<p begin="12775200000t" end="12785200000t" region="region.after" style="style.center" xml:id="subtitle371">Ouch!</p>
+<p begin="12788800000t" end="12827600000t" region="region.after" style="style.center" xml:id="subtitle372">Don't you dare lose this race now,<br/>you dimwitted duplicates!</p>
+<p begin="12833200000t" end="12850400000t" region="region.before" style="style.center" xml:id="subtitle373">Come on, Geckoman!</p>
+<p begin="12856800000t" end="12874000000t" region="region.before" style="style.center" xml:id="subtitle374">It's neck and neck now.</p>
+<p begin="12874800000t" end="12896800000t" region="region.before" style="style.center" xml:id="subtitle375">Geckoman versus the Masked Twins.</p>
+<p begin="12897600000t" end="12926400000t" region="region.before" style="style.center" xml:id="subtitle376">This must be the greatest marathon ever.</p>
+<p begin="12927200000t" end="12966000000t" region="region.after" style="style.center" xml:id="subtitle377">It's even better than the original one<br/>in 490 BC Greece.</p>
+<p begin="12968000000t" end="12984000000t" region="region.after" style="style.center" xml:id="subtitle378">[pants]</p>
+<p begin="12984800000t" end="12999200000t" region="region.after" style="style.center" xml:id="subtitle379">[Kon pants]</p>
+<p begin="13000000000t" end="13013200000t" region="region.after" style="style.center" xml:id="subtitle380">[laughs]</p>
+<p begin="13019600000t" end="13044400000t" region="region.after" style="style.center" xml:id="subtitle381">[grunts]</p>
+<p begin="13049200000t" end="13069200000t" region="region.after" style="style.center" xml:id="subtitle382">Hey, that's cheating!</p>
+<p begin="13072800000t" end="13099200000t" region="region.after" style="style.center" xml:id="subtitle383">[grunts]</p>
+<p begin="13104000000t" end="13112800000t" region="region.after" style="style.center" xml:id="subtitle384">[groans]</p>
+<p begin="13156000000t" end="13188000000t" region="region.after" style="style.center" xml:id="subtitle385">-[crowd cheering]<br/>-[grunts]</p>
+<p begin="13188800000t" end="13217200000t" region="region.after" style="style.center" xml:id="subtitle386">[crowd cheers]</p>
+<p begin="13218000000t" end="13236000000t" region="region.after" style="style.center" xml:id="subtitle387">[camera shutters click]</p>
+<p begin="13240800000t" end="13265600000t" region="region.after" style="style.center" xml:id="subtitle388">I knew I should have<br/>entered the race myself.</p>
+<p begin="13268000000t" end="13296800000t" region="region.after" style="style.center" xml:id="subtitle389">Those lamebrains just can't be trusted!</p>
+<p begin="13324000000t" end="13354400000t" region="region.after" style="style.center" xml:id="subtitle390">You better tell them the marathon is over.</p>
+<p begin="13357600000t" end="13396800000t" region="region.after" style="style.center" xml:id="subtitle391">Nyet, let them run till they drop.<br/>Curse them!</p>
+<p begin="13428800000t" end="13466000000t" region="region.after" style="style.center" xml:id="subtitle392">[Steff] Loads of money and my favorite guy<br/>in the whole wide world.</p>
+<p begin="13471600000t" end="13481600000t" region="region.after" style="style.center" xml:id="subtitle393">Wow!</p>
+<p begin="13484800000t" end="13526000000t" region="region.after" style="style.center" xml:id="subtitle394">This is Steff Wong<br/>reporting for <span style="style.center_1">Metrofulus News 24.</span></p>
+<p begin="13534400000t" end="13593600000t" region="region.before" style="style.center" xml:id="subtitle395">Make sure the Sanctuary for The Wild<br/>but Still Cute Animals gets this, Latifah.</p>
+<p begin="13600400000t" end="13631200000t" region="region.after" style="style.center" xml:id="subtitle396">Thank you, Geckoman.<br/>You really are a hero!</p>
+<p begin="13674800000t" end="13702000000t" region="region.after" style="style.center" xml:id="subtitle397">You let me down again, Klone.</p>
+<p begin="13702800000t" end="13711200000t" region="region.after" style="style.center" xml:id="subtitle398">Be warned.</p>
+<p begin="13717200000t" end="13745200000t" region="region.after" style="style.center" xml:id="subtitle399">I'm not going to wait much longer<br/>for my cash!</p>
+<p begin="13746000000t" end="13763200000t" region="region.after" style="style.center" xml:id="subtitle400">[Ginger Twins chuckle]</p>
+<p begin="13764000000t" end="13772800000t" region="region.after" style="style.center" xml:id="subtitle401">[grumbles]</p>
+<p begin="13783600000t" end="13803600000t" region="region.after" style="style.center" xml:id="subtitle402">There's no running allowed in Luna High,</p>
+<p begin="13804400000t" end="13826400000t" region="region.after" style="style.center" xml:id="subtitle403">so what makes you think it's allowed here?</p>
+<p begin="13830400000t" end="13874400000t" region="region.after" style="style.center" xml:id="subtitle404">Does no one have any respect<br/>for deranged criminal masterminds anymore?</p>
+<p begin="13878800000t" end="13892000000t" region="region.after" style="style.center" xml:id="subtitle405">-[grunts]<br/>-[thud]</p>
+<p begin="13930000000t" end="13946000000t" region="region.after" style="style.center" xml:id="subtitle406"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="13946800000t" end="13964000000t" region="region.after" style="style.center" xml:id="subtitle407"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="13964800000t" end="13992800000t" region="region.after" style="style.center" xml:id="subtitle408"><span style="style.center_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="13999600000t" end="14015600000t" region="region.after" style="style.center" xml:id="subtitle409"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="14016400000t" end="14033600000t" region="region.after" style="style.center" xml:id="subtitle410"><span style="style.center_1">♪ Geckoman ♪</span></p>
+<p begin="14034400000t" end="14065200000t" region="region.after" style="style.center" xml:id="subtitle411"><span style="style.center_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="14103600000t" end="14131600000t" region="region.after" style="style.center" xml:id="subtitle412"><span style="style.center_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="14138400000t" end="14163200000t" region="region.after" style="style.center" xml:id="subtitle413">Subtitle translation by Suffian</p>
+</div>
+</body>
+</tt>

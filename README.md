@@ -133,6 +133,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Malay-English](#malay-english)
     * [Opus](#opus)
     * [Parliament](#parliament-1)
+    * [Local Movies Subtitles](#local-movies-subtitles)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -2218,6 +2219,10 @@ Total size: 262.6 MB
 Parsed from Malaysia parliament text, and translate to English.
 
 Total size: 47.6 MB
+
+#### [Local Movies Subtitles](translation/local-movies-subtitle)
+
+Total size: 10.7 MB
 
 ## Suggestion
 

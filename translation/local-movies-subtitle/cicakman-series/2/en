@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="11200000t" end="24400000t" style="normal" xml:id="subtitle0">[bell rings]</p>
+<p begin="39600000t" end="60800000t" style="normal" xml:id="subtitle1">[theme song starts playing]</p>
+<p begin="100400000t" end="118800000t" style="normal" xml:id="subtitle2"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="119600000t" end="132800000t" style="normal" xml:id="subtitle3"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="136800000t" end="159200000t" style="normal" xml:id="subtitle4"><span style="normal_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="171200000t" end="189600000t" style="normal" xml:id="subtitle5"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="190400000t" end="207600000t" style="normal" xml:id="subtitle6"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="208400000t" end="237200000t" style="normal" xml:id="subtitle7"><span style="normal_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="277600000t" end="304000000t" style="normal" xml:id="subtitle8"><span style="normal_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="324799999t" end="346800000t" style="normal" xml:id="subtitle9">WE'RE GONNA NEED A BIGGER BAG!</p>
+<p begin="403600000t" end="441600000t" style="normal" xml:id="subtitle10">Metrofulus City will be<br/>under my control within hours.</p>
+<p begin="442400000t" end="473600000t" style="normal" xml:id="subtitle11">Every bank vault will be smashed.</p>
+<p begin="474400000t" end="505600000t" style="normal" xml:id="subtitle12">Priceless art will be mine for the taking.</p>
+<p begin="506400000t" end="567200000t" style="normal" xml:id="subtitle13">When my indestructible, self-repairing<br/>Phoenix Robot is ready to deploy.</p>
+<p begin="568000000t" end="598800000t" style="normal" xml:id="subtitle14">But first one or two minor<br/>adjustments before it is ready.</p>
+<p begin="605200000t" end="621600000t" style="normal" xml:id="subtitle15">Magnetic hyper drill.</p>
+<p begin="635600000t" end="648400000t" style="normal" xml:id="subtitle16">Micro circuit unit.</p>
+<p begin="657200000t" end="666800000t" style="normal" xml:id="subtitle17">What?</p>
+<p begin="686400000t" end="698400000t" style="normal" xml:id="subtitle18">Take that!</p>
+<p begin="729600000t" end="740800000t" style="normal" xml:id="subtitle19">Look out!</p>
+<p begin="798400000t" end="808000000t" style="normal" xml:id="subtitle20">[groans]</p>
+<p begin="826800000t" end="843600000t" style="normal" xml:id="subtitle21">It's ruined!</p>
+<p begin="844400000t" end="866000000t" style="normal" xml:id="subtitle22">How am I supposed to work in this mess?</p>
+<p begin="866800000t" end="891200000t" style="normal" xml:id="subtitle23">Get rid of all this rubbish now!</p>
+<p begin="895600000t" end="913200000t" style="normal" xml:id="subtitle24">Trash can is full, Boss.</p>
+<p begin="920800000t" end="961600000t" style="normal" xml:id="subtitle25">What do I care?<br/>Just get it all out of here today!</p>
+<p begin="1045600000t" end="1081200000t" style="normal" xml:id="subtitle26">Welcome to the first after<br/>school meeting of the L.D.F.</p>
+<p begin="1082000000t" end="1104000000t" style="normal" xml:id="subtitle27">The Loco Dancing Frogs?</p>
+<p begin="1104800000t" end="1125600000t" style="normal" xml:id="subtitle28">The Litter Defense Force!</p>
+<p begin="1126400000t" end="1150400000t" style="normal" xml:id="subtitle29">Do we three equal a "Force"?</p>
+<p begin="1163200000t" end="1196400000t" style="normal" xml:id="subtitle30">It's true, I had expected<br/>a bigger turn out.</p>
+<p begin="1197200000t" end="1227200000t" style="normal" xml:id="subtitle31">I guess staying behind<br/>to pick up other people's trash</p>
+<p begin="1228000000t" end="1252400000t" style="normal" xml:id="subtitle32">isn't cool enough for most teenagers.</p>
+<p begin="1253200000t" end="1273200000t" style="normal" xml:id="subtitle33">It's cool to be different.</p>
+<p begin="1274000000t" end="1307599999t" style="normal" xml:id="subtitle34">Yeah, and every journey<br/>starts with the first step</p>
+<p begin="1308400000t" end="1326800000t" style="normal" xml:id="subtitle35">and that is what we are.</p>
+<p begin="1327600000t" end="1364000000t" style="normal" xml:id="subtitle36">The first step<br/>to a new litter-free Luna High School!</p>
+<p begin="1369600000t" end="1388000000t" style="normal" xml:id="subtitle37">Let's get to work, boys!</p>
+<p begin="1441200000t" end="1451200000t" style="normal" xml:id="subtitle38">[exclaims]</p>
+<p begin="1452000000t" end="1462400000t" style="normal" xml:id="subtitle39">Wonderful!</p>
+<p begin="1463200000t" end="1479600000t" style="normal" xml:id="subtitle40">This is what I'm talking about!</p>
+<p begin="1480400000t" end="1515200000t" style="normal" xml:id="subtitle41">I have room to build, to think, to dream.</p>
+<p begin="1523200000t" end="1533600000t" style="normal" xml:id="subtitle42">[in unison] Boss.</p>
+<p begin="1537200000t" end="1564400000t" style="normal" xml:id="subtitle43">The City Dump crusher is the perfect place</p>
+<p begin="1565200000t" end="1579600000t" style="normal" xml:id="subtitle44">for my old prototypes.</p>
+<p begin="1586800000t" end="1617600000t" style="normal" xml:id="subtitle45">I wouldn't want anybody<br/>to trace that hardware</p>
+<p begin="1618400000t" end="1644400000t" style="normal" xml:id="subtitle46">back here to my new secret identity.</p>
+<p begin="1651600000t" end="1663200000t" style="normal" xml:id="subtitle47">City Dump?</p>
+<p begin="1672000000t" end="1682400000t" style="normal" xml:id="subtitle48">Crusher?</p>
+<p begin="1685200000t" end="1723200000t" style="normal" xml:id="subtitle49">You did take it all<br/>to be crushed, didn't you?</p>
+<p begin="1727600000t" end="1738800000t" style="normal" xml:id="subtitle50">-No.<br/>-Yes.</p>
+<p begin="1742400000t" end="1785200000t" style="normal" xml:id="subtitle51">What? Then where did you<br/>dump it, you flame brains?</p>
+<p begin="1862000000t" end="1901600000t" style="normal" xml:id="subtitle52">Linda. We're going to need a bigger bag.</p>
+<p begin="1902400000t" end="1921600000t" style="normal" xml:id="subtitle53">[Linda] Oh, no!</p>
+<p begin="1925600000t" end="1939600000t" style="normal" xml:id="subtitle54">So what do we do now?</p>
+<p begin="1940400000t" end="1982800000t" style="normal" xml:id="subtitle55">We can start at the top sorting plastics,<br/>Danny. Harry can sort paper.</p>
+<p begin="1988400000t" end="2000000000t" style="normal" xml:id="subtitle56">But--</p>
+<p begin="2000800000t" end="2014000000t" style="normal" xml:id="subtitle57">I blame gravity!</p>
+<p begin="2014800000t" end="2058000000t" style="normal" xml:id="subtitle58">If we didn't have all that, then all this<br/>rubbish could just float off into space.</p>
+<p begin="2058800000t" end="2068400000t" style="normal" xml:id="subtitle59">Problem solved.</p>
+<p begin="2069200000t" end="2078400000t" style="normal" xml:id="subtitle60">Danny!</p>
+<p begin="2092000000t" end="2100400000t" style="normal" xml:id="subtitle61">Coming!</p>
+<p begin="2106000000t" end="2128800000t" style="normal" xml:id="subtitle62">Well, if they are dealing with the top--</p>
+<p begin="2129600000t" end="2140400000t" style="normal" xml:id="subtitle63">[groans]</p>
+<p begin="2141200000t" end="2155200000t" style="normal" xml:id="subtitle64">Naughty stick!</p>
+<p begin="2169200000t" end="2200800000t" style="normal" xml:id="subtitle65">[thunder rumbles]</p>
+<p begin="2212800000t" end="2229600000t" style="normal" xml:id="subtitle66">What are they doing here?</p>
+<p begin="2234400000t" end="2256000000t" style="normal" xml:id="subtitle67">I believe they are the L.D.F.</p>
+<p begin="2256800000t" end="2295600000t" style="normal" xml:id="subtitle68">Not the Legendary Deadly Foe!</p>
+<p begin="2296400000t" end="2323600000t" style="normal" xml:id="subtitle69">No. The Litter Defense Force.</p>
+<p begin="2324400000t" end="2358800000t" style="normal" xml:id="subtitle70">You authorized<br/>heir after-school passes today.</p>
+<p begin="2359600000t" end="2371600000t" style="normal" xml:id="subtitle71">Do-gooders!</p>
+<p begin="2372400000t" end="2405600000t" style="normal" xml:id="subtitle72">Get rid of them before they find anything<br/>that could betray my secrets!</p>
+<p begin="2411600000t" end="2424400000t" style="normal" xml:id="subtitle73">Not necessary.</p>
+<p begin="2428000000t" end="2454000000t" style="normal" xml:id="subtitle74">The storm will soon stop their good deeds.</p>
+<p begin="2454800000t" end="2471200000t" style="normal" xml:id="subtitle75">[thunder rumbles]</p>
+<p begin="2486000000t" end="2497200000t" style="normal" xml:id="subtitle76">[Linda groans]</p>
+<p begin="2498000000t" end="2517200000t" style="normal" xml:id="subtitle77">[Danny] That storm is getting closer.</p>
+<p begin="2523200000t" end="2546400000t" style="normal" xml:id="subtitle78">Maybe we should come<br/>back in the morning, Linda?</p>
+<p begin="2550000000t" end="2561200000t" style="normal" xml:id="subtitle79">No.</p>
+<p begin="2562000000t" end="2591200000t" style="normal" xml:id="subtitle80">I think we should be okay<br/>for a few more minutes.</p>
+<p begin="2592000000t" end="2609200000t" style="normal" xml:id="subtitle81">[screaming] Danny!</p>
+<p begin="2610000000t" end="2618800000t" style="normal" xml:id="subtitle82">Linda!</p>
+<p begin="2687200000t" end="2704000000t" style="normal" xml:id="subtitle83">[groans]</p>
+<p begin="2720400000t" end="2744400000t" style="normal" xml:id="subtitle84">That rubbish sure packs a punch!</p>
+<p begin="2764400000t" end="2772800000t" style="normal" xml:id="subtitle85">[gasps]</p>
+<p begin="2773600000t" end="2797600000t" style="normal" xml:id="subtitle86">Danny! Linda! Where are you?</p>
+<p begin="2971200000t" end="2981600000t" style="normal" xml:id="subtitle87">[gasps]</p>
+<p begin="3020800000t" end="3051600000t" style="normal" xml:id="subtitle88">It's no use, Linda.<br/>There's no way out of here.</p>
+<p begin="3052400000t" end="3071600000t" style="normal" xml:id="subtitle89">But where is "here", Danny?</p>
+<p begin="3096400000t" end="3104800000t" style="normal" xml:id="subtitle90">[groans]</p>
+<p begin="3105600000t" end="3130400000t" style="normal" xml:id="subtitle91">I'm not sure you really want to know that.</p>
+<p begin="3131200000t" end="3155600000t" style="normal" xml:id="subtitle92">[groans]</p>
+<p begin="3156400000t" end="3169200000t" style="normal" xml:id="subtitle93">Oh, no!</p>
+<p begin="3208800000t" end="3232800000t" style="normal" xml:id="subtitle94">Time to go Gecko!</p>
+<p begin="3274400000t" end="3320800000t" style="normal" xml:id="subtitle95">Okay! Time to talk turkey<br/>with this supersized junk shop!</p>
+<p begin="3326400000t" end="3366000000t" style="normal" xml:id="subtitle96"><span style="normal_1">Target identified, Geckoman.</span></p>
+<p begin="3370800000t" end="3391600000t" style="normal" xml:id="subtitle97">Hey, it knows who I am.</p>
+<p begin="3392400000t" end="3408800000t" style="normal" xml:id="subtitle98">[gasps] Target?</p>
+<p begin="3470400000t" end="3482000000t" style="normal" xml:id="subtitle99">[laughs]</p>
+<p begin="3482800000t" end="3500000000t" style="normal" xml:id="subtitle100">Missed me, bucket head!</p>
+<p begin="3500800000t" end="3512000000t" style="normal" xml:id="subtitle101">[gasps]</p>
+<p begin="3521600000t" end="3549200000t" style="normal" xml:id="subtitle102">Uh-uh, that's cheating!</p>
+<p begin="3568000000t" end="3590400000t" style="normal" xml:id="subtitle103">[Robot] <span style="normal_1">Target destroyed.</span></p>
+<p begin="3591200000t" end="3615600000t" style="normal" xml:id="subtitle104">Not so fast, pinball breath!</p>
+<p begin="3619600000t" end="3640400000t" style="normal" xml:id="subtitle105">Can't we talk this over and--</p>
+<p begin="3641200000t" end="3657200000t" style="normal" xml:id="subtitle106">[Robot] <span style="normal_1">Negotiation negative.</span></p>
+<p begin="3658000000t" end="3710800000t" style="normal" xml:id="subtitle107"><span style="normal_1">Priority order. Destroy Geckoman!</span></p>
+<p begin="3740800000t" end="3751200000t" style="normal" xml:id="subtitle108">Whoa!</p>
+<p begin="3752000000t" end="3774400000t" style="normal" xml:id="subtitle109">This is getting serious!</p>
+<p begin="3808000000t" end="3834000000t" style="normal" xml:id="subtitle110">[Geckoman grunts then whimpers]</p>
+<p begin="3838400000t" end="3880800000t" style="normal" xml:id="subtitle111">[Robot] <span style="normal_1">Professor Klone Priority order.</span><br/><span style="normal_1">Destroy Geckoman!</span></p>
+<p begin="3892800000t" end="3948400000t" style="normal" xml:id="subtitle112">Klone! I should've guessed that<br/>crackpot would be behind this junkbot!</p>
+<p begin="3953600000t" end="3965200000t" style="normal" xml:id="subtitle113">[gasps]</p>
+<p begin="3975600000t" end="3988000000t" style="normal" xml:id="subtitle114">[chuckles]</p>
+<p begin="4103200000t" end="4113200000t" style="normal" xml:id="subtitle115">Ah!</p>
+<p begin="4167200000t" end="4180800000t" style="normal" xml:id="subtitle116">[Dr. Kline gasps]</p>
+<p begin="4181600000t" end="4192000000t" style="normal" xml:id="subtitle117">[laughs]</p>
+<p begin="4192800000t" end="4204400000t" style="normal" xml:id="subtitle118">Wonderful!</p>
+<p begin="4205200000t" end="4230000000t" style="normal" xml:id="subtitle119">My Phoenix has risen from the ashes.</p>
+<p begin="4237200000t" end="4249600000t" style="normal" xml:id="subtitle120">Geckoman?</p>
+<p begin="4256400000t" end="4283600000t" style="normal" xml:id="subtitle121">We must help Geckoman destroy it.</p>
+<p begin="4284400000t" end="4308800000t" style="normal" xml:id="subtitle122">What? Are you mad, Miss Chi?</p>
+<p begin="4313600000t" end="4343600000t" style="normal" xml:id="subtitle123">I finally have him on the run<br/>and you want it to stop?</p>
+<p begin="4346800000t" end="4378000000t" style="normal" xml:id="subtitle124">Forgive me,<br/>but the robot is obviously drawing data</p>
+<p begin="4378800000t" end="4406400000t" style="normal" xml:id="subtitle125">from the discarded laboratory hard drives.</p>
+<p begin="4407200000t" end="4435200000t" style="normal" xml:id="subtitle126">So? Of course!</p>
+<p begin="4436000000t" end="4459200000t" style="normal" xml:id="subtitle127">If the authorities were<br/>to get their hands on those</p>
+<p begin="4460000000t" end="4486000000t" style="normal" xml:id="subtitle128">my true identity will be discovered.</p>
+<p begin="4486800000t" end="4526000000t" style="normal" xml:id="subtitle129">And you will spend<br/>the rest of your life behind bars.</p>
+<p begin="4529600000t" end="4546800000t" style="normal" xml:id="subtitle130">That's not good.</p>
+<p begin="4553600000t" end="4586400000t" style="normal" xml:id="subtitle131">Kit! Kon! Follow me!</p>
+<p begin="4618400000t" end="4662800000t" style="normal" xml:id="subtitle132">We have to stop this thing before<br/>it stops Geckoman permanently!</p>
+<p begin="4666800000t" end="4692400000t" style="normal" xml:id="subtitle133">[Danny] I'm working on it,<br/>but it won't be easy.</p>
+<p begin="4693200000t" end="4720400000t" style="normal" xml:id="subtitle134">The robot uses magnetism to repair itself.</p>
+<p begin="4721200000t" end="4748000000t" style="normal" xml:id="subtitle135">It's held together<br/>by massive magnetic flux.</p>
+<p begin="4752000000t" end="4767200000t" style="normal" xml:id="subtitle136">Can we stop it?</p>
+<p begin="4768000000t" end="4799600000t" style="normal" xml:id="subtitle137">It is possible<br/>but it will take time to calculate.</p>
+<p begin="4803200000t" end="4837200000t" style="normal" xml:id="subtitle138">Geckoman doesn't have<br/>much time, Danny! Hurry!</p>
+<p begin="4876000000t" end="4886800000t" style="normal" xml:id="subtitle139">[gasps]</p>
+<p begin="4919200000t" end="4950000000t" style="normal" xml:id="subtitle140">[gasping]</p>
+<p begin="4977200000t" end="4990800000t" style="normal" xml:id="subtitle141">[Geckoman panting]</p>
+<p begin="4991600000t" end="5014800000t" style="normal" xml:id="subtitle142">[Robot] <span style="normal_1">Target located.</span></p>
+<p begin="5030800000t" end="5060800000t" style="normal" xml:id="subtitle143">You certainly are persistent,<br/>I'll give you that.</p>
+<p begin="5061600000t" end="5088400000t" style="normal" xml:id="subtitle144">[Robot]<span style="normal_1"> Ready. Aim. Fire!</span></p>
+<p begin="5095600000t" end="5109200000t" style="normal" xml:id="subtitle145">[screams]</p>
+<p begin="5154800000t" end="5177600000t" style="normal" xml:id="subtitle146">[Robot]<span style="normal_1"> Destruction negative!</span></p>
+<p begin="5178400000t" end="5196799999t" style="normal" xml:id="subtitle147"><span style="normal_1">Search and destroy!</span></p>
+<p begin="5252000000t" end="5284800000t" style="normal" xml:id="subtitle148">Ouch! What happened?</p>
+<p begin="5285600000t" end="5330400000t" style="normal" xml:id="subtitle149">I activated a trap-door<br/>to save your skin. No need to thank me.</p>
+<p begin="5335200000t" end="5346000000t" style="normal" xml:id="subtitle150">Professor Klone!</p>
+<p begin="5346800000t" end="5387200000t" style="normal" xml:id="subtitle151">What's wrong? Couldn't bear to see<br/>a robot do your dirty work?</p>
+<p begin="5388000000t" end="5412000000t" style="normal" xml:id="subtitle152">Sadly no, Geckoman.</p>
+<p begin="5412800000t" end="5444400000t" style="normal" xml:id="subtitle153">I am here to help you<br/>defeat the Phoenix Robot.</p>
+<p begin="5445200000t" end="5456400000t" style="normal" xml:id="subtitle154">You help me?</p>
+<p begin="5457200000t" end="5492400000t" style="normal" xml:id="subtitle155">That bump on the head must<br/>have been worse than I thought.</p>
+<p begin="5493200000t" end="5513600000t" style="normal" xml:id="subtitle156">Here. You will need this.</p>
+<p begin="5524000000t" end="5553600000t" style="normal" xml:id="subtitle157">Why? Are you planning to surrender?</p>
+<p begin="5554400000t" end="5578400000t" style="normal" xml:id="subtitle158">No, you fool.</p>
+<p begin="5579200000t" end="5620000000t" style="normal" xml:id="subtitle159">That is the key to defeating<br/>our robotic friend up there.</p>
+<p begin="5620800000t" end="5645200000t" style="normal" xml:id="subtitle160">[ground rumbles]</p>
+<p begin="5646000000t" end="5668800000t" style="normal" xml:id="subtitle161">Don't you mean down here?</p>
+<p begin="5726000000t" end="5764800000t" style="normal" xml:id="subtitle162">According to this data, the robot runs<br/>thanks to a thermal-magnetic motor.</p>
+<p begin="5765600000t" end="5774000000t" style="normal" xml:id="subtitle163">Which means?</p>
+<p begin="5780800000t" end="5812000000t" style="normal" xml:id="subtitle164">[Danny] That we can stop it by<br/>heating its ferromagnetic material</p>
+<p begin="5812800000t" end="5827200000t" style="normal" xml:id="subtitle165">above their Curie points.</p>
+<p begin="5828000000t" end="5864000000t" style="normal" xml:id="subtitle166">So the metals become<br/>non-magnetic when they are heated.</p>
+<p begin="5864800000t" end="5906400000t" style="normal" xml:id="subtitle167">In theory, the robot will simply<br/>fall apart once it gets hot enough.</p>
+<p begin="5907200000t" end="5920800000t" style="normal" xml:id="subtitle168">How hot is enough?</p>
+<p begin="5921600000t" end="5941200000t" style="normal" xml:id="subtitle169">[Danny] Hot enough to cook us to a crisp.</p>
+<p begin="5944400000t" end="5972000000t" style="normal" xml:id="subtitle170">Save the bad news to last, why don't you?</p>
+<p begin="5972800000t" end="5992800000t" style="normal" xml:id="subtitle171">-[glass breaks]<br/>-[Danny] What was that?</p>
+<p begin="5993600000t" end="6024400000t" style="normal" xml:id="subtitle172">Our way out of here! Let's go!</p>
+<p begin="6028400000t" end="6054000000t" style="normal" xml:id="subtitle173">Wait! I just have to do something first.</p>
+<p begin="6146400000t" end="6173200000t" style="normal" xml:id="subtitle174">It's working! We've slowed it down.</p>
+<p begin="6209600000t" end="6240800000t" style="normal" xml:id="subtitle175">[Kon whimpers]</p>
+<p begin="6257200000t" end="6289200000t" style="normal" xml:id="subtitle176">But it is not enough power!<br/>We need more heat!</p>
+<p begin="6290000000t" end="6299600000t" style="normal" xml:id="subtitle177">[gasps]</p>
+<p begin="6308800000t" end="6334400000t" style="normal" xml:id="subtitle178">Danny! Linda! You're safe!</p>
+<p begin="6416000000t" end="6456000000t" style="normal" xml:id="subtitle179">How about a hand from Mother Nature<br/>and a little programming?</p>
+<p begin="6524800000t" end="6558000000t" style="normal" xml:id="subtitle180">Kit! Kon! Time to go underground!</p>
+<p begin="6702000000t" end="6724400000t" style="normal" xml:id="subtitle181">Well done, Litter Defense Force!</p>
+<p begin="6725200000t" end="6754400000t" style="normal" xml:id="subtitle182">We certainly sorted that junk out!</p>
+<p begin="6760000000t" end="6797200000t" style="normal" xml:id="subtitle183">Leaving one pile of trash<br/>I am happy to see!</p>
+<p begin="6798000000t" end="6819200000t" style="normal" xml:id="subtitle184">[all laughing]</p>
+<p begin="6864400000t" end="6889200000t" style="normal" xml:id="subtitle185">TALK OF MONSTER FISHES<br/>AND VANISHING BOATS</p>
+<p begin="6975600000t" end="7019600000t" style="normal" xml:id="subtitle186">My plan to steal a diamond shipment<br/>from Asia foiled.</p>
+<p begin="7020400000t" end="7068800000t" style="normal" xml:id="subtitle187">My scheme to loot a bond ship<br/>of its cash cargo defeated.</p>
+<p begin="7069600000t" end="7095200000t" style="normal" xml:id="subtitle188">All my work ruined.</p>
+<p begin="7096000000t" end="7138000000t" style="normal" xml:id="subtitle189">Thanks to the Metrofulus Navy's<br/>latest defense tool against pirates.</p>
+<p begin="7143600000t" end="7184400000t" style="normal" xml:id="subtitle190">The "Wave Surfer" pursuit<br/>and destroy craft, Professor Klone.</p>
+<p begin="7187600000t" end="7197200000t" style="normal" xml:id="subtitle191">Quite.</p>
+<p begin="7198000000t" end="7257600000t" style="normal" xml:id="subtitle192">It's making life impossible for new ocean<br/>pirates like me for a dishonest living.</p>
+<p begin="7258400000t" end="7272000000t" style="normal" xml:id="subtitle193">But, no more!</p>
+<p begin="7278800000t" end="7308000000t" style="normal" xml:id="subtitle194">The hunted will become the hunter.</p>
+<p begin="7311200000t" end="7348800000t" style="normal" xml:id="subtitle195">Thanks to my latest creation<br/>the "Sting-Shark".</p>
+<p begin="7353200000t" end="7376800000t" style="normal" xml:id="subtitle196">With the "Wave Surfer" out of the way</p>
+<p begin="7377600000t" end="7408000000t" style="normal" xml:id="subtitle197">the oceans of the world will<br/>again be my hunting ground.</p>
+<p begin="7408800000t" end="7445600000t" style="normal" xml:id="subtitle198">No bullion ship will be safe from my reach</p>
+<p begin="7446400000t" end="7478800000t" style="normal" xml:id="subtitle199">and there will be nobody<br/>and nothing to stop me!</p>
+<p begin="7482400000t" end="7525600000t" style="normal" xml:id="subtitle200">The Sting Shark is in position,<br/>oh mighty master of the seas.</p>
+<p begin="7531200000t" end="7553600000t" style="normal" xml:id="subtitle201">Excellent, Miss Chi.</p>
+<p begin="7554400000t" end="7601200000t" style="normal" xml:id="subtitle202">Have the crew carry out<br/>a test run of Operation Bite Back!</p>
+<p begin="7602000000t" end="7626000000t" style="normal" xml:id="subtitle203">[Miss Chi]<br/>As you command it, my Professor.</p>
+<p begin="7646800000t" end="7674000000t" style="normal" xml:id="subtitle204">It was really cool of Latifah<br/>to offer to take us all out</p>
+<p begin="7674800000t" end="7701200000t" style="normal" xml:id="subtitle205">on her grandfather's fishing boat, Linda.</p>
+<p begin="7702000000t" end="7743600000t" style="normal" xml:id="subtitle206">Yes, but I'm not sure bringing<br/>Harry along is such a good idea.</p>
+<p begin="7750800000t" end="7763600000t" style="normal" xml:id="subtitle207">[old man grunts]</p>
+<p begin="7764400000t" end="7798400000t" style="normal" xml:id="subtitle208">[in pirate's voice]<br/>Avast ye, land lubbers!</p>
+<p begin="7814000000t" end="7829600000t" style="normal" xml:id="subtitle209">I see what you mean.</p>
+<p begin="7835600000t" end="7866000000t" style="normal" xml:id="subtitle210">We will be trying to catch fish,<br/>Harry, not sea monsters!</p>
+<p begin="7870800000t" end="7886400000t" style="normal" xml:id="subtitle211">Aye, aye, shipmate.</p>
+<p begin="7887200000t" end="7920400000t" style="normal" xml:id="subtitle212">But thou never knowest what could<br/>be a-waiting beneath them thar waves</p>
+<p begin="7921200000t" end="7949600000t" style="normal" xml:id="subtitle213">to nibble on yar hook!</p>
+<p begin="7954000000t" end="7966400000t" style="normal" xml:id="subtitle214">Seriously,</p>
+<p begin="7967200000t" end="7991600000t" style="normal" xml:id="subtitle215">could you drop<br/>the <span style="normal_1">Pirates of the Caribbean </span>routine</p>
+<p begin="7992400000t" end="8004800000t" style="normal" xml:id="subtitle216">and get with reality?</p>
+<p begin="8005600000t" end="8016800000t" style="normal" xml:id="subtitle217">[whimpers]</p>
+<p begin="8017600000t" end="8038400000t" style="normal" xml:id="subtitle218">Spoil sport.</p>
+<p begin="8039200000t" end="8048800000t" style="normal" xml:id="subtitle219">Aha!</p>
+<p begin="8049600000t" end="8064800000t" style="normal" xml:id="subtitle220">Thar she blows!</p>
+<p begin="8073200000t" end="8089600000t" style="normal" xml:id="subtitle221">He's at it again!</p>
+<p begin="8114000000t" end="8137600000t" style="normal" xml:id="subtitle222">It's Latifah and the fishing boat!</p>
+<p begin="8169600000t" end="8193600000t" style="normal" xml:id="subtitle223">Where? I don't see anything.</p>
+<p begin="8194400000t" end="8229200000t" style="normal" xml:id="subtitle224">Are you sure you're looking through<br/>the right end of the telescope, Harry?</p>
+<p begin="8230000000t" end="8251200000t" style="normal" xml:id="subtitle225">Yeah, of course I am!</p>
+<p begin="8252000000t" end="8260400000t" style="normal" xml:id="subtitle226">Hey!</p>
+<p begin="8275200000t" end="8288400000t" style="normal" xml:id="subtitle227">Where'd they go?</p>
+<p begin="8291600000t" end="8302800000t" style="normal" xml:id="subtitle228">Oh, no!</p>
+<p begin="8355600000t" end="8373200000t" style="normal" xml:id="subtitle229">[ambulance siren wailing]</p>
+<p begin="8396400000t" end="8412400000t" style="normal" xml:id="subtitle230">[machine beeping]</p>
+<p begin="8413200000t" end="8432400000t" style="normal" xml:id="subtitle231">[Linda] How is our friend, Doctor?</p>
+<p begin="8433200000t" end="8458400000t" style="normal" xml:id="subtitle232">She and her grandfather<br/>are going to be just fine.</p>
+<p begin="8459200000t" end="8485600000t" style="normal" xml:id="subtitle233">But I'm not able to tell you<br/>what caused their memory loss.</p>
+<p begin="8486400000t" end="8516000000t" style="normal" xml:id="subtitle234">So they can't remember anything<br/>about what happened?</p>
+<p begin="8520800000t" end="8573200000t" style="normal" xml:id="subtitle235">No, apart from some crazy story about<br/>a monster fish swallowing their boat.</p>
+<p begin="8574000000t" end="8585600000t" style="normal" xml:id="subtitle236">A fish?</p>
+<p begin="8591200000t" end="8618800000t" style="normal" xml:id="subtitle237">Maybe Harry could have caught<br/>his sea monster after all.</p>
+<p begin="8619600000t" end="8630400000t" style="normal" xml:id="subtitle238">Huh?</p>
+<p begin="8631200000t" end="8654400000t" style="normal" xml:id="subtitle239">Harry? Hey, where did he go?</p>
+<p begin="8655200000t" end="8666400000t" style="normal" xml:id="subtitle240">Let me guess.</p>
+<p begin="8667200000t" end="8697200000t" style="normal" xml:id="subtitle241">Talk of monster fishes<br/>and vanishing boats...</p>
+<p begin="8717200000t" end="8736800000t" style="normal" xml:id="subtitle242">[in unison] He's going Gecko!</p>
+<p begin="8737600000t" end="8755600000t" style="normal" xml:id="subtitle243">[ambulance siren wailing]</p>
+<p begin="8756400000t" end="8778000000t" style="normal" xml:id="subtitle244">Time to go Gecko!</p>
+<p begin="8804000000t" end="8841200000t" style="normal" xml:id="subtitle245">Time for Geckoman<br/>to solve this fishy mystery.</p>
+<p begin="8861200000t" end="8871200000t" style="normal" xml:id="subtitle246">[Geckoman groans in pain]</p>
+<p begin="8875200000t" end="8895200000t" style="normal" xml:id="subtitle247">Who moved that door?</p>
+<p begin="8896000000t" end="8927600000t" style="normal" xml:id="subtitle248">Wonderful. The test was a success.</p>
+<p begin="8928400000t" end="8969600000t" style="normal" xml:id="subtitle249">And did the knock out swamp gas<br/>work on the boat's crew as planned?</p>
+<p begin="8970400000t" end="9004000000t" style="normal" xml:id="subtitle250"><span style="normal_1">Yes. And on ours too.</span></p>
+<p begin="9014800000t" end="9041200000t" style="normal" xml:id="subtitle251">Perfect, now release your catch</p>
+<p begin="9042000000t" end="9068800000t" style="normal" xml:id="subtitle252">and await my arrival<br/>at the rendezvous point.</p>
+<p begin="9086400000t" end="9109600000t" style="normal" xml:id="subtitle253">[gas noise]</p>
+<p begin="9110400000t" end="9119600000t" style="normal" xml:id="subtitle254">Okay!</p>
+<p begin="9130000000t" end="9161600000t" style="normal" xml:id="subtitle255">I must be at the helm<br/>when we snatch the Wave Surfer</p>
+<p begin="9162400000t" end="9195600000t" style="normal" xml:id="subtitle256">from beneath the noses<br/>of the mighty Metrofulus Navy.</p>
+<p begin="9196400000t" end="9209200000t" style="normal" xml:id="subtitle257">[maniacal laughter]</p>
+<p begin="9248800000t" end="9288000000t" style="normal" xml:id="subtitle258">The doctor says it's okay for you<br/>to leave the hospital today, Latifah.</p>
+<p begin="9294000000t" end="9304800000t" style="normal" xml:id="subtitle259">Today?</p>
+<p begin="9305600000t" end="9340000000t" style="normal" xml:id="subtitle260">Well, I guess you won't be wanting<br/>my surprise.</p>
+<p begin="9344000000t" end="9353600000t" style="normal" xml:id="subtitle261">Grapes!</p>
+<p begin="9356800000t" end="9377200000t" style="normal" xml:id="subtitle262">Hey, how did she guess?</p>
+<p begin="9378000000t" end="9394400000t" style="normal" xml:id="subtitle263">No guess, Danny.</p>
+<p begin="9395200000t" end="9416400000t" style="normal" xml:id="subtitle264">I may be blind but I can still...</p>
+<p begin="9417200000t" end="9428400000t" style="normal" xml:id="subtitle265">[sniffs]</p>
+<p begin="9429200000t" end="9441200000t" style="normal" xml:id="subtitle266">smell.</p>
+<p begin="9442000000t" end="9470800000t" style="normal" xml:id="subtitle267">Any news on her grandfather's<br/>missing fishing boat?</p>
+<p begin="9471600000t" end="9492000000t" style="normal" xml:id="subtitle268">Not yet. It's still a mystery.</p>
+<p begin="9511600000t" end="9544800000t" style="normal" xml:id="subtitle269">Not to worry. I'm sure<br/>it will pop up somewhere.</p>
+<p begin="9545600000t" end="9560800000t" style="normal" xml:id="subtitle270">[bird chirping]</p>
+<p begin="9604400000t" end="9615200000t" style="normal" xml:id="subtitle271">[bird chirping]</p>
+<p begin="9616000000t" end="9650400000t" style="normal" xml:id="subtitle272">Can you remember anything that could<br/>help us find out what happened, Latifah?</p>
+<p begin="9651200000t" end="9667600000t" style="normal" xml:id="subtitle273">Nothing, Danny.</p>
+<p begin="9668400000t" end="9702800000t" style="normal" xml:id="subtitle274">Apart from there was a strong perfume.</p>
+<p begin="9703600000t" end="9713600000t" style="normal" xml:id="subtitle275">That could be a clue.</p>
+<p begin="9714400000t" end="9754000000t" style="normal" xml:id="subtitle276">It was sweet like honey, yet bitter like--</p>
+<p begin="9754800000t" end="9764400000t" style="normal" xml:id="subtitle277">Lemons?</p>
+<p begin="9765200000t" end="9790400000t" style="normal" xml:id="subtitle278">Yes. I smelt it for a moment.</p>
+<p begin="9791200000t" end="9822400000t" style="normal" xml:id="subtitle279">And then the next thing I knew,<br/>I woke up here.</p>
+<p begin="9823200000t" end="9835200000t" style="normal" xml:id="subtitle280">Thanks, Latifah.</p>
+<p begin="9836000000t" end="9850000000t" style="normal" xml:id="subtitle281">That's been a big help.</p>
+<p begin="9850800000t" end="9872000000t" style="normal" xml:id="subtitle282">Come on, Danny,<br/>we've got to get to school.</p>
+<p begin="9881600000t" end="9908400000t" style="normal" xml:id="subtitle283">School? But we don't<br/>have any classes today.</p>
+<p begin="9909200000t" end="9942000000t" style="normal" xml:id="subtitle284">Who said anything about classes? Let's go!</p>
+<p begin="9942800000t" end="9977200000t" style="normal" xml:id="subtitle285">Thanks for bringing me the grapes,<br/>Danny. They're my favorite!</p>
+<p begin="9980800000t" end="10022400000t" style="normal" xml:id="subtitle286">Mine too! I'll bring you more later!</p>
+<p begin="10026400000t" end="10034800000t" style="normal" xml:id="subtitle287">Oops.</p>
+<p begin="10043600000t" end="10072000000t" style="normal" xml:id="subtitle288">That fishing boat must be<br/>out there somewhere.</p>
+<p begin="10076800000t" end="10085200000t" style="normal" xml:id="subtitle289">Hah!</p>
+<p begin="10092400000t" end="10135600000t" style="normal" xml:id="subtitle290">That's one mystery solved<br/>as another begins.</p>
+<p begin="10169200000t" end="10177600000t" style="normal" xml:id="subtitle291">Got you!</p>
+<p begin="10183200000t" end="10202000000t" style="normal" xml:id="subtitle292">[Kit] It's Geckoman!</p>
+<p begin="10202800000t" end="10224800000t" style="normal" xml:id="subtitle293">Kon crush Geckoman!</p>
+<p begin="10229200000t" end="10266800000t" style="normal" xml:id="subtitle294">No! Kit have a better idea!</p>
+<p begin="10295200000t" end="10311199999t" style="normal" xml:id="subtitle295">[screams]</p>
+<p begin="10314800000t" end="10343599999t" style="normal" xml:id="subtitle296">[grunting]</p>
+<p begin="10415200000t" end="10424800000t" style="normal" xml:id="subtitle297">[grunts]</p>
+<p begin="10446400000t" end="10465200000t" style="normal" xml:id="subtitle298">Well, what do we have here?</p>
+<p begin="10557200000t" end="10576400000t" style="normal" xml:id="subtitle299">[periscope whirring]</p>
+<p begin="10580400000t" end="10600800000t" style="normal" xml:id="subtitle300">Geckoman gone.</p>
+<p begin="10601600000t" end="10612000000t" style="normal" xml:id="subtitle301">Good.</p>
+<p begin="10612800000t" end="10643600000t" style="normal" xml:id="subtitle302">Time for Kit and Kon to go too.</p>
+<p begin="10719200000t" end="10736800000t" style="normal" xml:id="subtitle303">[Danny] Why are we even here?</p>
+<p begin="10737600000t" end="10781200000t" style="normal" xml:id="subtitle304">Because I am certain I smelt<br/>the same perfume Latifah described</p>
+<p begin="10782000000t" end="10802000000t" style="normal" xml:id="subtitle305">coming from the science laboratory<br/>yesterday.</p>
+<p begin="10802800000t" end="10829600000t" style="normal" xml:id="subtitle306">This is the quietest<br/>our class has ever been.</p>
+<p begin="10830400000t" end="10842800000t" style="normal" xml:id="subtitle307">Shush!</p>
+<p begin="10843600000t" end="10868400000t" style="normal" xml:id="subtitle308">Hello. There's nobody else<br/>in the building.</p>
+<p begin="10869200000t" end="10904000000t" style="normal" xml:id="subtitle309">No? So who is making this swamp gas?</p>
+<p begin="10904800000t" end="10944000000t" style="normal" xml:id="subtitle310">Of course, a synthesized version of<br/>methane clathrate being filtered out.</p>
+<p begin="10947600000t" end="10967600000t" style="normal" xml:id="subtitle311">And giving that distinctive smell.</p>
+<p begin="10971600000t" end="11002000000t" style="normal" xml:id="subtitle312">But doesn't swamp gas wipe<br/>your memory if you sniff it?</p>
+<p begin="11030000000t" end="11044000000t" style="normal" xml:id="subtitle313">-[Linda] Well?<br/>-Okay.</p>
+<p begin="11044800000t" end="11075200000t" style="normal" xml:id="subtitle314">But doesn't swamp gas wipe<br/>your memory if you sniff it?</p>
+<p begin="11076000000t" end="11087200000t" style="normal" xml:id="subtitle315">Exactly!</p>
+<p begin="11091200000t" end="11122400000t" style="normal" xml:id="subtitle316">Yeah! But how do you know it's swamp gas?</p>
+<p begin="11123200000t" end="11151200000t" style="normal" xml:id="subtitle317">Believe me, Danny, it's swamp gas.</p>
+<p begin="11156800000t" end="11173200000t" style="normal" xml:id="subtitle318">Quick! Somebody is coming.</p>
+<p begin="11199200000t" end="11222000000t" style="normal" xml:id="subtitle319">We have to hide now!</p>
+<p begin="11233200000t" end="11268400000t" style="normal" xml:id="subtitle320">Is the swamp gas ready to be taken<br/>to the "Sting Shark", Miss Chi?</p>
+<p begin="11272400000t" end="11300800000t" style="normal" xml:id="subtitle321">Yes, Dr. Kline. I mean, Professor Klone.</p>
+<p begin="11301600000t" end="11312400000t" style="normal" xml:id="subtitle322">It's ready.</p>
+<p begin="11313200000t" end="11322400000t" style="normal" xml:id="subtitle323">Good.</p>
+<p begin="11323200000t" end="11355600000t" style="normal" xml:id="subtitle324">The navy's intercept speed boat<br/>will be arriving within the hour.</p>
+<p begin="11356400000t" end="11385600000t" style="normal" xml:id="subtitle325">And then we shall deal with them.</p>
+<p begin="11399600000t" end="11420400000t" style="normal" xml:id="subtitle326">Come, we have no time to waste.</p>
+<p begin="11477200000t" end="11488000000t" style="normal" xml:id="subtitle327">[Both gasp]</p>
+<p begin="11528800000t" end="11580400000t" style="normal" xml:id="subtitle328">Harry was right! Professor Klone<br/>is masquerading as Dr. Kline!</p>
+<p begin="11581200000t" end="11595600000t" style="normal" xml:id="subtitle329">I don't believe it.</p>
+<p begin="11596400000t" end="11636800000t" style="normal" xml:id="subtitle330">We have to find Geckoman to let him<br/>know about Professor Klone's plan.</p>
+<p begin="11637600000t" end="11678400000t" style="normal" xml:id="subtitle331">But we don't have time. We need<br/>to stop Professor Klone ourselves.</p>
+<p begin="11682000000t" end="11698400000t" style="normal" xml:id="subtitle332">But, how?</p>
+<p begin="11724000000t" end="11748400000t" style="normal" xml:id="subtitle333">[Linda] Simple. Let's get masked up!</p>
+<p begin="11764000000t" end="11788400000t" style="normal" xml:id="subtitle334">[Danny] I'm not sure about this.</p>
+<p begin="11868400000t" end="11904400000t" style="normal" xml:id="subtitle335">To the bridge.<br/>The "Wave Surfer" will be in range soon.</p>
+<p begin="11921600000t" end="11958800000t" style="normal" xml:id="subtitle336">I wonder what<br/>Professor Klone is up to now?</p>
+<p begin="11965600000t" end="11994800000t" style="normal" xml:id="subtitle337">[Linda] Maybe we can help<br/>you answer that question.</p>
+<p begin="12001200000t" end="12016800000t" style="normal" xml:id="subtitle338">Linda! Danny!</p>
+<p begin="12024800000t" end="12045200000t" style="normal" xml:id="subtitle339">Nice of you to drop in.</p>
+<p begin="12046000000t" end="12072000000t" style="normal" xml:id="subtitle340">[Linda and Danny laughing]</p>
+<p begin="12106400000t" end="12121200000t" style="normal" xml:id="subtitle341">Wave Surfer to base.</p>
+<p begin="12122000000t" end="12147200000t" style="normal" xml:id="subtitle342">Scanners detect no vessels in the area.</p>
+<p begin="12152400000t" end="12176800000t" style="normal" xml:id="subtitle343">ETA 45 seconds.</p>
+<p begin="12197600000t" end="12232000000t" style="normal" xml:id="subtitle344">Swamp gas released and pilot unconscious.</p>
+<p begin="12236400000t" end="12248000000t" style="normal" xml:id="subtitle345">Perfect.</p>
+<p begin="12248800000t" end="12290000000t" style="normal" xml:id="subtitle346">We will engage and destroy<br/>our speedy friend in 20 seconds.</p>
+<p begin="12290800000t" end="12306800000t" style="normal" xml:id="subtitle347">That's what you think.</p>
+<p begin="12319600000t" end="12379600000t" style="normal" xml:id="subtitle348">Well, well, if it isn't<br/>my fly munching friend, Geckoman.</p>
+<p begin="12380400000t" end="12402000000t" style="normal" xml:id="subtitle349">Give up your plans now.</p>
+<p begin="12405200000t" end="12468000000t" style="normal" xml:id="subtitle350">And who is going to stop me?<br/>You, overgrown lizard?</p>
+<p begin="12468800000t" end="12491200000t" style="normal" xml:id="subtitle351">[laughing]</p>
+<p begin="12496400000t" end="12508800000t" style="normal" xml:id="subtitle352">Us!</p>
+<p begin="12603200000t" end="12620000000t" style="normal" xml:id="subtitle353">[Danny] Go get him, Geckoman!</p>
+<p begin="12692000000t" end="12713200000t" style="normal" xml:id="subtitle354">[Kit and Kon gasp]</p>
+<p begin="12724000000t" end="12746800000t" style="normal" xml:id="subtitle355">[Kit and Kon groan in pain]</p>
+<p begin="12747600000t" end="12771200000t" style="normal" xml:id="subtitle356">Somebody's being clumsy!</p>
+<p begin="12774400000t" end="12794400000t" style="normal" xml:id="subtitle357">Ten seconds to intercept.</p>
+<p begin="12798400000t" end="12808400000t" style="normal" xml:id="subtitle358">[grunts]</p>
+<p begin="12809200000t" end="12830400000t" style="normal" xml:id="subtitle359">Take that!</p>
+<p begin="12844800000t" end="12886400000t" style="normal" xml:id="subtitle360">Careful where you point that thing!<br/>You could damage something.</p>
+<p begin="12925600000t" end="12944800000t" style="normal" xml:id="subtitle361">Told you.</p>
+<p begin="12956400000t" end="12969600000t" style="normal" xml:id="subtitle362">[screaming]</p>
+<p begin="12992800000t" end="13008800000t" style="normal" xml:id="subtitle363">Time to get you out of here!</p>
+<p begin="13021200000t" end="13032800000t" style="normal" xml:id="subtitle364">[Geckoman grunts]</p>
+<p begin="13033600000t" end="13047600000t" style="normal" xml:id="subtitle365">[Miss Chi huffs]</p>
+<p begin="13052000000t" end="13067200000t" style="normal" xml:id="subtitle366">[both whimper]</p>
+<p begin="13068000000t" end="13092800000t" style="normal" xml:id="subtitle367">I'll get you for this, Geckoman!</p>
+<p begin="13093600000t" end="13110800000t" style="normal" xml:id="subtitle368">I'll get you!</p>
+<p begin="13176000000t" end="13213200000t" style="normal" xml:id="subtitle369">-Well, that's one big fish we caught.<br/>-[Linda gasps]</p>
+<p begin="13230800000t" end="13259200000t" style="normal" xml:id="subtitle370">What? Linda, Danny, are you okay?</p>
+<p begin="13263200000t" end="13311600000t" style="normal" xml:id="subtitle371">Am I okay? Hey, where are we?</p>
+<p begin="13315600000t" end="13354000000t" style="normal" xml:id="subtitle372">I thought we were going fishing<br/>with Latifah?</p>
+<p begin="13356800000t" end="13387200000t" style="normal" xml:id="subtitle373">Oh, no! They don't remember anything...</p>
+<p begin="13388000000t" end="13411600000t" style="normal" xml:id="subtitle374">[all groan]</p>
+<p begin="13435200000t" end="13464400000t" style="normal" xml:id="subtitle375">[in a pirate's voice] Thar she blows!</p>
+<p begin="13505200000t" end="13522000000t" style="normal" xml:id="subtitle376"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="13522800000t" end="13539600000t" style="normal" xml:id="subtitle377"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="13540400000t" end="13571200000t" style="normal" xml:id="subtitle378"><span style="normal_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="13575200000t" end="13592000000t" style="normal" xml:id="subtitle379"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="13592800000t" end="13609200000t" style="normal" xml:id="subtitle380"><span style="normal_1">♪ Geckoman ♪</span></p>
+<p begin="13610000000t" end="13639600000t" style="normal" xml:id="subtitle381"><span style="normal_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="13680400000t" end="13707600000t" style="normal" xml:id="subtitle382"><span style="normal_1">♪ Geckoman, The Geckoman ♪</span></p>
+<p begin="13718800000t" end="13739200000t" style="normal" xml:id="subtitle383">Subtitle translation by Aizat Bahri</p>
+</div>
+</body>
+</tt>

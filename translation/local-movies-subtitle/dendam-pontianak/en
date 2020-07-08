@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="267916667t" end="279166667t" region="bottom" xml:id="subtitle0"><span style="italic">My love,</span></p>
+<p begin="293750000t" end="330000000t" region="bottom" xml:id="subtitle1"><span style="italic">it may sound strange to say it now,</span></p>
+<p begin="331250000t" end="343333334t" region="bottom" xml:id="subtitle2"><span style="italic">but</span></p>
+<p begin="354166667t" end="389583334t" region="bottom" xml:id="subtitle3"><span style="italic">despite the pain we bear</span><br/><span style="italic">because of each other's lives,</span></p>
+<p begin="393333334t" end="426666667t" region="bottom" xml:id="subtitle4"><span style="italic">despite the heartache</span><br/><span style="italic">we inflict each other,</span></p>
+<p begin="437500000t" end="484583334t" region="bottom" xml:id="subtitle5"><span style="italic">humans still reign supreme</span><br/><span style="italic">when it comes to love.</span></p>
+<p begin="498750000t" end="517083334t" region="bottom" xml:id="subtitle6"><span style="italic">Never forget, my love.</span></p>
+<p begin="527500000t" end="550833334t" region="bottom" xml:id="subtitle7"><span style="italic">Love with all your heart.</span></p>
+<p begin="560833334t" end="578333334t" region="bottom" xml:id="subtitle8"><span style="italic">I will give you my word.</span></p>
+<p begin="589166667t" end="618750000t" region="bottom" xml:id="subtitle9"><span style="italic">If you love with all your heart,</span></p>
+<p begin="624583334t" end="650416667t" region="bottom" xml:id="subtitle10"><span style="italic">you will not fear death</span></p>
+<p begin="660000000t" end="703750000t" region="bottom" xml:id="subtitle11"><span style="italic">nor will death ever seek you.</span></p>
+<p begin="1169166667t" end="1226666667t" region="bottom" xml:id="subtitle12"><span style="italic">Patience is key</span></p>
+<p begin="1237500000t" end="1281666667t" region="bottom" xml:id="subtitle13"><span style="italic">Love every day</span></p>
+<p begin="1306250000t" end="1363333334t" region="bottom" xml:id="subtitle14"><span style="italic">Smile always</span></p>
+<p begin="1376250000t" end="1438333334t" region="bottom" xml:id="subtitle15"><span style="italic">Happy newlyweds</span></p>
+<p begin="1442500000t" end="1500416667t" region="bottom" xml:id="subtitle16"><span style="italic">Live in happiness</span></p>
+<p begin="1512500000t" end="1580833334t" region="bottom" xml:id="subtitle17"><span style="italic">Lineage prospers</span></p>
+<p begin="1582500000t" end="1625000000t" region="bottom" xml:id="subtitle18"><span style="italic">Live in harmony</span></p>
+<p begin="1732083334t" end="1743333334t" region="bottom" xml:id="subtitle19"><span style="span">Forever.</span></p>
+<p begin="1789166667t" end="1801250000t" region="bottom" xml:id="subtitle20"><span style="span">Only you.</span></p>
+<p begin="1825416667t" end="1837083334t" region="bottom" xml:id="subtitle21"><span style="span">Forever.</span></p>
+<p begin="1953750000t" end="1967083334t" region="bottom" xml:id="subtitle22"><span style="span">-Congratulations, son.</span><br/><span style="span">-Dad.</span></p>
+<p begin="1967916667t" end="1987916667t" region="bottom" xml:id="subtitle23"><span style="span">Be a good husband.</span></p>
+<p begin="1990416667t" end="2001250000t" region="bottom" xml:id="subtitle24"><span style="span">Thank you, Dad.</span></p>
+<p begin="2032500000t" end="2055416667t" region="bottom" xml:id="subtitle25"><span style="span">-Congratulations, Khalid.</span><br/><span style="span">-Thank you, Mom.</span></p>
+<p begin="2064583334t" end="2083333334t" region="bottom" xml:id="subtitle26"><span style="span">-Siti.</span><br/><span style="span">-Thank you so much, ma'am.</span></p>
+<p begin="2084166667t" end="2099166667t" region="bottom" xml:id="subtitle27"><span style="span">Call me Mom.</span></p>
+<p begin="2102916667t" end="2135000000t" region="bottom" xml:id="subtitle28"><span style="span">Now that you are married,</span><br/><span style="span">be sure to cherish each other.</span></p>
+<p begin="2153750000t" end="2163333334t" region="bottom" xml:id="subtitle29"><span style="span">Nik.</span></p>
+<p begin="2170000000t" end="2180416667t" region="bottom" xml:id="subtitle30"><span style="span">Come here.</span></p>
+<p begin="2209166667t" end="2220833334t" region="bottom" xml:id="subtitle31"><span style="span">What's wrong, Nik?</span></p>
+<p begin="2221666667t" end="2240000000t" region="bottom" xml:id="subtitle32"><span style="span">You look dashing today, Nik.</span></p>
+<p begin="2249583334t" end="2267083334t" region="bottom" xml:id="subtitle33"><span style="span">Thank you, Ms. Siti.</span></p>
+<p begin="2281666667t" end="2293333334t" region="bottom" xml:id="subtitle34"><span style="span">Nik.</span></p>
+<p begin="2302083334t" end="2318750000t" region="bottom" xml:id="subtitle35"><span style="span">Why are you calling her that?</span></p>
+<p begin="2326250000t" end="2350000000t" region="bottom" xml:id="subtitle36"><span style="span">Siti is part of our family now.</span></p>
+<p begin="2360833334t" end="2370000000t" region="bottom" xml:id="subtitle37"><span style="span">Call her Mom.</span></p>
+<p begin="2381666667t" end="2392083334t" region="bottom" xml:id="subtitle38"><span style="span">All right?</span></p>
+<p begin="2398333334t" end="2409166667t" region="bottom" xml:id="subtitle39"><span style="span">Hey.</span></p>
+<p begin="2412916667t" end="2437916667t" region="bottom" xml:id="subtitle40"><span style="span">Come, Nik. Join me and your grandpa.</span></p>
+<p begin="2439166667t" end="2450000000t" region="bottom" xml:id="subtitle41"><span style="span">Take him outside.</span></p>
+<p begin="2469583334t" end="2489583334t" region="bottom" xml:id="subtitle42"><span style="span">-Khalid.</span><br/><span style="span">-Reza.</span></p>
+<p begin="2490416667t" end="2503750000t" region="bottom" xml:id="subtitle43"><span style="span">-Congratulations.</span><br/><span style="span">-Thank you.</span></p>
+<p begin="2511666667t" end="2534583334t" region="bottom" xml:id="subtitle44"><span style="span">How are you settling in, Siti?</span></p>
+<p begin="2542500000t" end="2554166667t" region="bottom" xml:id="subtitle45"><span style="span">It's been great.</span></p>
+<p begin="2559166667t" end="2574583334t" region="bottom" xml:id="subtitle46"><span style="span">Everyone here has been lovely.</span></p>
+<p begin="2575416667t" end="2590833334t" region="bottom" xml:id="subtitle47"><span style="span">We're family now.</span></p>
+<p begin="2600833334t" end="2610000000t" region="bottom" xml:id="subtitle48"><span style="span">Hey.</span></p>
+<p begin="2707916667t" end="2722083334t" region="bottom" xml:id="subtitle49"><span style="span">-Who's that?</span><br/><span style="span">-Rais.</span></p>
+<p begin="2724166667t" end="2738750000t" region="bottom" xml:id="subtitle50"><span style="span">-That's Rais.</span><br/><span style="span">-Khalid.</span></p>
+<p begin="2760000000t" end="2769166667t" region="bottom" xml:id="subtitle51"><span style="span">Congratulations.</span></p>
+<p begin="2803750000t" end="2817083334t" region="bottom" xml:id="subtitle52"><span style="span">Thank you for being here.</span></p>
+<p begin="2819583334t" end="2834583334t" region="bottom" xml:id="subtitle53"><span style="span">You should thank Reza.</span></p>
+<p begin="2841666667t" end="2852916667t" region="bottom" xml:id="subtitle54"><span style="span">He invited me.</span></p>
+<p begin="2867500000t" end="2877083334t" region="bottom" xml:id="subtitle55"><span style="span">He did?</span></p>
+<p begin="2957500000t" end="3018333334t" region="bottom" xml:id="subtitle56"><span style="italic">Live in peace</span></p>
+<p begin="3039583334t" end="3050000000t" region="bottom" xml:id="subtitle57"><span style="span">That was lovely.</span></p>
+<p begin="3053333334t" end="3071666667t" region="bottom" xml:id="subtitle58"><span style="span">May I? Thank you.</span></p>
+<p begin="3080000000t" end="3093333334t" region="bottom" xml:id="subtitle59"><span style="span">Thank you, everyone.</span></p>
+<p begin="3094166667t" end="3105833334t" region="bottom" xml:id="subtitle60"><span style="span">Thank you.</span></p>
+<p begin="3113750000t" end="3168750000t" region="bottom" xml:id="subtitle61"><span style="span">It's my pleasure to be here today</span><br/><span style="span">to celebrate the wedding of my old friend,</span></p>
+<p begin="3171666667t" end="3195416667t" region="bottom" xml:id="subtitle62"><span style="span">Khalid, and his wife, Siti.</span></p>
+<p begin="3233333334t" end="3252083334t" region="bottom" xml:id="subtitle63"><span style="span">Today is a blessing.</span></p>
+<p begin="3260833334t" end="3276666667t" region="bottom" xml:id="subtitle64"><span style="span">A day for new beginnings.</span></p>
+<p begin="3277500000t" end="3297500000t" region="bottom" xml:id="subtitle65"><span style="span">And as a gift</span></p>
+<p begin="3302916667t" end="3321666667t" region="bottom" xml:id="subtitle66"><span style="span">to the newlyweds,</span></p>
+<p begin="3331666667t" end="3356250000t" region="bottom" xml:id="subtitle67"><span style="span">I've arranged something for them.</span></p>
+<p begin="3363750000t" end="3374166667t" region="bottom" xml:id="subtitle68"><span style="span">Music.</span></p>
+<p begin="3385416667t" end="3416666667t" region="bottom" xml:id="subtitle69"><span style="span">-Shall we duet?</span><br/><span style="span">-Okay. Sure.</span></p>
+<p begin="3476250000t" end="3507500000t" region="bottom" xml:id="subtitle70"><span style="italic">Soul vibration</span></p>
+<p begin="3516250000t" end="3555000000t" region="bottom" xml:id="subtitle71"><span style="italic">Surges through my heart</span></p>
+<p begin="3561666667t" end="3595833334t" region="bottom" xml:id="subtitle72"><span style="italic">In its arranged tones</span></p>
+<p begin="3600833334t" end="3634166667t" region="bottom" xml:id="subtitle73"><span style="italic">Its melody and tunes</span></p>
+<p begin="3652083334t" end="3691666667t" region="bottom" xml:id="subtitle74"><span style="italic">Alas, its humble verses</span></p>
+<p begin="3692500000t" end="3736250000t" region="bottom" xml:id="subtitle75"><span style="italic">But that's all right</span></p>
+<p begin="3737083334t" end="3776250000t" region="bottom" xml:id="subtitle76"><span style="italic">Hope it may stir</span></p>
+<p begin="3777083334t" end="3807083334t" region="bottom" xml:id="subtitle77"><span style="italic">Let it dawn on you, o people</span></p>
+<p begin="3985833334t" end="4025000000t" region="bottom" xml:id="subtitle78"><span style="span">-</span><span style="italic">If they should part</span><br/><span style="italic">-If they should part</span></p>
+<p begin="4025833334t" end="4062500000t" region="bottom" xml:id="subtitle79"><span style="span">-</span><span style="italic">The tune and melody</span><br/><span style="italic">-The tune and melody</span></p>
+<p begin="4063750000t" end="4104166667t" region="bottom" xml:id="subtitle80"><span style="span">-</span><span style="italic">Weakened and soulless it becomes</span><br/><span style="italic">-Weakened and soulless it becomes</span></p>
+<p begin="4107500000t" end="4142916667t" region="bottom" xml:id="subtitle81"><span style="span">-</span><span style="italic">Empty</span><br/><span style="italic">-Empty</span></p>
+<p begin="4165833334t" end="4182916667t" region="bottom" xml:id="subtitle82"><span style="span">Thank you.</span></p>
+<p begin="4313333334t" end="4328750000t" region="bottom" xml:id="subtitle83"><span style="span">I've missed this place.</span></p>
+<p begin="4347916667t" end="4358750000t" region="bottom" xml:id="subtitle84"><span style="span">Her name is Ida.</span></p>
+<p begin="4359583334t" end="4383750000t" region="bottom" xml:id="subtitle85"><span style="span">Ida. What a beautiful name.</span></p>
+<p begin="4384583334t" end="4407916667t" region="bottom" xml:id="subtitle86"><span style="span">-Good thing I made it here tonight.</span><br/><span style="span">-Right?</span></p>
+<p begin="4431666667t" end="4464166667t" region="bottom" xml:id="subtitle87"><span style="span">I'm happy to see you guys again.</span><br/><span style="span">I mean it.</span></p>
+<p begin="4610833334t" end="4624166667t" region="bottom" xml:id="subtitle88"><span style="span">Excuse me, sir.</span></p>
+<p begin="4625000000t" end="4649583334t" region="bottom" xml:id="subtitle89"><span style="span">-Thank you.</span><br/><span style="span">-I wish you a lifetime of happiness.</span></p>
+<p begin="4650416667t" end="4669166667t" region="bottom" xml:id="subtitle90"><span style="span">-Hopefully.</span><br/><span style="span">-Thank you, sir.</span></p>
+<p begin="4670000000t" end="4680000000t" region="bottom" xml:id="subtitle91"><span style="span">-Sir.</span><br/><span style="span">-Here, sir.</span></p>
+<p begin="4682916667t" end="4706666667t" region="bottom" xml:id="subtitle92"><span style="span">-Is one enough?</span><br/><span style="span">-Thank you for inviting us.</span></p>
+<p begin="4707500000t" end="4727916667t" region="bottom" xml:id="subtitle93"><span style="span">-Thank you, Lisa.</span><br/><span style="span">-Thank you for coming.</span></p>
+<p begin="4728750000t" end="4745416667t" region="bottom" xml:id="subtitle94"><span style="span">Well, it's time to go.</span></p>
+<p begin="4746250000t" end="4763750000t" region="bottom" xml:id="subtitle95"><span style="span">-Already?</span><br/><span style="span">-Yes.</span></p>
+<p begin="4772500000t" end="4791250000t" region="bottom" xml:id="subtitle96"><span style="span">Oh, I see. Is she your new friend?</span></p>
+<p begin="4792083334t" end="4827500000t" region="bottom" xml:id="subtitle97"><span style="span">Khalid, Siti, I would like you</span><br/><span style="span">to meet my new friend...</span></p>
+<p begin="4844166667t" end="4854166667t" region="bottom" xml:id="subtitle98"><span style="span">Rais?</span></p>
+<p begin="4881666667t" end="4891666667t" region="bottom" xml:id="subtitle99"><span style="span">Rais?</span></p>
+<p begin="4905833334t" end="4915416667t" region="bottom" xml:id="subtitle100"><span style="span">Hey.</span></p>
+<p begin="4917500000t" end="4930416667t" region="bottom" xml:id="subtitle101"><span style="span">What was I saying?</span></p>
+<p begin="4932083334t" end="4951666667t" region="bottom" xml:id="subtitle102"><span style="span">You were introducing us</span><br/><span style="span">to your new friend.</span></p>
+<p begin="4955416667t" end="4982916667t" region="bottom" xml:id="subtitle103"><span style="span">Oh, right. Her name is...</span></p>
+<p begin="4984166667t" end="5006250000t" region="bottom" xml:id="subtitle104"><span style="span">-Well, what's your name again?</span><br/><span style="span">-Goodness.</span></p>
+<p begin="5300833334t" end="5321666667t" region="bottom" xml:id="subtitle105"><span style="span">Eyes on the road.</span></p>
+<p begin="5326250000t" end="5349583334t" region="bottom" xml:id="subtitle106"><span style="span">Don't worry about that.</span><br/><span style="span">Of course, eyes on the road.</span></p>
+<p begin="5372083334t" end="5387083334t" region="bottom" xml:id="subtitle107"><span style="span">-Hey!</span><br/><span style="span">-Hey.</span></p>
+<p begin="5389166667t" end="5400833334t" region="bottom" xml:id="subtitle108"><span style="span">Come on, what's wrong?</span></p>
+<p begin="5401666667t" end="5411666667t" region="bottom" xml:id="subtitle109"><span style="span">Let's have some fun.</span></p>
+<p begin="5422083334t" end="5436666667t" region="bottom" xml:id="subtitle110"><span style="span">Are you trying to get us killed?</span></p>
+<p begin="5437500000t" end="5452083334t" region="bottom" xml:id="subtitle111"><span style="span">Just watch the road.</span></p>
+<p begin="5452916667t" end="5480833334t" region="bottom" xml:id="subtitle112"><span style="span">Don't worry.</span><br/><span style="span">There are no other cars on the road.</span></p>
+<p begin="5490000000t" end="5499166667t" region="bottom" xml:id="subtitle113"><span style="span">Just a little.</span></p>
+<p begin="5511666667t" end="5535416667t" region="bottom" xml:id="subtitle114"><span style="span">Rais!</span></p>
+<p begin="5620833334t" end="5629583334t" region="bottom" xml:id="subtitle115"><span style="span">Ida?</span></p>
+<p begin="5637500000t" end="5647500000t" region="bottom" xml:id="subtitle116"><span style="span">Ida!</span></p>
+<p begin="5656250000t" end="5676250000t" region="bottom" xml:id="subtitle117"><span style="span">Ida! Ida!</span></p>
+<p begin="5848333334t" end="5858333334t" region="bottom" xml:id="subtitle118"><span style="span">Hey!</span></p>
+<p begin="5878333334t" end="5892083334t" region="bottom" xml:id="subtitle119"><span style="span">What are you doing here?</span></p>
+<p begin="6073750000t" end="6085833334t" region="bottom" xml:id="subtitle120"><span style="span">Damn it.</span></p>
+<p begin="6749166667t" end="6758750000t" region="bottom" xml:id="subtitle121"><span style="span">Rais?</span></p>
+<p begin="6787500000t" end="6797916667t" region="bottom" xml:id="subtitle122"><span style="span">Rais?</span></p>
+<p begin="7771666667t" end="7782083334t" region="bottom" xml:id="subtitle123"><span style="span">Ready?</span></p>
+<p begin="7816250000t" end="7825833334t" region="bottom" xml:id="subtitle124"><span style="span">Honey.</span></p>
+<p begin="7854583334t" end="7864583334t" region="bottom" xml:id="subtitle125"><span style="span">Go to him.</span></p>
+<p begin="8107500000t" end="8117083334t" region="bottom" xml:id="subtitle126"><span style="span">Nik?</span></p>
+<p begin="8134583334t" end="8143750000t" region="bottom" xml:id="subtitle127"><span style="span">What's the matter?</span></p>
+<p begin="8147083334t" end="8172083334t" region="bottom" xml:id="subtitle128"><span style="span">I saw a ghost.</span></p>
+<p begin="8185000000t" end="8195000000t" region="bottom" xml:id="subtitle129"><span style="span">A ghost?</span></p>
+<p begin="8203333334t" end="8222083334t" region="bottom" xml:id="subtitle130"><span style="span">-Where?</span><br/><span style="span">-Out there.</span></p>
+<p begin="8293750000t" end="8307083334t" region="bottom" xml:id="subtitle131"><span style="span">There's no ghost, Nik.</span></p>
+<p begin="8312916667t" end="8326666667t" region="bottom" xml:id="subtitle132"><span style="span">But I saw it.</span></p>
+<p begin="8442083334t" end="8450833334t" region="bottom" xml:id="subtitle133"><span style="span">There you go.</span></p>
+<p begin="8466666667t" end="8479583334t" region="bottom" xml:id="subtitle134"><span style="span">I've scared it away.</span></p>
+<p begin="8487500000t" end="8530416667t" region="bottom" xml:id="subtitle135"><span style="span">What if the ghost comes back?</span></p>
+<p begin="8535000000t" end="8550000000t" region="bottom" xml:id="subtitle136"><span style="span">If the ghost comes back,</span></p>
+<p begin="8562916667t" end="8587916667t" region="bottom" xml:id="subtitle137"><span style="span">here's what I will tell it.</span></p>
+<p begin="8654166667t" end="8689166667t" region="bottom" xml:id="subtitle138"><span style="span">"Don't you dare enter this house!</span></p>
+<p begin="8697083334t" end="8722916667t" region="bottom" xml:id="subtitle139"><span style="span">If you enter this house,</span></p>
+<p begin="8756666667t" end="8774166667t" region="bottom" xml:id="subtitle140"><span style="span">I will use my magic on you."</span></p>
+<p begin="8802916667t" end="8818333334t" region="bottom" xml:id="subtitle141"><span style="span">Do you know magic?</span></p>
+<p begin="8887916667t" end="8907500000t" region="bottom" xml:id="subtitle142"><span style="span">All the fathers in the world know magic.</span></p>
+<p begin="8918333334t" end="8938333334t" region="bottom" xml:id="subtitle143"><span style="span">We use that magic</span></p>
+<p begin="8950416667t" end="8976666667t" region="bottom" xml:id="subtitle144"><span style="span">to keep our family safe.</span></p>
+<p begin="8983333334t" end="9011666667t" region="bottom" xml:id="subtitle145"><span style="span">-So we're safe from ghosts?</span><br/><span style="span">-Yes.</span></p>
+<p begin="9021666667t" end="9038333334t" region="bottom" xml:id="subtitle146"><span style="span">Ghosts will not come for you.</span></p>
+<p begin="9104166667t" end="9116666667t" region="bottom" xml:id="subtitle147"><span style="span">Are you still scared?</span></p>
+<p begin="9122500000t" end="9135000000t" region="bottom" xml:id="subtitle148"><span style="span">-No.</span><br/><span style="span">-No, right?</span></p>
+<p begin="10792916667t" end="10802083334t" region="bottom" xml:id="subtitle149"><span style="span">What's the matter?</span></p>
+<p begin="10865833334t" end="10875833334t" region="bottom" xml:id="subtitle150"><span style="span">Goodness!</span></p>
+<p begin="10885416667t" end="10903333334t" region="bottom" xml:id="subtitle151"><span style="span">My goodness.</span></p>
+<p begin="10966666667t" end="10992083334t" region="bottom" xml:id="subtitle152"><span style="span">-Where is it?</span><br/><span style="span">-There.</span></p>
+<p begin="10993750000t" end="11007083334t" region="bottom" xml:id="subtitle153"><span style="span">Darn it.</span></p>
+<p begin="11007916667t" end="11025416667t" region="bottom" xml:id="subtitle154"><span style="span">-Hurry.</span><br/><span style="span">-My goodness!</span></p>
+<p begin="11027916667t" end="11039583334t" region="bottom" xml:id="subtitle155"><span style="span">My goodness!</span></p>
+<p begin="11100416667t" end="11112083334t" region="bottom" xml:id="subtitle156"><span style="span">My goodness!</span></p>
+<p begin="11332083334t" end="11370833334t" region="bottom" xml:id="subtitle157"><span style="span">Darkness has descended upon this village.</span></p>
+<p begin="11371666667t" end="11383750000t" region="bottom" xml:id="subtitle158"><span style="span">What on earth is this?</span></p>
+<p begin="11562500000t" end="11575416667t" region="bottom" xml:id="subtitle159"><span style="span">Light.</span></p>
+<p begin="11610000000t" end="11625833334t" region="bottom" xml:id="subtitle160"><span style="span">With light...</span></p>
+<p begin="11662083334t" end="11677916667t" region="bottom" xml:id="subtitle161"><span style="span">comes darkness.</span></p>
+<p begin="12024166667t" end="12047500000t" region="bottom" xml:id="subtitle162"><span style="span">Clean your house.</span></p>
+<p begin="12080833334t" end="12102500000t" region="bottom" xml:id="subtitle163"><span style="span">Clean your house.</span></p>
+<p begin="12104583334t" end="12121666667t" region="bottom" xml:id="subtitle164"><span style="span">Clean your house.</span></p>
+<p begin="12142916667t" end="12179166667t" region="bottom" xml:id="subtitle165"><span style="span">Everyone, go back to your homes.</span><br/><span style="span">Leave this family alone.</span></p>
+<p begin="12184583334t" end="12220000000t" region="bottom" xml:id="subtitle166"><span style="span">Whoever committed this horrible crime</span><br/><span style="span">is still out there.</span></p>
+<p begin="12224583334t" end="12262500000t" region="bottom" xml:id="subtitle167"><span style="span">Keep your doors and windows locked,</span><br/><span style="span">and be safe.</span></p>
+<p begin="12268333334t" end="12312916667t" region="bottom" xml:id="subtitle168"><span style="span">Until then,</span><br/><span style="span">don't leave your homes after dark.</span></p>
+<p begin="12336250000t" end="12370000000t" region="bottom" xml:id="subtitle169"><span style="span">-Until the one who did this is caught--</span><br/><span style="span">-This...</span></p>
+<p begin="12382916667t" end="12402500000t" region="bottom" xml:id="subtitle170"><span style="span">This is not the work of a human.</span></p>
+<p begin="12440000000t" end="12469166667t" region="bottom" xml:id="subtitle171"><span style="span">This is not the work of a human.</span></p>
+<p begin="12590000000t" end="12598750000t" region="bottom" xml:id="subtitle172"><span style="span">Bring him down.</span></p>
+<p begin="12602916667t" end="12614166667t" region="bottom" xml:id="subtitle173"><span style="span">-Go ahead, Din.</span><br/><span style="span">-Yes.</span></p>
+<p begin="12615000000t" end="12640833334t" region="bottom" xml:id="subtitle174"><span style="span">Didn't your magic work, Dad?</span></p>
+<p begin="12648333334t" end="12668750000t" region="bottom" xml:id="subtitle175"><span style="span">Right. Be careful.</span></p>
+<p begin="12784583334t" end="12794166667t" region="bottom" xml:id="subtitle176"><span style="span">Hey.</span></p>
+<p begin="12819166667t" end="12828750000t" region="bottom" xml:id="subtitle177"><span style="span">Honey.</span></p>
+<p begin="12849166667t" end="12869166667t" region="bottom" xml:id="subtitle178"><span style="span">Do you regret bringing me to this place?</span></p>
+<p begin="12900416667t" end="12922083334t" region="bottom" xml:id="subtitle179"><span style="span">I feel like this is my fault.</span></p>
+<p begin="12941666667t" end="12960833334t" region="bottom" xml:id="subtitle180"><span style="span">Don't say that, Siti.</span></p>
+<p begin="12971250000t" end="12989166667t" region="bottom" xml:id="subtitle181"><span style="span">Don't ever say that.</span></p>
+<p begin="13013750000t" end="13030416667t" region="bottom" xml:id="subtitle182"><span style="span">He died alone.</span></p>
+<p begin="13031666667t" end="13048333334t" region="bottom" xml:id="subtitle183"><span style="span">He suffered all alone.</span></p>
+<p begin="13049166667t" end="13058333334t" region="bottom" xml:id="subtitle184"><span style="span">Siti.</span></p>
+<p begin="13059166667t" end="13068333334t" region="bottom" xml:id="subtitle185"><span style="span">Hey.</span></p>
+<p begin="13070833334t" end="13080833334t" region="bottom" xml:id="subtitle186"><span style="span">Siti.</span></p>
+<p begin="13111666667t" end="13134583334t" region="bottom" xml:id="subtitle187"><span style="span">We'll meet again in the afterlife</span><br/><span style="span">no matter what.</span></p>
+<p begin="13145000000t" end="13155416667t" region="bottom" xml:id="subtitle188"><span style="span">My love.</span></p>
+<p begin="13651250000t" end="13660416667t" region="bottom" xml:id="subtitle189"><span style="span">Let's go.</span></p>
+<p begin="13692500000t" end="13702500000t" region="bottom" xml:id="subtitle190"><span style="span">Come.</span></p>
+<p begin="14052916667t" end="14067500000t" region="bottom" xml:id="subtitle191"><span style="span">Khalid...</span></p>
+<p begin="15101250000t" end="15110833334t" region="bottom" xml:id="subtitle192"><span style="span">Khalid.</span></p>
+<p begin="15500000000t" end="15511250000t" region="bottom" xml:id="subtitle193"><span style="span">Honey?</span></p>
+<p begin="15519583334t" end="15530416667t" region="bottom" xml:id="subtitle194"><span style="span">Hey.</span></p>
+<p begin="15532916667t" end="15543750000t" region="bottom" xml:id="subtitle195"><span style="span">What's the matter?</span></p>
+<p begin="15596666667t" end="15607083334t" region="bottom" xml:id="subtitle196"><span style="span">Rais...</span></p>
+<p begin="15620416667t" end="15630833334t" region="bottom" xml:id="subtitle197"><span style="span">It's all right.</span></p>
+<p begin="15631666667t" end="15651666667t" region="bottom" xml:id="subtitle198"><span style="span">-It was just a bad dream. It's nothing.</span><br/><span style="span">-Rais...</span></p>
+<p begin="15656666667t" end="15679166667t" region="bottom" xml:id="subtitle199"><span style="span">Don't be upset. I'm here.</span></p>
+<p begin="16072083334t" end="16085416667t" region="bottom" xml:id="subtitle200"><span style="italic">Nik...</span></p>
+<p begin="16475416667t" end="16488333334t" region="bottom" xml:id="subtitle201"><span style="italic">Nik...</span></p>
+<p begin="16750833334t" end="16765833334t" region="bottom" xml:id="subtitle202"><span style="italic">Nik...</span></p>
+<p begin="16921666667t" end="16934583334t" region="bottom" xml:id="subtitle203"><span style="italic">Nik...</span></p>
+<p begin="17592083334t" end="17602500000t" region="bottom" xml:id="subtitle204"><span style="span">Thank you, sir.</span></p>
+<p begin="17615416667t" end="17625000000t" region="bottom" xml:id="subtitle205"><span style="span">Come, Nik.</span></p>
+<p begin="17733750000t" end="17762083334t" region="bottom" xml:id="subtitle206"><span style="span">I told you to clean your house.</span></p>
+<p begin="17827916667t" end="17850000000t" region="bottom" xml:id="subtitle207"><span style="span">You've seen it.</span></p>
+<p begin="17858750000t" end="17893333334t" region="bottom" xml:id="subtitle208"><span style="span">The darkened darkness.</span></p>
+<p begin="17908333334t" end="17946666667t" region="bottom" xml:id="subtitle209"><span style="span">It follows you and everyone close to you.</span></p>
+<p begin="17990416667t" end="18012916667t" region="bottom" xml:id="subtitle210"><span style="span">Do you not fear</span><br/><span style="span">that it will come for your boy?</span></p>
+<p begin="18030416667t" end="18043333334t" region="bottom" xml:id="subtitle211"><span style="span">Nik!</span></p>
+<p begin="18044166667t" end="18062083334t" region="bottom" xml:id="subtitle212"><span style="span">Where are you going? Nik?</span></p>
+<p begin="18063333334t" end="18081666667t" region="bottom" xml:id="subtitle213"><span style="span">Whatever has followed you</span></p>
+<p begin="18088750000t" end="18104166667t" region="bottom" xml:id="subtitle214"><span style="span">will come for us.</span></p>
+<p begin="18107916667t" end="18123750000t" region="bottom" xml:id="subtitle215"><span style="span">My son is dying!</span></p>
+<p begin="18124583334t" end="18148333334t" region="bottom" xml:id="subtitle216"><span style="span">You still have time.</span></p>
+<p begin="18149583334t" end="18165416667t" region="bottom" xml:id="subtitle217"><span style="span">That's enough! Cut it out!</span></p>
+<p begin="18166250000t" end="18185833334t" region="bottom" xml:id="subtitle218"><span style="span">Clean your house.</span></p>
+<p begin="18197500000t" end="18208750000t" region="bottom" xml:id="subtitle219"><span style="span">Cleanse it.</span></p>
+<p begin="18220833334t" end="18237916667t" region="bottom" xml:id="subtitle220"><span style="span">Hear my words, villagers.</span></p>
+<p begin="18246666667t" end="18267083334t" region="bottom" xml:id="subtitle221"><span style="span">Clean your houses.</span></p>
+<p begin="18272916667t" end="18289166667t" region="bottom" xml:id="subtitle222"><span style="span">Offer your prayers.</span></p>
+<p begin="18295000000t" end="18314583334t" region="bottom" xml:id="subtitle223"><span style="span">Terrible darkness</span></p>
+<p begin="18315416667t" end="18338333334t" region="bottom" xml:id="subtitle224"><span style="span">has descended upon this place.</span></p>
+<p begin="18339166667t" end="18356666667t" region="bottom" xml:id="subtitle225"><span style="span">Listen to Su'ut Din.</span></p>
+<p begin="18357500000t" end="18392500000t" region="bottom" xml:id="subtitle226"><span style="span">-She's cursed.</span><br/><span style="span">-Hey, mind your own business!</span></p>
+<p begin="18399166667t" end="18408750000t" region="bottom" xml:id="subtitle227"><span style="span">Let's go, Siti.</span></p>
+<p begin="18817500000t" end="18827083334t" region="bottom" xml:id="subtitle228"><span style="span">Honey.</span></p>
+<p begin="18827916667t" end="18850833334t" region="bottom" xml:id="subtitle229"><span style="span">-Peace be upon you.</span><br/><span style="span">-Peace be upon you too.</span></p>
+<p begin="18856666667t" end="18868750000t" region="bottom" xml:id="subtitle230"><span style="span">Is something wrong?</span></p>
+<p begin="18872500000t" end="18883333334t" region="bottom" xml:id="subtitle231"><span style="span">It's nothing.</span></p>
+<p begin="18890833334t" end="18912500000t" region="bottom" xml:id="subtitle232"><span style="span">How's my little one doing? Is he behaving?</span></p>
+<p begin="18914166667t" end="18939583334t" region="bottom" xml:id="subtitle233"><span style="span">-He is doing great.</span><br/><span style="span">-Is it true?</span></p>
+<p begin="18943333334t" end="18954166667t" region="bottom" xml:id="subtitle234"><span style="span">Have you had lunch?</span></p>
+<p begin="19623333334t" end="19642500000t" region="bottom" xml:id="subtitle235"><span style="span">It is near.</span></p>
+<p begin="19994166667t" end="20008333334t" region="bottom" xml:id="subtitle236"><span style="span">Come on, Nik. Eat.</span></p>
+<p begin="20020000000t" end="20028750000t" region="bottom" xml:id="subtitle237"><span style="span">Want some chicken?</span></p>
+<p begin="20082083334t" end="20106250000t" region="bottom" xml:id="subtitle238"><span style="span">Reza, you should eat something.</span></p>
+<p begin="20109583334t" end="20123333334t" region="bottom" xml:id="subtitle239"><span style="span">I'm not hungry, Mom.</span></p>
+<p begin="20143333334t" end="20169583334t" region="bottom" xml:id="subtitle240"><span style="span">What's the matter, honey?</span></p>
+<p begin="20173750000t" end="20186250000t" region="bottom" xml:id="subtitle241"><span style="span">Please eat.</span></p>
+<p begin="20195416667t" end="20210833334t" region="bottom" xml:id="subtitle242"><span style="span">I said I'm not hungry.</span></p>
+<p begin="20291666667t" end="20306250000t" region="bottom" xml:id="subtitle243"><span style="span">Reza told me</span></p>
+<p begin="20324583334t" end="20335833334t" region="bottom" xml:id="subtitle244"><span style="span">there was a commotion</span></p>
+<p begin="20352916667t" end="20367500000t" region="bottom" xml:id="subtitle245"><span style="span">at the market earlier today.</span></p>
+<p begin="20392916667t" end="20415416667t" region="bottom" xml:id="subtitle246"><span style="span">I'm sorry I wasn't there, Siti.</span></p>
+<p begin="20473333334t" end="20507500000t" region="bottom" xml:id="subtitle247"><span style="span">Sometimes, when we're scared,</span><br/><span style="span">we say things we don't mean.</span></p>
+<p begin="20526250000t" end="20535833334t" region="bottom" xml:id="subtitle248"><span style="span">“We”?</span></p>
+<p begin="20539583334t" end="20567083334t" region="bottom" xml:id="subtitle249"><span style="span">I mean, everyone does that.</span></p>
+<p begin="20642083334t" end="20652916667t" region="bottom" xml:id="subtitle250"><span style="span">At the moment,</span></p>
+<p begin="20671666667t" end="20694166667t" region="bottom" xml:id="subtitle251"><span style="span">rumors are rampant among the villagers.</span></p>
+<p begin="20696666667t" end="20707916667t" region="bottom" xml:id="subtitle252"><span style="span">About what?</span></p>
+<p begin="20719166667t" end="20731666667t" region="bottom" xml:id="subtitle253"><span style="span">About Rais, of course.</span></p>
+<p begin="20745833334t" end="20765000000t" region="bottom" xml:id="subtitle254"><span style="span">They don't know what happened.</span></p>
+<p begin="20772083334t" end="20796250000t" region="bottom" xml:id="subtitle255"><span style="span">When they don't know</span><br/><span style="span">what exactly happened,</span></p>
+<p begin="20805833334t" end="20829583334t" region="bottom" xml:id="subtitle256"><span style="span">they start to speculate</span></p>
+<p begin="20837916667t" end="20860416667t" region="bottom" xml:id="subtitle257"><span style="span">that Rais died</span><br/><span style="span">because of a supernatural force.</span></p>
+<p begin="20861250000t" end="20872916667t" region="bottom" xml:id="subtitle258"><span style="span">That's ridiculous, Dad.</span></p>
+<p begin="20899166667t" end="20913333334t" region="bottom" xml:id="subtitle259"><span style="span">You saw his body.</span></p>
+<p begin="20917500000t" end="20940000000t" region="bottom" xml:id="subtitle260"><span style="span">You saw the condition his body was in.</span></p>
+<p begin="21028333334t" end="21044583334t" region="bottom" xml:id="subtitle261"><span style="span">I must leave.</span></p>
+<p begin="21055416667t" end="21065000000t" region="bottom" xml:id="subtitle262"><span style="span">What?</span></p>
+<p begin="21079583334t" end="21103333334t" region="bottom" xml:id="subtitle263"><span style="span">You should too, honey.</span></p>
+<p begin="21114166667t" end="21133333334t" region="bottom" xml:id="subtitle264"><span style="span">-We should all leave.</span><br/><span style="span">-Siti.</span></p>
+<p begin="21134166667t" end="21152083334t" region="bottom" xml:id="subtitle265"><span style="span">Look, I know you're scared.</span></p>
+<p begin="21152916667t" end="21169583334t" region="bottom" xml:id="subtitle266"><span style="span">-And you should be--</span><br/><span style="span">-Honey.</span></p>
+<p begin="21189166667t" end="21213750000t" region="bottom" xml:id="subtitle267"><span style="span">Something is not right here.</span></p>
+<p begin="21225000000t" end="21243750000t" region="bottom" xml:id="subtitle268"><span style="span">-And Su'ut Din said--</span><br/><span style="span">-Su'ut Din?</span></p>
+<p begin="21252916667t" end="21270416667t" region="bottom" xml:id="subtitle269"><span style="span">Every time that maniac opens his mouth,</span></p>
+<p begin="21271250000t" end="21293750000t" region="bottom" xml:id="subtitle270"><span style="span">-all he talks about is--</span><br/><span style="span">-Honey.</span></p>
+<p begin="21312083334t" end="21321666667t" region="bottom" xml:id="subtitle271"><span style="span">Please.</span></p>
+<p begin="21326666667t" end="21345833334t" region="bottom" xml:id="subtitle272"><span style="span">Honey, let's not argue.</span></p>
+<p begin="21348333334t" end="21382083334t" region="bottom" xml:id="subtitle273"><span style="span">I just want us to leave this place.</span></p>
+<p begin="21389583334t" end="21404166667t" region="bottom" xml:id="subtitle274"><span style="span">It will not be for long.</span></p>
+<p begin="21407083334t" end="21420833334t" region="bottom" xml:id="subtitle275"><span style="span">Just for a while.</span></p>
+<p begin="21481250000t" end="21491250000t" region="bottom" xml:id="subtitle276"><span style="span">All right.</span></p>
+<p begin="21552500000t" end="21564166667t" region="bottom" xml:id="subtitle277"><span style="span">Thank you.</span></p>
+<p begin="21580416667t" end="21592083334t" region="bottom" xml:id="subtitle278"><span style="span">How is Siti doing?</span></p>
+<p begin="21608333334t" end="21619583334t" region="bottom" xml:id="subtitle279"><span style="span">She's still terrified.</span></p>
+<p begin="21626250000t" end="21635833334t" region="bottom" xml:id="subtitle280"><span style="span">Why?</span></p>
+<p begin="21640833334t" end="21662083334t" region="bottom" xml:id="subtitle281"><span style="span">People are starting to fear her.</span></p>
+<p begin="21664583334t" end="21682500000t" region="bottom" xml:id="subtitle282"><span style="span">They believe Su'ut Din.</span></p>
+<p begin="21683333334t" end="21702083334t" region="bottom" xml:id="subtitle283"><span style="span">Su'ut Din senses</span></p>
+<p begin="21710416667t" end="21734583334t" region="bottom" xml:id="subtitle284"><span style="span">that Siti has brought along a curse.</span></p>
+<p begin="21736666667t" end="21751250000t" region="bottom" xml:id="subtitle285"><span style="span">What are you talking about, Dad?</span></p>
+<p begin="21752083334t" end="21784583334t" region="bottom" xml:id="subtitle286"><span style="span">That old man hasn't gone out for months.</span></p>
+<p begin="21786666667t" end="21817500000t" region="bottom" xml:id="subtitle287"><span style="span">-Now he comes out and says these things--</span><br/><span style="span">-But,</span></p>
+<p begin="21821250000t" end="21842916667t" region="bottom" xml:id="subtitle288"><span style="span">they believe Su'ut Din.</span></p>
+<p begin="21897500000t" end="21913750000t" region="bottom" xml:id="subtitle289"><span style="span">Where are we going, Dad?</span></p>
+<p begin="21938333334t" end="21949583334t" region="bottom" xml:id="subtitle290"><span style="span">I have no idea, Nik.</span></p>
+<p begin="21965833334t" end="21975833334t" region="bottom" xml:id="subtitle291"><span style="span">I don't know.</span></p>
+<p begin="22121666667t" end="22131250000t" region="bottom" xml:id="subtitle292"><span style="span">Aisha?</span></p>
+<p begin="22174166667t" end="22199166667t" region="bottom" xml:id="subtitle293"><span style="span">I don't know what to believe.</span></p>
+<p begin="22225000000t" end="22237500000t" region="bottom" xml:id="subtitle294"><span style="span">But I'm scared.</span></p>
+<p begin="22266250000t" end="22276666667t" region="bottom" xml:id="subtitle295"><span style="span">Honey.</span></p>
+<p begin="22289166667t" end="22307500000t" region="bottom" xml:id="subtitle296"><span style="span">I don't want to lose you.</span></p>
+<p begin="22318750000t" end="22340000000t" region="bottom" xml:id="subtitle297"><span style="span">What are you talking about?</span></p>
+<p begin="22342916667t" end="22354166667t" region="bottom" xml:id="subtitle298"><span style="span">Lose me?</span></p>
+<p begin="22359166667t" end="22384583334t" region="bottom" xml:id="subtitle299"><span style="span">I'm right here.</span><br/><span style="span">Nothing is going to happen to me.</span></p>
+<p begin="22385416667t" end="22410416667t" region="bottom" xml:id="subtitle300"><span style="span">Nothing is going to happen to any of us.</span></p>
+<p begin="22442916667t" end="22452083334t" region="bottom" xml:id="subtitle301"><span style="span">Reza!</span></p>
+<p begin="22516666667t" end="22535416667t" region="bottom" xml:id="subtitle302"><span style="span">-Goodness! Reza!</span><br/><span style="span">-Reza!</span></p>
+<p begin="22542916667t" end="22551666667t" region="bottom" xml:id="subtitle303"><span style="span">-Honey!</span><br/><span style="span">-Reza!</span></p>
+<p begin="22552500000t" end="22566250000t" region="bottom" xml:id="subtitle304"><span style="span">-Reza!</span><br/><span style="span">-What's happening?</span></p>
+<p begin="22568750000t" end="22585000000t" region="bottom" xml:id="subtitle305"><span style="span">Reza!</span></p>
+<p begin="22585833334t" end="22607083334t" region="bottom" xml:id="subtitle306"><span style="span">-What's wrong, Reza?</span><br/><span style="span">-Honey!</span></p>
+<p begin="22607916667t" end="22637083334t" region="bottom" xml:id="subtitle307"><span style="span">-I want to go with you.</span><br/><span style="span">-No! Stay in the house!</span></p>
+<p begin="22639166667t" end="22661666667t" region="bottom" xml:id="subtitle308"><span style="span">-Honey!</span><br/><span style="span">-Be careful, Aisha.</span></p>
+<p begin="22665000000t" end="22683333334t" region="bottom" xml:id="subtitle309"><span style="span">-My goodness!</span><br/><span style="span">-Reza!</span></p>
+<p begin="22684166667t" end="22696250000t" region="bottom" xml:id="subtitle310"><span style="span">-Aisha, be careful!</span><br/><span style="span">-Honey!</span></p>
+<p begin="22720416667t" end="22753750000t" region="bottom" xml:id="subtitle311"><span style="span">-Reza!</span><br/><span style="span">-Honey!</span></p>
+<p begin="22755000000t" end="22769583334t" region="bottom" xml:id="subtitle312"><span style="span">-Reza!</span><br/><span style="span">-Get Khalid! Mom!</span></p>
+<p begin="22770416667t" end="22792083334t" region="bottom" xml:id="subtitle313"><span style="span">-Go!</span><br/><span style="span">-Mom. Dad.</span></p>
+<p begin="22797083334t" end="22811666667t" region="bottom" xml:id="subtitle314"><span style="span">-Dad!</span><br/><span style="span">-Khalid!</span></p>
+<p begin="22812500000t" end="22839583334t" region="bottom" xml:id="subtitle315"><span style="span">-Dad, what's going on?</span><br/><span style="span">-I don't know. It's Reza.</span></p>
+<p begin="22840416667t" end="22861250000t" region="bottom" xml:id="subtitle316"><span style="span">-What happened to Reza?</span><br/><span style="span">-Reza!</span></p>
+<p begin="22867916667t" end="22878750000t" region="bottom" xml:id="subtitle317"><span style="span">Aisha, open the door!</span></p>
+<p begin="22880000000t" end="22901666667t" region="bottom" xml:id="subtitle318"><span style="span">-Reza!</span><br/><span style="span">-Honey, wake up!</span></p>
+<p begin="22902500000t" end="22922083334t" region="bottom" xml:id="subtitle319"><span style="span">-Wake up, honey!</span><br/><span style="span">-Aisha!</span></p>
+<p begin="22922916667t" end="22934583334t" region="bottom" xml:id="subtitle320"><span style="span">Open the door!</span></p>
+<p begin="22935833334t" end="22948750000t" region="bottom" xml:id="subtitle321"><span style="span">-Honey.</span><br/><span style="span">-Aisha!</span></p>
+<p begin="22949583334t" end="22960833334t" region="bottom" xml:id="subtitle322"><span style="span">-Aisha!</span><br/><span style="span">-Aisha!</span></p>
+<p begin="22968333334t" end="22979583334t" region="bottom" xml:id="subtitle323"><span style="span">-Khalid!</span><br/><span style="span">-Open the door!</span></p>
+<p begin="23022500000t" end="23042500000t" region="bottom" xml:id="subtitle324"><span style="span">-Aisha!</span><br/><span style="span">-Kick the door!</span></p>
+<p begin="23043333334t" end="23053750000t" region="bottom" xml:id="subtitle325"><span style="span">Honey!</span></p>
+<p begin="23068750000t" end="23079583334t" region="bottom" xml:id="subtitle326"><span style="span">Aisha!</span></p>
+<p begin="23085416667t" end="23095833334t" region="bottom" xml:id="subtitle327"><span style="span">Aisha!</span></p>
+<p begin="23102083334t" end="23127916667t" region="bottom" xml:id="subtitle328"><span style="span">-Aisha!</span><br/><span style="span">-My goodness!</span></p>
+<p begin="23128750000t" end="23137500000t" region="bottom" xml:id="subtitle329"><span style="span">Aisha!</span></p>
+<p begin="23138333334t" end="23154166667t" region="bottom" xml:id="subtitle330"><span style="span">-Open the door, Aisha!</span><br/><span style="span">-Aisha!</span></p>
+<p begin="23155000000t" end="23164583334t" region="bottom" xml:id="subtitle331"><span style="span">Open the door!</span></p>
+<p begin="23165416667t" end="23175833334t" region="bottom" xml:id="subtitle332"><span style="span">-Aisha!</span><br/><span style="span">-Reza!</span></p>
+<p begin="23176666667t" end="23189583334t" region="bottom" xml:id="subtitle333"><span style="span">-Aisha!</span><br/><span style="span">-Honey!</span></p>
+<p begin="23202500000t" end="23218333334t" region="bottom" xml:id="subtitle334"><span style="span">My goodness!</span></p>
+<p begin="23219166667t" end="23236250000t" region="bottom" xml:id="subtitle335"><span style="span">-Reza?</span><br/><span style="span">-My goodness!</span></p>
+<p begin="23238333334t" end="23261666667t" region="bottom" xml:id="subtitle336"><span style="span">-Reza?</span><br/><span style="span">-My goodness!</span></p>
+<p begin="23262500000t" end="23289166667t" region="bottom" xml:id="subtitle337"><span style="span">-What happened, Reza?</span><br/><span style="span">-What happened, Aisha?</span></p>
+<p begin="23290000000t" end="23305000000t" region="bottom" xml:id="subtitle338"><span style="span">-Reza?</span><br/><span style="span">-My goodness!</span></p>
+<p begin="23319166667t" end="23332916667t" region="bottom" xml:id="subtitle339"><span style="span">-Dad, what happened here?</span><br/><span style="span">-Aisha!</span></p>
+<p begin="23333750000t" end="23350833334t" region="bottom" xml:id="subtitle340"><span style="span">-Mom, what happened?</span><br/><span style="span">-I don't know, Khalid.</span></p>
+<p begin="23351666667t" end="23375416667t" region="bottom" xml:id="subtitle341"><span style="span">-How could this happen?</span><br/><span style="span">-I really don't know.</span></p>
+<p begin="23381250000t" end="23390416667t" region="bottom" xml:id="subtitle342"><span style="span">Dad...</span></p>
+<p begin="23396250000t" end="23411666667t" region="bottom" xml:id="subtitle343"><span style="span">-Dad...</span><br/><span style="span">-Honey...</span></p>
+<p begin="23412500000t" end="23425416667t" region="bottom" xml:id="subtitle344"><span style="span">-Reza.</span><br/><span style="span">-Calm down, son.</span></p>
+<p begin="23426250000t" end="23439166667t" region="bottom" xml:id="subtitle345"><span style="span">-Reza.</span><br/><span style="span">-I don't know, Khalid.</span></p>
+<p begin="23440000000t" end="23454166667t" region="bottom" xml:id="subtitle346"><span style="span">Our child, honey.</span></p>
+<p begin="23470833334t" end="23491250000t" region="bottom" xml:id="subtitle347"><span style="italic">Sleep</span></p>
+<p begin="23495000000t" end="23508750000t" region="bottom" xml:id="subtitle348"><span style="italic">Sleep</span></p>
+<p begin="23512916667t" end="23539166667t" region="bottom" xml:id="subtitle349"><span style="italic">My dear child</span></p>
+<p begin="23541250000t" end="23550416667t" region="bottom" xml:id="subtitle350"><span style="span">Aisha!</span></p>
+<p begin="23551250000t" end="23587083334t" region="bottom" xml:id="subtitle351"><span style="italic">My love</span></p>
+<p begin="23592916667t" end="23623750000t" region="bottom" xml:id="subtitle352"><span style="italic">Will carry you</span></p>
+<p begin="23632083334t" end="23648333334t" region="bottom" xml:id="subtitle353"><span style="italic">Sleep</span></p>
+<p begin="23653333334t" end="23669166667t" region="bottom" xml:id="subtitle354"><span style="italic">Sleep</span></p>
+<p begin="23673333334t" end="23701250000t" region="bottom" xml:id="subtitle355"><span style="italic">My beloved child</span></p>
+<p begin="23710416667t" end="23744166667t" region="bottom" xml:id="subtitle356"><span style="italic">Sleep tight</span></p>
+<p begin="23752500000t" end="23785000000t" region="bottom" xml:id="subtitle357"><span style="italic">Sweet dreams</span></p>
+<p begin="23795000000t" end="23831250000t" region="bottom" xml:id="subtitle358"><span style="italic">My love for you</span></p>
+<p begin="23840000000t" end="23878750000t" region="bottom" xml:id="subtitle359"><span style="italic">Will last forever</span></p>
+<p begin="24136250000t" end="24163750000t" region="bottom" xml:id="subtitle360"><span style="span">"The path of those upon whom</span><br/><span style="span">You have bestowed favor,</span></p>
+<p begin="24165833334t" end="24207916667t" region="bottom" xml:id="subtitle361"><span style="span">not of those who have evoked Your anger</span><br/><span style="span">or of those who are astray."</span></p>
+<p begin="24345416667t" end="24364583334t" region="bottom" xml:id="subtitle362"><span style="span">Our child, honey.</span></p>
+<p begin="24365416667t" end="24388750000t" region="bottom" xml:id="subtitle363"><span style="span">Pray that his soul rests in peace.</span></p>
+<p begin="24810000000t" end="24818750000t" region="bottom" xml:id="subtitle364"><span style="span">Khalid.</span></p>
+<p begin="24861666667t" end="24881250000t" region="bottom" xml:id="subtitle365"><span style="span">Reza, I'm so sorry for your loss.</span></p>
+<p begin="24882083334t" end="24895000000t" region="bottom" xml:id="subtitle366"><span style="span">You saw it, didn't you?</span></p>
+<p begin="24912083334t" end="24927916667t" region="bottom" xml:id="subtitle367"><span style="span">You saw what happened last night.</span></p>
+<p begin="24946666667t" end="24975416667t" region="bottom" xml:id="subtitle368"><span style="span">-You felt it, didn't you?</span><br/><span style="span">-God bless us.</span></p>
+<p begin="24982083334t" end="24992083334t" region="bottom" xml:id="subtitle369"><span style="span">God?</span></p>
+<p begin="25020416667t" end="25030000000t" region="bottom" xml:id="subtitle370"><span style="span">God?</span></p>
+<p begin="25062916667t" end="25081250000t" region="bottom" xml:id="subtitle371"><span style="span">Whoever did this...</span></p>
+<p begin="25131666667t" end="25144166667t" region="bottom" xml:id="subtitle372"><span style="span">or whatever it was</span></p>
+<p begin="25167083334t" end="25181666667t" region="bottom" xml:id="subtitle373"><span style="span">that took my child,</span></p>
+<p begin="25204583334t" end="25218333334t" region="bottom" xml:id="subtitle374"><span style="span">has nothing to do with God.</span></p>
+<p begin="25244583334t" end="25268333334t" region="bottom" xml:id="subtitle375"><span style="span">I could feel its presence here.</span></p>
+<p begin="25295833334t" end="25315000000t" region="bottom" xml:id="subtitle376"><span style="span">I could sense its thirst for vengeance.</span></p>
+<p begin="25345000000t" end="25370833334t" region="bottom" xml:id="subtitle377"><span style="span">And it wasn't my first time feeling it.</span></p>
+<p begin="25470833334t" end="25485833334t" region="bottom" xml:id="subtitle378"><span style="span">We are all going to die.</span></p>
+<p begin="25506250000t" end="25516250000t" region="bottom" xml:id="subtitle379"><span style="span">Reza.</span></p>
+<p begin="25540000000t" end="25549583334t" region="bottom" xml:id="subtitle380"><span style="span">Reza.</span></p>
+<p begin="26122500000t" end="26132083334t" region="bottom" xml:id="subtitle381"><span style="span">Siti?</span></p>
+<p begin="26150000000t" end="26160833334t" region="bottom" xml:id="subtitle382"><span style="span">What are you doing?</span></p>
+<p begin="26168333334t" end="26182916667t" region="bottom" xml:id="subtitle383"><span style="span">I heard what Reza said just now.</span></p>
+<p begin="26190416667t" end="26203333334t" region="bottom" xml:id="subtitle384"><span style="span">What was it all about?</span></p>
+<p begin="26217083334t" end="26227083334t" region="bottom" xml:id="subtitle385"><span style="span">What?</span></p>
+<p begin="26231666667t" end="26240000000t" region="bottom" xml:id="subtitle386"><span style="span">Vengeance.</span></p>
+<p begin="26241250000t" end="26260833334t" region="bottom" xml:id="subtitle387"><span style="span">He said he felt that before.</span></p>
+<p begin="26278750000t" end="26300000000t" region="bottom" xml:id="subtitle388"><span style="span">-Siti.</span><br/><span style="span">-What was he trying to say?</span></p>
+<p begin="26330833334t" end="26341666667t" region="bottom" xml:id="subtitle389"><span style="span">Siti.</span></p>
+<p begin="26342500000t" end="26357916667t" region="bottom" xml:id="subtitle390"><span style="span">Siti, please don't do this.</span></p>
+<p begin="26358750000t" end="26377083334t" region="bottom" xml:id="subtitle391"><span style="span">Siti, please. Don't do this!</span></p>
+<p begin="26378333334t" end="26417916667t" region="bottom" xml:id="subtitle392"><span style="span">I can't bear watching anyone else die!</span><br/><span style="span">I have no idea what is going on now.</span></p>
+<p begin="26418750000t" end="26432083334t" region="bottom" xml:id="subtitle393"><span style="span">We must leave this place!</span></p>
+<p begin="26432916667t" end="26465000000t" region="bottom" xml:id="subtitle394"><span style="span">-Please!</span><br/><span style="span">-But this is my home. It's my village.</span></p>
+<p begin="26475833334t" end="26498333334t" region="bottom" xml:id="subtitle395"><span style="span">Maybe it is, but it isn't mine.</span></p>
+<p begin="26499166667t" end="26516250000t" region="bottom" xml:id="subtitle396"><span style="span">Siti, please.</span></p>
+<p begin="26522083334t" end="26544166667t" region="bottom" xml:id="subtitle397"><span style="span">I want you to tell me the truth</span><br/><span style="span">about Nik's mother.</span></p>
+<p begin="26545000000t" end="26554166667t" region="bottom" xml:id="subtitle398"><span style="span">What are you...</span></p>
+<p begin="26564166667t" end="26594583334t" region="bottom" xml:id="subtitle399"><span style="span">I've already told you everything.</span><br/><span style="span">She left us.</span></p>
+<p begin="26595416667t" end="26606666667t" region="bottom" xml:id="subtitle400"><span style="span">That's it?</span></p>
+<p begin="26620000000t" end="26651250000t" region="bottom" xml:id="subtitle401"><span style="span">-What else do you want me to say?</span><br/><span style="span">-I want you to tell me the truth!</span></p>
+<p begin="26652083334t" end="26669166667t" region="bottom" xml:id="subtitle402"><span style="span">That is the truth!</span></p>
+<p begin="26706666667t" end="26733750000t" region="bottom" xml:id="subtitle403"><span style="span">She didn't want to marry me.</span><br/><span style="span">She didn't love me.</span></p>
+<p begin="26740416667t" end="26765416667t" region="bottom" xml:id="subtitle404"><span style="span">She left Nik at my doorstep and vanished.</span></p>
+<p begin="26767916667t" end="26780416667t" region="bottom" xml:id="subtitle405"><span style="span">I've already told you all this.</span></p>
+<p begin="26781250000t" end="26807083334t" region="bottom" xml:id="subtitle406"><span style="span">-But where did she go?</span><br/><span style="span">-I don't know!</span></p>
+<p begin="26879583334t" end="26889166667t" region="bottom" xml:id="subtitle407"><span style="span">Nik.</span></p>
+<p begin="26915416667t" end="26927916667t" region="bottom" xml:id="subtitle408"><span style="span">Why were you laughing just now?</span></p>
+<p begin="26936250000t" end="26947083334t" region="bottom" xml:id="subtitle409"><span style="span">It's nothing.</span></p>
+<p begin="26964166667t" end="26979583334t" region="bottom" xml:id="subtitle410"><span style="span">Is someone in here with you?</span></p>
+<p begin="27017916667t" end="27032500000t" region="bottom" xml:id="subtitle411"><span style="span">-Answer me.</span><br/><span style="span">-Khalid!</span></p>
+<p begin="27033333334t" end="27051250000t" region="bottom" xml:id="subtitle412"><span style="span">-Who is in this room with you?</span><br/><span style="span">-Enough, Khalid.</span></p>
+<p begin="27052083334t" end="27072500000t" region="bottom" xml:id="subtitle413"><span style="span">-Answer me.</span><br/><span style="span">-Enough, Khalid. Let him go!</span></p>
+<p begin="27073333334t" end="27087916667t" region="bottom" xml:id="subtitle414"><span style="span">Khalid, let him go!</span></p>
+<p begin="27090000000t" end="27099583334t" region="bottom" xml:id="subtitle415"><span style="span">Come to me, dear.</span></p>
+<p begin="27132083334t" end="27142083334t" region="bottom" xml:id="subtitle416"><span style="span">Are you okay?</span></p>
+<p begin="27143333334t" end="27158750000t" region="bottom" xml:id="subtitle417"><span style="span">-Yes.</span><br/><span style="span">-Reza.</span></p>
+<p begin="27167500000t" end="27186666667t" region="bottom" xml:id="subtitle418"><span style="span">Khalid!</span></p>
+<p begin="27187500000t" end="27196250000t" region="bottom" xml:id="subtitle419"><span style="span">Reza!</span></p>
+<p begin="27212916667t" end="27222916667t" region="bottom" xml:id="subtitle420"><span style="span">Reza!</span></p>
+<p begin="27240833334t" end="27249583334t" region="bottom" xml:id="subtitle421"><span style="span">Reza!</span></p>
+<p begin="27278333334t" end="27287916667t" region="bottom" xml:id="subtitle422"><span style="span">Reza!</span></p>
+<p begin="27312916667t" end="27322083334t" region="bottom" xml:id="subtitle423"><span style="span">Reza!</span></p>
+<p begin="27344166667t" end="27353750000t" region="bottom" xml:id="subtitle424"><span style="span">Reza!</span></p>
+<p begin="27373750000t" end="27383333334t" region="bottom" xml:id="subtitle425"><span style="span">Khalid.</span></p>
+<p begin="27453750000t" end="27479166667t" region="bottom" xml:id="subtitle426"><span style="span">I thought it was possible for us</span><br/><span style="span">to start anew.</span></p>
+<p begin="27498750000t" end="27515416667t" region="bottom" xml:id="subtitle427"><span style="span">That if I do enough good,</span></p>
+<p begin="27520833334t" end="27538750000t" region="bottom" xml:id="subtitle428"><span style="span">love my family enough,</span></p>
+<p begin="27544583334t" end="27569166667t" region="bottom" xml:id="subtitle429"><span style="span">be a good husband and a good father,</span></p>
+<p begin="27578750000t" end="27597083334t" region="bottom" xml:id="subtitle430"><span style="span">then we can move on.</span></p>
+<p begin="27628750000t" end="27642500000t" region="bottom" xml:id="subtitle431"><span style="span">What are you saying?</span></p>
+<p begin="27652500000t" end="27667916667t" region="bottom" xml:id="subtitle432"><span style="span">I think enough is enough.</span></p>
+<p begin="27675000000t" end="27698333334t" region="bottom" xml:id="subtitle433"><span style="span">We must pay for what we've done.</span></p>
+<p begin="27710416667t" end="27725416667t" region="bottom" xml:id="subtitle434"><span style="span">Like Rais did.</span></p>
+<p begin="27795000000t" end="27805833334t" region="bottom" xml:id="subtitle435"><span style="span">Are you hungry?</span></p>
+<p begin="27814166667t" end="27825416667t" region="bottom" xml:id="subtitle436"><span style="span">Do you want to eat?</span></p>
+<p begin="27834166667t" end="27850416667t" region="bottom" xml:id="subtitle437"><span style="span">I'll make you something.</span></p>
+<p begin="27857500000t" end="27871250000t" region="bottom" xml:id="subtitle438"><span style="span">Listen to me.</span></p>
+<p begin="27874166667t" end="27892500000t" region="bottom" xml:id="subtitle439"><span style="span">We have done nothing wrong.</span></p>
+<p begin="27912500000t" end="27940416667t" region="bottom" xml:id="subtitle440"><span style="span">We have already paid a lot for our sins!</span></p>
+<p begin="27947916667t" end="27957500000t" region="bottom" xml:id="subtitle441"><span style="span">Nik.</span></p>
+<p begin="27967916667t" end="27984583334t" region="bottom" xml:id="subtitle442"><span style="span">I'm going to leave the door open.</span></p>
+<p begin="27994166667t" end="28003333334t" region="bottom" xml:id="subtitle443"><span style="span">Keep it open, okay?</span></p>
+<p begin="28021250000t" end="28049166667t" region="bottom" xml:id="subtitle444"><span style="span">I've dedicated my life to this village.</span></p>
+<p begin="28055833334t" end="28068333334t" region="bottom" xml:id="subtitle445"><span style="span">To my family.</span></p>
+<p begin="28070416667t" end="28098750000t" region="bottom" xml:id="subtitle446"><span style="span">Nothing is going to end for us! Nothing!</span></p>
+<p begin="28100833334t" end="28115416667t" region="bottom" xml:id="subtitle447"><span style="span">Those are your words,</span></p>
+<p begin="28121250000t" end="28142916667t" region="bottom" xml:id="subtitle448"><span style="span">and they mean nothing.</span></p>
+<p begin="28145416667t" end="28166666667t" region="bottom" xml:id="subtitle449"><span style="span">Your words are meaningless.</span></p>
+<p begin="28197083334t" end="28214166667t" region="bottom" xml:id="subtitle450"><span style="span">Do you know what isn't now?</span></p>
+<p begin="28261666667t" end="28272500000t" region="bottom" xml:id="subtitle451"><span style="span">Darkness.</span></p>
+<p begin="28376666667t" end="28388750000t" region="bottom" xml:id="subtitle452"><span style="span">-Reza.</span><br/><span style="span">-Darkness.</span></p>
+<p begin="28428333334t" end="28437916667t" region="bottom" xml:id="subtitle453"><span style="span">Reza.</span></p>
+<p begin="28446250000t" end="28457500000t" region="bottom" xml:id="subtitle454"><span style="span">Death.</span></p>
+<p begin="28512500000t" end="28528750000t" region="bottom" xml:id="subtitle455"><span style="span">You've been a naughty boy, Khalid.</span></p>
+<p begin="28537916667t" end="28547500000t" region="bottom" xml:id="subtitle456"><span style="span">What do you mean?</span></p>
+<p begin="28550416667t" end="28562916667t" region="bottom" xml:id="subtitle457"><span style="span">How long has it been?</span></p>
+<p begin="28580416667t" end="28595416667t" region="bottom" xml:id="subtitle458"><span style="span">You never told anyone.</span></p>
+<p begin="28605416667t" end="28619583334t" region="bottom" xml:id="subtitle459"><span style="span">Reza, what are you talking about?</span></p>
+<p begin="28625000000t" end="28641666667t" region="bottom" xml:id="subtitle460"><span style="span">Why have you never told anyone the truth?</span></p>
+<p begin="28646666667t" end="28677916667t" region="bottom" xml:id="subtitle461"><span style="span">You even kept it a secret</span><br/><span style="span">from your poor disgusting wife.</span></p>
+<p begin="28715833334t" end="28727916667t" region="bottom" xml:id="subtitle462"><span style="span">Don't worry.</span></p>
+<p begin="28737916667t" end="28752916667t" region="bottom" xml:id="subtitle463"><span style="span">We're almost there.</span></p>
+<p begin="28755833334t" end="28772916667t" region="bottom" xml:id="subtitle464"><span style="span">Just a little bit further.</span></p>
+<p begin="28782916667t" end="28809583334t" region="bottom" xml:id="subtitle465"><span style="span">I never thought</span><br/><span style="span">it would come down to this.</span></p>
+<p begin="28832083334t" end="28843333334t" region="bottom" xml:id="subtitle466"><span style="span">You're the killer.</span></p>
+<p begin="28876250000t" end="28895000000t" region="bottom" xml:id="subtitle467"><span style="span">-You're the killer.</span><br/><span style="span">-Reza!</span></p>
+<p begin="28923333334t" end="28937916667t" region="bottom" xml:id="subtitle468"><span style="span">-Why did you come back?</span><br/><span style="span">-Stop it.</span></p>
+<p begin="28945833334t" end="28957083334t" region="bottom" xml:id="subtitle469"><span style="span">Why did you come back?</span></p>
+<p begin="28978750000t" end="28989166667t" region="bottom" xml:id="subtitle470"><span style="span">Mina?</span></p>
+<p begin="29069583334t" end="29077916667t" region="bottom" xml:id="subtitle471"><span style="span">Siti!</span></p>
+<p begin="29102500000t" end="29110833334t" region="bottom" xml:id="subtitle472"><span style="span">Nik!</span></p>
+<p begin="29122916667t" end="29132916667t" region="bottom" xml:id="subtitle473"><span style="span">Siti!</span></p>
+<p begin="29140000000t" end="29149583334t" region="bottom" xml:id="subtitle474"><span style="span">Nik!</span></p>
+<p begin="29155000000t" end="29164583334t" region="bottom" xml:id="subtitle475"><span style="span">Siti!</span></p>
+<p begin="29175000000t" end="29183333334t" region="bottom" xml:id="subtitle476"><span style="span">Nik!</span></p>
+<p begin="29200833334t" end="29215416667t" region="bottom" xml:id="subtitle477"><span style="span">-Siti!</span><br/><span style="span">-Honey.</span></p>
+<p begin="29231666667t" end="29241666667t" region="bottom" xml:id="subtitle478"><span style="span">-Siti!</span><br/><span style="span">-Honey.</span></p>
+<p begin="29245416667t" end="29262916667t" region="bottom" xml:id="subtitle479"><span style="span">-What's the matter?</span><br/><span style="span">-Siti.</span></p>
+<p begin="29264583334t" end="29274166667t" region="bottom" xml:id="subtitle480"><span style="span">Where's Nik?</span></p>
+<p begin="29275000000t" end="29288333334t" region="bottom" xml:id="subtitle481"><span style="span">In his room.</span></p>
+<p begin="29291666667t" end="29304583334t" region="bottom" xml:id="subtitle482"><span style="span">Khalid!</span></p>
+<p begin="29305416667t" end="29320416667t" region="bottom" xml:id="subtitle483"><span style="span">-Nik!</span><br/><span style="span">-Honey, what's the matter?</span></p>
+<p begin="29322916667t" end="29331666667t" region="bottom" xml:id="subtitle484"><span style="span">Honey!</span></p>
+<p begin="29333333334t" end="29345000000t" region="bottom" xml:id="subtitle485"><span style="span">-Nik!</span><br/><span style="span">-Nik!</span></p>
+<p begin="29361666667t" end="29371250000t" region="bottom" xml:id="subtitle486"><span style="span">Khalid...</span></p>
+<p begin="29392916667t" end="29407916667t" region="bottom" xml:id="subtitle487"><span style="span">Nik...</span></p>
+<p begin="29430833334t" end="29443333334t" region="bottom" xml:id="subtitle488"><span style="span">Khalid, wait!</span></p>
+<p begin="29458333334t" end="29467500000t" region="bottom" xml:id="subtitle489"><span style="span">Nik.</span></p>
+<p begin="29482916667t" end="29492083334t" region="bottom" xml:id="subtitle490"><span style="span">Nik.</span></p>
+<p begin="29502083334t" end="29511250000t" region="bottom" xml:id="subtitle491"><span style="span">Nik.</span></p>
+<p begin="29532916667t" end="29541666667t" region="bottom" xml:id="subtitle492"><span style="span">Nik.</span></p>
+<p begin="29567916667t" end="29592916667t" region="bottom" xml:id="subtitle493"><span style="span">I need you to tell me about your friend.</span></p>
+<p begin="29597083334t" end="29621250000t" region="bottom" xml:id="subtitle494"><span style="span">-We just talk. It's fine, right?</span><br/><span style="span">-Right.</span></p>
+<p begin="29622083334t" end="29643750000t" region="bottom" xml:id="subtitle495"><span style="span">That's right.</span><br/><span style="span">There's nothing wrong with that.</span></p>
+<p begin="29650833334t" end="29690000000t" region="bottom" xml:id="subtitle496"><span style="span">She said she would be my friend</span></p>
+<p begin="29692083334t" end="29717500000t" region="bottom" xml:id="subtitle497"><span style="span">because I don't have any friends here.</span></p>
+<p begin="29760000000t" end="29799583334t" region="bottom" xml:id="subtitle498"><span style="span">She said that she would keep me safe</span><br/><span style="span">in case you get angry.</span></p>
+<p begin="29825000000t" end="29865416667t" region="bottom" xml:id="subtitle499"><span style="span">She said you will always get angry.</span></p>
+<p begin="29892916667t" end="29901250000t" region="bottom" xml:id="subtitle500"><span style="span">Honey.</span></p>
+<p begin="29920416667t" end="29940000000t" region="bottom" xml:id="subtitle501"><span style="span">Honey, please tell me what's going on.</span></p>
+<p begin="29941250000t" end="29962916667t" region="bottom" xml:id="subtitle502"><span style="span">-Siti, I have no time.</span><br/><span style="span">-I don't understand what's happening.</span></p>
+<p begin="29963750000t" end="29978750000t" region="bottom" xml:id="subtitle503"><span style="span">-Honey, please.</span><br/><span style="span">-I'm running out of time.</span></p>
+<p begin="29979583334t" end="29999583334t" region="bottom" xml:id="subtitle504"><span style="span">-Where are you taking him?</span><br/><span style="span">-Dad!</span></p>
+<p begin="30004166667t" end="30014166667t" region="bottom" xml:id="subtitle505"><span style="span">Dad!</span></p>
+<p begin="30016666667t" end="30030416667t" region="bottom" xml:id="subtitle506"><span style="span">Aisha!</span></p>
+<p begin="30031250000t" end="30048333334t" region="bottom" xml:id="subtitle507"><span style="span">-Take care of them.</span><br/><span style="span">-Honey, tell me.</span></p>
+<p begin="30049166667t" end="30063333334t" region="bottom" xml:id="subtitle508"><span style="span">-I'll be back.</span><br/><span style="span">-What's going on?</span></p>
+<p begin="30064166667t" end="30075000000t" region="bottom" xml:id="subtitle509"><span style="span">-Honey!</span><br/><span style="span">-Khalid!</span></p>
+<p begin="30075833334t" end="30090000000t" region="bottom" xml:id="subtitle510"><span style="span">-Let me go with you!</span><br/><span style="span">-You stay here!</span></p>
+<p begin="30090833334t" end="30102916667t" region="bottom" xml:id="subtitle511"><span style="span">-Honey!</span><br/><span style="span">-Siti!</span></p>
+<p begin="30136666667t" end="30162500000t" region="bottom" xml:id="subtitle512"><span style="italic">Dear, Khalid...</span></p>
+<p begin="30170000000t" end="30194583334t" region="bottom" xml:id="subtitle513"><span style="italic">Die...</span></p>
+<p begin="30198333334t" end="30223333334t" region="bottom" xml:id="subtitle514"><span style="italic">Nik...</span></p>
+<p begin="30232500000t" end="30247083334t" region="bottom" xml:id="subtitle515"><span style="italic">Dear...</span></p>
+<p begin="30254583334t" end="30267083334t" region="bottom" xml:id="subtitle516"><span style="italic">Khalid...</span></p>
+<p begin="30267916667t" end="30288333334t" region="bottom" xml:id="subtitle517"><span style="italic">You killed...</span></p>
+<p begin="30313333334t" end="30334166667t" region="bottom" xml:id="subtitle518"><span style="italic">My child...</span></p>
+<p begin="30348750000t" end="30370833334t" region="bottom" xml:id="subtitle519"><span style="italic">Khalid, you...</span></p>
+<p begin="30382916667t" end="30409166667t" region="bottom" xml:id="subtitle520"><span style="italic">Reza, Rais...</span></p>
+<p begin="30413750000t" end="30455833334t" region="bottom" xml:id="subtitle521"><span style="italic">My dear, Nik...</span></p>
+<p begin="30615000000t" end="30626666667t" region="bottom" xml:id="subtitle522"><span style="span">Come in.</span></p>
+<p begin="30701666667t" end="30722916667t" region="bottom" xml:id="subtitle523"><span style="span">I knew you would come.</span></p>
+<p begin="30739583334t" end="30760416667t" region="bottom" xml:id="subtitle524"><span style="span">The answer eluded me for some time.</span></p>
+<p begin="30761250000t" end="30785416667t" region="bottom" xml:id="subtitle525"><span style="span">And now, it has all become clear.</span></p>
+<p begin="30797500000t" end="30811666667t" region="bottom" xml:id="subtitle526"><span style="span">The barking dogs.</span></p>
+<p begin="30820833334t" end="30833750000t" region="bottom" xml:id="subtitle527"><span style="span">The sick children.</span></p>
+<p begin="30840000000t" end="30859583334t" region="bottom" xml:id="subtitle528"><span style="span">And the foul smell.</span></p>
+<p begin="30880833334t" end="30909166667t" region="bottom" xml:id="subtitle529"><span style="span">A </span><span style="italic">pontianak</span><span style="span"> has come to our village.</span></p>
+<p begin="30940416667t" end="30957083334t" region="bottom" xml:id="subtitle530"><span style="span">You know her, don't you?</span></p>
+<p begin="31001250000t" end="31011250000t" region="bottom" xml:id="subtitle531"><span style="span">Yes.</span></p>
+<p begin="31032083334t" end="31043333334t" region="bottom" xml:id="subtitle532"><span style="span">Who is she?</span></p>
+<p begin="31127916667t" end="31138333334t" region="bottom" xml:id="subtitle533"><span style="span">Mina.</span></p>
+<p begin="31327083334t" end="31350000000t" region="bottom" xml:id="subtitle534"><span style="italic">I met for the first time nine years ago.</span></p>
+<p begin="31370833334t" end="31383750000t" region="bottom" xml:id="subtitle535"><span style="italic">I was different then.</span></p>
+<p begin="31409583334t" end="31422500000t" region="bottom" xml:id="subtitle536"><span style="italic">I was young,</span></p>
+<p begin="31426666667t" end="31457500000t" region="bottom" xml:id="subtitle537"><span style="italic">reckless and selfish.</span></p>
+<p begin="31521250000t" end="31547083334t" region="bottom" xml:id="subtitle538"><span style="italic">I would meet her every weekend.</span></p>
+<p begin="31755000000t" end="31766250000t" region="bottom" xml:id="subtitle539"><span style="span">Forever.</span></p>
+<p begin="31820000000t" end="31834166667t" region="bottom" xml:id="subtitle540"><span style="span">Only you.</span></p>
+<p begin="31900000000t" end="31912500000t" region="bottom" xml:id="subtitle541"><span style="span">Forever.</span></p>
+<p begin="31962916667t" end="31987500000t" region="bottom" xml:id="subtitle542"><span style="italic">But things started getting complicated</span></p>
+<p begin="31988333334t" end="32026250000t" region="bottom" xml:id="subtitle543"><span style="italic">when she wanted me</span><br/><span style="italic">to dedicate my life to her.</span></p>
+<p begin="32034583334t" end="32052500000t" region="bottom" xml:id="subtitle544"><span style="italic">But I didn't comply.</span></p>
+<p begin="32061250000t" end="32083333334t" region="bottom" xml:id="subtitle545"><span style="italic">I had my family's good name to maintain.</span></p>
+<p begin="32112916667t" end="32132916667t" region="bottom" xml:id="subtitle546"><span style="italic">So I lied to her.</span></p>
+<p begin="32145000000t" end="32192083334t" region="bottom" xml:id="subtitle547"><span style="italic">I told her that my parents have already</span><br/><span style="italic">arranged my marriage with someone else.</span></p>
+<p begin="32226666667t" end="32240833334t" region="bottom" xml:id="subtitle548"><span style="italic">She was distraught.</span></p>
+<p begin="32260416667t" end="32292916667t" region="bottom" xml:id="subtitle549"><span style="italic">She decided to return</span><br/><span style="italic">to her family in Singapore.</span></p>
+<p begin="32308333334t" end="32326666667t" region="bottom" xml:id="subtitle550"><span style="span">I will never forget you.</span></p>
+<p begin="32839166667t" end="32855000000t" region="bottom" xml:id="subtitle551"><span style="italic">But she returned.</span></p>
+<p begin="32875833334t" end="32885416667t" region="bottom" xml:id="subtitle552"><span style="span">Yes.</span></p>
+<p begin="32893750000t" end="32909583334t" region="bottom" xml:id="subtitle553"><span style="italic">Freedom!</span></p>
+<p begin="32922083334t" end="32932916667t" region="bottom" xml:id="subtitle554"><span style="italic">Freedom!</span></p>
+<p begin="32959583334t" end="32992916667t" region="bottom" xml:id="subtitle555"><span style="span">-Freedom!</span><br/><span style="span">-Freedom!</span></p>
+<p begin="33024583334t" end="33045416667t" region="bottom" xml:id="subtitle556"><span style="span">-Freedom!</span><br/><span style="span">-Freedom!</span></p>
+<p begin="33062083334t" end="33079166667t" region="bottom" xml:id="subtitle557"><span style="span">-Freedom!</span><br/><span style="span">-Freedom!</span></p>
+<p begin="33112916667t" end="33121666667t" region="bottom" xml:id="subtitle558"><span style="span">Freedom!</span></p>
+<p begin="33122500000t" end="33132500000t" region="bottom" xml:id="subtitle559"><span style="italic">She was pregnant.</span></p>
+<p begin="33154583334t" end="33182083334t" region="bottom" xml:id="subtitle560"><span style="italic">I could see my whole life falling apart.</span></p>
+<p begin="33185000000t" end="33198333334t" region="bottom" xml:id="subtitle561"><span style="italic">Unless I did something.</span></p>
+<p begin="33232916667t" end="33246666667t" region="bottom" xml:id="subtitle562"><span style="span">What did you do?</span></p>
+<p begin="33311250000t" end="33320000000t" region="bottom" xml:id="subtitle563"><span style="span">Where are we?</span></p>
+<p begin="33359583334t" end="33381250000t" region="bottom" xml:id="subtitle564"><span style="span">Why are we going so far out of town?</span></p>
+<p begin="33433750000t" end="33444166667t" region="bottom" xml:id="subtitle565"><span style="span">Khalid.</span></p>
+<p begin="33456250000t" end="33466250000t" region="bottom" xml:id="subtitle566"><span style="span">Answer me.</span></p>
+<p begin="33522500000t" end="33533333334t" region="bottom" xml:id="subtitle567"><span style="span">Reza?</span></p>
+<p begin="33615833334t" end="33625000000t" region="bottom" xml:id="subtitle568"><span style="span">Rais?</span></p>
+<p begin="33687083334t" end="33701250000t" region="bottom" xml:id="subtitle569"><span style="span">Rais, stop the car.</span></p>
+<p begin="33735833334t" end="33753750000t" region="bottom" xml:id="subtitle570"><span style="span">Rais, stop the car.</span></p>
+<p begin="33784583334t" end="33802916667t" region="bottom" xml:id="subtitle571"><span style="span">Rais, I said stop the car.</span></p>
+<p begin="33814583334t" end="33829583334t" region="bottom" xml:id="subtitle572"><span style="span">-Khalid.</span><br/><span style="span">-Rais.</span></p>
+<p begin="33830416667t" end="33840833334t" region="bottom" xml:id="subtitle573"><span style="span">Rais, stop the car.</span></p>
+<p begin="33845416667t" end="33877083334t" region="bottom" xml:id="subtitle574"><span style="span">Stop the car. Rais, stop! Rais!</span></p>
+<p begin="33952500000t" end="33971666667t" region="bottom" xml:id="subtitle575"><span style="span">Mina, I can't do this.</span></p>
+<p begin="33988750000t" end="34007500000t" region="bottom" xml:id="subtitle576"><span style="span">I can't be a father to this child.</span></p>
+<p begin="34020416667t" end="34041250000t" region="bottom" xml:id="subtitle577"><span style="span">We can't keep this child.</span></p>
+<p begin="34061666667t" end="34080416667t" region="bottom" xml:id="subtitle578"><span style="span">There's a doctor who lives here.</span></p>
+<p begin="34081250000t" end="34102083334t" region="bottom" xml:id="subtitle579"><span style="span">The house isn't far from here.</span></p>
+<p begin="34129166667t" end="34142083334t" region="bottom" xml:id="subtitle580"><span style="span">He's an expert, Mina.</span></p>
+<p begin="34184583334t" end="34194166667t" region="bottom" xml:id="subtitle581"><span style="span">Mina...</span></p>
+<p begin="34217500000t" end="34230416667t" region="bottom" xml:id="subtitle582"><span style="span">-Let her be, Khalid.</span><br/><span style="span">-Mina!</span></p>
+<p begin="34243750000t" end="34260000000t" region="bottom" xml:id="subtitle583"><span style="span">Khalid, what on earth are we doing?</span></p>
+<p begin="34342500000t" end="34351666667t" region="bottom" xml:id="subtitle584"><span style="span">-Khalid.</span><br/><span style="span">-Mina!</span></p>
+<p begin="34352500000t" end="34368333334t" region="bottom" xml:id="subtitle585"><span style="span">-Khalid.</span><br/><span style="span">-Mina!</span></p>
+<p begin="34422916667t" end="34432500000t" region="bottom" xml:id="subtitle586"><span style="span">Mina!</span></p>
+<p begin="34440000000t" end="34448333334t" region="bottom" xml:id="subtitle587"><span style="span">Mina!</span></p>
+<p begin="34517083334t" end="34526666667t" region="bottom" xml:id="subtitle588"><span style="span">Khalid!</span></p>
+<p begin="34546250000t" end="34555416667t" region="bottom" xml:id="subtitle589"><span style="span">Mina!</span></p>
+<p begin="34592916667t" end="34605000000t" region="bottom" xml:id="subtitle590"><span style="italic">Mina!</span></p>
+<p begin="34666250000t" end="34677083334t" region="bottom" xml:id="subtitle591"><span style="span">Try looking over there.</span></p>
+<p begin="34750833334t" end="34760416667t" region="bottom" xml:id="subtitle592"><span style="italic">Mina!</span></p>
+<p begin="34781250000t" end="34790000000t" region="bottom" xml:id="subtitle593"><span style="span">Khalid.</span></p>
+<p begin="34793333334t" end="34811666667t" region="bottom" xml:id="subtitle594"><span style="span">-Where is she?</span><br/><span style="span">-I don't know.</span></p>
+<p begin="34821666667t" end="34831250000t" region="bottom" xml:id="subtitle595"><span style="span">Mina!</span></p>
+<p begin="34837916667t" end="34847500000t" region="bottom" xml:id="subtitle596"><span style="span">Mina!</span></p>
+<p begin="34853333334t" end="34862083334t" region="bottom" xml:id="subtitle597"><span style="span">Khalid.</span></p>
+<p begin="34883750000t" end="34902083334t" region="bottom" xml:id="subtitle598"><span style="span">Hey, this is crazy!</span></p>
+<p begin="34902916667t" end="34914166667t" region="bottom" xml:id="subtitle599"><span style="span">He's right.</span></p>
+<p begin="34916250000t" end="34936666667t" region="bottom" xml:id="subtitle600"><span style="span">-I can't see anything.</span><br/><span style="span">-Shut up!</span></p>
+<p begin="34962916667t" end="34990416667t" region="bottom" xml:id="subtitle601"><span style="span">You two look in that area.</span><br/><span style="span">I'll go this way.</span></p>
+<p begin="35005833334t" end="35014583334t" region="bottom" xml:id="subtitle602"><span style="span">Khalid!</span></p>
+<p begin="35020000000t" end="35032083334t" region="bottom" xml:id="subtitle603"><span style="span">Your darn brother!</span></p>
+<p begin="35034583334t" end="35051250000t" region="bottom" xml:id="subtitle604"><span style="span">So now it's my fault? Hey, Rais!</span></p>
+<p begin="35074583334t" end="35083750000t" region="bottom" xml:id="subtitle605"><span style="italic">Mina!</span></p>
+<p begin="35091250000t" end="35101250000t" region="bottom" xml:id="subtitle606"><span style="italic">Mina!</span></p>
+<p begin="35144583334t" end="35162083334t" region="bottom" xml:id="subtitle607"><span style="italic">Where are you, Mina?</span></p>
+<p begin="35187500000t" end="35197083334t" region="bottom" xml:id="subtitle608"><span style="italic">Mina!</span></p>
+<p begin="35250833334t" end="35259583334t" region="bottom" xml:id="subtitle609"><span style="italic">Mina!</span></p>
+<p begin="35319583334t" end="35328750000t" region="bottom" xml:id="subtitle610"><span style="italic">Mina.</span></p>
+<p begin="35903333334t" end="35919166667t" region="bottom" xml:id="subtitle611"><span style="span">Why is my child quiet?</span></p>
+<p begin="35921666667t" end="35942083334t" region="bottom" xml:id="subtitle612"><span style="span">Why isn't he crying?</span></p>
+<p begin="35952500000t" end="35960833334t" region="bottom" xml:id="subtitle613"><span style="span">Mina.</span></p>
+<p begin="36034583334t" end="36043750000t" region="bottom" xml:id="subtitle614"><span style="span">Khalid!</span></p>
+<p begin="36052500000t" end="36067500000t" region="bottom" xml:id="subtitle615"><span style="span">This is all your fault!</span></p>
+<p begin="36074583334t" end="36094583334t" region="bottom" xml:id="subtitle616"><span style="span">My baby is dead!</span></p>
+<p begin="36096666667t" end="36114583334t" region="bottom" xml:id="subtitle617"><span style="span">He's not breathing, Khalid!</span></p>
+<p begin="36140833334t" end="36165833334t" region="bottom" xml:id="subtitle618"><span style="span">-Help!</span><br/><span style="span">-Mina, please...</span></p>
+<p begin="36171250000t" end="36201250000t" region="bottom" xml:id="subtitle619"><span style="span">Mina, I never meant for this to happen.</span></p>
+<p begin="36205000000t" end="36225416667t" region="bottom" xml:id="subtitle620"><span style="span">-I'm so sorry.</span><br/><span style="span">-Cut it out, Khalid!</span></p>
+<p begin="36230416667t" end="36244583334t" region="bottom" xml:id="subtitle621"><span style="span">I will tell everyone.</span></p>
+<p begin="36245416667t" end="36260833334t" region="bottom" xml:id="subtitle622"><span style="span">-Everyone will know about you</span><br/><span style="span">-Mina, please.</span></p>
+<p begin="36261666667t" end="36291250000t" region="bottom" xml:id="subtitle623"><span style="span">and what you have done.</span><br/><span style="span">You killed my baby!</span></p>
+<p begin="36292083334t" end="36304583334t" region="bottom" xml:id="subtitle624"><span style="span">-You're a murderer!</span><br/><span style="span">-Mina.</span></p>
+<p begin="36308750000t" end="36326250000t" region="bottom" xml:id="subtitle625"><span style="span">Everyone will know about this, Khalid.</span></p>
+<p begin="36327083334t" end="36349583334t" region="bottom" xml:id="subtitle626"><span style="span">I'll tell everyone what you've done.</span></p>
+<p begin="36350416667t" end="36373333334t" region="bottom" xml:id="subtitle627"><span style="span">Mina, don't. Please don't do that.</span></p>
+<p begin="36374166667t" end="36398750000t" region="bottom" xml:id="subtitle628"><span style="span">-Help!</span><br/><span style="span">-I never meant for this to happen.</span></p>
+<p begin="36399583334t" end="36412083334t" region="bottom" xml:id="subtitle629"><span style="span">Look at my child.</span></p>
+<p begin="36414583334t" end="36442083334t" region="bottom" xml:id="subtitle630"><span style="span">He isn't breathing! He's dead!</span></p>
+<p begin="36442916667t" end="36459166667t" region="bottom" xml:id="subtitle631"><span style="span">-I didn't want this to happen.</span><br/><span style="span">-Help!</span></p>
+<p begin="36460000000t" end="36472500000t" region="bottom" xml:id="subtitle632"><span style="span">-Please don't do this to me.</span><br/><span style="span">-Help!</span></p>
+<p begin="36477083334t" end="36489583334t" region="bottom" xml:id="subtitle633"><span style="span">Everyone will know!</span></p>
+<p begin="36490416667t" end="36512500000t" region="bottom" xml:id="subtitle634"><span style="span">-Shut up, Mina!</span><br/><span style="span">-You're a murderer!</span></p>
+<p begin="36513750000t" end="36524166667t" region="bottom" xml:id="subtitle635"><span style="span">-Shut up!</span><br/><span style="span">-You killed my baby!</span></p>
+<p begin="36525000000t" end="36536250000t" region="bottom" xml:id="subtitle636"><span style="span">Shut up, Mina!</span></p>
+<p begin="36541250000t" end="36567500000t" region="bottom" xml:id="subtitle637"><span style="span">You're the one who killed him!</span></p>
+<p begin="36568333334t" end="36587500000t" region="bottom" xml:id="subtitle638"><span style="span">You're the one who killed him.</span></p>
+<p begin="36588333334t" end="36623750000t" region="bottom" xml:id="subtitle639"><span style="span">Why did you come back?</span><br/><span style="span">Why did you come back? Why?</span></p>
+<p begin="36627083334t" end="36644166667t" region="bottom" xml:id="subtitle640"><span style="span">Tell me why you came back!</span></p>
+<p begin="36645416667t" end="36664583334t" region="bottom" xml:id="subtitle641"><span style="span">I told you to leave.</span><br/><span style="span">Why did you come back?</span></p>
+<p begin="36665416667t" end="36674583334t" region="bottom" xml:id="subtitle642"><span style="span">Why?</span></p>
+<p begin="36677500000t" end="36690000000t" region="bottom" xml:id="subtitle643"><span style="span">Why?</span></p>
+<p begin="36692083334t" end="36703333334t" region="bottom" xml:id="subtitle644"><span style="span">Why?</span></p>
+<p begin="36804166667t" end="36814166667t" region="bottom" xml:id="subtitle645"><span style="span">Mina?</span></p>
+<p begin="36830000000t" end="36839166667t" region="bottom" xml:id="subtitle646"><span style="span">Mina?</span></p>
+<p begin="36953750000t" end="36962500000t" region="bottom" xml:id="subtitle647"><span style="span">Khalid.</span></p>
+<p begin="36965833334t" end="36975416667t" region="bottom" xml:id="subtitle648"><span style="span">What did you do?</span></p>
+<p begin="36985833334t" end="36994583334t" region="bottom" xml:id="subtitle649"><span style="span">Khalid.</span></p>
+<p begin="37009583334t" end="37025000000t" region="bottom" xml:id="subtitle650"><span style="span">What have you done, Khalid?</span></p>
+<p begin="37100000000t" end="37109583334t" region="bottom" xml:id="subtitle651"><span style="span">No one...</span></p>
+<p begin="37127916667t" end="37139166667t" region="bottom" xml:id="subtitle652"><span style="span">must know...</span></p>
+<p begin="37150000000t" end="37159166667t" region="bottom" xml:id="subtitle653"><span style="span">about this.</span></p>
+<p begin="37179583334t" end="37201250000t" region="bottom" xml:id="subtitle654"><span style="span">We can leave her here.</span></p>
+<p begin="37212500000t" end="37228333334t" region="bottom" xml:id="subtitle655"><span style="span">The villagers must not know about this.</span></p>
+<p begin="37235416667t" end="37247916667t" region="bottom" xml:id="subtitle656"><span style="span">No one must know.</span></p>
+<p begin="37254583334t" end="37264583334t" region="bottom" xml:id="subtitle657"><span style="span">We can go home.</span></p>
+<p begin="37276666667t" end="37286666667t" region="bottom" xml:id="subtitle658"><span style="span">We can go home.</span></p>
+<p begin="37292500000t" end="37302500000t" region="bottom" xml:id="subtitle659"><span style="span">We can go home.</span></p>
+<p begin="37307500000t" end="37320833334t" region="bottom" xml:id="subtitle660"><span style="span">No one will know.</span></p>
+<p begin="37331666667t" end="37352083334t" region="bottom" xml:id="subtitle661"><span style="span">No one will.</span></p>
+<p begin="37366666667t" end="37384583334t" region="bottom" xml:id="subtitle662"><span style="span">God, please forgive me.</span></p>
+<p begin="37395416667t" end="37421666667t" region="bottom" xml:id="subtitle663"><span style="span">Forgive me. I just want to return.</span></p>
+<p begin="37422500000t" end="37433750000t" region="bottom" xml:id="subtitle664"><span style="span">-I just want to go home.</span><br/><span style="span">-Khalid.</span></p>
+<p begin="37434583334t" end="37455000000t" region="bottom" xml:id="subtitle665"><span style="span">-No one must know about this. We can--</span><br/><span style="span">-Khalid!</span></p>
+<p begin="37464583334t" end="37481666667t" region="bottom" xml:id="subtitle666"><span style="span">We have to bury her!</span></p>
+<p begin="37532916667t" end="37542916667t" region="bottom" xml:id="subtitle667"><span style="span">My goodness.</span></p>
+<p begin="37547500000t" end="37571666667t" region="bottom" xml:id="subtitle668"><span style="span">Dear God, please forgive us.</span></p>
+<p begin="37645416667t" end="37659583334t" region="bottom" xml:id="subtitle669"><span style="italic">What have you done?</span></p>
+<p begin="37668333334t" end="37688333334t" region="bottom" xml:id="subtitle670"><span style="span">There were no proper rituals for the body.</span></p>
+<p begin="37708750000t" end="37721250000t" region="bottom" xml:id="subtitle671"><span style="span">How could you be so stupid?</span></p>
+<p begin="37750833334t" end="37767500000t" region="bottom" xml:id="subtitle672"><span style="span">Do you not know</span><br/><span style="span">what you're supposed to do?</span></p>
+<p begin="37788333334t" end="37833333334t" region="bottom" xml:id="subtitle673"><span style="span">A woman who dies during childbirth</span><br/><span style="span">must be buried properly.</span></p>
+<p begin="37848750000t" end="37881666667t" region="bottom" xml:id="subtitle674"><span style="span">Otherwise, what's buried will only be</span><br/><span style="span">her mere body.</span></p>
+<p begin="37882500000t" end="37912083334t" region="bottom" xml:id="subtitle675"><span style="span">-Her vengeance will live on.</span><br/><span style="span">-I didn't know!</span></p>
+<p begin="37917500000t" end="37936666667t" region="bottom" xml:id="subtitle676"><span style="span">Did you stab her in the neck</span><br/><span style="span">with a metal bolt?</span></p>
+<p begin="37973750000t" end="37992500000t" region="bottom" xml:id="subtitle677"><span style="span">Well, it doesn't matter anymore.</span></p>
+<p begin="38005000000t" end="38016666667t" region="bottom" xml:id="subtitle678"><span style="span">It's too late.</span></p>
+<p begin="38040416667t" end="38075000000t" region="bottom" xml:id="subtitle679"><span style="span">Now, she has returned to hunt you.</span></p>
+<p begin="38148750000t" end="38168333334t" region="bottom" xml:id="subtitle680"><span style="span">She did not only return to hunt me.</span></p>
+<p begin="38185000000t" end="38197916667t" region="bottom" xml:id="subtitle681"><span style="span">Yes, I know.</span></p>
+<p begin="38211666667t" end="38224166667t" region="bottom" xml:id="subtitle682"><span style="span">She's got Rais.</span></p>
+<p begin="38239583334t" end="38260000000t" region="bottom" xml:id="subtitle683"><span style="span">She also took your brother's unborn child.</span></p>
+<p begin="38292916667t" end="38304166667t" region="bottom" xml:id="subtitle684"><span style="span">My son.</span></p>
+<p begin="38308750000t" end="38319583334t" region="bottom" xml:id="subtitle685"><span style="span">Your son?</span></p>
+<p begin="38355416667t" end="38365000000t" region="bottom" xml:id="subtitle686"><span style="span">Yes.</span></p>
+<p begin="38395833334t" end="38405416667t" region="bottom" xml:id="subtitle687"><span style="span">Our son.</span></p>
+<p begin="38556666667t" end="38566250000t" region="bottom" xml:id="subtitle688"><span style="span">You damned fool!</span></p>
+<p begin="38588333334t" end="38607916667t" region="bottom" xml:id="subtitle689"><span style="span">This wasn't supposed to happen to me.</span></p>
+<p begin="38608750000t" end="38640833334t" region="bottom" xml:id="subtitle690"><span style="span">I'm not a killer.</span><br/><span style="span">I never wanted to hurt anyone.</span></p>
+<p begin="38651666667t" end="38693333334t" region="bottom" xml:id="subtitle691"><span style="span">I thought the child was God</span><br/><span style="span">giving me a chance at redemption.</span></p>
+<p begin="38697916667t" end="38709583334t" region="bottom" xml:id="subtitle692"><span style="span">Redemption?</span></p>
+<p begin="38710416667t" end="38725000000t" region="bottom" xml:id="subtitle693"><span style="span">I've paid for my sins since then.</span></p>
+<p begin="38725833334t" end="38742083334t" region="bottom" xml:id="subtitle694"><span style="span">I raised and loved that boy</span><br/><span style="span">with all my heart.</span></p>
+<p begin="38754166667t" end="38773333334t" region="bottom" xml:id="subtitle695"><span style="span">That boy is the child of a demon!</span></p>
+<p begin="38775000000t" end="38789166667t" region="bottom" xml:id="subtitle696"><span style="span">A demon!</span></p>
+<p begin="38812083334t" end="38821666667t" region="bottom" xml:id="subtitle697"><span style="span">Please.</span></p>
+<p begin="38844583334t" end="38859583334t" region="bottom" xml:id="subtitle698"><span style="span">I'm begging you.</span></p>
+<p begin="38866250000t" end="38880833334t" region="bottom" xml:id="subtitle699"><span style="span">Please help me.</span></p>
+<p begin="38910000000t" end="38925833334t" region="bottom" xml:id="subtitle700"><span style="span">My family is in danger.</span></p>
+<p begin="38932500000t" end="38958750000t" region="bottom" xml:id="subtitle701"><span style="span">I need your help. Please help me.</span></p>
+<p begin="38959583334t" end="38969583334t" region="bottom" xml:id="subtitle702"><span style="span">Please help me!</span></p>
+<p begin="38974583334t" end="38984166667t" region="bottom" xml:id="subtitle703"><span style="span">Please!</span></p>
+<p begin="39004583334t" end="39020833334t" region="bottom" xml:id="subtitle704"><span style="span">Mr. Din.</span></p>
+<p begin="39377500000t" end="39387083334t" region="bottom" xml:id="subtitle705"><span style="span">What is this?</span></p>
+<p begin="39394166667t" end="39434583334t" region="bottom" xml:id="subtitle706"><span style="span">This is the only way to make sure</span><br/><span style="span">she stays in her grave.</span></p>
+<p begin="39460833334t" end="39476666667t" region="bottom" xml:id="subtitle707"><span style="span">Stab her in the neck with it.</span></p>
+<p begin="39482916667t" end="39512083334t" region="bottom" xml:id="subtitle708"><span style="span">Like you should have done</span><br/><span style="span">all those years ago.</span></p>
+<p begin="39545833334t" end="39558750000t" region="bottom" xml:id="subtitle709"><span style="span">Where's your family?</span></p>
+<p begin="39574166667t" end="39587500000t" region="bottom" xml:id="subtitle710"><span style="span">We must act fast.</span></p>
+<p begin="39592083334t" end="39612916667t" region="bottom" xml:id="subtitle711"><span style="span">-What is this?</span><br/><span style="span">-Help me!</span></p>
+<p begin="39613750000t" end="39626250000t" region="bottom" xml:id="subtitle712"><span style="span">No, let me go!</span></p>
+<p begin="39627083334t" end="39641666667t" region="bottom" xml:id="subtitle713"><span style="span">Kill her!</span></p>
+<p begin="39642500000t" end="39650833334t" region="bottom" xml:id="subtitle714"><span style="span">Siti!</span></p>
+<p begin="39657083334t" end="39666666667t" region="bottom" xml:id="subtitle715"><span style="span">Siti!</span></p>
+<p begin="39667916667t" end="39690000000t" region="bottom" xml:id="subtitle716"><span style="span">What's all this?</span></p>
+<p begin="39690833334t" end="39710416667t" region="bottom" xml:id="subtitle717"><span style="span">Siti!</span></p>
+<p begin="39711250000t" end="39722500000t" region="bottom" xml:id="subtitle718"><span style="span">Enough! Siti!</span></p>
+<p begin="39723333334t" end="39744166667t" region="bottom" xml:id="subtitle719"><span style="span">-Siti.</span><br/><span style="span">-Honey! Help me!</span></p>
+<p begin="39745000000t" end="39754583334t" region="bottom" xml:id="subtitle720"><span style="span">Let me go!</span></p>
+<p begin="39758750000t" end="39780000000t" region="bottom" xml:id="subtitle721"><span style="span">-Let me go.</span><br/><span style="span">-It's him.</span></p>
+<p begin="39780833334t" end="39796250000t" region="bottom" xml:id="subtitle722"><span style="span">Sir! What is this?</span></p>
+<p begin="39807083334t" end="39820416667t" region="bottom" xml:id="subtitle723"><span style="span">I'm sorry, Khalid.</span></p>
+<p begin="39825833334t" end="39851250000t" region="bottom" xml:id="subtitle724"><span style="span">I can't control them for much longer.</span></p>
+<p begin="39859583334t" end="39869166667t" region="bottom" xml:id="subtitle725"><span style="span">Khalid!</span></p>
+<p begin="39870416667t" end="39897500000t" region="bottom" xml:id="subtitle726"><span style="span">Your family has cursed our village,</span><br/><span style="span">you bastard!</span></p>
+<p begin="39898333334t" end="39929166667t" region="bottom" xml:id="subtitle727"><span style="span">What's wrong with my son?</span><br/><span style="span">My son is unconscious!</span></p>
+<p begin="39951666667t" end="39965416667t" region="bottom" xml:id="subtitle728"><span style="span">What's wrong with all of you?</span></p>
+<p begin="40015833334t" end="40028333334t" region="bottom" xml:id="subtitle729"><span style="span">Listen to me!</span></p>
+<p begin="40040416667t" end="40054166667t" region="bottom" xml:id="subtitle730"><span style="span">Listen to me, everyone!</span></p>
+<p begin="40078750000t" end="40111666667t" region="bottom" xml:id="subtitle731"><span style="span">Your fears are justified.</span></p>
+<p begin="40147916667t" end="40175416667t" region="bottom" xml:id="subtitle732"><span style="span">All of you are right</span></p>
+<p begin="40191666667t" end="40219583334t" region="bottom" xml:id="subtitle733"><span style="span">to believe that this family</span></p>
+<p begin="40220833334t" end="40251250000t" region="bottom" xml:id="subtitle734"><span style="span">is to blame for your pain.</span></p>
+<p begin="40265833334t" end="40285000000t" region="bottom" xml:id="subtitle735"><span style="span">But this woman is innocent.</span></p>
+<p begin="40285833334t" end="40296666667t" region="bottom" xml:id="subtitle736"><span style="span">She's not to blame.</span></p>
+<p begin="40315416667t" end="40349166667t" region="bottom" xml:id="subtitle737"><span style="span">She is a victim, just like all of you.</span></p>
+<p begin="40360416667t" end="40382083334t" region="bottom" xml:id="subtitle738"><span style="span">Let her go.</span><br/><span style="span">Let this woman go.</span></p>
+<p begin="40390416667t" end="40405416667t" region="bottom" xml:id="subtitle739"><span style="span">-Let her go.</span><br/><span style="span">-Come here, Siti.</span></p>
+<p begin="40416666667t" end="40426250000t" region="bottom" xml:id="subtitle740"><span style="span">Siti.</span></p>
+<p begin="40455000000t" end="40470000000t" region="bottom" xml:id="subtitle741"><span style="span">The demon was born</span></p>
+<p begin="40484583334t" end="40513750000t" region="bottom" xml:id="subtitle742"><span style="span">from the unholy sins of this man!</span></p>
+<p begin="40541250000t" end="40562083334t" region="bottom" xml:id="subtitle743"><span style="span">-Hold on!</span><br/><span style="span">-Back off!</span></p>
+<p begin="40562916667t" end="40592916667t" region="bottom" xml:id="subtitle744"><span style="span">Hold on. It is true. All of it.</span></p>
+<p begin="40594166667t" end="40620833334t" region="bottom" xml:id="subtitle745"><span style="span">I did this. And I am sorry.</span></p>
+<p begin="40621666667t" end="40640416667t" region="bottom" xml:id="subtitle746"><span style="span">-Khalid, you're not the only--</span><br/><span style="span">-I did this!</span></p>
+<p begin="40645000000t" end="40657500000t" region="bottom" xml:id="subtitle747"><span style="span">Only me.</span></p>
+<p begin="40672916667t" end="40687083334t" region="bottom" xml:id="subtitle748"><span style="span">I am sorry.</span></p>
+<p begin="40694583334t" end="40721250000t" region="bottom" xml:id="subtitle749"><span style="span">I am sorry for your pain.</span></p>
+<p begin="40730000000t" end="40770416667t" region="bottom" xml:id="subtitle750"><span style="span">Tonight, I confess to my family,</span><br/><span style="span">to all of you, and to God.</span></p>
+<p begin="40804583334t" end="40813333334t" region="bottom" xml:id="subtitle751"><span style="span">Yes.</span></p>
+<p begin="40825833334t" end="40834583334t" region="bottom" xml:id="subtitle752"><span style="span">I...</span></p>
+<p begin="40844583334t" end="40862083334t" region="bottom" xml:id="subtitle753"><span style="span">I am a liar.</span></p>
+<p begin="40896666667t" end="40907083334t" region="bottom" xml:id="subtitle754"><span style="span">I am a murderer.</span></p>
+<p begin="40907916667t" end="40937500000t" region="bottom" xml:id="subtitle755"><span style="span">-Banish him from this place!</span><br/><span style="span">-Get rid of him!</span></p>
+<p begin="40943333334t" end="40953750000t" region="bottom" xml:id="subtitle756"><span style="span">Wait!</span></p>
+<p begin="40954583334t" end="40993333334t" region="bottom" xml:id="subtitle757"><span style="span">I know I am the reason</span><br/><span style="span">this demon is here. I know.</span></p>
+<p begin="40995833334t" end="41031250000t" region="bottom" xml:id="subtitle758"><span style="span">But I will find this demon tonight</span><br/><span style="span">and I will destroy it.</span></p>
+<p begin="41034583334t" end="41049583334t" region="bottom" xml:id="subtitle759"><span style="span">I will go with him.</span></p>
+<p begin="41065000000t" end="41089166667t" region="bottom" xml:id="subtitle760"><span style="span">I will hunt this demon with him.</span></p>
+<p begin="41090000000t" end="41105000000t" region="bottom" xml:id="subtitle761"><span style="span">Listen, everyone.</span></p>
+<p begin="41107083334t" end="41127500000t" region="bottom" xml:id="subtitle762"><span style="span">Join us if you want.</span></p>
+<p begin="41128750000t" end="41169166667t" region="bottom" xml:id="subtitle763"><span style="span">Let us all hunt and destroy</span><br/><span style="span">this demon tonight!</span></p>
+<p begin="41170000000t" end="41185416667t" region="bottom" xml:id="subtitle764"><span style="span">-Let's go!</span><br/><span style="span">-Let's go!</span></p>
+<p begin="41186250000t" end="41218333334t" region="bottom" xml:id="subtitle765"><span style="span">-Let's hunt the demon!</span><br/><span style="span">-Let's find it!</span></p>
+<p begin="41267500000t" end="41282916667t" region="bottom" xml:id="subtitle766"><span style="span">Let's go inside.</span></p>
+<p begin="41287083334t" end="41296666667t" region="bottom" xml:id="subtitle767"><span style="span">Honey.</span></p>
+<p begin="41313333334t" end="41326250000t" region="bottom" xml:id="subtitle768"><span style="span">Be careful, honey.</span></p>
+<p begin="41345000000t" end="41353750000t" region="bottom" xml:id="subtitle769"><span style="span">Siti.</span></p>
+<p begin="41366666667t" end="41375833334t" region="bottom" xml:id="subtitle770"><span style="span">Nik.</span></p>
+<p begin="41384583334t" end="41405000000t" region="bottom" xml:id="subtitle771"><span style="span">-Nik, get inside. Quick!</span><br/><span style="span">-Siti. Nik.</span></p>
+<p begin="41405833334t" end="41433333334t" region="bottom" xml:id="subtitle772"><span style="span">-Nik, get inside.</span><br/><span style="span">-Siti, wait. Siti.</span></p>
+<p begin="41437916667t" end="41447916667t" region="bottom" xml:id="subtitle773"><span style="span">Siti.</span></p>
+<p begin="41718750000t" end="41749583334t" region="bottom" xml:id="subtitle774"><span style="span">Khalid, you go straight ahead.</span></p>
+<p begin="41755000000t" end="41774166667t" region="bottom" xml:id="subtitle775"><span style="span">Reza, you follow them.</span></p>
+<p begin="41784166667t" end="41830000000t" region="bottom" xml:id="subtitle776"><span style="span">I'll follow those boys on the right.</span><br/><span style="span">And what about you?</span></p>
+<p begin="41833750000t" end="41865833334t" region="bottom" xml:id="subtitle777"><span style="span">I won't be far behind.</span></p>
+<p begin="41873750000t" end="41883333334t" region="bottom" xml:id="subtitle778"><span style="span">All right.</span></p>
+<p begin="41884166667t" end="41896666667t" region="bottom" xml:id="subtitle779"><span style="span">Let's go.</span></p>
+<p begin="41906666667t" end="41925000000t" region="bottom" xml:id="subtitle780"><span style="span">-Come on.</span><br/><span style="span">-I'll go that way.</span></p>
+<p begin="41925833334t" end="41935416667t" region="bottom" xml:id="subtitle781"><span style="span">Be careful, Reza.</span></p>
+<p begin="41945000000t" end="41954583334t" region="bottom" xml:id="subtitle782"><span style="span">Wait for me.</span></p>
+<p begin="41964166667t" end="41980833334t" region="bottom" xml:id="subtitle783"><span style="span">We'll meet the others there.</span></p>
+<p begin="42794166667t" end="42811666667t" region="bottom" xml:id="subtitle784"><span style="span">Did you hear that?</span></p>
+<p begin="42815833334t" end="42825416667t" region="bottom" xml:id="subtitle785"><span style="span">Over there!</span></p>
+<p begin="42844166667t" end="42853750000t" region="bottom" xml:id="subtitle786"><span style="span">There she is.</span></p>
+<p begin="42854583334t" end="42867083334t" region="bottom" xml:id="subtitle787"><span style="span">-Hurry.</span><br/><span style="span">-There she is.</span></p>
+<p begin="42899583334t" end="42915416667t" region="bottom" xml:id="subtitle788"><span style="span">Kill her!</span></p>
+<p begin="43086666667t" end="43097500000t" region="bottom" xml:id="subtitle789"><span style="span">My goodness.</span></p>
+<p begin="43106250000t" end="43115833334t" region="bottom" xml:id="subtitle790"><span style="span">Don't run.</span></p>
+<p begin="44103750000t" end="44112500000t" region="bottom" xml:id="subtitle791"><span style="span">Reza.</span></p>
+<p begin="44142916667t" end="44151666667t" region="bottom" xml:id="subtitle792"><span style="span">Reza?</span></p>
+<p begin="44171250000t" end="44191666667t" region="bottom" xml:id="subtitle793"><span style="span">Reza!</span></p>
+<p begin="44195833334t" end="44205000000t" region="bottom" xml:id="subtitle794"><span style="span">Reza!</span></p>
+<p begin="44214583334t" end="44230416667t" region="bottom" xml:id="subtitle795"><span style="span">Reza, wake up.</span></p>
+<p begin="44231250000t" end="44245416667t" region="bottom" xml:id="subtitle796"><span style="span">Reza, wake up.</span></p>
+<p begin="44250000000t" end="44269166667t" region="bottom" xml:id="subtitle797"><span style="span">How could this happen, Reza?</span></p>
+<p begin="44277083334t" end="44292083334t" region="bottom" xml:id="subtitle798"><span style="span">Reza!</span></p>
+<p begin="44302500000t" end="44332083334t" region="bottom" xml:id="subtitle799"><span style="span">Reza, wake up. How could this happen?</span></p>
+<p begin="44333750000t" end="44350000000t" region="bottom" xml:id="subtitle800"><span style="span">Why, Reza?</span></p>
+<p begin="44362500000t" end="44382083334t" region="bottom" xml:id="subtitle801"><span style="span">Reza, please wake up.</span></p>
+<p begin="44387916667t" end="44403333334t" region="bottom" xml:id="subtitle802"><span style="span">Reza, please wake up.</span></p>
+<p begin="44404166667t" end="44419166667t" region="bottom" xml:id="subtitle803"><span style="span">I told you.</span></p>
+<p begin="44443333334t" end="44464166667t" region="bottom" xml:id="subtitle804"><span style="span">I would never forget you.</span></p>
+<p begin="44501250000t" end="44515000000t" region="bottom" xml:id="subtitle805"><span style="span">There were times</span></p>
+<p begin="44527916667t" end="44541250000t" region="bottom" xml:id="subtitle806"><span style="span">when I felt angry</span></p>
+<p begin="44550416667t" end="44569166667t" region="bottom" xml:id="subtitle807"><span style="span">and didn't know myself.</span></p>
+<p begin="44578333334t" end="44600000000t" region="bottom" xml:id="subtitle808"><span style="span">I didn't know what to feel.</span></p>
+<p begin="44633333334t" end="44655000000t" region="bottom" xml:id="subtitle809"><span style="span">All I could see was darkness.</span></p>
+<p begin="44859583334t" end="44877916667t" region="bottom" xml:id="subtitle810"><span style="span">I love you.</span></p>
+<p begin="44905416667t" end="44938333334t" region="bottom" xml:id="subtitle811"><span style="span">More than anything else in this world.</span></p>
+<p begin="44976250000t" end="44995416667t" region="bottom" xml:id="subtitle812"><span style="span">But you took everything away from me.</span></p>
+<p begin="45022083334t" end="45034583334t" region="bottom" xml:id="subtitle813"><span style="span">My heart.</span></p>
+<p begin="45066250000t" end="45085833334t" region="bottom" xml:id="subtitle814"><span style="span">You took my life.</span></p>
+<p begin="45102916667t" end="45119166667t" region="bottom" xml:id="subtitle815"><span style="span">You robbed me of my dignity.</span></p>
+<p begin="45186250000t" end="45199583334t" region="bottom" xml:id="subtitle816"><span style="span">Our child.</span></p>
+<p begin="45241250000t" end="45256666667t" region="bottom" xml:id="subtitle817"><span style="span">Our child, my love.</span></p>
+<p begin="45307916667t" end="45320000000t" region="bottom" xml:id="subtitle818"><span style="span">He...</span></p>
+<p begin="45343333334t" end="45352916667t" region="bottom" xml:id="subtitle819"><span style="span">He...</span></p>
+<p begin="45375416667t" end="45392500000t" region="bottom" xml:id="subtitle820"><span style="span">He's willful.</span></p>
+<p begin="45428333334t" end="45440833334t" region="bottom" xml:id="subtitle821"><span style="span">Just like...</span></p>
+<p begin="45471250000t" end="45486250000t" region="bottom" xml:id="subtitle822"><span style="span">his mother.</span></p>
+<p begin="45638333334t" end="45678333334t" region="bottom" xml:id="subtitle823"><span style="span">God, please grant me strength!</span></p>
+<p begin="45686666667t" end="45712083334t" region="bottom" xml:id="subtitle824"><span style="span">God will not help you!</span></p>
+<p begin="45713750000t" end="45723750000t" region="bottom" xml:id="subtitle825"><span style="span">Quiet!</span></p>
+<p begin="46000416667t" end="46026666667t" region="bottom" xml:id="subtitle826"><span style="span">I just wanted you to love me.</span></p>
+<p begin="46042916667t" end="46055833334t" region="bottom" xml:id="subtitle827"><span style="span">That's all.</span></p>
+<p begin="46079583334t" end="46108333334t" region="bottom" xml:id="subtitle828"><span style="span">Love brought me back</span></p>
+<p begin="46126250000t" end="46137916667t" region="bottom" xml:id="subtitle829"><span style="span">to you</span></p>
+<p begin="46150000000t" end="46165833334t" region="bottom" xml:id="subtitle830"><span style="span">and to our son.</span></p>
+<p begin="46199166667t" end="46227083334t" region="bottom" xml:id="subtitle831"><span style="span">Could you love me again</span><br/><span style="span">like you did before?</span></p>
+<p begin="46258333334t" end="46286666667t" region="bottom" xml:id="subtitle832"><span style="span">Yes, Mina.</span></p>
+<p begin="46298333334t" end="46308750000t" region="bottom" xml:id="subtitle833"><span style="span">I can.</span></p>
+<p begin="46329583334t" end="46340416667t" region="bottom" xml:id="subtitle834"><span style="span">You liar!</span></p>
+<p begin="46397500000t" end="46427916667t" region="bottom" xml:id="subtitle835"><span style="span">I love you, Khalid.</span></p>
+<p begin="46446250000t" end="46457916667t" region="bottom" xml:id="subtitle836"><span style="span">Only you.</span></p>
+<p begin="46468333334t" end="46478750000t" region="bottom" xml:id="subtitle837"><span style="span">Forever.</span></p>
+<p begin="47089166667t" end="47116250000t" region="bottom" xml:id="subtitle838"><span style="span">God protect us.</span></p>
+<p begin="47279166667t" end="47289166667t" region="bottom" xml:id="subtitle839"><span style="span">Don't!</span></p>
+<p begin="47362916667t" end="47374583334t" region="bottom" xml:id="subtitle840"><span style="span">Nik...</span></p>
+<p begin="47519166667t" end="47528333334t" region="bottom" xml:id="subtitle841"><span style="span">Mom.</span></p>
+<p begin="48113333334t" end="48125416667t" region="bottom" xml:id="subtitle842"><span style="span">My son.</span></p>
+<p begin="48195833334t" end="48216250000t" region="bottom" xml:id="subtitle843"><span style="span">My dear son.</span></p>
+<p begin="48334166667t" end="48343750000t" region="bottom" xml:id="subtitle844"><span style="span">Mom...</span></p>
+<p begin="50550000000t" end="50570416667t" region="bottom" xml:id="subtitle845"><span style="span">I'm done seeking revenge.</span></p>
+<p begin="50597083334t" end="50621250000t" region="bottom" xml:id="subtitle846"><span style="span">I've seen enough terrified people.</span></p>
+<p begin="50643333334t" end="50658333334t" region="bottom" xml:id="subtitle847"><span style="span">Cruelty looms large.</span></p>
+<p begin="50762083334t" end="50779166667t" region="bottom" xml:id="subtitle848"><span style="span">Take care of my boy.</span></p>
+<p begin="50799583334t" end="50812916667t" region="bottom" xml:id="subtitle849"><span style="span">Raise him</span></p>
+<p begin="50826250000t" end="50849166667t" region="bottom" xml:id="subtitle850"><span style="span">to be someone different.</span></p>
+<p begin="50889583334t" end="50902500000t" region="bottom" xml:id="subtitle851"><span style="span">Someone good.</span></p>
+<p begin="51151250000t" end="51165000000t" region="bottom" xml:id="subtitle852"><span style="span">Release me</span></p>
+<p begin="51189166667t" end="51217083334t" region="bottom" xml:id="subtitle853"><span style="span">from this life of complete darkness.</span></p>
+<p begin="55068750000t" end="55101666667t" region="bottom" xml:id="subtitle854"><span style="span">Subtitle translation by Gavin Yap</span></p>
+</div>
+</body>
+</tt>

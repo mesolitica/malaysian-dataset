@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="485416666t" end="500416666t" style="normal" xml:id="subtitle0"><span style="normal_1">I promise to take care of your heart...</span></p>
+<p begin="511250000t" end="538333333t" region="top" style="normal" xml:id="subtitle1"><span style="normal_1">until the end of my life.</span></p>
+<p begin="539166666t" end="566250000t" region="top" style="normal" xml:id="subtitle2"><span style="normal_1">I want to see you adorned.</span></p>
+<p begin="601250000t" end="618750000t" style="normal" xml:id="subtitle3"><span style="normal_1">Let me go, Thom.</span></p>
+<p begin="654583333t" end="678333333t" region="top" style="normal" xml:id="subtitle4"><span style="normal_1">You and Omar are my life.</span></p>
+<p begin="690000000t" end="699583333t" region="top" style="normal" xml:id="subtitle5"><span style="normal_1">I will return.</span></p>
+<p begin="735833333t" end="748750000t" style="normal" xml:id="subtitle6">Ahmad!</p>
+<p begin="784166666t" end="812916666t" style="normal" xml:id="subtitle7">Take it easy, Grandma.<br/>I'm here. Easy, easy.</p>
+<p begin="1021250000t" end="1043750000t" style="normal" xml:id="subtitle8">Grandma, we should go to the hospital.</p>
+<p begin="1065000000t" end="1076666666t" style="normal" xml:id="subtitle9">No.</p>
+<p begin="1125833333t" end="1137916666t" style="normal" xml:id="subtitle10">If I go,</p>
+<p begin="1141666666t" end="1161666666t" style="normal" xml:id="subtitle11">I will never come back to this house.</p>
+<p begin="1744583333t" end="1758333333t" style="normal" xml:id="subtitle12">There isn't much time.</p>
+<p begin="1765833333t" end="1789583333t" style="normal" xml:id="subtitle13">I won't be here much longer.</p>
+<p begin="1806250000t" end="1832916666t" style="normal" xml:id="subtitle14">Please don't say that.</p>
+<p begin="1836250000t" end="1851250000t" style="normal" xml:id="subtitle15">I want to know, Ahmad.</p>
+<p begin="1861666666t" end="1891666666t" style="normal" xml:id="subtitle16">Before I die,</p>
+<p begin="1908333333t" end="1919166666t" style="normal" xml:id="subtitle17">I want to know</p>
+<p begin="1927500000t" end="1953333333t" style="normal" xml:id="subtitle18">what really happened.</p>
+<p begin="1970833333t" end="2018333333t" region="top" style="normal" xml:id="subtitle19">Listen to the story I kept<br/>all these years,</p>
+<p begin="2022500000t" end="2062500000t" style="normal" xml:id="subtitle20">from beginning to end.</p>
+<p begin="2428750000t" end="2462916666t" style="normal" xml:id="subtitle21"><span style="normal_1">I never believed in love at first sight...</span></p>
+<p begin="2477083333t" end="2504583333t" region="top" style="normal" xml:id="subtitle22"><span style="normal_1">but it happens</span></p>
+<p begin="2511250000t" end="2526250000t" region="top" style="normal" xml:id="subtitle23"><span style="normal_1">when you least expect it.</span></p>
+<p begin="2665000000t" end="2682500000t" style="normal" xml:id="subtitle24">Have a look, then choose.</p>
+<p begin="2692500000t" end="2705416666t" style="normal" xml:id="subtitle25">All fresh from the sea.</p>
+<p begin="2713750000t" end="2727916666t" style="normal" xml:id="subtitle26">All the fishes are fresh.</p>
+<p begin="2732500000t" end="2749583333t" style="normal" xml:id="subtitle27">Come. Take a look at the fresh fish.</p>
+<p begin="2751250000t" end="2769583333t" style="normal" xml:id="subtitle28">There's mackerel, sardines, threadfish...</p>
+<p begin="2770416666t" end="2787916666t" style="normal" xml:id="subtitle29">-Come and take a look.<br/>-Miss.</p>
+<p begin="2799583333t" end="2827916666t" style="normal" xml:id="subtitle30">-Have a look first.<br/>-These are fresh fishes.</p>
+<p begin="2831250000t" end="2851250000t" style="normal" xml:id="subtitle31">Thom, if you want the good ones,</p>
+<p begin="2855000000t" end="2867500000t" style="normal" xml:id="subtitle32">go there.</p>
+<p begin="2869583333t" end="2892500000t" style="normal" xml:id="subtitle33">Come. There are lots of fresh fishes.</p>
+<p begin="2905833333t" end="2936666666t" style="normal" xml:id="subtitle34">Somehow they always end up at Othman's.</p>
+<p begin="2937916666t" end="2950000000t" style="normal" xml:id="subtitle35">You're right.</p>
+<p begin="2974166666t" end="2982500000t" style="normal" xml:id="subtitle36">Salmah.</p>
+<p begin="3018750000t" end="3046666666t" style="normal" xml:id="subtitle37">Mackerel, Man. Like always.<br/>Give me the big ones.</p>
+<p begin="3047500000t" end="3075416666t" style="normal" xml:id="subtitle38">-The usual right, Salmah?<br/>-Yes, like always.</p>
+<p begin="3086666666t" end="3117500000t" style="normal" xml:id="subtitle39">This is my friend, Thom.<br/>Che Puteh's grandniece.</p>
+<p begin="3123333333t" end="3156250000t" style="normal" xml:id="subtitle40">Che Puteh is unwell.<br/>She's here to look after her.</p>
+<p begin="3159583333t" end="3184583333t" style="normal" xml:id="subtitle41">-Salmah.<br/>-What do you want, Karim?</p>
+<p begin="3197500000t" end="3207500000t" style="normal" xml:id="subtitle42">Thank you, Man.</p>
+<p begin="3221666666t" end="3230000000t" style="normal" xml:id="subtitle43">What?</p>
+<p begin="3280833333t" end="3292083333t" style="normal" xml:id="subtitle44">I'll have the same.</p>
+<p begin="3294166666t" end="3320833333t" style="normal" xml:id="subtitle45">All items are RM1.</p>
+<p begin="3420000000t" end="3428333333t" style="normal" xml:id="subtitle46">That's too much.</p>
+<p begin="3486666666t" end="3499166666t" style="normal" xml:id="subtitle47">It's okay. Take it.</p>
+<p begin="3538333333t" end="3547500000t" style="normal" xml:id="subtitle48">For Che Puteh.</p>
+<p begin="3609166666t" end="3622916666t" style="normal" xml:id="subtitle49">-Thank you.<br/>-You're welcome.</p>
+<p begin="3637083333t" end="3653750000t" style="normal" xml:id="subtitle50">Che Thom.</p>
+<p begin="3660833333t" end="3673333333t" style="normal" xml:id="subtitle51">Are you done?</p>
+<p begin="3705416666t" end="3718333333t" style="normal" xml:id="subtitle52">We'll take our leave now.</p>
+<p begin="3728750000t" end="3742916666t" style="normal" xml:id="subtitle53">-Che Thom.<br/>-Che Thom.</p>
+<p begin="3743750000t" end="3764583333t" style="normal" xml:id="subtitle54">Your basket looks awfully heavy.</p>
+<p begin="3971666666t" end="3998750000t" style="normal" xml:id="subtitle55">Fresh fish, come and choose!</p>
+<p begin="3999583333t" end="4042083333t" style="normal" xml:id="subtitle56">Brother, that looks heavy. Be careful.<br/>Those hips might just give out.</p>
+<p begin="4067083333t" end="4078750000t" style="normal" xml:id="subtitle57">Salmah.</p>
+<p begin="4098333333t" end="4116250000t" style="normal" xml:id="subtitle58">Taib, I'm going to get more fish.</p>
+<p begin="4140833333t" end="4149166666t" style="normal" xml:id="subtitle59">Man.</p>
+<p begin="4151250000t" end="4173750000t" style="normal" xml:id="subtitle60">Don't stare too long at that house.</p>
+<p begin="4182500000t" end="4202916666t" style="normal" xml:id="subtitle61">What if the walls break?</p>
+<p begin="4510416666t" end="4532916666t" style="normal" xml:id="subtitle62">To Che Thom who...</p>
+<p begin="4552500000t" end="4562500000t" style="normal" xml:id="subtitle63">Dear...</p>
+<p begin="4578333333t" end="4590833333t" style="normal" xml:id="subtitle64">For...</p>
+<p begin="4595416666t" end="4604583333t" style="normal" xml:id="subtitle65">Othman.</p>
+<p begin="4621666666t" end="4630000000t" style="normal" xml:id="subtitle66">Oh, God.</p>
+<p begin="4645000000t" end="4653750000t" style="normal" xml:id="subtitle67">Thank you.</p>
+<p begin="4667083333t" end="4680000000t" style="normal" xml:id="subtitle68">You haven't been here in a while.</p>
+<p begin="4691250000t" end="4701666666t" style="normal" xml:id="subtitle69">Che Puteh hasn't been well.</p>
+<p begin="4714166666t" end="4727083333t" style="normal" xml:id="subtitle70">I can't leave her for long.</p>
+<p begin="4736250000t" end="4752083333t" style="normal" xml:id="subtitle71">Salmah is with her now.</p>
+<p begin="4788750000t" end="4802083333t" style="normal" xml:id="subtitle72">Have you ever been out to the sea?</p>
+<p begin="4822500000t" end="4838750000t" style="normal" xml:id="subtitle73">I'm actually afraid of the deep sea.</p>
+<p begin="4848333333t" end="4860000000t" style="normal" xml:id="subtitle74">I'm scared of drowning.</p>
+<p begin="4863750000t" end="4882500000t" style="normal" xml:id="subtitle75">But the sea is calmer than the shore.</p>
+<p begin="4895000000t" end="4907916666t" style="normal" xml:id="subtitle76">How is that possible?</p>
+<p begin="4927500000t" end="4939166666t" style="normal" xml:id="subtitle77">Close your eyes.</p>
+<p begin="4992916666t" end="5001250000t" style="normal" xml:id="subtitle78">Close them.</p>
+<p begin="5145416666t" end="5169166666t" style="normal" xml:id="subtitle79">Imagine you're alone<br/>in the middle of the ocean.</p>
+<p begin="5238750000t" end="5249583333t" style="normal" xml:id="subtitle80">Look at the sky.</p>
+<p begin="5305416666t" end="5316666666t" style="normal" xml:id="subtitle81"><span style="normal_1">Blue.</span></p>
+<p begin="5344583333t" end="5358750000t" style="normal" xml:id="subtitle82"><span style="normal_1">Bathed in sunlight.</span></p>
+<p begin="5378750000t" end="5395416666t" style="normal" xml:id="subtitle83"><span style="normal_1">As far as the eye can see.</span></p>
+<p begin="5414583333t" end="5425833333t" style="normal" xml:id="subtitle84"><span style="normal_1">Picture the ocean.</span></p>
+<p begin="5439583333t" end="5447916666t" style="normal" xml:id="subtitle85"><span style="normal_1">As green...</span></p>
+<p begin="5459583333t" end="5476666666t" style="normal" xml:id="subtitle86"><span style="normal_1">as it is deep...</span></p>
+<p begin="5492083333t" end="5507500000t" style="normal" xml:id="subtitle87"><span style="normal_1">with no end in sight.</span></p>
+<p begin="5518333333t" end="5528750000t" style="normal" xml:id="subtitle88"><span style="normal_1">All is quiet.</span></p>
+<p begin="5538750000t" end="5556250000t" style="normal" xml:id="subtitle89"><span style="normal_1">There is no other sound</span></p>
+<p begin="5564166666t" end="5583333333t" style="normal" xml:id="subtitle90"><span style="normal_1">except for your heartbeat.</span></p>
+<p begin="5684166666t" end="5700000000t" style="normal" xml:id="subtitle91">That's calm to me, Che Thom.</p>
+<p begin="5742083333t" end="5764166666t" style="normal" xml:id="subtitle92">But the sea is never calm. Right, Othman?</p>
+<p begin="5788333333t" end="5798333333t" style="normal" xml:id="subtitle93">Otherwise...</p>
+<p begin="5817916666t" end="5834166666t" style="normal" xml:id="subtitle94">that boat wouldn't be like that.</p>
+<p begin="5847083333t" end="5855416666t" style="normal" xml:id="subtitle95">Washed up...</p>
+<p begin="5871250000t" end="5880416666t" style="normal" xml:id="subtitle96">and abandoned.</p>
+<p begin="5895416666t" end="5912916666t" style="normal" xml:id="subtitle97">At least the boat had been to sea.</p>
+<p begin="5915416666t" end="5940833333t" style="normal" xml:id="subtitle98">What good is a boat<br/>if it's just anchored by the shore?</p>
+<p begin="5974583333t" end="5982916666t" style="normal" xml:id="subtitle99">Che Puteh.</p>
+<p begin="6006250000t" end="6015000000t" style="normal" xml:id="subtitle100">Oh, my God.</p>
+<p begin="6022500000t" end="6032500000t" style="normal" xml:id="subtitle101">Grandma!</p>
+<p begin="6040000000t" end="6064166666t" style="normal" xml:id="subtitle102">-Che Puteh. Thom.<br/>-Grandma!</p>
+<p begin="6070416666t" end="6096250000t" style="normal" xml:id="subtitle103">-Che Puteh. Oh, my God. I warned her.<br/>-Grandma.</p>
+<p begin="6097083333t" end="6110416666t" style="normal" xml:id="subtitle104">Grandma.</p>
+<p begin="6114166666t" end="6142083333t" style="normal" xml:id="subtitle105">How did you fall? Grandma. Grandma Puteh.</p>
+<p begin="6142916666t" end="6163333333t" style="normal" xml:id="subtitle106"><span style="normal_1">Grandma's death</span></p>
+<p begin="6168750000t" end="6225000000t" style="normal" xml:id="subtitle107"><span style="normal_1">left me lost and alone.</span></p>
+<p begin="6230000000t" end="6297500000t" style="normal" xml:id="subtitle108"><span style="normal_1">I lost a shoulder to cry on</span><br/><span style="normal_1">and someone to love.</span></p>
+<p begin="6322916666t" end="6331250000t" style="normal" xml:id="subtitle109"><span style="normal_1">Che Thom.</span></p>
+<p begin="6342916666t" end="6362083333t" style="normal" xml:id="subtitle110">How much longer will you be here?</p>
+<p begin="6378750000t" end="6417083333t" style="normal" xml:id="subtitle111">Che Thom, don't go.</p>
+<p begin="6466666666t" end="6493333333t" style="normal" xml:id="subtitle112">Che Thom, you don't have to leave.<br/>Just stay here.</p>
+<p begin="6521250000t" end="6532083333t" style="normal" xml:id="subtitle113">If I...</p>
+<p begin="6558333333t" end="6574166666t" style="normal" xml:id="subtitle114">Che Thom, how long...</p>
+<p begin="6589166666t" end="6615416666t" style="normal" xml:id="subtitle115">-When do you have to go?<br/>-What is it, Othman?</p>
+<p begin="6616250000t" end="6630416666t" style="normal" xml:id="subtitle116">When is Che Puteh leaving?</p>
+<p begin="6663333333t" end="6677916666t" style="normal" xml:id="subtitle117">How much longer will you be here?</p>
+<p begin="6699583333t" end="6709583333t" style="normal" xml:id="subtitle118">A day or two.</p>
+<p begin="6737083333t" end="6755416666t" style="normal" xml:id="subtitle119">There's no reason for me to stay on.</p>
+<p begin="6767500000t" end="6783333333t" style="normal" xml:id="subtitle120">I have no one to stay for.</p>
+<p begin="6801250000t" end="6815000000t" style="normal" xml:id="subtitle121">Before you go...</p>
+<p begin="6957916666t" end="6969166666t" style="normal" xml:id="subtitle122">I know that</p>
+<p begin="6972916666t" end="7004166666t" style="normal" xml:id="subtitle123">I have no riches</p>
+<p begin="7009166666t" end="7018333333t" style="normal" xml:id="subtitle124">nor a family.</p>
+<p begin="7025416666t" end="7037083333t" style="normal" xml:id="subtitle125">I am too ordinary.</p>
+<p begin="7047083333t" end="7067083333t" style="normal" xml:id="subtitle126">And yet I am unashamed to dream of...</p>
+<p begin="7101666666t" end="7119583333t" style="normal" xml:id="subtitle127">having you as my wife.</p>
+<p begin="7127916666t" end="7142916666t" style="normal" xml:id="subtitle128">I will work hard.</p>
+<p begin="7151250000t" end="7161250000t" style="normal" xml:id="subtitle129">I will try.</p>
+<p begin="7170833333t" end="7207916666t" style="normal" xml:id="subtitle130">As long as there's strength in my body,<br/>I'll work hard to give you--</p>
+<p begin="7208750000t" end="7222916666t" style="normal" xml:id="subtitle131">You do have no shame, Othman.</p>
+<p begin="7235000000t" end="7261250000t" style="normal" xml:id="subtitle132">Why would you think<br/>I'd place riches before heart?</p>
+<p begin="7310416666t" end="7322500000t" style="normal" xml:id="subtitle133">We are just the same.</p>
+<p begin="7335416666t" end="7360000000t" style="normal" xml:id="subtitle134">I, too, have nothing, Othman...</p>
+<p begin="7390833333t" end="7402916666t" style="normal" xml:id="subtitle135">except for a heart.</p>
+<p begin="7440833333t" end="7455416666t" style="normal" xml:id="subtitle136">A heart that loves.</p>
+<p begin="7566250000t" end="7578333333t" style="normal" xml:id="subtitle137">I promise...</p>
+<p begin="7644166666t" end="7665000000t" style="normal" xml:id="subtitle138">I promise to take care of your heart...</p>
+<p begin="7706666666t" end="7726250000t" style="normal" xml:id="subtitle139">until the end of my life.</p>
+<p begin="7759583333t" end="7786666666t" style="normal" xml:id="subtitle140"><span style="normal_1">We married soon after.</span></p>
+<p begin="7796666666t" end="7830833333t" style="normal" xml:id="subtitle141"><span style="normal_1">I have never been as happy, Ahmad.</span></p>
+<p begin="7839166666t" end="7862500000t" style="normal" xml:id="subtitle142"><span style="normal_1">But two years later,</span></p>
+<p begin="7870416666t" end="7892500000t" style="normal" xml:id="subtitle143"><span style="normal_1">Japan invaded Malaya.</span></p>
+<p begin="8445416666t" end="8474583333t" style="normal" xml:id="subtitle144">Hurry up, keep walking!</p>
+<p begin="8475416666t" end="8515416666t" style="normal" xml:id="subtitle145"><span style="normal_1">Japan soon occupied the whole country.</span></p>
+<p begin="8530833333t" end="8583750000t" style="normal" xml:id="subtitle146"><span style="normal_1">Day after day,</span><br/><span style="normal_1">our lives became even more difficult.</span></p>
+<p begin="8622500000t" end="8664583333t" style="normal" xml:id="subtitle147">Move! Hurry up and go!</p>
+<p begin="8669583333t" end="8678333333t" style="normal" xml:id="subtitle148">Move!</p>
+<p begin="8685000000t" end="8696666666t" style="normal" xml:id="subtitle149">Move now!</p>
+<p begin="8697500000t" end="8715416666t" style="normal" xml:id="subtitle150">Freedom from the British!</p>
+<p begin="8719166666t" end="8729166666t" style="normal" xml:id="subtitle151">Hurry up.</p>
+<p begin="8730000000t" end="8752916666t" style="normal" xml:id="subtitle152"><span style="normal_1">Friends turned to enemies.</span></p>
+<p begin="8757083333t" end="8780000000t" style="normal" xml:id="subtitle153"><span style="normal_1">Traitors were everywhere.</span></p>
+<p begin="8812916666t" end="8859583333t" style="normal" xml:id="subtitle154">Calm down, everyone. They are here<br/>to free us from British occupation.</p>
+<p begin="8860416666t" end="8890833333t" style="normal" xml:id="subtitle155">All the men have to help the Japanese.</p>
+<p begin="8895000000t" end="8917500000t" style="normal" xml:id="subtitle156">Malays, Indians, here.</p>
+<p begin="8920416666t" end="8937916666t" style="normal" xml:id="subtitle157">Chinese, over there. Hurry up!</p>
+<p begin="8945833333t" end="8973750000t" style="normal" xml:id="subtitle158">Asia for Asians!</p>
+<p begin="8974583333t" end="9012500000t" style="normal" xml:id="subtitle159">Japan is our ally,<br/>and they want to help us.</p>
+<p begin="9025416666t" end="9052916666t" style="normal" xml:id="subtitle160">Move.</p>
+<p begin="9053750000t" end="9065000000t" style="normal" xml:id="subtitle161">I have to go, Thom.</p>
+<p begin="9073333333t" end="9105416666t" style="normal" xml:id="subtitle162">Man. Don't go, Man. Don't go.</p>
+<p begin="9106250000t" end="9117500000t" style="normal" xml:id="subtitle163">Don't worry.</p>
+<p begin="9144166666t" end="9155833333t" style="normal" xml:id="subtitle164">I'll find a way home.</p>
+<p begin="9213333333t" end="9238750000t" style="normal" xml:id="subtitle165">No need to be afraid.</p>
+<p begin="9241666666t" end="9254583333t" style="normal" xml:id="subtitle166">Just follow him.</p>
+<p begin="9313333333t" end="9359166666t" style="normal" xml:id="subtitle167"><span style="normal_1">That was the first time Othman left me.</span></p>
+<p begin="9360000000t" end="9415833333t" style="normal" xml:id="subtitle168">Move! Hurry up and go!</p>
+<p begin="9477083333t" end="9521250000t" style="normal" xml:id="subtitle169"><span style="normal_1">The Chinese-Japanese war that started</span><br/><span style="normal_1">in mainland China spilled over here.</span></p>
+<p begin="9522083333t" end="9546250000t" style="normal" xml:id="subtitle170"><span style="normal_1">The Japanese continued their revenge</span><br/><span style="normal_1">on the Chinese in Malaya.</span></p>
+<p begin="9547083333t" end="9557916666t" style="normal" xml:id="subtitle171">Thank you.</p>
+<p begin="9559166666t" end="9576666666t" style="normal" xml:id="subtitle172">We stop here. Exchange the control.</p>
+<p begin="9578333333t" end="9593750000t" style="normal" xml:id="subtitle173">We'll move after an hour.</p>
+<p begin="9602083333t" end="9640000000t" style="normal" xml:id="subtitle174">Everyone, listen up.<br/>An hour from now, we move on from here.</p>
+<p begin="9641250000t" end="9682916666t" style="normal" xml:id="subtitle175">We are going behind that mountain<br/>to build an airport.</p>
+<p begin="9688333333t" end="9697500000t" style="normal" xml:id="subtitle176">Hurry up and cook.</p>
+<p begin="9698333333t" end="9708333333t" style="normal" xml:id="subtitle177">Hey.</p>
+<p begin="9711666666t" end="9730416666t" style="normal" xml:id="subtitle178">Say "Peace be upon you, Omar." Quick.</p>
+<p begin="9764166666t" end="9790833333t" style="normal" xml:id="subtitle179">Peace be upon you, Omar.</p>
+<p begin="9816666666t" end="9846666666t" style="normal" xml:id="subtitle180">-Peace be upon you, Omar.<br/>-Peace be upon you, too.</p>
+<p begin="9847500000t" end="9889583333t" style="normal" xml:id="subtitle181">Didn't expect to see you here.<br/>What are the odds?</p>
+<p begin="9908333333t" end="9917083333t" style="normal" xml:id="subtitle182">Damn Japanese.</p>
+<p begin="9942083333t" end="9975833333t" style="normal" xml:id="subtitle183"><span style="normal_1">The Chinese were hunted</span><br/><span style="normal_1">and murdered viciously.</span></p>
+<p begin="10050416666t" end="10063333333t" style="normal" xml:id="subtitle184">You've been made.</p>
+<p begin="10067500000t" end="10081666666t" style="normal" xml:id="subtitle185">That man is Chinese.</p>
+<p begin="10084166666t" end="10095833333t" style="normal" xml:id="subtitle186">Better make a run for it now.</p>
+<p begin="10098750000t" end="10115000000t" style="normal" xml:id="subtitle187">Why are you telling me this?</p>
+<p begin="10120000000t" end="10138750000t" style="normal" xml:id="subtitle188">It's okay. Relax.</p>
+<p begin="10140833333t" end="10161666666t" style="normal" xml:id="subtitle189">Go deal with it and do it now.</p>
+<p begin="10169583333t" end="10177916666t" style="normal" xml:id="subtitle190">Relax.</p>
+<p begin="10255833333t" end="10282083333t" style="normal" xml:id="subtitle191">Get him! Capture him!</p>
+<p begin="10596666666t" end="10606250000t" style="normal" xml:id="subtitle192">Find them!</p>
+<p begin="10827916666t" end="10850416666t" style="normal" xml:id="subtitle193">I know where you are hiding.</p>
+<p begin="10865000000t" end="10885416666t" style="normal" xml:id="subtitle194">There is no place to hide here.</p>
+<p begin="10901666666t" end="10911250000t" style="normal" xml:id="subtitle195">Search there!</p>
+<p begin="10927916666t" end="10950833333t" style="normal" xml:id="subtitle196">You will not escape.</p>
+<p begin="10967916666t" end="10979166666t" style="normal" xml:id="subtitle197">Come out!</p>
+<p begin="10997083333t" end="11013333333t" style="normal" xml:id="subtitle198">Hurry, find them.</p>
+<p begin="11030833333t" end="11049583333t" style="normal" xml:id="subtitle199">They could be hiding amongst the bodies.</p>
+<p begin="11084583333t" end="11104583333t" style="normal" xml:id="subtitle200">Do you understand my instructions?</p>
+<p begin="11106666666t" end="11143750000t" style="normal" xml:id="subtitle201">This place is terrible<br/>and smells very bad.</p>
+<p begin="11147500000t" end="11157916666t" style="normal" xml:id="subtitle202">Come out!</p>
+<p begin="11181250000t" end="11202083333t" style="normal" xml:id="subtitle203">Make sure the dead are really dead.</p>
+<p begin="11372500000t" end="11380833333t" style="normal" xml:id="subtitle204">Hold it!</p>
+<p begin="11388750000t" end="11397083333t" style="normal" xml:id="subtitle205">Enough.</p>
+<p begin="11401666666t" end="11425833333t" style="normal" xml:id="subtitle206">They are not here. Let's go.</p>
+<p begin="11430000000t" end="11443333333t" style="normal" xml:id="subtitle207">We are wasting time.</p>
+<p begin="11451250000t" end="11478333333t" style="normal" xml:id="subtitle208">It's getting dark.<br/>We'll look for them again tomorrow.</p>
+<p begin="11480000000t" end="11488333333t" style="normal" xml:id="subtitle209">Let's go!</p>
+<p begin="11765000000t" end="11773333333t" style="normal" xml:id="subtitle210">Hey.</p>
+<p begin="11789166666t" end="11798333333t" style="normal" xml:id="subtitle211">Is this big enough?</p>
+<p begin="11866666666t" end="11891666666t" style="normal" xml:id="subtitle212">Let's stay here.<br/>The Japanese are everywhere.</p>
+<p begin="11994166666t" end="12002500000t" style="normal" xml:id="subtitle213">Does it hurt?</p>
+<p begin="12012916666t" end="12021250000t" style="normal" xml:id="subtitle214">Let me see.</p>
+<p begin="12065833333t" end="12074166666t" style="normal" xml:id="subtitle215">How is it?</p>
+<p begin="12092916666t" end="12112083333t" style="normal" xml:id="subtitle216">We can stitch this up when we get home.</p>
+<p begin="12146666666t" end="12155000000t" style="normal" xml:id="subtitle217">You?</p>
+<p begin="12158333333t" end="12166666666t" style="normal" xml:id="subtitle218">Yours.</p>
+<p begin="12182083333t" end="12202083333t" style="normal" xml:id="subtitle219">Oh, this? It's nothing.</p>
+<p begin="12245000000t" end="12264166666t" style="normal" xml:id="subtitle220">Just like what the cowboys say<br/>in the movies.</p>
+<p begin="12294166666t" end="12303750000t" style="normal" xml:id="subtitle221">Lum Kah Weng.</p>
+<p begin="12322916666t" end="12331250000t" style="normal" xml:id="subtitle222">Come again?</p>
+<p begin="12341666666t" end="12353750000t" style="normal" xml:id="subtitle223">My name.</p>
+<p begin="12367083333t" end="12387083333t" style="normal" xml:id="subtitle224">I don't look like an Omar, right?</p>
+<p begin="12411250000t" end="12431666666t" style="normal" xml:id="subtitle225">The Japanese can't tell the difference.</p>
+<p begin="12436250000t" end="12447500000t" style="normal" xml:id="subtitle226">What do they know?</p>
+<p begin="12454166666t" end="12468333333t" style="normal" xml:id="subtitle227">Long live the Emperor!</p>
+<p begin="12472500000t" end="12483333333t" style="normal" xml:id="subtitle228">That's all they know.</p>
+<p begin="12504166666t" end="12512916666t" style="normal" xml:id="subtitle229">Othman.</p>
+<p begin="12570833333t" end="12592916666t" style="normal" xml:id="subtitle230">Othman, I'm going to take care of you.</p>
+<p begin="12597500000t" end="12605833333t" style="normal" xml:id="subtitle231">Don't worry.</p>
+<p begin="12629166666t" end="12652916666t" style="normal" xml:id="subtitle232">I will bring you back safely to Serkam.</p>
+<p begin="12740833333t" end="12760416666t" style="normal" xml:id="subtitle233">If it weren't for you,<br/>we wouldn't be in trouble.</p>
+<p begin="12793750000t" end="12806250000t" style="normal" xml:id="subtitle234">You're right.</p>
+<p begin="12978333333t" end="13001250000t" style="normal" xml:id="subtitle235">In the name of God,<br/>most gracious, most merciful.</p>
+<p begin="13045000000t" end="13077500000t" style="normal" xml:id="subtitle236">Thank God everything went well, Thom.</p>
+<p begin="13120833333t" end="13130833333t" style="normal" xml:id="subtitle237">Do you have a name yet?</p>
+<p begin="13197500000t" end="13215833333t" style="normal" xml:id="subtitle238">We'll wait for his father to come home.</p>
+<p begin="13733750000t" end="13752500000t" style="normal" xml:id="subtitle239">There is somebody there. Hurry.</p>
+<p begin="13830833333t" end="13842083333t" style="normal" xml:id="subtitle240">Hurry.</p>
+<p begin="13955833333t" end="13982500000t" style="normal" xml:id="subtitle241"><span style="normal_1">The Japanese were still around.</span></p>
+<p begin="13993750000t" end="14033333333t" style="normal" xml:id="subtitle242"><span style="normal_1">Those who managed to escape</span><br/><span style="normal_1">hid in other villages</span></p>
+<p begin="14042083333t" end="14060000000t" style="normal" xml:id="subtitle243"><span style="normal_1">for months.</span></p>
+<p begin="14062083333t" end="14070416666t" style="normal" xml:id="subtitle244">Othman?</p>
+<p begin="14079583333t" end="14087916666t" style="normal" xml:id="subtitle245">Man.</p>
+<p begin="14095416666t" end="14103750000t" style="normal" xml:id="subtitle246">Man.</p>
+<p begin="14106250000t" end="14114583333t" style="normal" xml:id="subtitle247">Man.</p>
+<p begin="14129166666t" end="14137500000t" style="normal" xml:id="subtitle248">Man.</p>
+<p begin="14181250000t" end="14195000000t" style="normal" xml:id="subtitle249">God is great.</p>
+<p begin="14207916666t" end="14221666666t" style="normal" xml:id="subtitle250">-Thank you.<br/>-You're welcome.</p>
+<p begin="14224583333t" end="14244583333t" style="normal" xml:id="subtitle251">-I'll go now.<br/>-Thank you.</p>
+<p begin="14245416666t" end="14262500000t" style="normal" xml:id="subtitle252">-Peace be upon you.<br/>-Peace be upon you, too.</p>
+<p begin="14278750000t" end="14287083333t" style="normal" xml:id="subtitle253">Man.</p>
+<p begin="14324166666t" end="14340833333t" style="normal" xml:id="subtitle254">Peace be upon you.</p>
+<p begin="14393333333t" end="14406250000t" style="normal" xml:id="subtitle255">Have you named him?</p>
+<p begin="14428333333t" end="14439583333t" style="normal" xml:id="subtitle256">I was waiting for you.</p>
+<p begin="14525833333t" end="14534166666t" style="normal" xml:id="subtitle257">Omar.</p>
+<p begin="14642916666t" end="14669166666t" style="normal" xml:id="subtitle258"><span style="normal_1">The first time he left me,</span></p>
+<p begin="14676250000t" end="14689166666t" style="normal" xml:id="subtitle259"><span style="normal_1">he came back.</span></p>
+<p begin="14696250000t" end="14717083333t" style="normal" xml:id="subtitle260">He almost lost his life,</p>
+<p begin="14727083333t" end="14745833333t" style="normal" xml:id="subtitle261">but he came home.</p>
+<p begin="14750416666t" end="14766250000t" style="normal" xml:id="subtitle262">Peace be upon you.</p>
+<p begin="14780416666t" end="14788750000t" style="normal" xml:id="subtitle263">Grandma.</p>
+<p begin="14797500000t" end="14807500000t" style="normal" xml:id="subtitle264">Mom is here.</p>
+<p begin="14847916666t" end="14856250000t" style="normal" xml:id="subtitle265">Mom.</p>
+<p begin="14947500000t" end="14962083333t" style="normal" xml:id="subtitle266">Mother, what's wrong?</p>
+<p begin="14993333333t" end="15010416666t" style="normal" xml:id="subtitle267">After the war,</p>
+<p begin="15023333333t" end="15062083333t" style="normal" xml:id="subtitle268">we thought<br/>our suffering would finally end.</p>
+<p begin="15065833333t" end="15088333333t" style="normal" xml:id="subtitle269"><span style="normal_1">But life was still very hard.</span></p>
+<p begin="15095416666t" end="15118333333t" style="normal" xml:id="subtitle270"><span style="normal_1">So much had been destroyed.</span></p>
+<p begin="15123333333t" end="15136250000t" style="normal" xml:id="subtitle271"><span style="normal_1">Othman says</span></p>
+<p begin="15137083333t" end="15160416666t" style="normal" xml:id="subtitle272"><span style="normal_1">nothing good ever comes easy.</span></p>
+<p begin="15161250000t" end="15188750000t" style="normal" xml:id="subtitle273"><span style="normal_1">You have to chase after it.</span></p>
+<p begin="15189583333t" end="15241666666t" style="normal" xml:id="subtitle274"><span style="normal_1">That's why he goes out</span><br/><span style="normal_1">further than anyone else.</span></p>
+<p begin="15244166666t" end="15277083333t" style="normal" xml:id="subtitle275"><span style="normal_1">He works harder than everyone else.</span></p>
+<p begin="15277916666t" end="15303750000t" style="normal" xml:id="subtitle276">-Taib!<br/>-Thom.</p>
+<p begin="15304583333t" end="15314583333t" style="normal" xml:id="subtitle277">Have you seen Man?</p>
+<p begin="15328750000t" end="15343333333t" style="normal" xml:id="subtitle278">He was in the sea just now.</p>
+<p begin="15347083333t" end="15366666666t" style="normal" xml:id="subtitle279">I asked him to come back, but he wouldn't.</p>
+<p begin="15370833333t" end="15383333333t" style="normal" xml:id="subtitle280">He's alone out there.</p>
+<p begin="15386250000t" end="15400416666t" style="normal" xml:id="subtitle281">Take me out there.</p>
+<p begin="15407083333t" end="15421666666t" style="normal" xml:id="subtitle282">We can't go now.</p>
+<p begin="15425416666t" end="15449166666t" style="normal" xml:id="subtitle283">-I'll go after the rain stops.<br/>-I'm coming with you.</p>
+<p begin="15450000000t" end="15470833333t" style="normal" xml:id="subtitle284">-You can't.<br/>-I'm coming with you!</p>
+<p begin="15482500000t" end="15492916666t" style="normal" xml:id="subtitle285">Okay.</p>
+<p begin="15497083333t" end="15523750000t" style="normal" xml:id="subtitle286">But not now.<br/>I'll look for him when it clears up.</p>
+<p begin="15902083333t" end="15920000000t" style="normal" xml:id="subtitle287">You're up early today.</p>
+<p begin="15954583333t" end="15963750000t" style="normal" xml:id="subtitle288">Thom?</p>
+<p begin="15968750000t" end="15980833333t" style="normal" xml:id="subtitle289">Didn't you go home?</p>
+<p begin="15982500000t" end="15997916666t" style="normal" xml:id="subtitle290">Let's go. The weather's clear.</p>
+<p begin="16068750000t" end="16082083333t" style="normal" xml:id="subtitle291">Don't worry, Thom.</p>
+<p begin="16093333333t" end="16105000000t" style="normal" xml:id="subtitle292">We'll find him.</p>
+<p begin="16112083333t" end="16125833333t" style="normal" xml:id="subtitle293">God willing, he'll be safe.</p>
+<p begin="16217083333t" end="16252916666t" style="normal" xml:id="subtitle294">-Man! Taib, that's Othman. Man!<br/>-Man!</p>
+<p begin="16260416666t" end="16275833333t" style="normal" xml:id="subtitle295">Taib, hurry.</p>
+<p begin="16284166666t" end="16294583333t" style="normal" xml:id="subtitle296">Man!</p>
+<p begin="16319583333t" end="16337916666t" style="normal" xml:id="subtitle297">Careful with your hands, Thom.</p>
+<p begin="16338750000t" end="16387500000t" style="normal" xml:id="subtitle298">Don't you do this again, Man.<br/>Don't you ever leave me again.</p>
+<p begin="16388333333t" end="16419166666t" style="normal" xml:id="subtitle299">Man, you sure are stubborn.</p>
+<p begin="16535000000t" end="16583750000t" style="normal" xml:id="subtitle300"><span style="normal_1">That was the second time</span><br/><span style="normal_1">Othman left me and returned to me.</span></p>
+<p begin="16601666666t" end="16631666666t" style="normal" xml:id="subtitle301"><span style="normal_1">I thought twice was enough.</span></p>
+<p begin="16642500000t" end="16706250000t" style="normal" xml:id="subtitle302"><span style="normal_1">After this,</span><br/><span style="normal_1">our family would live in peace.</span></p>
+<p begin="16845416666t" end="16880416666t" style="normal" xml:id="subtitle303"><span style="normal_1">The wind blows</span></p>
+<p begin="16885416666t" end="16924583333t" style="normal" xml:id="subtitle304"><span style="normal_1">The branch falls on the rock...</span></p>
+<p begin="16928333333t" end="16940833333t" style="normal" xml:id="subtitle305">You're heavy, Omar.</p>
+<p begin="16947500000t" end="16960416666t" style="normal" xml:id="subtitle306">One.</p>
+<p begin="16977916666t" end="16990000000t" style="normal" xml:id="subtitle307">Two.</p>
+<p begin="17029166666t" end="17089166666t" style="normal" xml:id="subtitle308"><span style="normal_1">Birds chirping in fright</span></p>
+<p begin="17092916666t" end="17102083333t" style="normal" xml:id="subtitle309">Peace be upon you.</p>
+<p begin="17107083333t" end="17160833333t" style="normal" xml:id="subtitle310"><span style="normal_1">Dark cloudy sky...</span></p>
+<p begin="17206250000t" end="17230416666t" style="normal" xml:id="subtitle311">-Peace be upon you.<br/>-Peace be upon you, too.</p>
+<p begin="17231250000t" end="17257500000t" style="normal" xml:id="subtitle312">You're back. What took you so long?</p>
+<p begin="17258333333t" end="17296666666t" style="normal" xml:id="subtitle313">-It's been a while.<br/>-You're looking good now.</p>
+<p begin="17382083333t" end="17395833333t" style="normal" xml:id="subtitle314">You're all grown up now.</p>
+<p begin="17396666666t" end="17413750000t" style="normal" xml:id="subtitle315">They've had it good after the war.</p>
+<p begin="17419583333t" end="17431666666t" style="normal" xml:id="subtitle316">Lots of ships...</p>
+<p begin="17449583333t" end="17459583333t" style="normal" xml:id="subtitle317">lots of work.</p>
+<p begin="17472916666t" end="17489166666t" style="normal" xml:id="subtitle318">I'll head back now, Man.</p>
+<p begin="17530000000t" end="17547500000t" style="normal" xml:id="subtitle319">-Peace be upon you.<br/>-Who's that, Dad?</p>
+<p begin="17590833333t" end="17602083333t" style="normal" xml:id="subtitle320">Sailors, Omar.</p>
+<p begin="17620833333t" end="17633333333t" style="normal" xml:id="subtitle321">What are sailors?</p>
+<p begin="17646250000t" end="17660833333t" style="normal" xml:id="subtitle322">They work on big ships...</p>
+<p begin="17678333333t" end="17692916666t" style="normal" xml:id="subtitle323">and go around the world.</p>
+<p begin="17693750000t" end="17707083333t" style="normal" xml:id="subtitle324">The whole world?</p>
+<p begin="17710000000t" end="17723333333t" style="normal" xml:id="subtitle325">That's fun.</p>
+<p begin="17754583333t" end="17766666666t" style="normal" xml:id="subtitle326">Thank God.</p>
+<p begin="17795833333t" end="17806666666t" style="normal" xml:id="subtitle327">I'm starving.</p>
+<p begin="17814583333t" end="17843333333t" style="normal" xml:id="subtitle328">-Thom, I'm going to see Karim.<br/>-Can I come with you?</p>
+<p begin="17903333333t" end="17942083333t" style="normal" xml:id="subtitle329">-Finally, I'm home.<br/>-Did you run into any storm?</p>
+<p begin="17956666666t" end="17967916666t" style="normal" xml:id="subtitle330">Peace be upon you.</p>
+<p begin="17986666666t" end="17999166666t" style="normal" xml:id="subtitle331">Peace be upon you, too.</p>
+<p begin="18012500000t" end="18030833333t" style="normal" xml:id="subtitle332">-How are you, Karim?<br/>-What's this?</p>
+<p begin="18579583333t" end="18590833333t" style="normal" xml:id="subtitle333">Kid, look here.</p>
+<p begin="18600000000t" end="18634166666t" style="normal" xml:id="subtitle334">-Omar, look straight ahead.<br/>-One, two, three.</p>
+<p begin="18704583333t" end="18732916666t" style="normal" xml:id="subtitle335"><span style="normal_1">Omar didn't know what was about to happen.</span></p>
+<p begin="18743750000t" end="18760000000t" style="normal" xml:id="subtitle336"><span style="normal_1">But I knew.</span></p>
+<p begin="18775416666t" end="18803750000t" style="normal" xml:id="subtitle337"><span style="normal_1">He was leaving us both again.</span></p>
+<p begin="18811250000t" end="18843333333t" style="normal" xml:id="subtitle338"><span style="normal_1">Our memories together</span></p>
+<p begin="18879583333t" end="18906666666t" style="normal" xml:id="subtitle339"><span style="normal_1">Oh, how I missed you</span></p>
+<p begin="18975416666t" end="19004166666t" style="normal" xml:id="subtitle340"><span style="normal_1">O, moon!</span></p>
+<p begin="19021250000t" end="19050416666t" style="normal" xml:id="subtitle341"><span style="normal_1">Where are the stars?</span></p>
+<p begin="19082500000t" end="19122500000t" style="normal" xml:id="subtitle342"><span style="normal_1">On top of...</span></p>
+<p begin="19132500000t" end="19160833333t" style="normal" xml:id="subtitle343"><span style="normal_1">The ficus tree</span></p>
+<p begin="19175833333t" end="19214166666t" style="normal" xml:id="subtitle344"><span style="normal_1">Come, sir</span></p>
+<p begin="19232916666t" end="19262916666t" style="normal" xml:id="subtitle345"><span style="normal_1">Come, love</span></p>
+<p begin="19307500000t" end="19330000000t" style="normal" xml:id="subtitle346"><span style="normal_1">Let's go</span></p>
+<p begin="19342083333t" end="19376250000t" style="normal" xml:id="subtitle347"><span style="normal_1">For a stroll</span></p>
+<p begin="19403750000t" end="19423750000t" style="normal" xml:id="subtitle348"><span style="normal_1">Many stars</span></p>
+<p begin="19434583333t" end="19480000000t" style="normal" xml:id="subtitle349"><span style="normal_1">Befriending the moon</span></p>
+<p begin="19524166666t" end="19532500000t" style="normal" xml:id="subtitle350">Come.</p>
+<p begin="19559583333t" end="19569166666t" style="normal" xml:id="subtitle351">Where to?</p>
+<p begin="19587916666t" end="19597500000t" style="normal" xml:id="subtitle352">For a stroll.</p>
+<p begin="19659166666t" end="19670833333t" style="normal" xml:id="subtitle353">It's a clear night.</p>
+<p begin="19685416666t" end="19702083333t" style="normal" xml:id="subtitle354">Many stars befriending the moon.</p>
+<p begin="19716250000t" end="19724583333t" style="normal" xml:id="subtitle355">Come.</p>
+<p begin="20057916666t" end="20084166666t" style="normal" xml:id="subtitle356">-Don't cry.<br/>-Don't go, Man.</p>
+<p begin="20109583333t" end="20141666666t" style="normal" xml:id="subtitle357">I don't want us to be poor<br/>for the rest of our lives.</p>
+<p begin="20144166666t" end="20153750000t" style="normal" xml:id="subtitle358">But we...</p>
+<p begin="20159166666t" end="20178750000t" style="normal" xml:id="subtitle359">We'll make it work here.</p>
+<p begin="20190000000t" end="20216666666t" style="normal" xml:id="subtitle360">I can sew a lot more. You can--</p>
+<p begin="20217500000t" end="20235833333t" style="normal" xml:id="subtitle361">What else can I do, Thom?</p>
+<p begin="20245833333t" end="20264583333t" style="normal" xml:id="subtitle362">I am of the sea, Thom.</p>
+<p begin="20305416666t" end="20318333333t" style="normal" xml:id="subtitle363">The sea is all I know.</p>
+<p begin="20417916666t" end="20435833333t" style="normal" xml:id="subtitle364">I want to see you adorned.</p>
+<p begin="20486666666t" end="20502916666t" style="normal" xml:id="subtitle365">If not in diamonds...</p>
+<p begin="20516666666t" end="20542083333t" style="normal" xml:id="subtitle366">then in gold, even just a tiny piece.</p>
+<p begin="20554166666t" end="20581666666t" style="normal" xml:id="subtitle367">I once promised you...</p>
+<p begin="20615833333t" end="20638750000t" style="normal" xml:id="subtitle368">if you accept me as your husband...</p>
+<p begin="20669166666t" end="20690416666t" style="normal" xml:id="subtitle369">I will strive for riches for you.</p>
+<p begin="20693750000t" end="20713750000t" style="normal" xml:id="subtitle370">But I don't want that, Man.</p>
+<p begin="20723750000t" end="20741666666t" style="normal" xml:id="subtitle371">We have enough.</p>
+<p begin="20805000000t" end="20819166666t" style="normal" xml:id="subtitle372">Let me go, Thom.</p>
+<p begin="20861250000t" end="20879583333t" style="normal" xml:id="subtitle373">You won't forget me?</p>
+<p begin="20897500000t" end="20913750000t" style="normal" xml:id="subtitle374">-Never.<br/>-Promise.</p>
+<p begin="20932916666t" end="20957916666t" style="normal" xml:id="subtitle375">Promise me you'll come back to me, Man.</p>
+<p begin="20971666666t" end="20991666666t" style="normal" xml:id="subtitle376">Thom, you and Omar are my life.</p>
+<p begin="21036666666t" end="21051666666t" style="normal" xml:id="subtitle377">I will come home.</p>
+<p begin="21074583333t" end="21126250000t" style="normal" xml:id="subtitle378"><span style="normal_1">Like a ship with no direction</span></p>
+<p begin="21130416666t" end="21165000000t" style="normal" xml:id="subtitle379"><span style="normal_1">Love, to be loved</span></p>
+<p begin="21370000000t" end="21378333333t" style="normal" xml:id="subtitle380">Thank you.</p>
+<p begin="21384583333t" end="21397500000t" style="normal" xml:id="subtitle381">It's all done, Taib.</p>
+<p begin="21398333333t" end="21409166666t" style="normal" xml:id="subtitle382">Wait!</p>
+<p begin="21410000000t" end="21422916666t" style="normal" xml:id="subtitle383">Wait!</p>
+<p begin="21481666666t" end="21494583333t" style="normal" xml:id="subtitle384">I almost missed it.</p>
+<p begin="21495416666t" end="21508750000t" style="normal" xml:id="subtitle385">Peace be upon you, Omar.</p>
+<p begin="21530000000t" end="21554583333t" style="normal" xml:id="subtitle386">-Man.<br/>-Lum.</p>
+<p begin="21572916666t" end="21583750000t" style="normal" xml:id="subtitle387">Never mind.</p>
+<p begin="21589166666t" end="21600000000t" style="normal" xml:id="subtitle388">Look at you.</p>
+<p begin="21608333333t" end="21650000000t" style="normal" xml:id="subtitle389">I'm more used to your<br/>"I want to go home" face.</p>
+<p begin="21685833333t" end="21696250000t" style="normal" xml:id="subtitle390">Thom.</p>
+<p begin="21698333333t" end="21710833333t" style="normal" xml:id="subtitle391">You're Che Thom?</p>
+<p begin="21740000000t" end="21774583333t" style="normal" xml:id="subtitle392">No wonder you forced me<br/>to bring you back to Serkam.</p>
+<p begin="21783333333t" end="21795416666t" style="normal" xml:id="subtitle393">Thom, this is Lum.</p>
+<p begin="21817916666t" end="21844166666t" style="normal" xml:id="subtitle394">Omar. This is Omar, my son.</p>
+<p begin="21888750000t" end="21901250000t" style="normal" xml:id="subtitle395">-Omar?<br/>-Omar.</p>
+<p begin="21932916666t" end="21944166666t" style="normal" xml:id="subtitle396">He's handsome like me.</p>
+<p begin="21960833333t" end="21969166666t" style="normal" xml:id="subtitle397">Hey.</p>
+<p begin="21972083333t" end="22008750000t" style="normal" xml:id="subtitle398">-Are you working on the ships, too?<br/>-Yes. I'll be on the Swyre.</p>
+<p begin="22024166666t" end="22032500000t" style="normal" xml:id="subtitle399">Me too.</p>
+<p begin="22046250000t" end="22058333333t" style="normal" xml:id="subtitle400">Swyre?</p>
+<p begin="22072083333t" end="22086666666t" style="normal" xml:id="subtitle401">Good, I have a friend.</p>
+<p begin="22095416666t" end="22127083333t" style="normal" xml:id="subtitle402">Che Thom, don't worry.<br/>I will take good care of your husband.</p>
+<p begin="22131666666t" end="22144583333t" style="normal" xml:id="subtitle403">If he misbehaves, I'll...</p>
+<p begin="22148750000t" end="22164166666t" style="normal" xml:id="subtitle404">Hey.</p>
+<p begin="22362500000t" end="22376666666t" style="normal" xml:id="subtitle405">Omar, study hard.</p>
+<p begin="22398750000t" end="22410000000t" style="normal" xml:id="subtitle406">Take care of the chickens.</p>
+<p begin="22410833333t" end="22423333333t" style="normal" xml:id="subtitle407">Take care of my boat.</p>
+<p begin="22424166666t" end="22447083333t" style="normal" xml:id="subtitle408">I want to see them all cared for<br/>when I come back.</p>
+<p begin="22450833333t" end="22460833333t" style="normal" xml:id="subtitle409">Yes, Father.</p>
+<p begin="22475833333t" end="22485833333t" style="normal" xml:id="subtitle410">Take care of your mom.</p>
+<p begin="22600833333t" end="22614166666t" style="normal" xml:id="subtitle411">Write to me, Man.</p>
+<p begin="22630416666t" end="22650416666t" style="normal" xml:id="subtitle412">Thom, you know<br/>I'm not good at writing letters.</p>
+<p begin="22656666666t" end="22666250000t" style="normal" xml:id="subtitle413">Try.</p>
+<p begin="22895833333t" end="22904583333t" style="normal" xml:id="subtitle414">Move over.</p>
+<p begin="23110416666t" end="23157916666t" style="normal" xml:id="subtitle415"><span style="normal_1">And that was the last time I saw him.</span></p>
+<p begin="23170416666t" end="23196666666t" style="normal" xml:id="subtitle416">I want to know<br/>why he never came home, Ahmad.</p>
+<p begin="23202916666t" end="23233333333t" style="normal" xml:id="subtitle417">Is he still alive or is he dead?</p>
+<p begin="23237500000t" end="23259166666t" style="normal" xml:id="subtitle418">And if he has passed, how did he die?</p>
+<p begin="23276250000t" end="23288750000t" style="normal" xml:id="subtitle419">Where is his grave?</p>
+<p begin="23306250000t" end="23336250000t" style="normal" xml:id="subtitle420">I want you to find<br/>where your grandfather is today.</p>
+<p begin="23344583333t" end="23357500000t" style="normal" xml:id="subtitle421">I need to know...</p>
+<p begin="23385833333t" end="23403750000t" style="normal" xml:id="subtitle422">before I die.</p>
+<p begin="23453750000t" end="23466250000t" style="normal" xml:id="subtitle423">It's been many years, Grandma.</p>
+<p begin="23475833333t" end="23489583333t" style="normal" xml:id="subtitle424">How do I look for him?</p>
+<p begin="23503333333t" end="23518750000t" style="normal" xml:id="subtitle425">Where do I even start?</p>
+<p begin="23529583333t" end="23545416666t" style="normal" xml:id="subtitle426">Try and ask your father.</p>
+<p begin="23561666666t" end="23572083333t" style="normal" xml:id="subtitle427">Mother, Omar--</p>
+<p begin="23572916666t" end="23591250000t" style="normal" xml:id="subtitle428">Jaybah, I know.</p>
+<p begin="23603750000t" end="23612500000t" style="normal" xml:id="subtitle429">Grandma.</p>
+<p begin="23617083333t" end="23628750000t" style="normal" xml:id="subtitle430">Even if I start looking,</p>
+<p begin="23634166666t" end="23659166666t" style="normal" xml:id="subtitle431">-I don't think I can get any answers.<br/>-Try, Ahmad.</p>
+<p begin="23920000000t" end="23948750000t" style="normal" xml:id="subtitle432">-Peace be upon you, Dad.<br/>-Peace be upon you, too.</p>
+<p begin="23959166666t" end="23971666666t" style="normal" xml:id="subtitle433">You just arrived, Ahmad?</p>
+<p begin="23974166666t" end="23996250000t" style="normal" xml:id="subtitle434">-Yes, Dad.<br/>-Have you eaten?</p>
+<p begin="23997083333t" end="24007083333t" style="normal" xml:id="subtitle435">Yes, I have.</p>
+<p begin="24151250000t" end="24160833333t" style="normal" xml:id="subtitle436">Dad.</p>
+<p begin="24180000000t" end="24192916666t" style="normal" xml:id="subtitle437">Can I ask you something?</p>
+<p begin="24265000000t" end="24278333333t" style="normal" xml:id="subtitle438">I want to ask about Grandad.</p>
+<p begin="24287500000t" end="24325000000t" style="normal" xml:id="subtitle439"><span style="normal_1">The wind blows</span></p>
+<p begin="24326250000t" end="24375000000t" style="normal" xml:id="subtitle440"><span style="normal_1">The branch falls on the rock</span></p>
+<p begin="24375833333t" end="24384166666t" style="normal" xml:id="subtitle441"><span style="normal_1">Dad.</span></p>
+<p begin="24399166666t" end="24408333333t" style="normal" xml:id="subtitle442">Dad?</p>
+<p begin="24417916666t" end="24433333333t" style="normal" xml:id="subtitle443">You just arrived, Ahmad.</p>
+<p begin="24440000000t" end="24449166666t" style="normal" xml:id="subtitle444">Have you eaten?</p>
+<p begin="24492916666t" end="24502916666t" style="normal" xml:id="subtitle445">Yes.</p>
+<p begin="24748333333t" end="24757500000t" style="normal" xml:id="subtitle446">Those are mine.</p>
+<p begin="24790000000t" end="24799166666t" style="normal" xml:id="subtitle447">Can I have a look?</p>
+<p begin="25053333333t" end="25094166666t" style="normal" xml:id="subtitle448">This was when your mom and I<br/>went on our very first date.</p>
+<p begin="25165000000t" end="25175416666t" style="normal" xml:id="subtitle449">What about this one?</p>
+<p begin="25213333333t" end="25245000000t" style="normal" xml:id="subtitle450">This was when I was doing my masters<br/>in London.</p>
+<p begin="25255416666t" end="25272916666t" style="normal" xml:id="subtitle451">I received a scholarship that time.</p>
+<p begin="25307500000t" end="25324583333t" style="normal" xml:id="subtitle452">This one? What map is this?</p>
+<p begin="25358750000t" end="25367083333t" style="normal" xml:id="subtitle453">My father's map.</p>
+<p begin="25517500000t" end="25530833333t" style="normal" xml:id="subtitle454">TO OMAR</p>
+<p begin="25558333333t" end="25575416666t" style="normal" xml:id="subtitle455">Dad. This...</p>
+<p begin="25580000000t" end="25592083333t" style="normal" xml:id="subtitle456">You just arrived, Ahmad?</p>
+<p begin="25605000000t" end="25617083333t" style="normal" xml:id="subtitle457">Have you eaten?</p>
+<p begin="25872083333t" end="25896666666t" region="top" style="normal" xml:id="subtitle458">THOM &amp; OMAR, LAMA ROAD,<br/>SERKAM VILLAGE, MALACCA, MALAYSIA</p>
+<p begin="26307916666t" end="26331250000t" style="normal" xml:id="subtitle459">Unload quickly! Don't be lazy!</p>
+<p begin="26332083333t" end="26372083333t" style="normal" xml:id="subtitle460"><span style="normal_1">After leaving Serkam,</span><br/><span style="normal_1">Father boarded a ship from Singapore.</span></p>
+<p begin="26381250000t" end="26421250000t" style="normal" xml:id="subtitle461"><span style="normal_1">He was the only Malay</span><br/><span style="normal_1">amongst other seasoned sailors.</span></p>
+<p begin="26431250000t" end="26442916666t" style="normal" xml:id="subtitle462"><span style="normal_1">The work was hard.</span></p>
+<p begin="26447083333t" end="26495416666t" style="normal" xml:id="subtitle463"><span style="normal_1">But he never felt it. All that mattered</span><br/><span style="normal_1">was a better life for his family.</span></p>
+<p begin="26505000000t" end="26517916666t" style="normal" xml:id="subtitle464">Don't be lazy! Hurry up!</p>
+<p begin="26518750000t" end="26527083333t" style="normal" xml:id="subtitle465">Move faster!</p>
+<p begin="26802083333t" end="26827083333t" style="normal" xml:id="subtitle466">Working again? What is he doing?</p>
+<p begin="27012500000t" end="27030416666t" style="normal" xml:id="subtitle467">-Strong wind, heavy rain.<br/>-Again?</p>
+<p begin="27042500000t" end="27062083333t" style="normal" xml:id="subtitle468">Eat pork. You'll be fine.</p>
+<p begin="27075416666t" end="27087083333t" style="normal" xml:id="subtitle469">Are you an idiot?</p>
+<p begin="27088333333t" end="27103333333t" style="normal" xml:id="subtitle470">He's Muslim. He doesn't eat pork.</p>
+<p begin="27109166666t" end="27129583333t" style="normal" xml:id="subtitle471">Actually, I don't know what they eat.</p>
+<p begin="27134583333t" end="27155416666t" style="normal" xml:id="subtitle472">Maybe he eats the wind.<br/>That's why he's always outside.</p>
+<p begin="27167916666t" end="27177083333t" style="normal" xml:id="subtitle473">Right.</p>
+<p begin="27177916666t" end="27203333333t" style="normal" xml:id="subtitle474">He doesn't eat much,<br/>but he's still stronger than you both.</p>
+<p begin="27209583333t" end="27219583333t" style="normal" xml:id="subtitle475">What did you say?</p>
+<p begin="27243333333t" end="27252500000t" style="normal" xml:id="subtitle476">Well?</p>
+<p begin="27257916666t" end="27267500000t" style="normal" xml:id="subtitle477">Don't you understand?</p>
+<p begin="27287916666t" end="27296250000t" style="normal" xml:id="subtitle478">Lum.</p>
+<p begin="27307916666t" end="27316250000t" style="normal" xml:id="subtitle479">Hey.</p>
+<p begin="27318333333t" end="27330416666t" style="normal" xml:id="subtitle480">Go do your work.</p>
+<p begin="27425833333t" end="27436666666t" style="normal" xml:id="subtitle481">Let's go.</p>
+<p begin="27507500000t" end="27523333333t" style="normal" xml:id="subtitle482">What's the point of fighting them?</p>
+<p begin="27531250000t" end="27546666666t" style="normal" xml:id="subtitle483">They piss me off.</p>
+<p begin="27557500000t" end="27578750000t" style="normal" xml:id="subtitle484">If I don't care, why should you?</p>
+<p begin="27600833333t" end="27616666666t" style="normal" xml:id="subtitle485">You picked up Chinese real fast.</p>
+<p begin="27632083333t" end="27640833333t" style="normal" xml:id="subtitle486">It's all right.</p>
+<p begin="27653750000t" end="27680000000t" style="normal" xml:id="subtitle487">Give me your "best in the world"<br/>cabbage soup.</p>
+<p begin="27719583333t" end="27732083333t" style="normal" xml:id="subtitle488">It's so delicious</p>
+<p begin="27733750000t" end="27752916666t" style="normal" xml:id="subtitle489">it makes ducks mate out of season.</p>
+<p begin="27759583333t" end="27768750000t" style="normal" xml:id="subtitle490">Give me a taste.</p>
+<p begin="27771666666t" end="27789583333t" style="normal" xml:id="subtitle491">I want to know if that's true.</p>
+<p begin="27845833333t" end="27884583333t" style="normal" xml:id="subtitle492"><span style="normal_1">This brother of mine</span></p>
+<p begin="27887500000t" end="27931666666t" style="normal" xml:id="subtitle493"><span style="normal_1">Sails around the world</span></p>
+<p begin="27938750000t" end="27971666666t" style="normal" xml:id="subtitle494"><span style="normal_1">He is missing his wife</span></p>
+<p begin="27972500000t" end="27998333333t" style="normal" xml:id="subtitle495"><span style="normal_1">And he is miserable</span></p>
+<p begin="28047916666t" end="28060833333t" style="normal" xml:id="subtitle496">-Mail!<br/>-Thank you.</p>
+<p begin="28094166666t" end="28105833333t" style="normal" xml:id="subtitle497">Mail!</p>
+<p begin="28136666666t" end="28150000000t" style="normal" xml:id="subtitle498">Mail!</p>
+<p begin="28187083333t" end="28213750000t" style="normal" xml:id="subtitle499">-Have you done all the work I gave you?<br/>-Yes, teacher.</p>
+<p begin="28214583333t" end="28226666666t" style="normal" xml:id="subtitle500">Good.</p>
+<p begin="28240833333t" end="28251250000t" style="normal" xml:id="subtitle501">Go to your mother.</p>
+<p begin="28290000000t" end="28305416666t" style="normal" xml:id="subtitle502">Mother, did the postman come?</p>
+<p begin="28323750000t" end="28333333333t" style="normal" xml:id="subtitle503">Are you hungry?</p>
+<p begin="28365000000t" end="28376666666t" style="normal" xml:id="subtitle504">Tomorrow, maybe.</p>
+<p begin="28415000000t" end="28455000000t" style="normal" xml:id="subtitle505">Maybe tomorrow Dad's letter will arrive.</p>
+<p begin="28470833333t" end="28505833333t" style="normal" xml:id="subtitle506">I'll come home early from school.<br/>I want to wait for the postman.</p>
+<p begin="28668333333t" end="28686250000t" style="normal" xml:id="subtitle507">Mom, you have to try</p>
+<p begin="28687083333t" end="28716250000t" style="normal" xml:id="subtitle508">so when Dad's letter comes,<br/>you can read it.</p>
+<p begin="28732500000t" end="28743333333t" style="normal" xml:id="subtitle509">Peace be upon you.</p>
+<p begin="28744166666t" end="28759583333t" style="normal" xml:id="subtitle510">-Peace be upon you, too.<br/>-Omar.</p>
+<p begin="28773750000t" end="28782083333t" style="normal" xml:id="subtitle511">Your book, Omar.</p>
+<p begin="28791250000t" end="28802500000t" style="normal" xml:id="subtitle512">You left it at school.</p>
+<p begin="28808333333t" end="28820000000t" style="normal" xml:id="subtitle513">Thank you, teacher.</p>
+<p begin="28860833333t" end="28882500000t" style="normal" xml:id="subtitle514">-I'll make a move then.<br/>-Thank you.</p>
+<p begin="28897500000t" end="28915000000t" style="normal" xml:id="subtitle515">If Omar</p>
+<p begin="28922083333t" end="28940833333t" style="normal" xml:id="subtitle516">or whoever needs me to teach...</p>
+<p begin="28944583333t" end="28977083333t" style="normal" xml:id="subtitle517">I mean, it's good to learn.<br/>There's nothing to be embarrassed about.</p>
+<p begin="28987500000t" end="28998750000t" style="normal" xml:id="subtitle518">Mail!</p>
+<p begin="29013333333t" end="29055833333t" style="normal" xml:id="subtitle519">Postman, wait!</p>
+<p begin="29064583333t" end="29082083333t" style="normal" xml:id="subtitle520">Mail! Wait!</p>
+<p begin="29125833333t" end="29134166666t" style="normal" xml:id="subtitle521">Anything else?</p>
+<p begin="29141250000t" end="29149583333t" style="normal" xml:id="subtitle522">No.</p>
+<p begin="29155000000t" end="29167083333t" style="normal" xml:id="subtitle523">Mom, look at this.</p>
+<p begin="29212083333t" end="29239166666t" style="normal" xml:id="subtitle524">"With love and affection<br/>from Othman Haji Alias."</p>
+<p begin="29243333333t" end="29276250000t" style="normal" xml:id="subtitle525">Didn't I tell you it would arrive today?<br/>Didn't I?</p>
+<p begin="29427500000t" end="29438333333t" style="normal" xml:id="subtitle526">What are you doing?</p>
+<p begin="29439166666t" end="29459166666t" style="normal" xml:id="subtitle527">This is not the first time<br/>you're stealing food!</p>
+<p begin="29477083333t" end="29487083333t" style="normal" xml:id="subtitle528">You call this stealing?</p>
+<p begin="29495416666t" end="29522083333t" style="normal" xml:id="subtitle529">I took so little. It wasn't so much.</p>
+<p begin="29528333333t" end="29567083333t" style="normal" xml:id="subtitle530">If I don't take it, it will rot,<br/>and you throw it out anyway.</p>
+<p begin="29568333333t" end="29585000000t" style="normal" xml:id="subtitle531">Nobody gets special privileges here.</p>
+<p begin="29587083333t" end="29599583333t" style="normal" xml:id="subtitle532">Including you!</p>
+<p begin="29614166666t" end="29630000000t" style="normal" xml:id="subtitle533">-Chef.<br/>-Don't get involved.</p>
+<p begin="29636250000t" end="29644583333t" style="normal" xml:id="subtitle534">Just hold on.</p>
+<p begin="29652916666t" end="29662500000t" style="normal" xml:id="subtitle535">It's not his fault.</p>
+<p begin="29667500000t" end="29677916666t" style="normal" xml:id="subtitle536">It's my fault.</p>
+<p begin="29687083333t" end="29702083333t" style="normal" xml:id="subtitle537">This is both your faults.</p>
+<p begin="29725833333t" end="29738750000t" style="normal" xml:id="subtitle538">Look what you've done.</p>
+<p begin="29746250000t" end="29760000000t" style="normal" xml:id="subtitle539">But it isn't your fault.</p>
+<p begin="29765833333t" end="29784166666t" style="normal" xml:id="subtitle540">I can't eat the things he cooks.</p>
+<p begin="29811250000t" end="29822083333t" style="normal" xml:id="subtitle541">Let me tell the captain.</p>
+<p begin="29822916666t" end="29832500000t" style="normal" xml:id="subtitle542">Man.</p>
+<p begin="29835833333t" end="29856666666t" style="normal" xml:id="subtitle543">Man. Why are you being so stupid?</p>
+<p begin="29857500000t" end="29870416666t" style="normal" xml:id="subtitle544">Then you'll also be fired.</p>
+<p begin="29875833333t" end="29886250000t" style="normal" xml:id="subtitle545">I don't care, Lum.</p>
+<p begin="29887083333t" end="29897916666t" style="normal" xml:id="subtitle546">If you go, I go.</p>
+<p begin="29902500000t" end="29927500000t" style="normal" xml:id="subtitle547">-It's not even your fault.<br/>-Man, don't.</p>
+<p begin="29952916666t" end="29974583333t" style="normal" xml:id="subtitle548">-You want to be a snitch?<br/>-What the hell is your problem?</p>
+<p begin="30030000000t" end="30039583333t" style="normal" xml:id="subtitle549">Hold him!</p>
+<p begin="30577916666t" end="30608333333t" style="normal" xml:id="subtitle550">Hey. Now that I won't be around,<br/>take good care of yourself.</p>
+<p begin="30682500000t" end="30701666666t" style="normal" xml:id="subtitle551">When will I see you again, Lum?</p>
+<p begin="30725416666t" end="30739166666t" style="normal" xml:id="subtitle552">That, we don't know.</p>
+<p begin="30743333333t" end="30760416666t" style="normal" xml:id="subtitle553">But you and me, we are fated.</p>
+<p begin="30769166666t" end="30778333333t" style="normal" xml:id="subtitle554">Just wait and see.</p>
+<p begin="30817916666t" end="30831250000t" style="normal" xml:id="subtitle555">Japan.</p>
+<p begin="32002083333t" end="32017916666t" style="normal" xml:id="subtitle556">I want to go home, Thom.</p>
+<p begin="32138333333t" end="32167083333t" style="normal" xml:id="subtitle557">Lower the cargo.</p>
+<p begin="32180000000t" end="32207083333t" style="normal" xml:id="subtitle558">Okay. Go there. Move a bit.</p>
+<p begin="32219166666t" end="32231666666t" style="normal" xml:id="subtitle559">Move a bit. Okay.</p>
+<p begin="32240416666t" end="32260000000t" style="normal" xml:id="subtitle560">Put it down. Move a bit.</p>
+<p begin="32265000000t" end="32273333333t" style="normal" xml:id="subtitle561">Okay.</p>
+<p begin="32301666666t" end="32310416666t" style="normal" xml:id="subtitle562">Done.</p>
+<p begin="32605000000t" end="32623333333t" style="normal" xml:id="subtitle563">Hey.</p>
+<p begin="32626250000t" end="32642500000t" style="normal" xml:id="subtitle564">Are you okay? Quick, help him.</p>
+<p begin="32655000000t" end="32663333333t" style="normal" xml:id="subtitle565">It's too dangerous.</p>
+<p begin="32726250000t" end="32751666666t" style="normal" xml:id="subtitle566">He's on fire. Hurry!</p>
+<p begin="32755000000t" end="32795416666t" style="normal" xml:id="subtitle567">He's on fire! Save him, quick!</p>
+<p begin="32895416666t" end="32920000000t" style="normal" xml:id="subtitle568">-Hurry!<br/>-Come here!</p>
+<p begin="32934166666t" end="32958750000t" style="normal" xml:id="subtitle569">-Hurry!<br/>-Fight the fire!</p>
+<p begin="33057083333t" end="33076666666t" style="normal" xml:id="subtitle570">-Thank you.<br/>-You're welcome.</p>
+<p begin="33082500000t" end="33093333333t" style="normal" xml:id="subtitle571">Thank you.</p>
+<p begin="33099583333t" end="33113333333t" style="normal" xml:id="subtitle572">-Thank you.<br/>-You're welcome.</p>
+<p begin="33125833333t" end="33148333333t" style="normal" xml:id="subtitle573">-Thank you.<br/>-You're welcome.</p>
+<p begin="33220000000t" end="33265000000t" region="top" style="normal" xml:id="subtitle574"><span style="normal_1">I'm hanging on to</span></p>
+<p begin="33271250000t" end="33319166666t" style="normal" xml:id="subtitle575"><span style="normal_1">What's left of love</span></p>
+<p begin="33325416666t" end="33366666666t" style="normal" xml:id="subtitle576"><span style="normal_1">That's still left</span></p>
+<p begin="33367500000t" end="33416250000t" style="normal" xml:id="subtitle577"><span style="normal_1">In your heart</span></p>
+<p begin="33426666666t" end="33446666666t" style="normal" xml:id="subtitle578"><span style="normal_1">Even though</span></p>
+<p begin="33447500000t" end="33507916666t" style="normal" xml:id="subtitle579"><span style="normal_1">You're a world away</span></p>
+<p begin="33513333333t" end="33576250000t" style="normal" xml:id="subtitle580"><span style="normal_1">If there's love for me</span></p>
+<p begin="33586250000t" end="33625833333t" style="normal" xml:id="subtitle581"><span style="normal_1">Get home to me</span></p>
+<p begin="33736250000t" end="33744583333t" style="normal" xml:id="subtitle582">Mom!</p>
+<p begin="33769166666t" end="33780416666t" style="normal" xml:id="subtitle583">Mom, don't!</p>
+<p begin="33781250000t" end="33797083333t" style="normal" xml:id="subtitle584">Even if he doesn't want to write letters,</p>
+<p begin="33797916666t" end="33823750000t" style="normal" xml:id="subtitle585">why doesn't he write anything<br/>on those postcards?</p>
+<p begin="33829583333t" end="33837916666t" style="normal" xml:id="subtitle586">Mom.</p>
+<p begin="33840000000t" end="33867500000t" style="normal" xml:id="subtitle587">-Does he remember us, Omar?<br/>-Of course he does.</p>
+<p begin="33868333333t" end="33903750000t" style="normal" xml:id="subtitle588">He's never asked how we are,<br/>if we are having difficulties or not.</p>
+<p begin="33904583333t" end="33932500000t" style="normal" xml:id="subtitle589">-He's never told us how he is!<br/>-It's hard on a ship.</p>
+<p begin="33933333333t" end="33949166666t" style="normal" xml:id="subtitle590">There's so much work. There's no time.</p>
+<p begin="33956666666t" end="33967500000t" style="normal" xml:id="subtitle591">Please don't be angry.</p>
+<p begin="33968333333t" end="33982083333t" style="normal" xml:id="subtitle592">I'm not angry!</p>
+<p begin="34017500000t" end="34027916666t" style="normal" xml:id="subtitle593">He will write, eventually.</p>
+<p begin="34037083333t" end="34047083333t" style="normal" xml:id="subtitle594">I know he will.</p>
+<p begin="34207083333t" end="34218750000t" style="normal" xml:id="subtitle595">Peace be upon you.</p>
+<p begin="34236666666t" end="34257916666t" style="normal" xml:id="subtitle596">-Peace be upon you.<br/>-Peace be upon you, too.</p>
+<p begin="34270833333t" end="34300833333t" style="normal" xml:id="subtitle597">This is the money I borrowed from Othman<br/>some time ago.</p>
+<p begin="34314166666t" end="34326666666t" style="normal" xml:id="subtitle598">Use it.</p>
+<p begin="34340416666t" end="34352916666t" style="normal" xml:id="subtitle599">I'll take my leave.</p>
+<p begin="34355416666t" end="34367916666t" style="normal" xml:id="subtitle600">Thank you.</p>
+<p begin="34424166666t" end="34439583333t" style="normal" xml:id="subtitle601">-Thank you.<br/>-You're welcome.</p>
+<p begin="34442500000t" end="34453750000t" style="normal" xml:id="subtitle602">Mom?</p>
+<p begin="34465416666t" end="34476666666t" style="normal" xml:id="subtitle603">-Can you manage?<br/>-Mom?</p>
+<p begin="34494583333t" end="34509583333t" style="normal" xml:id="subtitle604">Why is that man getting on Dad's boat?</p>
+<p begin="34517083333t" end="34529166666t" style="normal" xml:id="subtitle605">I sold the boat.</p>
+<p begin="34530000000t" end="34545000000t" style="normal" xml:id="subtitle606">Mom, Dad wouldn't let anyone else...</p>
+<p begin="34547916666t" end="34558750000t" style="normal" xml:id="subtitle607">Mom.</p>
+<p begin="34559583333t" end="34576666666t" style="normal" xml:id="subtitle608">I sold the boat. It's sold!</p>
+<p begin="34592916666t" end="34611250000t" style="normal" xml:id="subtitle609">But it's Dad's boat. He'll be upset.</p>
+<p begin="34655833333t" end="34664166666t" style="normal" xml:id="subtitle610">Omar.</p>
+<p begin="34700416666t" end="34722916666t" style="normal" xml:id="subtitle611">I'm going to look for your father.</p>
+<p begin="34745416666t" end="34757500000t" style="normal" xml:id="subtitle612">I'll find him.</p>
+<p begin="34766666666t" end="34780833333t" style="normal" xml:id="subtitle613">Bring him home.</p>
+<p begin="34815833333t" end="34828333333t" style="normal" xml:id="subtitle614">But if he comes back...</p>
+<p begin="34836250000t" end="34851250000t" style="normal" xml:id="subtitle615">and his boat is gone, what then?</p>
+<p begin="34862083333t" end="34897500000t" style="normal" xml:id="subtitle616">What if we keep the boat<br/>and he never comes home?</p>
+<p begin="34905000000t" end="34916666666t" style="normal" xml:id="subtitle617">He's not here.</p>
+<p begin="34935416666t" end="34960416666t" style="normal" xml:id="subtitle618">It's better to have Dad than his boat.</p>
+<p begin="34973333333t" end="34986666666t" style="normal" xml:id="subtitle619">Right, Omar?</p>
+<p begin="34998750000t" end="35012083333t" style="normal" xml:id="subtitle620">Omar.</p>
+<p begin="35056666666t" end="35069166666t" style="normal" xml:id="subtitle621">Where will you look for him?</p>
+<p begin="35099583333t" end="35118333333t" style="normal" xml:id="subtitle622">His last postcard was from Hong Kong.</p>
+<p begin="35127083333t" end="35137916666t" style="normal" xml:id="subtitle623">And if he's not there?</p>
+<p begin="35150833333t" end="35164166666t" style="normal" xml:id="subtitle624">I have to try.</p>
+<p begin="35325833333t" end="35337083333t" style="normal" xml:id="subtitle625">What is it, teacher?</p>
+<p begin="35368333333t" end="35406666666t" style="normal" xml:id="subtitle626">The money from the boat isn't enough<br/>to take you to Hong Kong.</p>
+<p begin="35462500000t" end="35472916666t" style="normal" xml:id="subtitle627">Please take this money.</p>
+<p begin="35518750000t" end="35527083333t" style="normal" xml:id="subtitle628">I insist.</p>
+<p begin="35551666666t" end="35561666666t" style="normal" xml:id="subtitle629">No, teacher.</p>
+<p begin="35575416666t" end="35597083333t" style="normal" xml:id="subtitle630">I'm afraid I will not be able<br/>to pay you back.</p>
+<p begin="35606250000t" end="35617500000t" style="normal" xml:id="subtitle631">I'm sincere.</p>
+<p begin="35632500000t" end="35653333333t" style="normal" xml:id="subtitle632">You can pay me little by little,<br/>whenever you can.</p>
+<p begin="35712083333t" end="35728333333t" style="normal" xml:id="subtitle633">I just want to help Omar.</p>
+<p begin="35788750000t" end="35797083333t" style="normal" xml:id="subtitle634">Teacher.</p>
+<p begin="35832916666t" end="35842916666t" style="normal" xml:id="subtitle635">God willing...</p>
+<p begin="35857500000t" end="35875000000t" style="normal" xml:id="subtitle636">you will be abundantly rewarded.</p>
+<p begin="35896250000t" end="35907500000t" style="normal" xml:id="subtitle637">God willing.</p>
+<p begin="35917083333t" end="35930000000t" style="normal" xml:id="subtitle638">Keep praying for me, Che Thom.</p>
+<p begin="36869583333t" end="36894166666t" style="normal" xml:id="subtitle639">Follow me. Don't worry.</p>
+<p begin="36895000000t" end="36908750000t" style="normal" xml:id="subtitle640">Don't let her get away.</p>
+<p begin="36911666666t" end="36933750000t" style="normal" xml:id="subtitle641">-Help!<br/>-Get out of my way!</p>
+<p begin="36940416666t" end="36957916666t" style="normal" xml:id="subtitle642">-This way!<br/>-Help!</p>
+<p begin="36962083333t" end="36978750000t" style="normal" xml:id="subtitle643">Get in! Be quiet!</p>
+<p begin="36979583333t" end="36992916666t" style="normal" xml:id="subtitle644">-Get in.<br/>-Thom?</p>
+<p begin="36998750000t" end="37027916666t" style="normal" xml:id="subtitle645">-Thom!<br/>-Who's that annoying guy?</p>
+<p begin="37044166666t" end="37054166666t" style="normal" xml:id="subtitle646">Who are you?</p>
+<p begin="37059583333t" end="37069583333t" style="normal" xml:id="subtitle647">I am...</p>
+<p begin="37075833333t" end="37091666666t" style="normal" xml:id="subtitle648">It's me.</p>
+<p begin="37101666666t" end="37122916666t" style="normal" xml:id="subtitle649">You look like a nobody.</p>
+<p begin="37127916666t" end="37162500000t" style="normal" xml:id="subtitle650">-Get him out!<br/>-No, listen here. Listen to me.</p>
+<p begin="37167083333t" end="37195833333t" style="normal" xml:id="subtitle651">You just plucked her off the street.<br/>Do you know who she is?</p>
+<p begin="37201250000t" end="37213333333t" style="normal" xml:id="subtitle652">I don't care who she is.</p>
+<p begin="37214166666t" end="37240416666t" style="normal" xml:id="subtitle653">All I know is she is going to make me<br/>a lot of money.</p>
+<p begin="37254166666t" end="37292083333t" style="normal" xml:id="subtitle654">Okay, sure, no worries.</p>
+<p begin="37292916666t" end="37303333333t" style="normal" xml:id="subtitle655">No worries.</p>
+<p begin="37334166666t" end="37342916666t" style="normal" xml:id="subtitle656">-Get her in.<br/>-Lum!</p>
+<p begin="37358333333t" end="37366666666t" style="normal" xml:id="subtitle657">Lum!</p>
+<p begin="37370000000t" end="37397916666t" style="normal" xml:id="subtitle658">Okay, then why don't I tell Boss Kuan?</p>
+<p begin="37401666666t" end="37422916666t" style="normal" xml:id="subtitle659">You're using his people for your business.</p>
+<p begin="37426250000t" end="37440416666t" style="normal" xml:id="subtitle660">Let's see what Boss Kuan has to say.</p>
+<p begin="37441250000t" end="37449583333t" style="normal" xml:id="subtitle661">Wait!</p>
+<p begin="37469166666t" end="37480833333t" style="normal" xml:id="subtitle662">What did you say?</p>
+<p begin="37490833333t" end="37500416666t" style="normal" xml:id="subtitle663">Boss Kuan?</p>
+<p begin="37503750000t" end="37515416666t" style="normal" xml:id="subtitle664">She is Kuan's property?</p>
+<p begin="37535000000t" end="37550000000t" style="normal" xml:id="subtitle665">Why don't we go see Boss Kuan?</p>
+<p begin="37581666666t" end="37601250000t" style="normal" xml:id="subtitle666">Ah Ngau, let her go.</p>
+<p begin="37650833333t" end="37664583333t" style="normal" xml:id="subtitle667">Come on!</p>
+<p begin="37670833333t" end="37683333333t" style="normal" xml:id="subtitle668">Come!</p>
+<p begin="37760000000t" end="37777500000t" style="normal" xml:id="subtitle669">These newcomers.</p>
+<p begin="37783750000t" end="37808750000t" style="normal" xml:id="subtitle670">She needs to learn the rules.</p>
+<p begin="37818333333t" end="37830000000t" style="normal" xml:id="subtitle671">Take it yourself!</p>
+<p begin="37830833333t" end="37855416666t" style="normal" xml:id="subtitle672">-Thank you, Lum.<br/>-Keep walking.</p>
+<p begin="37863333333t" end="37885833333t" style="normal" xml:id="subtitle673">What are you doing in Hong Kong?<br/>Where's Man?</p>
+<p begin="37887083333t" end="37901250000t" style="normal" xml:id="subtitle674">I came here to look for him.</p>
+<p begin="37908333333t" end="37929583333t" style="normal" xml:id="subtitle675">What are you looking at? Get back to work!</p>
+<p begin="37934166666t" end="37950416666t" style="normal" xml:id="subtitle676">You're stubborn like Othman.</p>
+<p begin="37985416666t" end="38007083333t" style="normal" xml:id="subtitle677">Coming here alone.</p>
+<p begin="38025000000t" end="38037083333t" style="normal" xml:id="subtitle678">It's dangerous.</p>
+<p begin="38037916666t" end="38052916666t" style="normal" xml:id="subtitle679">I had to come look for Othman.</p>
+<p begin="38068333333t" end="38080833333t" style="normal" xml:id="subtitle680">Do you know where he is?</p>
+<p begin="38107083333t" end="38126250000t" style="normal" xml:id="subtitle681">I wasn't with him for long on the ship.</p>
+<p begin="38134583333t" end="38153333333t" style="normal" xml:id="subtitle682">Then I didn't see him again.</p>
+<p begin="38183333333t" end="38199166666t" style="normal" xml:id="subtitle683">I thought it'd be easy to look for him.</p>
+<p begin="38206666666t" end="38222083333t" style="normal" xml:id="subtitle684">I thought that when I arrived...</p>
+<p begin="38236666666t" end="38251666666t" style="normal" xml:id="subtitle685">there would be people who know him...</p>
+<p begin="38263333333t" end="38275416666t" style="normal" xml:id="subtitle686">know where he is.</p>
+<p begin="38286666666t" end="38297916666t" style="normal" xml:id="subtitle687">Like in the village.</p>
+<p begin="38310833333t" end="38325416666t" style="normal" xml:id="subtitle688">Things are different here.</p>
+<p begin="38430000000t" end="38459583333t" style="normal" xml:id="subtitle689">Okay, I have many friends at the port.</p>
+<p begin="38465000000t" end="38483750000t" style="normal" xml:id="subtitle690">Some have worked on the Swyre.</p>
+<p begin="38489166666t" end="38499166666t" style="normal" xml:id="subtitle691">I'll go ask around.</p>
+<p begin="38505833333t" end="38525416666t" style="normal" xml:id="subtitle692">For now, you stay here.</p>
+<p begin="38536666666t" end="38549583333t" style="normal" xml:id="subtitle693">I'll stay with a friend.</p>
+<p begin="38564166666t" end="38579166666t" style="normal" xml:id="subtitle694">I've troubled you, Lum.</p>
+<p begin="38587083333t" end="38599583333t" style="normal" xml:id="subtitle695">Othman's like a brother to me.</p>
+<p begin="38605833333t" end="38627916666t" style="normal" xml:id="subtitle696">So, we're family.</p>
+<p begin="38717500000t" end="38732500000t" style="normal" xml:id="subtitle697">Does he have a mistress?</p>
+<p begin="38802083333t" end="38817083333t" style="normal" xml:id="subtitle698">It's best if we close the windows.</p>
+<p begin="38930000000t" end="38961250000t" style="normal" xml:id="subtitle699">-Did you meet Man?<br/>-He got a promotion and a raise.</p>
+<p begin="38962083333t" end="38975833333t" style="normal" xml:id="subtitle700">But I didn't see him after that.</p>
+<p begin="39055833333t" end="39080416666t" style="normal" xml:id="subtitle701">Othman has boarded the P&amp;O ship.</p>
+<p begin="39097083333t" end="39110833333t" style="normal" xml:id="subtitle702">The ship is in Russia now.</p>
+<p begin="39116250000t" end="39136250000t" style="normal" xml:id="subtitle703">But they're not sure<br/>when the ship will return.</p>
+<p begin="39145416666t" end="39155833333t" style="normal" xml:id="subtitle704">That is Yusop.</p>
+<p begin="39178750000t" end="39192916666t" style="normal" xml:id="subtitle705">He once met Othman here.</p>
+<p begin="39204166666t" end="39256250000t" style="normal" xml:id="subtitle706">And he said Man got a promotion<br/>and a raise on the P&amp;O ship.</p>
+<p begin="39308750000t" end="39337500000t" style="normal" xml:id="subtitle707">He got a promotion and a raise...</p>
+<p begin="39384583333t" end="39400000000t" style="normal" xml:id="subtitle708">but he can't come home.</p>
+<p begin="39529583333t" end="39543333333t" style="normal" xml:id="subtitle709">Lum, can you do me a favor?</p>
+<p begin="39574166666t" end="39594166666t" style="normal" xml:id="subtitle710">Can you pass this letter to Othman?</p>
+<p begin="39640000000t" end="39656666666t" style="normal" xml:id="subtitle711">I know it's not easy.</p>
+<p begin="39685833333t" end="39712083333t" style="normal" xml:id="subtitle712">But I don't know who else to ask, Lum.</p>
+<p begin="39772500000t" end="39782500000t" style="normal" xml:id="subtitle713">I'll try.</p>
+<p begin="39817083333t" end="39832083333t" style="normal" xml:id="subtitle714">I don't care how long it'll take.</p>
+<p begin="39875416666t" end="39904166666t" style="normal" xml:id="subtitle715">As long as it reaches him in person.</p>
+<p begin="39935416666t" end="39950000000t" style="normal" xml:id="subtitle716">I'll make sure he gets this letter.</p>
+<p begin="39982500000t" end="39995000000t" style="normal" xml:id="subtitle717">Thank you, Lum.</p>
+<p begin="40107083333t" end="40116250000t" style="normal" xml:id="subtitle718">Xiao Bo.</p>
+<p begin="40122500000t" end="40159166666t" style="normal" xml:id="subtitle719">This letter must be handed to Othman<br/>on the P&amp;O ship.</p>
+<p begin="40160000000t" end="40173750000t" style="normal" xml:id="subtitle720">It must reach him.</p>
+<p begin="40184583333t" end="40193750000t" style="normal" xml:id="subtitle721">Qing.</p>
+<p begin="40202500000t" end="40222916666t" style="normal" xml:id="subtitle722">Help me pass this letter to Othman.</p>
+<p begin="40540416666t" end="40574166666t" style="normal" xml:id="subtitle723"><span style="normal_1">There's an empty space</span></p>
+<p begin="40578750000t" end="40597500000t" style="normal" xml:id="subtitle724"><span style="normal_1">Inhibited</span></p>
+<p begin="40598333333t" end="40613333333t" style="normal" xml:id="subtitle725">-Mail!<br/>-Hey.</p>
+<p begin="40631250000t" end="40639583333t" style="normal" xml:id="subtitle726">Mail!</p>
+<p begin="40644166666t" end="40657083333t" style="normal" xml:id="subtitle727">Help me carry this.</p>
+<p begin="40666666666t" end="40675000000t" style="normal" xml:id="subtitle728">Mail!</p>
+<p begin="40675833333t" end="40710833333t" style="normal" xml:id="subtitle729"><span style="normal_1">In this lonely heart of mine</span></p>
+<p begin="40738750000t" end="40782083333t" style="normal" xml:id="subtitle730"><span style="normal_1">There's no cure</span></p>
+<p begin="40782916666t" end="40824166666t" style="normal" xml:id="subtitle731"><span style="normal_1">For this broken heart</span></p>
+<p begin="40829166666t" end="40899166666t" style="normal" xml:id="subtitle732"><span style="normal_1">All I need is you back with me again</span></p>
+<p begin="40915416666t" end="40959166666t" style="normal" xml:id="subtitle733"><span style="normal_1">I'm hanging on</span></p>
+<p begin="40964583333t" end="41005833333t" style="normal" xml:id="subtitle734"><span style="normal_1">To what's left of love</span></p>
+<p begin="41012083333t" end="41050833333t" style="normal" xml:id="subtitle735"><span style="normal_1">That's still left</span></p>
+<p begin="41055416666t" end="41103750000t" style="normal" xml:id="subtitle736"><span style="normal_1">In your heart</span></p>
+<p begin="41112500000t" end="41176666666t" style="normal" xml:id="subtitle737"><span style="normal_1">Even though you're a world away...</span></p>
+<p begin="41230833333t" end="41245000000t" style="normal" xml:id="subtitle738">He is not coming back, Omar.</p>
+<p begin="41263750000t" end="41275000000t" style="normal" xml:id="subtitle739">You have to accept that.</p>
+<p begin="41299166666t" end="41308750000t" style="normal" xml:id="subtitle740">I've accepted it.</p>
+<p begin="41354583333t" end="41365833333t" style="normal" xml:id="subtitle741">I know he'll come home.</p>
+<p begin="41411666666t" end="41421250000t" style="normal" xml:id="subtitle742">If he doesn't...</p>
+<p begin="41436250000t" end="41445833333t" style="normal" xml:id="subtitle743">I'll go and find him.</p>
+<p begin="41554166666t" end="41566250000t" style="normal" xml:id="subtitle744">Any news from Othman?</p>
+<p begin="41624166666t" end="41638750000t" style="normal" xml:id="subtitle745">Not even a postcard.</p>
+<p begin="41660833333t" end="41670833333t" style="normal" xml:id="subtitle746">His letters...</p>
+<p begin="41695416666t" end="41706250000t" style="normal" xml:id="subtitle747">nothing at all.</p>
+<p begin="41737916666t" end="41758750000t" style="normal" xml:id="subtitle748">Lum hasn't sent any news either.</p>
+<p begin="41777083333t" end="41796250000t" style="normal" xml:id="subtitle749">These sailors are all the same.</p>
+<p begin="41838750000t" end="41853333333t" style="normal" xml:id="subtitle750">But I'm a landlubber, Thom.</p>
+<p begin="42798333333t" end="42835000000t" style="normal" xml:id="subtitle751"><span style="normal_1">The wind blows</span></p>
+<p begin="42835833333t" end="42900833333t" style="normal" xml:id="subtitle752"><span style="normal_1">The branch falls on the rock</span></p>
+<p begin="43635833333t" end="43655833333t" region="top" style="normal" xml:id="subtitle753"><span style="normal_1">He pulls the thread, and then he asks...</span></p>
+<p begin="43661666666t" end="43679583333t" style="normal" xml:id="subtitle754">"Is that a mermaid?"</p>
+<p begin="43680416666t" end="43697083333t" style="normal" xml:id="subtitle755">"No, it's a stingray!"</p>
+<p begin="43722916666t" end="43747500000t" style="normal" xml:id="subtitle756">Then he asks me, "Is it a male or female?"</p>
+<p begin="43760416666t" end="43777916666t" style="normal" xml:id="subtitle757">"The stingray is pregnant!"</p>
+<p begin="43791250000t" end="43811666666t" style="normal" xml:id="subtitle758">Pregnant, he says.</p>
+<p begin="43918750000t" end="43932500000t" style="normal" xml:id="subtitle759">Peace be upon you, Omar.</p>
+<p begin="44042083333t" end="44050416666t" style="normal" xml:id="subtitle760">Man.</p>
+<p begin="44063750000t" end="44072500000t" style="normal" xml:id="subtitle761">Lum.</p>
+<p begin="44087500000t" end="44101250000t" style="normal" xml:id="subtitle762">-Man!<br/>-Lum.</p>
+<p begin="44142916666t" end="44154166666t" style="normal" xml:id="subtitle763">Can't wait.</p>
+<p begin="44180833333t" end="44199583333t" style="normal" xml:id="subtitle764">In the name of God,<br/>most gracious, most merciful.</p>
+<p begin="44279583333t" end="44302083333t" style="normal" xml:id="subtitle765">-It tastes the same, Lum.<br/>-How did it taste?</p>
+<p begin="44318333333t" end="44327916666t" style="normal" xml:id="subtitle766">Horrible.</p>
+<p begin="44424166666t" end="44437500000t" style="normal" xml:id="subtitle767">Did you go back to Malaya, Man?</p>
+<p begin="44445000000t" end="44455000000t" style="normal" xml:id="subtitle768">Did you see Thom?</p>
+<p begin="44485416666t" end="44512916666t" style="normal" xml:id="subtitle769">After you sailed for three years,<br/>she came to look for you in Hong Kong.</p>
+<p begin="44539583333t" end="44559166666t" style="normal" xml:id="subtitle770">At that time,<br/>you had just sailed to Russia.</p>
+<p begin="44568333333t" end="44583333333t" style="normal" xml:id="subtitle771">Good thing she bumped into me.</p>
+<p begin="44668333333t" end="44684583333t" style="normal" xml:id="subtitle772">Did she really come looking for me, Lum?</p>
+<p begin="44704583333t" end="44716250000t" style="normal" xml:id="subtitle773">It was dangerous for her...</p>
+<p begin="44730000000t" end="44742083333t" style="normal" xml:id="subtitle774">but she's brave...</p>
+<p begin="44752500000t" end="44764166666t" style="normal" xml:id="subtitle775">like you.</p>
+<p begin="44794583333t" end="44808333333t" style="normal" xml:id="subtitle776">She said she had to look for you.</p>
+<p begin="44823333333t" end="44853333333t" style="normal" xml:id="subtitle777">Because there was no word from you<br/>and you didn't come home.</p>
+<p begin="44862083333t" end="44875416666t" style="normal" xml:id="subtitle778">You didn't go home at all?</p>
+<p begin="44898750000t" end="44910416666t" style="normal" xml:id="subtitle779">Go home.</p>
+<p begin="44919583333t" end="44937083333t" style="normal" xml:id="subtitle780">Why are you growing old here all alone?</p>
+<p begin="44951250000t" end="44963750000t" style="normal" xml:id="subtitle781">Wouldn't it be better at home?</p>
+<p begin="44997083333t" end="45019583333t" style="normal" xml:id="subtitle782">If I had a wife and kid,<br/>I'd be home by now.</p>
+<p begin="45032500000t" end="45045416666t" style="normal" xml:id="subtitle783">Coffee or tea, Lum?</p>
+<p begin="45072916666t" end="45085416666t" style="normal" xml:id="subtitle784">Coffee, of course.</p>
+<p begin="45089166666t" end="45101666666t" style="normal" xml:id="subtitle785">Don't you know me?</p>
+<p begin="45205416666t" end="45214583333t" style="normal" xml:id="subtitle786">Here, take this.</p>
+<p begin="45217500000t" end="45242916666t" style="normal" xml:id="subtitle787">-No need.<br/>-There are better ones where I'm going.</p>
+<p begin="45243750000t" end="45252916666t" style="normal" xml:id="subtitle788">Take it.</p>
+<p begin="45314583333t" end="45322916666t" style="normal" xml:id="subtitle789">Lum.</p>
+<p begin="45340833333t" end="45371250000t" style="normal" xml:id="subtitle790">I want to thank you for always helping me.</p>
+<p begin="45378333333t" end="45390000000t" style="normal" xml:id="subtitle791">-If you--<br/>-What?</p>
+<p begin="45396666666t" end="45411250000t" style="normal" xml:id="subtitle792">Why are you talking like this?</p>
+<p begin="45425000000t" end="45439583333t" style="normal" xml:id="subtitle793">We have more of life to live.</p>
+<p begin="45460000000t" end="45473333333t" style="normal" xml:id="subtitle794">I'll send you a postcard.</p>
+<p begin="45563333333t" end="45585000000t" style="normal" xml:id="subtitle795">Hey. Hurry up.</p>
+<p begin="45589583333t" end="45613333333t" style="normal" xml:id="subtitle796">If I miss the ship,<br/>I won't make it to America.</p>
+<p begin="45682500000t" end="45693750000t" style="normal" xml:id="subtitle797">Take good care of yourself.</p>
+<p begin="46266666666t" end="46284166666t" style="normal" xml:id="subtitle798">I'm looking for Othman Haji Alias.</p>
+<p begin="46365416666t" end="46378750000t" style="normal" xml:id="subtitle799">Othman Haji Alias?</p>
+<p begin="46392083333t" end="46410416666t" style="normal" xml:id="subtitle800">Over there.</p>
+<p begin="46738333333t" end="46746666666t" style="normal" xml:id="subtitle801">Move.</p>
+<p begin="46775416666t" end="46783750000t" style="normal" xml:id="subtitle802">Dad.</p>
+<p begin="46866666666t" end="46876666666t" style="normal" xml:id="subtitle803">Omar?</p>
+<p begin="47072500000t" end="47085833333t" style="normal" xml:id="subtitle804">Omar, my son.</p>
+<p begin="47148750000t" end="47161250000t" style="normal" xml:id="subtitle805">Omar, my son.</p>
+<p begin="47207916666t" end="47225833333t" style="normal" xml:id="subtitle806">Omar, my son.</p>
+<p begin="47332500000t" end="47345833333t" style="normal" xml:id="subtitle807">How did you find me, Omar?</p>
+<p begin="47355416666t" end="47367500000t" style="normal" xml:id="subtitle808">Uncle Lum sent a letter...</p>
+<p begin="47379583333t" end="47389166666t" style="normal" xml:id="subtitle809">with your address.</p>
+<p begin="47446250000t" end="47456250000t" style="normal" xml:id="subtitle810">Sit down.</p>
+<p begin="47469583333t" end="47479166666t" style="normal" xml:id="subtitle811">Have a drink first.</p>
+<p begin="47641666666t" end="47659166666t" style="normal" xml:id="subtitle812">I don't have much, Omar.</p>
+<p begin="47737083333t" end="47752083333t" style="normal" xml:id="subtitle813">Sailed for years...</p>
+<p begin="47788333333t" end="47801250000t" style="normal" xml:id="subtitle814">but nothing to show for.</p>
+<p begin="47817500000t" end="47842500000t" style="normal" xml:id="subtitle815">Dad, our house in the village<br/>is still there.</p>
+<p begin="47858750000t" end="47881250000t" style="normal" xml:id="subtitle816">Your boat, though, Mom sold it.</p>
+<p begin="47882083333t" end="47898333333t" style="normal" xml:id="subtitle817">That's fine.</p>
+<p begin="47910000000t" end="47931250000t" style="normal" xml:id="subtitle818">That's your mom's property, not mine.</p>
+<p begin="47973750000t" end="47987083333t" style="normal" xml:id="subtitle819">Don't you want to go home?</p>
+<p begin="48055000000t" end="48078750000t" style="normal" xml:id="subtitle820">There's no place<br/>for me there anymore, Omar.</p>
+<p begin="48123750000t" end="48137083333t" style="normal" xml:id="subtitle821">Don't you want to see Mom?</p>
+<p begin="48258333333t" end="48272916666t" style="normal" xml:id="subtitle822">Don't you feel sorry for Mom?</p>
+<p begin="48316666666t" end="48327500000t" style="normal" xml:id="subtitle823">Why don't you come home?</p>
+<p begin="48499166666t" end="48518750000t" style="normal" xml:id="subtitle824">The chicken coop<br/>at the back of the house...</p>
+<p begin="48534166666t" end="48545833333t" style="normal" xml:id="subtitle825">it's bigger now.</p>
+<p begin="48556666666t" end="48580833333t" style="normal" xml:id="subtitle826">Do you remember when the chicken escaped?</p>
+<p begin="48597500000t" end="48613750000t" style="normal" xml:id="subtitle827">We chased it around the house.</p>
+<p begin="48624583333t" end="48642916666t" style="normal" xml:id="subtitle828">We chased it until it came into our house.</p>
+<p begin="48672916666t" end="48686666666t" style="normal" xml:id="subtitle829">You still remember that, Omar?</p>
+<p begin="48710833333t" end="48720416666t" style="normal" xml:id="subtitle830">I do, Dad.</p>
+<p begin="48739583333t" end="48757500000t" style="normal" xml:id="subtitle831">A few days after that...</p>
+<p begin="48791666666t" end="48805000000t" style="normal" xml:id="subtitle832">you went to Singapore.</p>
+<p begin="48900416666t" end="48916666666t" style="normal" xml:id="subtitle833">And then you never returned.</p>
+<p begin="48984166666t" end="49023750000t" style="normal" xml:id="subtitle834">Do you know Mom's still waiting for you<br/>after all these years?</p>
+<p begin="49093333333t" end="49110416666t" style="normal" xml:id="subtitle835">Do you know why I never went back?</p>
+<p begin="49170833333t" end="49182916666t" style="normal" xml:id="subtitle836">I wanted to go home...</p>
+<p begin="49212083333t" end="49233333333t" style="normal" xml:id="subtitle837"><span style="normal_1">but I am not the master of my fate.</span></p>
+<p begin="49940416666t" end="49948750000t" style="normal" xml:id="subtitle838">My money.</p>
+<p begin="52211666666t" end="52220000000t" style="normal" xml:id="subtitle839">How is he?</p>
+<p begin="52289583333t" end="52297916666t" style="normal" xml:id="subtitle840">Man?</p>
+<p begin="52307083333t" end="52322083333t" style="normal" xml:id="subtitle841">Oh, my God, Othman!</p>
+<p begin="52418750000t" end="52431250000t" style="normal" xml:id="subtitle842">Where is this ship going, Karim?</p>
+<p begin="52432500000t" end="52449166666t" style="normal" xml:id="subtitle843">To Manila.</p>
+<p begin="52457500000t" end="52471666666t" style="normal" xml:id="subtitle844">Then Goa,</p>
+<p begin="52477083333t" end="52500416666t" style="normal" xml:id="subtitle845">Cape Town, and straight back to London.</p>
+<p begin="52557083333t" end="52567500000t" style="normal" xml:id="subtitle846">Will it pass by Singapore?</p>
+<p begin="52585833333t" end="52597500000t" style="normal" xml:id="subtitle847">You're thinking of going home?</p>
+<p begin="52638750000t" end="52661250000t" style="normal" xml:id="subtitle848">But how can I go home like this?</p>
+<p begin="52691666666t" end="52706666666t" style="normal" xml:id="subtitle849">With just clothes on my back.</p>
+<p begin="52769166666t" end="52784583333t" style="normal" xml:id="subtitle850">I'd be embarrassed to face everyone.</p>
+<p begin="52817916666t" end="52828333333t" style="normal" xml:id="subtitle851">Especially Thom.</p>
+<p begin="52842083333t" end="52860000000t" style="normal" xml:id="subtitle852">What are you talking about?</p>
+<p begin="52887083333t" end="52910833333t" style="normal" xml:id="subtitle853">Your ship sank. How is that your fault?</p>
+<p begin="52917500000t" end="52940000000t" style="normal" xml:id="subtitle854">And I happen to know your wife.</p>
+<p begin="52953333333t" end="52984583333t" style="normal" xml:id="subtitle855">Do you really think she cares<br/>if you return with money?</p>
+<p begin="52992916666t" end="53007916666t" style="normal" xml:id="subtitle856">As long as you're safe.</p>
+<p begin="53031666666t" end="53052083333t" style="normal" xml:id="subtitle857">All she wants to know<br/>is that you're safe, Man.</p>
+<p begin="53552916666t" end="53569583333t" style="normal" xml:id="subtitle858"><span style="normal_1">After listening to Dad's story...</span></p>
+<p begin="53597083333t" end="53616666666t" style="normal" xml:id="subtitle859"><span style="normal_1">I understood him better.</span></p>
+<p begin="53648750000t" end="53679583333t" style="normal" xml:id="subtitle860"><span style="normal_1">Though I know</span><br/><span style="normal_1">he was still keeping something inside.</span></p>
+<p begin="53714583333t" end="53725416666t" style="normal" xml:id="subtitle861"><span style="normal_1">Regardless...</span></p>
+<p begin="53735000000t" end="53760416666t" style="normal" xml:id="subtitle862"><span style="normal_1">I still want him to go home to Mom.</span></p>
+<p begin="54170833333t" end="54179166666t" style="normal" xml:id="subtitle863">Dad?</p>
+<p begin="54189583333t" end="54197916666t" style="normal" xml:id="subtitle864">Yes, Omar.</p>
+<p begin="54206250000t" end="54222083333t" style="normal" xml:id="subtitle865">I'd better head back to London.</p>
+<p begin="54247500000t" end="54259166666t" style="normal" xml:id="subtitle866">I'll come back, okay?</p>
+<p begin="54298750000t" end="54307083333t" style="normal" xml:id="subtitle867">Okay.</p>
+<p begin="54341250000t" end="54357500000t" style="normal" xml:id="subtitle868">I won't be staying in London long.</p>
+<p begin="54383333333t" end="54412916666t" style="normal" xml:id="subtitle869">After I complete my studies...</p>
+<p begin="54427916666t" end="54440833333t" style="normal" xml:id="subtitle870">if you want to go home...</p>
+<p begin="54455000000t" end="54467083333t" style="normal" xml:id="subtitle871">we can go back together.</p>
+<p begin="54483750000t" end="54495416666t" style="normal" xml:id="subtitle872">Sure.</p>
+<p begin="54512083333t" end="54524583333t" style="normal" xml:id="subtitle873">I'll be back.</p>
+<p begin="54566250000t" end="54574583333t" style="normal" xml:id="subtitle874">Yes.</p>
+<p begin="54587083333t" end="54597916666t" style="normal" xml:id="subtitle875">Christmas break.</p>
+<p begin="54625000000t" end="54633333333t" style="normal" xml:id="subtitle876">Yes.</p>
+<p begin="54649166666t" end="54662500000t" style="normal" xml:id="subtitle877">We'll eat together, okay?</p>
+<p begin="54697083333t" end="54705416666t" style="normal" xml:id="subtitle878">Yes.</p>
+<p begin="54727083333t" end="54737916666t" style="normal" xml:id="subtitle879">I'll call you.</p>
+<p begin="54777083333t" end="54790000000t" style="normal" xml:id="subtitle880">In the evening.</p>
+<p begin="54801250000t" end="54813750000t" style="normal" xml:id="subtitle881">I work during the day.</p>
+<p begin="55025416666t" end="55053333333t" style="normal" xml:id="subtitle882">Does your mom know I'm here?</p>
+<p begin="55071250000t" end="55079583333t" style="normal" xml:id="subtitle883">No.</p>
+<p begin="55102500000t" end="55110833333t" style="normal" xml:id="subtitle884">Okay.</p>
+<p begin="55122500000t" end="55138333333t" style="normal" xml:id="subtitle885">I'll take my leave now.</p>
+<p begin="55151250000t" end="55159583333t" style="normal" xml:id="subtitle886">Okay.</p>
+<p begin="55187916666t" end="55217083333t" style="normal" xml:id="subtitle887">-Peace be upon you.<br/>-Peace be upon you, too.</p>
+<p begin="55317083333t" end="55325416666t" style="normal" xml:id="subtitle888">Yeah.</p>
+<p begin="55697083333t" end="55717916666t" style="normal" xml:id="subtitle889">Peace be upon you, Mom. How's Grandma?</p>
+<p begin="55755833333t" end="55771250000t" style="normal" xml:id="subtitle890">I've just arrived.</p>
+<p begin="55776666666t" end="55796250000t" style="normal" xml:id="subtitle891">I'll call later if there's anything.</p>
+<p begin="55806250000t" end="55818750000t" style="normal" xml:id="subtitle892">Okay, peace be upon you.</p>
+<p begin="55972083333t" end="55982083333t" style="normal" xml:id="subtitle893">Omar.</p>
+<p begin="56016250000t" end="56035416666t" style="normal" xml:id="subtitle894">I've missed you.</p>
+<p begin="56088750000t" end="56098750000t" style="normal" xml:id="subtitle895">I've missed you, too, Mom.</p>
+<p begin="56119166666t" end="56138750000t" style="normal" xml:id="subtitle896">Dad told me to look after the boat...</p>
+<p begin="56151666666t" end="56164583333t" style="normal" xml:id="subtitle897">but you sold it.</p>
+<p begin="56192083333t" end="56210416666t" style="normal" xml:id="subtitle898">Because you needed to go to Hong Kong.</p>
+<p begin="56254583333t" end="56265833333t" style="normal" xml:id="subtitle899">You'll be back soon.</p>
+<p begin="56411250000t" end="56419583333t" style="normal" xml:id="subtitle900">Mom?</p>
+<p begin="56430833333t" end="56456666666t" style="normal" xml:id="subtitle901">Mom? Mom? Mom.</p>
+<p begin="56458333333t" end="56480000000t" style="normal" xml:id="subtitle902">Wait for Ahmad, okay? I'll call him.</p>
+<p begin="56480833333t" end="56492500000t" style="normal" xml:id="subtitle903">You can speak to...</p>
+<p begin="56493333333t" end="56511250000t" style="normal" xml:id="subtitle904">Omar is here, Mom. He's right here.</p>
+<p begin="56538750000t" end="56555000000t" style="normal" xml:id="subtitle905">Who is it you're looking for?</p>
+<p begin="56560416666t" end="56577500000t" style="normal" xml:id="subtitle906">Which friend of mine?</p>
+<p begin="56592083333t" end="56622083333t" style="normal" xml:id="subtitle907">I was wondering if you knew my granddad?</p>
+<p begin="56632083333t" end="56647083333t" style="normal" xml:id="subtitle908">Othman Haji Alias?</p>
+<p begin="56675000000t" end="56697916666t" style="normal" xml:id="subtitle909">He was from Serkam. He stayed at...</p>
+<p begin="56719166666t" end="56747500000t" style="normal" xml:id="subtitle910">Othman Serkam? Sure.</p>
+<p begin="56754166666t" end="56802083333t" style="normal" xml:id="subtitle911">Of course I know him. We were best mates.</p>
+<p begin="56803750000t" end="56833750000t" style="normal" xml:id="subtitle912">We used to be at the club all the time...</p>
+<p begin="56850000000t" end="56858750000t" style="normal" xml:id="subtitle913">those days.</p>
+<p begin="56864166666t" end="56878750000t" style="normal" xml:id="subtitle914">Do you know where he is now?</p>
+<p begin="56942500000t" end="56952083333t" style="normal" xml:id="subtitle915">Othman's dead.</p>
+<p begin="56962083333t" end="56995000000t" style="normal" xml:id="subtitle916">We belong to God,<br/>and to him we shall return.</p>
+<p begin="57071666666t" end="57085416666t" style="normal" xml:id="subtitle917">Was it a long time ago, Uncle?</p>
+<p begin="57100416666t" end="57110833333t" style="normal" xml:id="subtitle918">A long time ago.</p>
+<p begin="57145833333t" end="57166250000t" style="normal" xml:id="subtitle919">I don't remember what year it was.</p>
+<p begin="57172083333t" end="57220000000t" style="normal" xml:id="subtitle920">At that time, his son was here.</p>
+<p begin="57237083333t" end="57292916666t" style="normal" xml:id="subtitle921"><span style="normal_1">All of us buried Othman together.</span></p>
+<p begin="57454583333t" end="57476666666t" style="normal" xml:id="subtitle922">That hat belonged to his best friend.<br/>His name was Lum.</p>
+<p begin="57498333333t" end="57532083333t" style="normal" xml:id="subtitle923">Othman always got a good laugh<br/>from telling stories about Lum.</p>
+<p begin="58146666666t" end="58161666666t" style="normal" xml:id="subtitle924">Do you know where he was buried?</p>
+<p begin="58245833333t" end="58257916666t" style="normal" xml:id="subtitle925">Granddad, are you all right?</p>
+<p begin="58317500000t" end="58330416666t" style="normal" xml:id="subtitle926">Would you like some water?</p>
+<p begin="58377916666t" end="58388333333t" style="normal" xml:id="subtitle927">Alia.</p>
+<p begin="58427500000t" end="58445000000t" style="normal" xml:id="subtitle928">How did you know about Granddad?</p>
+<p begin="58606250000t" end="58619583333t" style="normal" xml:id="subtitle929">-Peace be upon you, Mom.<br/><span style="normal_1">-Ahmad.</span></p>
+<p begin="58620416666t" end="58630833333t" style="normal" xml:id="subtitle930">How's Grandma?</p>
+<p begin="58635833333t" end="58660416666t" style="normal" xml:id="subtitle931">We're running out of time. She's dying.</p>
+<p begin="58727083333t" end="58739583333t" style="normal" xml:id="subtitle932">Grandma's dying.</p>
+<p begin="58755000000t" end="58765416666t" style="normal" xml:id="subtitle933">Now...</p>
+<p begin="58784583333t" end="58807083333t" style="normal" xml:id="subtitle934">Grandma said if he's dead,<br/>look for his grave.</p>
+<p begin="58933333333t" end="58946666666t" style="normal" xml:id="subtitle935">They might keep records.</p>
+<p begin="58987916666t" end="59003750000t" style="normal" xml:id="subtitle936">There was this one professor</p>
+<p begin="59004583333t" end="59048750000t" style="normal" xml:id="subtitle937">who did research on Malay sailors<br/>in Liverpool a while ago.</p>
+<p begin="59106250000t" end="59116666666t" style="normal" xml:id="subtitle938">Professor Bunnell.</p>
+<p begin="59222916666t" end="59231250000t" style="normal" xml:id="subtitle939">Everton!</p>
+<p begin="59235416666t" end="59284166666t" style="normal" xml:id="subtitle940">Tim says that Muslims are buried<br/>at Everton Cemetery.</p>
+<p begin="59622916666t" end="59648333333t" style="normal" xml:id="subtitle941">Tim says the Muslim cemetery<br/>is at Everton.</p>
+<p begin="59649166666t" end="59694166666t" style="normal" xml:id="subtitle942">But before 1970,<br/>it was at Anfield Cemetery.</p>
+<p begin="59781666666t" end="59795000000t" style="normal" xml:id="subtitle943">How are we going to find him?</p>
+<p begin="59810416666t" end="59828333333t" style="normal" xml:id="subtitle944">Tim told us to go<br/>to the registry office first.</p>
+<p begin="60156250000t" end="60172916666t" style="normal" xml:id="subtitle945">Why didn't your grandpa go home?</p>
+<p begin="60176250000t" end="60201250000t" style="normal" xml:id="subtitle946">He must've saved enough money<br/>after the shipwreck.</p>
+<p begin="60203750000t" end="60227083333t" style="normal" xml:id="subtitle947">If not a lot, at least enough to go home.</p>
+<p begin="60227916666t" end="60244583333t" style="normal" xml:id="subtitle948">Why did he settle down in Liverpool</p>
+<p begin="60245416666t" end="60259166666t" style="normal" xml:id="subtitle949">-and not--<br/>-Alia, can you listen?</p>
+<p begin="60523333333t" end="60542500000t" style="normal" xml:id="subtitle950">"Othman Haji Alias."</p>
+<p begin="60828750000t" end="60838750000t" style="normal" xml:id="subtitle951">"Khan."</p>
+<p begin="60857500000t" end="60871666666t" style="normal" xml:id="subtitle952">"Shihaniz."</p>
+<p begin="60875416666t" end="60894583333t" style="normal" xml:id="subtitle953">-"Harith Sulaiman."<br/>-"Shirajudin."</p>
+<p begin="60910833333t" end="60919166666t" style="normal" xml:id="subtitle954">"Othman...</p>
+<p begin="60932083333t" end="60942916666t" style="normal" xml:id="subtitle955">Bin Haji Alias."</p>
+<p begin="61189583333t" end="61198750000t" style="normal" xml:id="subtitle956">Grandma.</p>
+<p begin="61213750000t" end="61227916666t" style="normal" xml:id="subtitle957">I found it, Grandma.</p>
+<p begin="61390833333t" end="61411666666t" style="normal" xml:id="subtitle958">I seek refuge in God<br/>from the accursed Satan.</p>
+<p begin="61412500000t" end="61436666666t" style="normal" xml:id="subtitle959">In the name of God,<br/>most gracious, most merciful.</p>
+<p begin="61437500000t" end="61497500000t" style="normal" xml:id="subtitle960">Oh, God, forgive him.<br/>Bestow mercy upon him. Pardon him.</p>
+<p begin="62073750000t" end="62082083333t" style="normal" xml:id="subtitle961">Grandma.</p>
+<p begin="62095833333t" end="62105416666t" style="normal" xml:id="subtitle962">It's me.</p>
+<p begin="62122083333t" end="62135416666t" style="normal" xml:id="subtitle963">I'm back.</p>
+<p begin="62140833333t" end="62156666666t" style="normal" xml:id="subtitle964">I found him, Grandma.</p>
+<p begin="62193750000t" end="62207500000t" style="normal" xml:id="subtitle965">He's passed away.</p>
+<p begin="62278333333t" end="62302916666t" style="normal" xml:id="subtitle966">We belong to God.</p>
+<p begin="62381250000t" end="62393333333t" style="normal" xml:id="subtitle967">This is his grave.</p>
+<p begin="62405000000t" end="62416250000t" style="normal" xml:id="subtitle968">In Liverpool.</p>
+<p begin="62435833333t" end="62450000000t" style="normal" xml:id="subtitle969">Othman Bin Haji Alias.</p>
+<p begin="62459583333t" end="62488333333t" style="normal" xml:id="subtitle970">He died in December 1966, Grandma.</p>
+<p begin="62538750000t" end="62559583333t" style="normal" xml:id="subtitle971">He died before me.</p>
+<p begin="62574583333t" end="62598333333t" style="normal" xml:id="subtitle972">How did he die, Ahmad?</p>
+<p begin="62604166666t" end="62617500000t" style="normal" xml:id="subtitle973">Was he loved?</p>
+<p begin="62624583333t" end="62645416666t" style="normal" xml:id="subtitle974">Did he have family there?</p>
+<p begin="62673333333t" end="62681666666t" style="normal" xml:id="subtitle975">No, Grandma.</p>
+<p begin="62691666666t" end="62702083333t" style="normal" xml:id="subtitle976">But...</p>
+<p begin="62712083333t" end="62728750000t" style="normal" xml:id="subtitle977">Dad was there when he died.</p>
+<p begin="62756666666t" end="62773333333t" style="normal" xml:id="subtitle978">Dad buried him.</p>
+<p begin="62777916666t" end="62834166666t" style="normal" xml:id="subtitle979">All this time,<br/>Omar knew his father had died.</p>
+<p begin="62839166666t" end="62851666666t" style="normal" xml:id="subtitle980">I don't know.</p>
+<p begin="62856666666t" end="62872500000t" style="normal" xml:id="subtitle981">I don't know, Mom.</p>
+<p begin="62913333333t" end="62932916666t" style="normal" xml:id="subtitle982">Did Dad ever give a letter to you?</p>
+<p begin="62947916666t" end="62957916666t" style="normal" xml:id="subtitle983">From Grandpa?</p>
+<p begin="63047916666t" end="63064166666t" style="normal" xml:id="subtitle984">Mom, please read Dad's letter.</p>
+<p begin="63088333333t" end="63107083333t" style="normal" xml:id="subtitle985">It's too late, Omar.</p>
+<p begin="63131666666t" end="63154166666t" style="normal" xml:id="subtitle986">This letter is meaningless.</p>
+<p begin="63198750000t" end="63207500000t" style="normal" xml:id="subtitle987">Mom.</p>
+<p begin="63221666666t" end="63235416666t" style="normal" xml:id="subtitle988">Don't you want to know about him?</p>
+<p begin="63257500000t" end="63276666666t" style="normal" xml:id="subtitle989">Did he ever ask about us, Omar?</p>
+<p begin="63292916666t" end="63301666666t" style="normal" xml:id="subtitle990">Ever?</p>
+<p begin="63318750000t" end="63338333333t" style="normal" xml:id="subtitle991">Eighteen years, Omar.</p>
+<p begin="63355416666t" end="63387500000t" style="normal" xml:id="subtitle992">It has always just been you and me.</p>
+<p begin="63400833333t" end="63410416666t" style="normal" xml:id="subtitle993">He's not here.</p>
+<p begin="63415416666t" end="63442083333t" style="normal" xml:id="subtitle994">Now, he sends a letter. For what?</p>
+<p begin="63447083333t" end="63460416666t" style="normal" xml:id="subtitle995">To come back to us?</p>
+<p begin="63480000000t" end="63493750000t" style="normal" xml:id="subtitle996">To come back to us?</p>
+<p begin="63498333333t" end="63507500000t" style="normal" xml:id="subtitle997">Mom!</p>
+<p begin="63541666666t" end="63550000000t" style="normal" xml:id="subtitle998">Mom?</p>
+<p begin="63558333333t" end="63569583333t" style="normal" xml:id="subtitle999">Mom, what are you doing?</p>
+<p begin="63570416666t" end="63585000000t" style="normal" xml:id="subtitle1000">-Calm down, Mom.<br/>-Move, Omar!</p>
+<p begin="63585833333t" end="63595000000t" style="normal" xml:id="subtitle1001">Mom.</p>
+<p begin="63639583333t" end="63661250000t" style="normal" xml:id="subtitle1002">Mom. Calm down, Mom.</p>
+<p begin="63677083333t" end="63687083333t" style="normal" xml:id="subtitle1003">Move aside, Omar!</p>
+<p begin="63694583333t" end="63708333333t" style="normal" xml:id="subtitle1004">Don't disobey me!</p>
+<p begin="63712083333t" end="63721250000t" style="normal" xml:id="subtitle1005">This is all your fault!</p>
+<p begin="63739166666t" end="63750416666t" style="normal" xml:id="subtitle1006">Because of you...</p>
+<p begin="63758333333t" end="63779583333t" style="normal" xml:id="subtitle1007">I waited for him.</p>
+<p begin="63801250000t" end="63819166666t" style="normal" xml:id="subtitle1008">Don't you ever mention his name again.</p>
+<p begin="64012083333t" end="64020833333t" style="normal" xml:id="subtitle1009">Dad.</p>
+<p begin="64043333333t" end="64058750000t" style="normal" xml:id="subtitle1010">Where is Grandpa's letter, Dad?</p>
+<p begin="64135000000t" end="64149166666t" style="normal" xml:id="subtitle1011">Push!</p>
+<p begin="64150000000t" end="64175416666t" style="normal" xml:id="subtitle1012">-Push more!<br/>-Pull!</p>
+<p begin="64552916666t" end="64567500000t" style="normal" xml:id="subtitle1013"><span style="normal_1">I'm sorry, Mom.</span></p>
+<p begin="64580000000t" end="64595416666t" style="normal" xml:id="subtitle1014">I don't listen to you.</p>
+<p begin="64607916666t" end="64630000000t" style="normal" xml:id="subtitle1015">I didn't throw away Dad's letter.</p>
+<p begin="64670833333t" end="64685000000t" style="normal" xml:id="subtitle1016">I kept it all this time.</p>
+<p begin="65009583333t" end="65019166666t" style="normal" xml:id="subtitle1017">Mom.</p>
+<p begin="65056666666t" end="65072083333t" style="normal" xml:id="subtitle1018">You want me to read it, Grandma?</p>
+<p begin="65169583333t" end="65177916666t" style="normal" xml:id="subtitle1019">-"Thom..."<br/><span style="normal_1">-Thom...</span></p>
+<p begin="65196250000t" end="65223333333t" style="normal" xml:id="subtitle1020"><span style="normal_1">when this letter reaches you...</span></p>
+<p begin="65252083333t" end="65272916666t" style="normal" xml:id="subtitle1021"><span style="normal_1">I am no longer in this world.</span></p>
+<p begin="65347083333t" end="65395416666t" style="normal" xml:id="subtitle1022"><span style="normal_1">But... I never forgot my promise.</span></p>
+<p begin="65493333333t" end="65503750000t" style="normal" xml:id="subtitle1023">Man!</p>
+<p begin="65517916666t" end="65527916666t" style="normal" xml:id="subtitle1024">What are you doing, Man?</p>
+<p begin="65536250000t" end="65547500000t" style="normal" xml:id="subtitle1025">Othman!</p>
+<p begin="65563333333t" end="65572916666t" style="normal" xml:id="subtitle1026">Hey!</p>
+<p begin="65575000000t" end="65583333333t" style="normal" xml:id="subtitle1027">Stop!</p>
+<p begin="65586666666t" end="65606250000t" style="normal" xml:id="subtitle1028">Stop! Wait!</p>
+<p begin="65612916666t" end="65622083333t" style="normal" xml:id="subtitle1029">Othman!</p>
+<p begin="65626666666t" end="65637083333t" style="normal" xml:id="subtitle1030">Stop!</p>
+<p begin="65640000000t" end="65657916666t" style="normal" xml:id="subtitle1031">Wait! Come!</p>
+<p begin="66087916666t" end="66098750000t" style="normal" xml:id="subtitle1032">Let it go, Taib.</p>
+<p begin="66107500000t" end="66120416666t" style="normal" xml:id="subtitle1033">Don't sulk.</p>
+<p begin="66131250000t" end="66142916666t" style="normal" xml:id="subtitle1034">It's a good thing.</p>
+<p begin="66143750000t" end="66161666666t" style="normal" xml:id="subtitle1035">I just feel sorry for Othman.</p>
+<p begin="66168333333t" end="66177500000t" style="normal" xml:id="subtitle1036">What if he comes back?</p>
+<p begin="66181250000t" end="66190000000t" style="normal" xml:id="subtitle1037">What about Thom?</p>
+<p begin="66197916666t" end="66206250000t" style="normal" xml:id="subtitle1038">And Omar?</p>
+<p begin="66210416666t" end="66218750000t" style="normal" xml:id="subtitle1039">You don't feel sorry?</p>
+<p begin="66225000000t" end="66240000000t" style="normal" xml:id="subtitle1040">Teacher Hassan is a nice man.</p>
+<p begin="66242083333t" end="66250416666t" style="normal" xml:id="subtitle1041">He is well-to-do.</p>
+<p begin="66254166666t" end="66272083333t" style="normal" xml:id="subtitle1042">Thom's and Omar's future<br/>will be taken care of.</p>
+<p begin="66279583333t" end="66289166666t" style="normal" xml:id="subtitle1043">God willing, Taib.</p>
+<p begin="66383333333t" end="66392916666t" style="normal" xml:id="subtitle1044">Thom.</p>
+<p begin="66634583333t" end="66649166666t" style="normal" xml:id="subtitle1045"><span style="normal_1">I want to see you adorned...</span></p>
+<p begin="66668333333t" end="66707083333t" style="normal" xml:id="subtitle1046"><span style="normal_1">if not in diamonds, then in gold...</span></p>
+<p begin="66712916666t" end="66728750000t" style="normal" xml:id="subtitle1047"><span style="normal_1">even just a tiny piece.</span></p>
+<p begin="67046250000t" end="67060000000t" style="normal" xml:id="subtitle1048"><span style="normal_1">But you never remarried.</span></p>
+<p begin="67063750000t" end="67090000000t" style="normal" xml:id="subtitle1049"><span style="normal_1">I wanted to move on with my life...</span></p>
+<p begin="67108333333t" end="67151666666t" style="normal" xml:id="subtitle1050"><span style="normal_1">but my heart was set.</span></p>
+<p begin="67194583333t" end="67231666666t" style="normal" xml:id="subtitle1051"><span style="normal_1">It only wanted him.</span></p>
+<p begin="67250416666t" end="67260416666t" style="normal" xml:id="subtitle1052">I'm sorry. I can't.</p>
+<p begin="67325000000t" end="67378333333t" style="normal" xml:id="subtitle1053">He probably came home to Serkam<br/>that night.</p>
+<p begin="67421666666t" end="67452083333t" style="normal" xml:id="subtitle1054">He came home, Ahmad.</p>
+<p begin="67525833333t" end="67563750000t" style="normal" xml:id="subtitle1055">Dad came home, Omar.</p>
+<p begin="67594166666t" end="67609583333t" style="normal" xml:id="subtitle1056"><span style="normal_1">Forgive me, Thom.</span></p>
+<p begin="67619583333t" end="67648750000t" style="normal" xml:id="subtitle1057"><span style="normal_1">For thinking that you could be happier...</span></p>
+<p begin="67665416666t" end="67683333333t" style="normal" xml:id="subtitle1058"><span style="normal_1">with someone wealthy...</span></p>
+<p begin="67705833333t" end="67722500000t" style="normal" xml:id="subtitle1059"><span style="normal_1">rather than someone you loved.</span></p>
+<p begin="67752083333t" end="67796250000t" style="normal" xml:id="subtitle1060"><span style="normal_1">Forgive me for not trusting your words.</span></p>
+<p begin="67811250000t" end="67857916666t" style="normal" xml:id="subtitle1061"><span style="normal_1">Forgive me for keeping us apart</span><br/><span style="normal_1">all these years.</span></p>
+<p begin="67875833333t" end="67892916666t" style="normal" xml:id="subtitle1062"><span style="normal_1">I used to think...</span></p>
+<p begin="67900416666t" end="67933333333t" style="normal" xml:id="subtitle1063"><span style="normal_1">a ship that doesn't sail is useless.</span></p>
+<p begin="67951250000t" end="67965833333t" style="normal" xml:id="subtitle1064"><span style="normal_1">But now I know, Thom...</span></p>
+<p begin="67985833333t" end="68028750000t" style="normal" xml:id="subtitle1065"><span style="normal_1">a ship permanently at sea,</span><br/><span style="normal_1">without a harbor to come home to,</span></p>
+<p begin="68036666666t" end="68060416666t" style="normal" xml:id="subtitle1066"><span style="normal_1">that is truly a wasted life.</span></p>
+<p begin="68077916666t" end="68100833333t" style="normal" xml:id="subtitle1067"><span style="normal_1">I have never forgotten you, Thom.</span></p>
+<p begin="68110416666t" end="68129583333t" style="normal" xml:id="subtitle1068"><span style="normal_1">I still love you...</span></p>
+<p begin="68145833333t" end="68158333333t" style="normal" xml:id="subtitle1069"><span style="normal_1">to this very day.</span></p>
+<p begin="68239166666t" end="68262916666t" style="normal" xml:id="subtitle1070">We belong to God,<br/>and to him we shall return.</p>
+<p begin="68263750000t" end="68287083333t" style="normal" xml:id="subtitle1071">We belong to God,<br/>and to him we shall return.</p>
+<p begin="68403333333t" end="68438333333t" style="normal" xml:id="subtitle1072"><span style="normal_1">If we don't get to meet again</span><br/><span style="normal_1">in this life...</span></p>
+<p begin="68460833333t" end="68485000000t" style="normal" xml:id="subtitle1073"><span style="normal_1">may he reunite us...</span></p>
+<p begin="68505000000t" end="68521250000t" style="normal" xml:id="subtitle1074"><span style="normal_1">in the hereafter.</span></p>
+<p begin="68538333333t" end="68575000000t" style="normal" xml:id="subtitle1075"><span style="normal_1">There is an empty space</span></p>
+<p begin="68576250000t" end="68600833333t" style="normal" xml:id="subtitle1076"><span style="normal_1">Inhibited</span></p>
+<p begin="68637500000t" end="68702916666t" style="normal" xml:id="subtitle1077"><span style="normal_1">In this lonely heart of mine</span></p>
+<p begin="68736250000t" end="68777083333t" style="normal" xml:id="subtitle1078"><span style="normal_1">There's no cure</span></p>
+<p begin="68777916666t" end="68821666666t" style="normal" xml:id="subtitle1079"><span style="normal_1">For this broken heart</span></p>
+<p begin="68827083333t" end="68857916666t" style="normal" xml:id="subtitle1080"><span style="normal_1">All I need is you</span></p>
+<p begin="68858750000t" end="68896666666t" style="normal" xml:id="subtitle1081"><span style="normal_1">Back with me again</span></p>
+</div>
+</body>
+</tt>

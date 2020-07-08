@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="style.center"/>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="style.center_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="region.after"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="region.before"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="14000000t" end="59200000t" region="region.after" style="style.center" xml:id="subtitle0">Kita mahu cari mana lagi?<br/>Sudah pukul dua pagi, penatlah.</p>
+<p begin="94000000t" end="108400000t" region="region.after" style="style.center" xml:id="subtitle1">Esok bukan sekolah pun.</p>
+<p begin="115200000t" end="130000000t" region="region.after" style="style.center" xml:id="subtitle2">Masalahnya mengantuk.</p>
+<p begin="151600000t" end="170400000t" region="region.after" style="style.center" xml:id="subtitle3">Kalau mengantuk, tidur dalam kereta.</p>
+<p begin="183600000t" end="205200000t" region="region.after" style="style.center" xml:id="subtitle4">Abang mahu cari di mana lagi?</p>
+<p begin="218000000t" end="234000000t" region="region.after" style="style.center" xml:id="subtitle5">[mengeluh]</p>
+<p begin="275600000t" end="284000000t" region="region.after" style="style.center" xml:id="subtitle6">Balik sajalah.</p>
+<p begin="306400000t" end="330800000t" region="region.after" style="style.center" xml:id="subtitle7">Saya tidak rasa dengan cara ini<br/>kita boleh jumpa dia.</p>
+<p begin="335600000t" end="350400000t" region="region.after" style="style.center" xml:id="subtitle8">Mirul setuju.</p>
+<p begin="361200000t" end="371600000t" region="region.after" style="style.center" xml:id="subtitle9">Kita balik.</p>
+<p begin="372400000t" end="381200000t" region="region.after" style="style.center" xml:id="subtitle10">Hm.</p>
+<p begin="409200000t" end="419600000t" region="region.after" style="style.center" xml:id="subtitle11">Kenapa, abang?</p>
+<p begin="420400000t" end="442400000t" region="region.after" style="style.center" xml:id="subtitle12">[muzik disko sayup]</p>
+<p begin="443200000t" end="457200000t" region="region.after" style="style.center" xml:id="subtitle13">[muzik dramatik]</p>
+<p begin="458000000t" end="486000000t" region="region.after" style="style.center" xml:id="subtitle14">Biar betul? Abang tahu itu lorong apa?</p>
+<p begin="493200000t" end="514000000t" region="region.after" style="style.center" xml:id="subtitle15">Takkanlah perempuan misteri<br/>dari lorong itu?</p>
+<p begin="517600000t" end="552000000t" region="region.after" style="style.center" xml:id="subtitle16">Cubaan terakhir.<br/>Kalau kita tidak jumpa juga...</p>
+<p begin="552800000t" end="572800000t" region="region.after" style="style.center" xml:id="subtitle17">Kita balik, okey?</p>
+<p begin="579600000t" end="593200000t" region="region.after" style="style.center" xml:id="subtitle18">Abang ini sudah gilakah?</p>
+<p begin="596400000t" end="631200000t" region="region.after" style="style.center" xml:id="subtitle19">- Itu lorong pelacurlah.<br/>- Tidak apa. Tunggu sekejap.</p>
+<p begin="632000000t" end="641200000t" region="region.after" style="style.center" xml:id="subtitle20">Sekejap saja.</p>
+<p begin="671200000t" end="696800000t" region="region.after" style="style.center" xml:id="subtitle21">- Mirul mahu ikut.<br/>- Jangan.</p>
+<p begin="705600000t" end="719600000t" region="region.after" style="style.center" xml:id="subtitle22">Awak bawah umur.</p>
+<p begin="720400000t" end="740400000t" region="region.after" style="style.center" xml:id="subtitle23">Nanti apa-apa jadi...</p>
+<p begin="744000000t" end="775200000t" region="region.after" style="style.center" xml:id="subtitle24">Kena serbu, polis datang...</p>
+<p begin="776000000t" end="786000000t" region="region.after" style="style.center" xml:id="subtitle25">Susah.</p>
+<p begin="793200000t" end="822000000t" region="region.after" style="style.center" xml:id="subtitle26">- Yalah.<br/>- Tunggu sampai saya balik.</p>
+<p begin="822800000t" end="832400000t" region="region.after" style="style.center" xml:id="subtitle27">Hm.</p>
+<p begin="837200000t" end="864400000t" region="region.after" style="style.center" xml:id="subtitle28">[muzik suram]</p>
+<p begin="882000000t" end="893200000t" region="region.after" style="style.center" xml:id="subtitle29">Kunci pintu.</p>
+<p begin="989600000t" end="1020800000t" region="region.after" style="style.center" xml:id="subtitle30">[sayup suara perempuan berbual]</p>
+<p begin="1038800000t" end="1068400000t" region="region.after" style="style.center" xml:id="subtitle31">[muzik suram]</p>
+<p begin="1130400000t" end="1160400000t" region="region.after" style="style.center" xml:id="subtitle32">[sayup suara perempuan bergosip]</p>
+<p begin="1344000000t" end="1368000000t" region="region.after" style="style.center" xml:id="subtitle33">Cerita panjang tidak mahulah.</p>
+<p begin="1368800000t" end="1381600000t" region="region.after" style="style.center" xml:id="subtitle34">[Bahasa Inggeris]<br/>Turutan!</p>
+<p begin="1382400000t" end="1392000000t" region="region.after" style="style.center" xml:id="subtitle35">[semua merintih]</p>
+<p begin="1392800000t" end="1418400000t" region="region.after" style="style.center" xml:id="subtitle36">[Bahasa Melayu]<br/>Awak main tipu lagi, bukan?</p>
+<p begin="1419200000t" end="1443200000t" region="region.after" style="style.center" xml:id="subtitle37">- Awak tipu, bukan?<br/>- Tengok tanganlah.</p>
+<p begin="1444000000t" end="1466800000t" region="region.after" style="style.center" xml:id="subtitle38">Saya rasa ini tuah mandi wajib pagi tadi.</p>
+<p begin="1472000000t" end="1484000000t" region="region.after" style="style.center" xml:id="subtitle39">Kocok semula.</p>
+<p begin="1490400000t" end="1501200000t" region="region.after" style="style.center" xml:id="subtitle40">Kacau.</p>
+<p begin="1508800000t" end="1543200000t" region="region.after" style="style.center" xml:id="subtitle41">Tangan awak tidak bernasib baik.<br/>Itu sebabnya kalah.</p>
+<p begin="1544000000t" end="1582800000t" region="region.after" style="style.center" xml:id="subtitle42">Tangan awak kalau main<br/>batu seremban pun kalah. Aduh.</p>
+<p begin="1583600000t" end="1605600000t" region="region.after" style="style.center" xml:id="subtitle43">Sebelum awak makan penumbuk,<br/>baik awak diam.</p>
+<p begin="1608800000t" end="1630800000t" region="region.after" style="style.center" xml:id="subtitle44">Awak memang malang, melekat di sini.</p>
+<p begin="1631600000t" end="1648400000t" region="region.after" style="style.center" xml:id="subtitle45">- Saya pula.<br/>- Tua.</p>
+<p begin="1666000000t" end="1691200000t" region="region.after" style="style.center" xml:id="subtitle46">Tambah. Pasang.</p>
+<p begin="1692000000t" end="1703600000t" region="region.after" style="style.center" xml:id="subtitle47">Hah, itu.</p>
+<p begin="1712800000t" end="1741600000t" region="region.after" style="style.center" xml:id="subtitle48">Apa lagi, pergilah.<br/>Mahu suruh saya ajar juga?</p>
+<p begin="1785600000t" end="1800400000t" region="region.after" style="style.center" xml:id="subtitle49">Saya hutang dulu.</p>
+<p begin="1805200000t" end="1838000000t" region="region.after" style="style.center" xml:id="subtitle50">- Apa hutang?<br/>- Hutang saya seratus.</p>
+<p begin="1846000000t" end="1867200000t" region="region.after" style="style.center" xml:id="subtitle51">[Bahasa Inggeris]<br/>Hi, si kacak.</p>
+<p begin="1870800000t" end="1889200000t" region="region.after" style="style.center" xml:id="subtitle52">[Inggeris-Melayu]<br/>Pertama kali?</p>
+<p begin="1906400000t" end="1920400000t" region="region.after" style="style.center" xml:id="subtitle53">[Bahasa Melayu]<br/>Ya.</p>
+<p begin="1938800000t" end="1973200000t" region="region.after" style="style.center" xml:id="subtitle54">Memandangkan awak baru di sini...</p>
+<p begin="1984400000t" end="2031600000t" region="region.after" style="style.center" xml:id="subtitle55">apa kata kalau cik Mona bagi<br/>harga istimewa untuk awak?</p>
+<p begin="2036400000t" end="2044800000t" region="region.after" style="style.center" xml:id="subtitle56">[lelaki]<br/>Hoi!</p>
+<p begin="2052000000t" end="2082000000t" region="region.after" style="style.center" xml:id="subtitle57">Awak jangan bagi harga tinggi.<br/>Awak bukan anak dara.</p>
+<p begin="2095600000t" end="2125200000t" region="region.after" style="style.center" xml:id="subtitle58">Awak diam, boleh?<br/>Hei, saya tua begini pun...</p>
+<p begin="2134400000t" end="2153200000t" region="region.after" style="style.center" xml:id="subtitle59">Hasil saya juga yang awak makan, bukan?</p>
+<p begin="2154000000t" end="2177200000t" region="region.after" style="style.center" xml:id="subtitle60">[ketawa mengejek]</p>
+<p begin="2204800000t" end="2213200000t" region="region.after" style="style.center" xml:id="subtitle61">Macam mana?</p>
+<p begin="2220400000t" end="2231200000t" region="region.after" style="style.center" xml:id="subtitle62">Kira jadi?</p>
+<p begin="2250400000t" end="2307200000t" region="region.after" style="style.center" xml:id="subtitle63">Kakak boleh ajak kawan sekali,<br/>tapi kenalah bayar lebih, boleh?</p>
+<p begin="2311200000t" end="2329600000t" region="region.after" style="style.center" xml:id="subtitle64">Tidak apa, kakak. Saya tidak mahu.</p>
+<p begin="2330400000t" end="2348400000t" region="region.after" style="style.center" xml:id="subtitle65">Awak, jangan malu.</p>
+<p begin="2350800000t" end="2378000000t" region="region.after" style="style.center" xml:id="subtitle66">Awak cakap saja, mahu yang macam mana?</p>
+<p begin="2380400000t" end="2402000000t" region="region.after" style="style.center" xml:id="subtitle67">Mahu yang kurus, yang gemuk...</p>
+<p begin="2402800000t" end="2419600000t" region="region.after" style="style.center" xml:id="subtitle68">Semua ada, tahu.</p>
+<p begin="2422800000t" end="2437600000t" region="region.after" style="style.center" xml:id="subtitle69">Saya tidak mahu apa-apa.</p>
+<p begin="2438400000t" end="2461200000t" region="region.after" style="style.center" xml:id="subtitle70">Macam ini.</p>
+<p begin="2463600000t" end="2500800000t" region="region.after" style="style.center" xml:id="subtitle71">Ataupun awak ambil cik Puan Opeh...</p>
+<p begin="2501600000t" end="2526000000t" region="region.after" style="style.center" xml:id="subtitle72">Muka mereka cantik. Badan mantap.</p>
+<p begin="2526800000t" end="2540400000t" region="region.after" style="style.center" xml:id="subtitle73">Tak apa, kak. Saya tak mahu.</p>
+<p begin="2541200000t" end="2554400000t" region="region.after" style="style.center" xml:id="subtitle74">Hei, hei.</p>
+<p begin="2556800000t" end="2566800000t" region="region.after" style="style.center" xml:id="subtitle75">Apa hal itu?</p>
+<p begin="2600000000t" end="2614400000t" region="region.after" style="style.center" xml:id="subtitle76">Kakak, saya minta maaf.</p>
+<p begin="2621200000t" end="2649200000t" region="region.after" style="style.center" xml:id="subtitle77">Saya sebenarnya datang sini,<br/>saya cari orang.</p>
+<p begin="2656400000t" end="2688800000t" region="region.after" style="style.center" xml:id="subtitle78">Itu maknanya awak sudah tua.</p>
+<p begin="2689600000t" end="2702800000t" region="region.after" style="style.center" xml:id="subtitle79">Tidak faham lagi?</p>
+<p begin="2709600000t" end="2733200000t" region="region.after" style="style.center" xml:id="subtitle80">[ketawa mengejek]</p>
+<p begin="2734000000t" end="2756000000t" region="region.after" style="style.center" xml:id="subtitle81">Dia tidak perasan dia tua.</p>
+<p begin="2779600000t" end="2810000000t" region="region.after" style="style.center" xml:id="subtitle82">Cari orang bukan di sini. Sana.</p>
+<p begin="2813200000t" end="2826400000t" region="region.after" style="style.center" xml:id="subtitle83">Di balai polis.</p>
+<p begin="2830800000t" end="2865200000t" region="region.after" style="style.center" xml:id="subtitle84">Di sini, orang cari sedap. Awak faham?</p>
+<p begin="2871600000t" end="2893200000t" region="region.after" style="style.center" xml:id="subtitle85">Faham, saya minta maaf.<br/>Saya minta diri dulu.</p>
+<p begin="2894000000t" end="2903600000t" region="region.after" style="style.center" xml:id="subtitle86">Hei.</p>
+<p begin="2913200000t" end="2924400000t" region="region.after" style="style.center" xml:id="subtitle87">Sekejap.</p>
+<p begin="2943200000t" end="2957600000t" region="region.after" style="style.center" xml:id="subtitle88">Awak cari siapa?</p>
+<p begin="2999600000t" end="3008800000t" region="region.after" style="style.center" xml:id="subtitle89">Saya cari dia.</p>
+<p begin="3030800000t" end="3039200000t" region="region.after" style="style.center" xml:id="subtitle90">Kakak kenal dia?</p>
+<p begin="3040000000t" end="3065600000t" region="region.after" style="style.center" xml:id="subtitle91">[muzik tegang]</p>
+<p begin="3148000000t" end="3156800000t" region="region.after" style="style.center" xml:id="subtitle92">Saya tidak kenal.</p>
+<p begin="3175600000t" end="3198400000t" region="region.after" style="style.center" xml:id="subtitle93">Ataupun ada kawan kakak yang kenal.</p>
+<p begin="3216000000t" end="3252000000t" region="region.after" style="style.center" xml:id="subtitle94">Saya cakap, tidak kenal.<br/>Awak tidak faham bahasa?</p>
+<p begin="3256000000t" end="3275600000t" region="region.after" style="style.center" xml:id="subtitle95">- Bagi sini gambar.<br/>- Kakak, ini saya punya.</p>
+<p begin="3282800000t" end="3300800000t" region="region.after" style="style.center" xml:id="subtitle96">- Bagi sini, awak pergilah.<br/>- Hoi!</p>
+<p begin="3306400000t" end="3329600000t" region="region.after" style="style.center" xml:id="subtitle97">- Apa benda lagi ini?<br/>- Pergilah.</p>
+<p begin="3330400000t" end="3342000000t" region="region.after" style="style.center" xml:id="subtitle98">Hah?</p>
+<p begin="3360000000t" end="3384800000t" region="region.after" style="style.center" xml:id="subtitle99">Apa hal ini? Hah?</p>
+<p begin="3385600000t" end="3405200000t" region="region.after" style="style.center" xml:id="subtitle100">- Tidak ada apa.<br/>- Tidak ada apa-apa, abang.</p>
+<p begin="3406000000t" end="3418400000t" region="region.after" style="style.center" xml:id="subtitle101">- Dia kacau awak?<br/>- Tidak.</p>
+<p begin="3419200000t" end="3440800000t" region="region.after" style="style.center" xml:id="subtitle102">- Habis itu, awak kacau dia?<br/>- Tidak.</p>
+<p begin="3445600000t" end="3474000000t" region="region.after" style="style.center" xml:id="subtitle103">Kalau tidak ada apa-apa,<br/>berambuslah sekarang!</p>
+<p begin="3493600000t" end="3506000000t" region="region.after" style="style.center" xml:id="subtitle104">Awak ini.</p>
+<p begin="3523600000t" end="3545200000t" region="region.after" style="style.center" xml:id="subtitle105">Dan awak kenapa? Tidak mahu buat kerja?</p>
+<p begin="3546000000t" end="3559600000t" region="region.after" style="style.center" xml:id="subtitle106">Sudah tidak pandai buat kerja?</p>
+<p begin="3632800000t" end="3659600000t" region="region.after" style="style.center" xml:id="subtitle107">[muzik romantik]</p>
+<p begin="4163600000t" end="4193600000t" region="region.after" style="style.center" xml:id="subtitle108">[muzik piano perlahan, sayu]</p>
+<p begin="4311600000t" end="4324000000t" region="region.after" style="style.center" xml:id="subtitle109">[pintu kereta terbuka]</p>
+<p begin="4370000000t" end="4379200000t" region="region.after" style="style.center" xml:id="subtitle110">Jumpa?</p>
+<p begin="4403600000t" end="4412000000t" region="region.after" style="style.center" xml:id="subtitle111">Jumpa.</p>
+<p begin="4431200000t" end="4439600000t" region="region.after" style="style.center" xml:id="subtitle112">Jadi, mana dia?</p>
+<p begin="4469600000t" end="4501200000t" region="region.after" style="style.center" xml:id="subtitle113">- Dia tiba-tiba hilang.<br/>- Macam mana boleh hilang?</p>
+<p begin="4502000000t" end="4526000000t" region="region.after" style="style.center" xml:id="subtitle114">Saya tidak tahu.<br/>Ada van lalu, selepas itu...</p>
+<p begin="4532800000t" end="4559600000t" region="region.after" style="style.center" xml:id="subtitle115">Selepas itu, dia hilang.<br/>Saya tidak tahu macam mana dia buat.</p>
+<p begin="4583600000t" end="4615200000t" region="region.after" style="style.center" xml:id="subtitle116">- Selepas itu, abang tidak cari dia?<br/>- Cari.</p>
+<p begin="4621600000t" end="4642400000t" region="region.after" style="style.center" xml:id="subtitle117">Tetapi tempat ini besar.</p>
+<p begin="4648400000t" end="4659200000t" region="region.after" style="style.center" xml:id="subtitle118">Lagi satu...</p>
+<p begin="4676400000t" end="4688800000t" region="region.after" style="style.center" xml:id="subtitle119">tempat ini seram.</p>
+<p begin="4699600000t" end="4718800000t" region="region.after" style="style.center" xml:id="subtitle120">Bukan macam depan rumah kita.</p>
+<p begin="4726800000t" end="4755600000t" region="region.after" style="style.center" xml:id="subtitle121">- Saya bukan berani tempat macam ini.<br/>- Habis itu?</p>
+<p begin="4765200000t" end="4792400000t" region="region.after" style="style.center" xml:id="subtitle122">Kita penat cari dia,<br/>dia hilang macam itu saja?</p>
+<p begin="4816000000t" end="4845200000t" region="region.after" style="style.center" xml:id="subtitle123">- Sudah, kita balik.<br/>- Jom, Mirul mengantuk.</p>
+<p begin="4856000000t" end="4866800000t" region="region.after" style="style.center" xml:id="subtitle124">Tidur.</p>
+<p begin="4951200000t" end="4976800000t" region="region.after" style="style.center" xml:id="subtitle125">[muzik piano perlahan, sayu]</p>
+<p begin="5132800000t" end="5160800000t" region="region.after" style="style.center" xml:id="subtitle126">[jam loceng berdering]</p>
+<p begin="5248800000t" end="5280800000t" region="region.after" style="style.center" xml:id="subtitle127">Amirul, bangun. Sudah Subuh.</p>
+<p begin="5341200000t" end="5363600000t" region="region.after" style="style.center" xml:id="subtitle128">Mak, awal bangun hari ini.</p>
+<p begin="5391200000t" end="5402800000t" region="region.after" style="style.center" xml:id="subtitle129">Awak baru balik?</p>
+<p begin="5416400000t" end="5433600000t" region="region.after" style="style.center" xml:id="subtitle130">Ya, kenapa mak?</p>
+<p begin="5444400000t" end="5459600000t" region="region.after" style="style.center" xml:id="subtitle131">Banyak pelanggan hari ini?</p>
+<p begin="5485600000t" end="5499200000t" region="region.after" style="style.center" xml:id="subtitle132">Sampaikan...</p>
+<p begin="5508000000t" end="5529200000t" region="region.after" style="style.center" xml:id="subtitle133">sudah pukul berapa baru mahu balik?</p>
+<p begin="5537600000t" end="5551600000t" region="region.after" style="style.center" xml:id="subtitle134">Banyak jantan awak layan?</p>
+<p begin="5572000000t" end="5608400000t" region="region.after" style="style.center" xml:id="subtitle135">- Nur masuk dulu.<br/>- Nur! Awak duduk sini.</p>
+<p begin="5753600000t" end="5764800000t" region="region.after" style="style.center" xml:id="subtitle136">Minum.</p>
+<p begin="5780400000t" end="5790000000t" region="region.after" style="style.center" xml:id="subtitle137">Ambil!</p>
+<p begin="5798800000t" end="5822400000t" region="region.after" style="style.center" xml:id="subtitle138">Apa?<br/>Awak ingat saya letak racun dalam itu?</p>
+<p begin="5910800000t" end="5950000000t" region="region.after" style="style.center" xml:id="subtitle139">- Apa ini, mak?<br/>- Tanya pula. Cuba tengok.</p>
+<p begin="5955600000t" end="5974800000t" region="region.after" style="style.center" xml:id="subtitle140">Agak-agak awak, muka siapa itu?</p>
+<p begin="5986800000t" end="6006000000t" region="region.after" style="style.center" xml:id="subtitle141">[muzik tegang]</p>
+<p begin="6006800000t" end="6024400000t" region="region.after" style="style.center" xml:id="subtitle142">Gambar ini...</p>
+<p begin="6037200000t" end="6068400000t" region="region.after" style="style.center" xml:id="subtitle143">- Macam muka Nur.<br/>- Tahu pun.</p>
+<p begin="6098000000t" end="6107200000t" region="region.after" style="style.center" xml:id="subtitle144">Semalam...</p>
+<p begin="6112000000t" end="6136800000t" region="region.after" style="style.center" xml:id="subtitle145">Ada lelaki muda datang cari awak.</p>
+<p begin="6139600000t" end="6152800000t" region="region.after" style="style.center" xml:id="subtitle146">Dia bagi gambar itu dekat mak.</p>
+<p begin="6162400000t" end="6177600000t" region="region.after" style="style.center" xml:id="subtitle147">Nasib baik Marzuki tidak nampak.</p>
+<p begin="6195600000t" end="6207200000t" region="region.after" style="style.center" xml:id="subtitle148">Persoalannya...</p>
+<p begin="6224800000t" end="6237600000t" region="region.after" style="style.center" xml:id="subtitle149">Siapa lelaki itu?</p>
+<p begin="6246400000t" end="6264800000t" region="region.after" style="style.center" xml:id="subtitle150">Kenapa dia sibuk cari awak?</p>
+<p begin="6285600000t" end="6302000000t" region="region.after" style="style.center" xml:id="subtitle151">Lelaki muda mana ini?</p>
+<p begin="6393200000t" end="6407600000t" region="region.after" style="style.center" xml:id="subtitle152">Siapa lelaki itu, Nur?</p>
+<p begin="6453600000t" end="6464000000t" region="region.after" style="style.center" xml:id="subtitle153">Nur...</p>
+<p begin="6475200000t" end="6486800000t" region="region.after" style="style.center" xml:id="subtitle154">Nur tidak kenal.</p>
+<p begin="6504800000t" end="6534800000t" region="region.after" style="style.center" xml:id="subtitle155">Nur tidak tahu siapa.</p>
+<p begin="6566400000t" end="6613600000t" region="region.after" style="style.center" xml:id="subtitle156">Mak tidak kisah awak mengaku<br/>kenal atau tidak lelaki itu...</p>
+<p begin="6616400000t" end="6640400000t" region="region.after" style="style.center" xml:id="subtitle157">Tetapi, mahu mahu ingatkan awak.</p>
+<p begin="6650400000t" end="6694800000t" region="region.after" style="style.center" xml:id="subtitle158">Tentang nasib lelaki yang<br/>cuba berkawan dengan awak.</p>
+<p begin="6696800000t" end="6712800000t" region="region.after" style="style.center" xml:id="subtitle159">Awak tahu? Nasib mereka macam mana?</p>
+<p begin="6717200000t" end="6748000000t" region="region.after" style="style.center" xml:id="subtitle160">Terutama doktor yang<br/>awak sayang sangat itu.</p>
+<p begin="6748800000t" end="6764000000t" region="region.after" style="style.center" xml:id="subtitle161">Awak tahu? Nasib dia macam mana?</p>
+<p begin="6786400000t" end="6831600000t" region="region.after" style="style.center" xml:id="subtitle162">Jangan sampai Marzuki dapat tahu, faham?</p>
+<p begin="6867200000t" end="6885600000t" region="region.after" style="style.center" xml:id="subtitle163">[mengeluh panjang]</p>
+<p begin="6993200000t" end="7026400000t" region="region.after" style="style.center" xml:id="subtitle164"><span style="style.center_1">Ihsan</span> adalah lawan kepada kalimah <span style="style.center_1">isa'ah.</span></p>
+<p begin="7032800000t" end="7076800000t" region="region.after" style="style.center" xml:id="subtitle165">Iaitu membuat jahat, menurut Imam Nawawi.</p>
+<p begin="7085600000t" end="7126400000t" region="region.after" style="style.center" xml:id="subtitle166"><span style="style.center_1">Ihsan</span> mendorong seseorang agar</p>
+<p begin="7128800000t" end="7158800000t" region="region.after" style="style.center" xml:id="subtitle167">ikhlas dalam mengerjakan ibadah.</p>
+<p begin="7163200000t" end="7228800000t" region="region.after" style="style.center" xml:id="subtitle168">Yakni, mengerjakan ibadah itu<br/>semata-mata kerana Allah Taala.</p>
+<p begin="7229600000t" end="7241600000t" region="region.after" style="style.center" xml:id="subtitle169">Insya-Allah.</p>
+<p begin="7245200000t" end="7278000000t" region="region.after" style="style.center" xml:id="subtitle170">Baiklah Datuk.<br/>Kita boleh simpulkan <span style="style.center_1">ihsan</span> ini...</p>
+<p begin="7280000000t" end="7304000000t" region="region.after" style="style.center" xml:id="subtitle171">melakukan perkara yang baik<br/>kepada manusia...</p>
+<p begin="7304800000t" end="7346400000t" region="region.after" style="style.center" xml:id="subtitle172">dan kita hindarkan diri daripada<br/>perbuatan buruk dan jahat, betul?</p>
+<p begin="7347200000t" end="7355600000t" region="region.after" style="style.center" xml:id="subtitle173">Ya, betul.</p>
+<p begin="7356400000t" end="7406800000t" region="region.after" style="style.center" xml:id="subtitle174">Baik. Kita ada beberapa minit<br/>sebelum kita akhiri program, jadi...</p>
+<p begin="7407600000t" end="7439200000t" region="region.after" style="style.center" xml:id="subtitle175">Ada sesiapa mahu<br/>tanya soalan kepada ustaz?</p>
+<p begin="7440000000t" end="7455200000t" region="region.after" style="style.center" xml:id="subtitle176">Mungkin soalan yang terakhir.</p>
+<p begin="7457600000t" end="7480000000t" region="region.after" style="style.center" xml:id="subtitle177">Ada sesiapa? Okey adik, silakan.</p>
+<p begin="7504800000t" end="7515200000t" region="region.after" style="style.center" xml:id="subtitle178">Siapa namanya?</p>
+<p begin="7516000000t" end="7552800000t" region="region.after" style="style.center" xml:id="subtitle179">Assalamualaikum. Nama saya Zura<br/>dari University Malaya.</p>
+<p begin="7559600000t" end="7578000000t" region="region.after" style="style.center" xml:id="subtitle180">Saya mahu minta pendapat ustaz.</p>
+<p begin="7578800000t" end="7618000000t" region="region.after" style="style.center" xml:id="subtitle181">Ada sesetengah orang mengatakan<br/>Islam ialah agama yang eksklusif.</p>
+<p begin="7622400000t" end="7667200000t" region="region.after" style="style.center" xml:id="subtitle182">Maksudnya, orang beriman saja<br/>yang layak bercakap tentang agama.</p>
+<p begin="7672800000t" end="7720400000t" region="region.after" style="style.center" xml:id="subtitle183">Orang tidak beriman tidak layak<br/>untuk bercakap tentang Islam.</p>
+<p begin="7721200000t" end="7736800000t" region="region.after" style="style.center" xml:id="subtitle184">Apa komen ustaz?</p>
+<p begin="7746400000t" end="7772000000t" region="region.after" style="style.center" xml:id="subtitle185">Wah, rumit juga soalan itu.</p>
+<p begin="7772800000t" end="7806800000t" region="region.after" style="style.center" xml:id="subtitle186">Tidak apa, saya jawab.<br/>Sebelum itu, saya mahu tanya...</p>
+<p begin="7807600000t" end="7834800000t" region="region.after" style="style.center" xml:id="subtitle187">- Bagus soalan budak ini.<br/>- Siapa nama adik ini? Azura.</p>
+<p begin="7835600000t" end="7887600000t" region="region.after" style="style.center" xml:id="subtitle188">Apakah yang dimaksudkan<br/>dengan golongan yang tidak beriman?</p>
+<p begin="7888400000t" end="7924800000t" region="region.after" style="style.center" xml:id="subtitle189">Maksud saya, orang yang percaya<br/>pada Allah dan Rasul...</p>
+<p begin="7925600000t" end="7943200000t" region="region.after" style="style.center" xml:id="subtitle190">tetapi tidak mengikut perintahNya...</p>
+<p begin="7944000000t" end="7986400000t" region="region.after" style="style.center" xml:id="subtitle191">seperti solat lima waktu,<br/>atau wanita tidak memakai tudung...</p>
+<p begin="7988400000t" end="8015600000t" region="region.after" style="style.center" xml:id="subtitle192">tidak layak untuk bercakap<br/>tentang hal agama.</p>
+<p begin="8016400000t" end="8048000000t" region="region.after" style="style.center" xml:id="subtitle193">Betulkah Islam hanya boleh<br/>dibicarakan oleh orang beriman?</p>
+<p begin="8061200000t" end="8070800000t" region="region.after" style="style.center" xml:id="subtitle194">Terima kasih.</p>
+<p begin="8080400000t" end="8126000000t" region="region.after" style="style.center" xml:id="subtitle195">Sebenarnya, itu tidak betul.<br/>Salah semuanya.</p>
+<p begin="8133600000t" end="8166800000t" region="region.after" style="style.center" xml:id="subtitle196">Nabi Muhammad s.a.w. bersabda...</p>
+<p begin="8170000000t" end="8224800000t" region="region.after" style="style.center" xml:id="subtitle197">"Sampaikan kebenaran daripadaku<br/>walaupun sepotong ayat."</p>
+<p begin="8235200000t" end="8252000000t" region="region.after" style="style.center" xml:id="subtitle198">Dan Nabi tidak cakap</p>
+<p begin="8259600000t" end="8294800000t" region="region.after" style="style.center" xml:id="subtitle199">hanya orang beriman<br/>boleh sampaikan ajaran-Nya. Tidak.</p>
+<p begin="8299600000t" end="8340000000t" region="region.after" style="style.center" xml:id="subtitle200">Yang penting,<br/>selagi ajaran itu benar, betul...</p>
+<p begin="8340800000t" end="8362400000t" region="region.after" style="style.center" xml:id="subtitle201">sesiapa boleh menyampaikannya.</p>
+<p begin="8367600000t" end="8402400000t" region="region.after" style="style.center" xml:id="subtitle202">Namun begitu, suatu yang dikhuatiri.</p>
+<p begin="8408800000t" end="8432000000t" region="region.after" style="style.center" xml:id="subtitle203">Dan jadi bahayanya apabila</p>
+<p begin="8433600000t" end="8470800000t" region="region.after" style="style.center" xml:id="subtitle204">agama itu disampaikan<br/>oleh orang yang bukan ahlinya.</p>
+<p begin="8471600000t" end="8484800000t" region="region.after" style="style.center" xml:id="subtitle205">Dalam erti kata...</p>
+<p begin="8490800000t" end="8549600000t" region="region.after" style="style.center" xml:id="subtitle206">untuk menjadi ahlinya<br/>ataupun yang berkuasa dalam agama...</p>
+<p begin="8550400000t" end="8583200000t" region="region.after" style="style.center" xml:id="subtitle207">seseorang itu mesti menuntut apa?</p>
+<p begin="8584000000t" end="8605200000t" region="region.after" style="style.center" xml:id="subtitle208">Ilmu.</p>
+<p begin="8620400000t" end="8629200000t" region="region.after" style="style.center" xml:id="subtitle209">Bahaya, adik...</p>
+<p begin="8640000000t" end="8680000000t" region="region.after" style="style.center" xml:id="subtitle210">Kalau orang yang tidak berilmu<br/>menyampaikan ajaran agama.</p>
+<p begin="8687200000t" end="8726000000t" region="region.after" style="style.center" xml:id="subtitle211">Terutama sekali,<br/>apabila ia melibatkan <span style="style.center_1">aqidah.</span></p>
+<p begin="8747600000t" end="8771200000t" region="region.after" style="style.center" xml:id="subtitle212">Mahu bicara soal agama?<br/>[Bahasa Inggeris] Teruskan.</p>
+<p begin="8775200000t" end="8788800000t" region="region.after" style="style.center" xml:id="subtitle213">[Bahasa Melayu]<br/>Tiada masalah.</p>
+<p begin="8789600000t" end="8842000000t" region="region.after" style="style.center" xml:id="subtitle214">Masalahnya apabila<br/>kita sewenang-wenang bercakap agama</p>
+<p begin="8842800000t" end="8868000000t" region="region.after" style="style.center" xml:id="subtitle215">hingga kita terlupa, kita tidak sedar...</p>
+<p begin="8868800000t" end="8888400000t" region="region.after" style="style.center" xml:id="subtitle216">[Bahasa Inggeris]<br/>...kita melampaui batas.</p>
+<p begin="8898000000t" end="8929200000t" region="region.after" style="style.center" xml:id="subtitle217">[Bahasa Melayu]<br/>Yang melibatkan akidah dan syariah.</p>
+<p begin="8935600000t" end="8967600000t" region="region.after" style="style.center" xml:id="subtitle218">Itulah sebabnya kenapa kita bimbang...</p>
+<p begin="8968400000t" end="8989600000t" region="region.after" style="style.center" xml:id="subtitle219">Tidak izin, tidak benarkan...</p>
+<p begin="8997600000t" end="9027600000t" region="region.after" style="style.center" xml:id="subtitle220">orang yang tidak mempunyai ilmu,<br/>berbicarakan tentang agama.</p>
+<p begin="9032000000t" end="9051600000t" region="region.after" style="style.center" xml:id="subtitle221">Betul itu, ustaz. Saya setuju. Dia...</p>
+<p begin="9052400000t" end="9088000000t" region="region.after" style="style.center" xml:id="subtitle222">Jadi, bagaimana dengan sikap<br/>ahli agama macam ustaz sendiri,</p>
+<p begin="9088800000t" end="9118800000t" region="region.after" style="style.center" xml:id="subtitle223">yang membuatkan Islam itu<br/>nampak terlalu eksklusif?</p>
+<p begin="9119600000t" end="9146000000t" region="region.after" style="style.center" xml:id="subtitle224">[muzik tegang]</p>
+<p begin="9168800000t" end="9190800000t" region="region.after" style="style.center" xml:id="subtitle225">Berhenti.</p>
+<p begin="9191600000t" end="9214800000t" region="region.after" style="style.center" xml:id="subtitle226">- Ini secara langsung, kak.<br/>- Berhenti sajalah!</p>
+<p begin="9255200000t" end="9264800000t" region="region.after" style="style.center" xml:id="subtitle227">Hai, Deeja.</p>
+<p begin="9285600000t" end="9294000000t" region="region.after" style="style.center" xml:id="subtitle228">Mukhriz.</p>
+<p begin="9301600000t" end="9326800000t" region="region.after" style="style.center" xml:id="subtitle229">Awal hari ini. Bukan awak shif petang?</p>
+<p begin="9333200000t" end="9374800000t" region="region.after" style="style.center" xml:id="subtitle230">Ya, saja datang awal.</p>
+<p begin="9381600000t" end="9400000000t" region="region.after" style="style.center" xml:id="subtitle231">Saya nak ajak makan.</p>
+<p begin="9400800000t" end="9409600000t" region="region.after" style="style.center" xml:id="subtitle232">Ajak makan?</p>
+<p begin="9413600000t" end="9422400000t" region="region.after" style="style.center" xml:id="subtitle233">Ah, tidak boleh?</p>
+<p begin="9436800000t" end="9464000000t" region="region.after" style="style.center" xml:id="subtitle234">- Kalau tidak boleh, tidak apa.<br/>- Tidak apa. Saya okey.</p>
+<p begin="9474400000t" end="9490000000t" region="region.after" style="style.center" xml:id="subtitle235">Makan di mana?</p>
+<p begin="9495600000t" end="9521200000t" region="region.after" style="style.center" xml:id="subtitle236">[Bahasa Inggeris]<br/>Ikut awaklah.</p>
+<p begin="9522000000t" end="9552000000t" region="region.after" style="style.center" xml:id="subtitle237">[Bahasa Melayu]<br/>Ada satu kafe sedap di kawasan ini.</p>
+<p begin="9560000000t" end="9575200000t" region="region.after" style="style.center" xml:id="subtitle238">- Saya bawa awak, okey?<br/>- Okey.</p>
+<p begin="9576000000t" end="9592800000t" region="region.after" style="style.center" xml:id="subtitle239">- [telefon berdering]<br/>- Sekejap, eh.</p>
+<p begin="9614400000t" end="9644800000t" region="region.after" style="style.center" xml:id="subtitle240">- Helo, assalamualaikum.<br/>- Waalaikumsalam.</p>
+<p begin="9648800000t" end="9658400000t" region="region.after" style="style.center" xml:id="subtitle241">Adam di mana?</p>
+<p begin="9669600000t" end="9689600000t" region="region.after" style="style.center" xml:id="subtitle242">Saya di depan bilik awak ini.</p>
+<p begin="9696400000t" end="9719600000t" region="region.after" style="style.center" xml:id="subtitle243">[muzik dramatik]</p>
+<p begin="9724800000t" end="9741600000t" region="region.after" style="style.center" xml:id="subtitle244">Adam mahu jumpa Deeja sekejap.</p>
+<p begin="9750000000t" end="9776400000t" region="region.after" style="style.center" xml:id="subtitle245">- Kita makan tengah hari sama-sama.<br/>- Boleh.</p>
+<p begin="9788400000t" end="9817600000t" region="region.after" style="style.center" xml:id="subtitle246">Ah, Deeja, kita sudah lewat.</p>
+<p begin="9866000000t" end="9882400000t" region="region.after" style="style.center" xml:id="subtitle247">Macam itulah cerita dia, Deeja.</p>
+<p begin="9902800000t" end="9928400000t" region="region.after" style="style.center" xml:id="subtitle248">Adam pun tidak tahu<br/>kenapa Adam dekat lorong itu.</p>
+<p begin="9940800000t" end="9972000000t" region="region.after" style="style.center" xml:id="subtitle249">Adam rasa Allah gerakkan<br/>hati Adam sampai ke situ.</p>
+<p begin="9982400000t" end="10019600000t" region="region.after" style="style.center" xml:id="subtitle250">Tetapi Allah juga yang gagalkan<br/>pertemuan Adam dengan dia bila...</p>
+<p begin="10020400000t" end="10043600000t" region="region.after" style="style.center" xml:id="subtitle251">dia hilang secara tiba-tiba macam itu.</p>
+<p begin="10086800000t" end="10107600000t" region="region.after" style="style.center" xml:id="subtitle252">Jadi, Adam mahu buat sekarang?</p>
+<p begin="10141200000t" end="10152400000t" region="region.after" style="style.center" xml:id="subtitle253">Adam tidak tahu.</p>
+<p begin="10180800000t" end="10194800000t" region="region.after" style="style.center" xml:id="subtitle254">Adam cuma mahu tahu...</p>
+<p begin="10212800000t" end="10229200000t" region="region.after" style="style.center" xml:id="subtitle255">apa dia buat dekat kawasan itu.</p>
+<p begin="10255600000t" end="10270799999t" region="region.after" style="style.center" xml:id="subtitle256">Deeja tahu, kawasan yang...</p>
+<p begin="10271600000t" end="10292000000t" region="region.after" style="style.center" xml:id="subtitle257">Kawasan yang kotor dan jijik macam itu?</p>
+<p begin="10313599999t" end="10323599999t" region="region.after" style="style.center" xml:id="subtitle258">Adam...</p>
+<p begin="10337200000t" end="10388399999t" region="region.after" style="style.center" xml:id="subtitle259">Mesti Adam rasa pelik.<br/>Kenapa wanita yang Adam jumpa di masjid...</p>
+<p begin="10389200000t" end="10420400000t" region="region.after" style="style.center" xml:id="subtitle260">yang tanya Adam soalan agama macam itu...</p>
+<p begin="10421199999t" end="10466800000t" region="region.after" style="style.center" xml:id="subtitle261">boleh ada di tempat yang macam Adam cakap?</p>
+<p begin="10475200000t" end="10490000000t" region="region.after" style="style.center" xml:id="subtitle262">Sebenarnya tak pelik.</p>
+<p begin="10512800000t" end="10523200000t" region="region.after" style="style.center" xml:id="subtitle263">Kenapa cakap macam itu?</p>
+<p begin="10527200000t" end="10558000000t" region="region.after" style="style.center" xml:id="subtitle264">Sebab Deeja pernah ada<br/>di tempat macam itu...</p>
+<p begin="10558800000t" end="10576400000t" region="region.after" style="style.center" xml:id="subtitle265">pada waktu macam itu juga.</p>
+<p begin="10579600000t" end="10594800000t" region="region.after" style="style.center" xml:id="subtitle266">Sebab Deeja sukarelawati.</p>
+<p begin="10621600000t" end="10638800000t" region="region.after" style="style.center" xml:id="subtitle267">Jadi, Deeja cakap...</p>
+<p begin="10643200000t" end="10663200000t" region="region.after" style="style.center" xml:id="subtitle268">dia doktor sukarela?</p>
+<p begin="10666400000t" end="10691600000t" region="region.after" style="style.center" xml:id="subtitle269">Ataupun dia buat apa Deeja buat?</p>
+<p begin="10695200000t" end="10705200000t" region="region.after" style="style.center" xml:id="subtitle270">Mungkin.</p>
+<p begin="10706000000t" end="10726000000t" region="region.after" style="style.center" xml:id="subtitle271">Kalau dia buat kerja sukarela...</p>
+<p begin="10726800000t" end="10744400000t" region="region.after" style="style.center" xml:id="subtitle272">kenapa dia lari daripada Adam?</p>
+<p begin="10750400000t" end="10790800000t" region="region.after" style="style.center" xml:id="subtitle273">Bila dia nampak Adam,<br/>dia macam tidak mahu jumpa Adam.</p>
+<p begin="10798000000t" end="10826800000t" region="region.after" style="style.center" xml:id="subtitle274">- Kenapa?<br/>- Mungkin dia saja tahu sebabnya.</p>
+<p begin="10827600000t" end="10836400000t" region="region.after" style="style.center" xml:id="subtitle275">Kita tidak tahu.</p>
+<p begin="10880000000t" end="10899600000t" region="region.after" style="style.center" xml:id="subtitle276">Deeja rasa patutkah Adam cari dia lagi?</p>
+<p begin="10942400000t" end="10996000000t" region="region.after" style="style.center" xml:id="subtitle277">Kalau itu dapat merungkaikan<br/>rasa ingin tahu Adam, Deeja rasa...</p>
+<p begin="10996800000t" end="11009200000t" region="region.after" style="style.center" xml:id="subtitle278">Apa salahnya, bukan?</p>
+<p begin="11010000000t" end="11036000000t" region="region.after" style="style.center" xml:id="subtitle279">[muzik piano suram]</p>
+<p begin="11047600000t" end="11061200000t" region="region.after" style="style.center" xml:id="subtitle280">Terima kasih, Deeja.</p>
+<p begin="11066800000t" end="11097600000t" region="region.after" style="style.center" xml:id="subtitle281">- Deeja banyak tolong Adam.<br/>- Sama-sama.</p>
+<p begin="11107600000t" end="11123600000t" region="region.after" style="style.center" xml:id="subtitle282">Kalau untuk Adam, apa salahnya?</p>
+<p begin="11183200000t" end="11194400000t" region="region.after" style="style.center" xml:id="subtitle283">Terima kasih.</p>
+<p begin="11213600000t" end="11236800000t" region="region.after" style="style.center" xml:id="subtitle284">Deeja, Adam balik dulu.</p>
+<p begin="11238800000t" end="11256000000t" region="region.after" style="style.center" xml:id="subtitle285">Kirim salam kepada mak cik dan pak cik.</p>
+<p begin="11256800000t" end="11305200000t" region="region.after" style="style.center" xml:id="subtitle286">Nanti kirimkan salam Deeja<br/>kepada Ibu Hajar dan Ayah Haji.</p>
+<p begin="11308000000t" end="11333600000t" region="region.after" style="style.center" xml:id="subtitle287">- Assalamualaikum.<br/>- Waalaikumsalam.</p>
+<p begin="11394000000t" end="11454800000t" region="region.after" style="style.center" xml:id="subtitle288">- Ya Allah, kacaknya dia di luar.<br/>- Betul, di IG, dia nampak biasa.</p>
+<p begin="11455600000t" end="11502800000t" region="region.after" style="style.center" xml:id="subtitle289">Wah, untunglah Dr.<br/>dapat ustaz hangat macam dia.</p>
+<p begin="11503600000t" end="11538000000t" region="region.after" style="style.center" xml:id="subtitle290">Awak ini apalah.<br/>Itu kawan Dr. semasa kecil lagi.</p>
+<p begin="11538800000t" end="11554400000t" region="region.after" style="style.center" xml:id="subtitle291">Yalah.</p>
+<p begin="11555200000t" end="11568400000t" region="region.after" style="style.center" xml:id="subtitle292">Kalau Dr. tidak mahu...</p>
+<p begin="11569200000t" end="11594000000t" region="region.after" style="style.center" xml:id="subtitle293">- kita orang mahu, betul?<br/>- Betul.</p>
+<p begin="11594800000t" end="11622000000t" region="region.after" style="style.center" xml:id="subtitle294">Awak ini ada-ada saja.<br/>Tidak ada kerja lain?</p>
+<p begin="11622800000t" end="11647200000t" region="region.after" style="style.center" xml:id="subtitle295">[ketawa berdekit-dekit]</p>
+<p begin="11701600000t" end="11710000000t" region="region.after" style="style.center" xml:id="subtitle296">Ayah.</p>
+<p begin="11742400000t" end="11754400000t" region="region.after" style="style.center" xml:id="subtitle297">[berdehem]</p>
+<p begin="11755200000t" end="11776800000t" region="region.after" style="style.center" xml:id="subtitle298">Ayah mahu Aisyah buat<br/>tindakan undang-undang?</p>
+<p begin="11812400000t" end="11830000000t" region="region.after" style="style.center" xml:id="subtitle299">[Bahasa Inggeris]<br/>Tak apa.</p>
+<p begin="11842400000t" end="11864000000t" region="region.after" style="style.center" xml:id="subtitle300">[Bahasa Melayu]<br/>Kalau tular nanti macam mana?</p>
+<p begin="11892000000t" end="11907200000t" region="region.after" style="style.center" xml:id="subtitle301">Aisyah.</p>
+<p begin="11915200000t" end="11938000000t" region="region.after" style="style.center" xml:id="subtitle302">Ayah cakap, tidak mengapa.</p>
+<p begin="11960000000t" end="11980000000t" region="region.after" style="style.center" xml:id="subtitle303">[mengeluh panjang]</p>
+<p begin="12013200000t" end="12038400000t" region="region.after" style="style.center" xml:id="subtitle304">[bunyi bising trafik dari jauh]</p>
+<p begin="12154400000t" end="12178800000t" region="region.after" style="style.center" xml:id="subtitle305">Wah, ustaz.</p>
+<p begin="12179600000t" end="12213600000t" region="region.after" style="style.center" xml:id="subtitle306">Ini sudah jauh termenung.<br/>Hei, Nur! Cepatlah!</p>
+<p begin="12214400000t" end="12235200000t" region="region.after" style="style.center" xml:id="subtitle307">Pinggan berlambak, orang mahu pakai.</p>
+<p begin="12236000000t" end="12253200000t" region="region.after" style="style.center" xml:id="subtitle308">- Cepat!<br/>- Ya.</p>
+<p begin="12254000000t" end="12265200000t" region="region.after" style="style.center" xml:id="subtitle309">Ya Allah, awak ini!</p>
+<p begin="12266000000t" end="12310400000t" region="region.after" style="style.center" xml:id="subtitle310">- Saya tengah basuhlah.<br/>- Cepat Nur! Lembaplah awak ini!</p>
+<p begin="12311200000t" end="12346400000t" region="region.after" style="style.center" xml:id="subtitle311">Tinggal saya seorang dekat belakang.<br/>Banyak lagi, tahu.</p>
+<p begin="12347200000t" end="12360000000t" region="region.after" style="style.center" xml:id="subtitle312">Saya pula salah?</p>
+<p begin="12382800000t" end="12407600000t" region="region.after" style="style.center" xml:id="subtitle313">Jo, awak kenal ustaz Adam?</p>
+<p begin="12420000000t" end="12435600000t" region="region.after" style="style.center" xml:id="subtitle314">Ustaz Adam? Yang mana satu?</p>
+<p begin="12436400000t" end="12466000000t" region="region.after" style="style.center" xml:id="subtitle315">Anak ustaz terkenal dekat TV itu.</p>
+<p begin="12466800000t" end="12487200000t" region="region.after" style="style.center" xml:id="subtitle316">Ini, yang muka macam Jalaluddin Hassan.</p>
+<p begin="12492000000t" end="12503200000t" region="region.after" style="style.center" xml:id="subtitle317">Kenal?</p>
+<p begin="12507600000t" end="12526000000t" region="region.after" style="style.center" xml:id="subtitle318">Ini.</p>
+<p begin="12526800000t" end="12559200000t" region="region.after" style="style.center" xml:id="subtitle319">- Ustaz Ayah Haji Mukhsin.<br/>- Hah.</p>
+<p begin="12563600000t" end="12579200000t" region="region.after" style="style.center" xml:id="subtitle320">Saya suka dengan ustaz ini.</p>
+<p begin="12580000000t" end="12614000000t" region="region.after" style="style.center" xml:id="subtitle321">Saya tanya anak dia.<br/>Kenal tidak? Bukan bapa dia.</p>
+<p begin="12617200000t" end="12640400000t" region="region.after" style="style.center" xml:id="subtitle322">Saya tidak kenal. Kenapa?</p>
+<p begin="12651600000t" end="12660800000t" region="region.after" style="style.center" xml:id="subtitle323">Kacak, bukan?</p>
+<p begin="12676800000t" end="12687200000t" region="region.after" style="style.center" xml:id="subtitle324">Gatal awak ini.</p>
+<p begin="12709200000t" end="12738400000t" region="region.after" style="style.center" xml:id="subtitle325">- Cuci pinggan.<br/>- Cepat cuci!</p>
+<p begin="12748000000t" end="12793600000t" region="region.after" style="style.center" xml:id="subtitle326">Ustaz kacaklah. Kegemaranlah.<br/>Begitulah. Cepat cuci pinggan!</p>
+<p begin="12794400000t" end="12810800000t" region="region.after" style="style.center" xml:id="subtitle327">[dua-dua ketawa]</p>
+<p begin="12845600000t" end="12855200000t" region="region.after" style="style.center" xml:id="subtitle328">[bunyi blip]</p>
+<p begin="13068000000t" end="13094800000t" region="region.after" style="style.center" xml:id="subtitle329">[muzik piano sayu]</p>
+<p begin="13252800000t" end="13271600000t" region="region.after" style="style.center" xml:id="subtitle330">Tahniah, anak mama.</p>
+<p begin="13280400000t" end="13320000000t" region="region.after" style="style.center" xml:id="subtitle331">Tadi, keluarga Adam<br/>hantar wakil merisik Deeja.</p>
+<p begin="13320800000t" end="13341200000t" region="region.after" style="style.center" xml:id="subtitle332">Bulan depan Deeja bertunang dengan dia.</p>
+<p begin="13359600000t" end="13383600000t" region="region.after" style="style.center" xml:id="subtitle333">Sukalah itu.<br/>[ketawa kecil]</p>
+<p begin="13510800000t" end="13544800000t" region="region.after" style="style.center" xml:id="subtitle334">[muzik suram]</p>
+<p begin="13721600000t" end="13736000000t" region="region.after" style="style.center" xml:id="subtitle335">[pesanan teks berbunyi]</p>
+<p begin="13825600000t" end="13869200000t" region="region.after" style="style.center" xml:id="subtitle336">"Terima kasih kerana terima diri ini,<br/>sayang"?</p>
+<p begin="13915200000t" end="13929600000t" region="region.after" style="style.center" xml:id="subtitle337">[ketawa kecil]</p>
+<p begin="14066000000t" end="14080400000t" region="region.after" style="style.center" xml:id="subtitle338">[pesanan teks berbunyi]</p>
+<p begin="14174000000t" end="14197200000t" region="region.after" style="style.center" xml:id="subtitle339">"Awak tersalah hantar mesej"?</p>
+<p begin="14214800000t" end="14236400000t" region="region.after" style="style.center" xml:id="subtitle340">[ketawa kecil]</p>
+<p begin="14237200000t" end="14254000000t" region="region.after" style="style.center" xml:id="subtitle341">"Pandai awak bergurau, bukan?"</p>
+<p begin="14268400000t" end="14281600000t" region="region.after" style="style.center" xml:id="subtitle342">[nada menghantar mesej]</p>
+<p begin="14297200000t" end="14311200000t" region="region.after" style="style.center" xml:id="subtitle343">[mengeluh gembira]</p>
+<p begin="14315200000t" end="14327600000t" region="region.after" style="style.center" xml:id="subtitle344">[pesanan teks berbunyi]</p>
+<p begin="14420800000t" end="14438000000t" region="region.after" style="style.center" xml:id="subtitle345">"Pandai awak bergurau"?</p>
+<p begin="14456000000t" end="14469600000t" region="region.after" style="style.center" xml:id="subtitle346">Saya bergurau?</p>
+<p begin="14478800000t" end="14494000000t" region="region.after" style="style.center" xml:id="subtitle347">Bila masa saya bergurau?</p>
+<p begin="14510000000t" end="14520400000t" region="region.after" style="style.center" xml:id="subtitle348">Adam!</p>
+<p begin="14522800000t" end="14548000000t" region="region.after" style="style.center" xml:id="subtitle349">- Mari makan.<br/>- Ya, mak.</p>
+<p begin="14583200000t" end="14592400000t" region="region.after" style="style.center" xml:id="subtitle350">Nantilah.</p>
+<p begin="14718000000t" end="14752400000t" region="region.after" style="style.center" xml:id="subtitle351">Kalau ikan sekerat macam ini,<br/>sayur sedikit macam ini...</p>
+<p begin="14753200000t" end="14766800000t" region="region.after" style="style.center" xml:id="subtitle352">macam mana mahu dapat tenaga?</p>
+<p begin="14774000000t" end="14813200000t" region="region.after" style="style.center" xml:id="subtitle353">Depan rezeki, janganlah merungut.<br/>Makan saja.</p>
+<p begin="14817600000t" end="14830000000t" region="region.after" style="style.center" xml:id="subtitle354">Okey.</p>
+<p begin="14870800000t" end="14883600000t" region="region.after" style="style.center" xml:id="subtitle355">Assalamualaikum, abang.</p>
+<p begin="14884400000t" end="14906000000t" region="region.after" style="style.center" xml:id="subtitle356">Tumpang tanya, menu hari ini, ini saja?</p>
+<p begin="14906800000t" end="14947600000t" region="region.after" style="style.center" xml:id="subtitle357">Sayur sawi, lemak cair<br/>dengan ikan kerat dua. Ini saja?</p>
+<p begin="14948400000t" end="14963200000t" region="region.after" style="style.center" xml:id="subtitle358">Kenapa? Tidak puas hati?</p>
+<p begin="14968800000t" end="14990400000t" region="region.after" style="style.center" xml:id="subtitle359">Kalau tidak puas hati,<br/>pergi makan di luar sana.</p>
+<p begin="14996400000t" end="15020800000t" region="region.after" style="style.center" xml:id="subtitle360">Ini saja yang ada, makan sajalah.</p>
+<p begin="15024000000t" end="15061600000t" region="region.after" style="style.center" xml:id="subtitle361">Banyak mengadu pula.<br/>Kami lima bulan tidak dapat gaji.</p>
+<p begin="15062400000t" end="15091200000t" region="region.after" style="style.center" xml:id="subtitle362">Jangan banyak cakap.<br/>Mahu makan, makan. Tidak mahu, sudah.</p>
+<p begin="15092000000t" end="15116800000t" region="region.after" style="style.center" xml:id="subtitle363">[merungut tidak puas hati]</p>
+<p begin="15117600000t" end="15128800000t" region="region.after" style="style.center" xml:id="subtitle364">Okey, terima kasih.</p>
+<p begin="15143600000t" end="15176400000t" region="region.after" style="style.center" xml:id="subtitle365">Tidak boleh tangguh, Pak Abu?<br/>Kasihan budak-budak ini.</p>
+<p begin="15177200000t" end="15206400000t" region="region.after" style="style.center" xml:id="subtitle366">Kalau Pak Abu berhenti masak,<br/>budak-budak ini makan apa?</p>
+<p begin="15216000000t" end="15244000000t" region="region.after" style="style.center" xml:id="subtitle367">Bukan Pak Abu suka-suka tidak mahu masak,<br/>ustaz.</p>
+<p begin="15256800000t" end="15284000000t" region="region.after" style="style.center" xml:id="subtitle368">Sudah masuk lapan bulan,<br/>bayaran Pak Abu tidak dapat lagi.</p>
+<p begin="15287200000t" end="15302800000t" region="region.after" style="style.center" xml:id="subtitle369">Macam mana Pak Abu mahu teruskan?</p>
+<p begin="15314800000t" end="15332400000t" region="region.after" style="style.center" xml:id="subtitle370">Pak Abu tak kasihan anak yatim di sini?</p>
+<p begin="15336800000t" end="15350000000t" region="region.after" style="style.center" xml:id="subtitle371">Ya Allah, ustaz.</p>
+<p begin="15350800000t" end="15379200000t" region="region.after" style="style.center" xml:id="subtitle372">Ustaz, jangan buat Pak Abu serba salah.</p>
+<p begin="15385600000t" end="15416800000t" region="region.after" style="style.center" xml:id="subtitle373">Kalau Pak Abu seorang tidak apa,<br/>boleh pejam mata.</p>
+<p begin="15433600000t" end="15449200000t" region="region.after" style="style.center" xml:id="subtitle374">Tetapi, pekerja Pak Abu.</p>
+<p begin="15450000000t" end="15485200000t" region="region.after" style="style.center" xml:id="subtitle375">Kalau Pak Abu tidak bayar gaji mereka<br/>macam mana mahu hidup?</p>
+<p begin="15490400000t" end="15511600000t" region="region.after" style="style.center" xml:id="subtitle376">Yang ada anak, isteri. Macam mana, ustaz?</p>
+<p begin="15526000000t" end="15538400000t" region="region.after" style="style.center" xml:id="subtitle377">[mengeluh panjang]</p>
+<p begin="15546000000t" end="15569200000t" region="region.after" style="style.center" xml:id="subtitle378">Entahlah, Pak Abu.<br/>Saya tidak tahu buat apa lagi.</p>
+<p begin="15575200000t" end="15589600000t" region="region.after" style="style.center" xml:id="subtitle379">Macam ini, ustaz.</p>
+<p begin="15619600000t" end="15641200000t" region="region.after" style="style.center" xml:id="subtitle380">Saya pun tidak ada idea lain lagi.</p>
+<p begin="15674800000t" end="15700400000t" region="region.after" style="style.center" xml:id="subtitle381">[senyap sunyi]</p>
+<p begin="15796000000t" end="15830800000t" region="region.after" style="style.center" xml:id="subtitle382">Kalau ikan sekerat macam ini,<br/>sayur sedikit macam ini...</p>
+<p begin="15831600000t" end="15844000000t" region="region.after" style="style.center" xml:id="subtitle383">bagaimana mahu bertenaga?</p>
+<p begin="15846000000t" end="15862800000t" region="region.after" style="style.center" xml:id="subtitle384">Kami sudah lima bulan tidak bergaji.</p>
+<p begin="15864000000t" end="15886800000t" region="region.after" style="style.center" xml:id="subtitle385">Jangan banyak cakap.<br/>Makan saja. Tak mahu, sudah.</p>
+<p begin="15888000000t" end="15934800000t" region="region.after" style="style.center" xml:id="subtitle386">Pekerja Pak Abu, kalau tidak bayar gaji,<br/>macam mana mahu hidup?</p>
+<p begin="15935600000t" end="15968800000t" region="region.after" style="style.center" xml:id="subtitle387">[muzik violin suram]</p>
+<p begin="16046400000t" end="16066400000t" region="region.after" style="style.center" xml:id="subtitle388">- Bagi sini gambar ini.<br/>- Kak, ini saya punya.</p>
+<p begin="16072800000t" end="16090800000t" region="region.after" style="style.center" xml:id="subtitle389">- Bagi sini, awak pergilah!<br/>- Hoi!</p>
+<p begin="16248000000t" end="16300000000t" region="region.after" style="style.center" xml:id="subtitle390">Apa maksud Azura berkenaan,<br/>"Sikap ahli agama</p>
+<p begin="16304000000t" end="16344800000t" region="region.after" style="style.center" xml:id="subtitle391">yang membuatkan<br/>agama Islam kelihatan eksklusif"?</p>
+<p begin="16345600000t" end="16360000000t" region="region.after" style="style.center" xml:id="subtitle392">Maksud saya...</p>
+<p begin="16360800000t" end="16409600000t" region="region.after" style="style.center" xml:id="subtitle393">ustaz menyampaikan agama di TV<br/>atau program istimewa sahaja.</p>
+<p begin="16416000000t" end="16448800000t" region="region.after" style="style.center" xml:id="subtitle394">Macam mana mahu sampai<br/>ke sasarannya seperti...</p>
+<p begin="16449600000t" end="16495200000t" region="region.after" style="style.center" xml:id="subtitle395">golongan lorong, LGBT,<br/>mat rempit atau bohsia...</p>
+<p begin="16496000000t" end="16520000000t" region="region.after" style="style.center" xml:id="subtitle396">kalau ustaz sendiri duduk<br/>di tempat selesa macam ini?</p>
+<p begin="16522800000t" end="16539600000t" region="region.after" style="style.center" xml:id="subtitle397">Macam mana dakwah mahu sampai?</p>
+<p begin="16546000000t" end="16557200000t" region="region.after" style="style.center" xml:id="subtitle398">Saya tidak rasa</p>
+<p begin="16558000000t" end="16596800000t" region="region.after" style="style.center" xml:id="subtitle399">golongan ini minat<br/>menonton program seperti ini.</p>
+<p begin="16606400000t" end="16642000000t" region="region.after" style="style.center" xml:id="subtitle400">Kalau mereka dipandang serong<br/>oleh orang eksklusif macam ini.</p>
+<p begin="16650400000t" end="16695200000t" region="region.after" style="style.center" xml:id="subtitle401">Saya berpendapat,<br/>golongan agama dari atas sampai bawah</p>
+<p begin="16696000000t" end="16734400000t" region="region.after" style="style.center" xml:id="subtitle402">harus turun padang,<br/>seperti Sayyidina Umar Al- Khattab</p>
+<p begin="16735200000t" end="16765600000t" region="region.after" style="style.center" xml:id="subtitle403">yang setiap malam menyamar turun ke lorong</p>
+<p begin="16766400000t" end="16787600000t" region="region.after" style="style.center" xml:id="subtitle404">untuk memberi zakat kepada orang miskin.</p>
+<p begin="16792400000t" end="16850000000t" region="region.after" style="style.center" xml:id="subtitle405">Saya setuju dengan pendapat<br/>adik Azura tadi.</p>
+<p begin="16867600000t" end="16880000000t" region="region.after" style="style.center" xml:id="subtitle406">Ya, betul.</p>
+<p begin="16884400000t" end="16919200000t" region="region.after" style="style.center" xml:id="subtitle407">Sebagai ahli ulamak,<br/>kita tidak sepatutnya selesa...</p>
+<p begin="16920000000t" end="16976000000t" region="region.after" style="style.center" xml:id="subtitle408">menyampaikan ceramah di kerusi empuk<br/>seperti yang saya duduk sekarang.</p>
+<p begin="16976800000t" end="17031200000t" region="region.after" style="style.center" xml:id="subtitle409">Sebagai pendakwah, kita harus sanggup<br/>turun padang menyampaikan dakwah</p>
+<p begin="17032000000t" end="17068400000t" region="region.after" style="style.center" xml:id="subtitle410">menjumpai golongan ini<br/>untuk menyampaikan dakwah.</p>
+<p begin="17072400000t" end="17096000000t" region="region.after" style="style.center" xml:id="subtitle411">Untuk pengetahuan semua...</p>
+<p begin="17098400000t" end="17142400000t" region="region.after" style="style.center" xml:id="subtitle412">ramai ustaz, ustazah...</p>
+<p begin="17143200000t" end="17179200000t" region="region.after" style="style.center" xml:id="subtitle413">turun ke padang<br/>untuk menyampaikan dakwah mereka.</p>
+<p begin="17190800000t" end="17231200000t" region="region.after" style="style.center" xml:id="subtitle414">Cuma, usaha mereka ini<br/>tidak pernah digembar-gemburkan.</p>
+<p begin="17236400000t" end="17259200000t" region="region.after" style="style.center" xml:id="subtitle415">Tidak pernah disensasikan...</p>
+<p begin="17260000000t" end="17303600000t" region="region.after" style="style.center" xml:id="subtitle416">dan tidak pernah mendapat<br/>liputan media utama.</p>
+<p begin="17311200000t" end="17352000000t" region="region.after" style="style.center" xml:id="subtitle417">Tanggapan mengatakan ahli agama...</p>
+<p begin="17352800000t" end="17389600000t" region="region.after" style="style.center" xml:id="subtitle418">yang mahu diri mereka menjadi eksklusif...</p>
+<p begin="17390400000t" end="17428000000t" region="region.after" style="style.center" xml:id="subtitle419">Yang itu saya sangkal sama sekali.</p>
+<p begin="17450000000t" end="17468000000t" region="region.after" style="style.center" xml:id="subtitle420">Sebenarnya, adik Azura...</p>
+<p begin="17468800000t" end="17522400000t" region="region.after" style="style.center" xml:id="subtitle421">ramai ustaz dan ustazah sanggup</p>
+<p begin="17523200000t" end="17562400000t" region="region.after" style="style.center" xml:id="subtitle422">turun ke padang menjalankan<br/>tanggungjawab mereka berdakwah...</p>
+<p begin="17563200000t" end="17589600000t" region="region.after" style="style.center" xml:id="subtitle423">cuma kita sahaja yang tidak tahu.</p>
+<p begin="17592800000t" end="17624000000t" region="region.after" style="style.center" xml:id="subtitle424">Jadi maksud ustaz,<br/>selain daripada program TV...</p>
+<p begin="17624800000t" end="17660800000t" region="region.after" style="style.center" xml:id="subtitle425">ustaz juga biasa turun<br/>ke lorong untuk berdakwah?</p>
+<p begin="17661600000t" end="17691600000t" region="region.after" style="style.center" xml:id="subtitle426">[muzik piano suram]</p>
+<p begin="17708400000t" end="17717200000t" region="region.after" style="style.center" xml:id="subtitle427">Ya.</p>
+<p begin="17740000000t" end="17764000000t" region="region.after" style="style.center" xml:id="subtitle428">Itu menjadi kebiasaan<br/>bagi saya selama ini.</p>
+<p begin="17808400000t" end="17823600000t" region="region.after" style="style.center" xml:id="subtitle429">Kenapa semua orang ini?</p>
+<p begin="17838000000t" end="17854400000t" region="region.after" style="style.center" xml:id="subtitle430">[merintih sambil menyoal]</p>
+<p begin="17872000000t" end="17883600000t" region="region.after" style="style.center" xml:id="subtitle431">[Hajah]<br/>Hm?</p>
+<p begin="17906400000t" end="17936400000t" region="region.after" style="style.center" xml:id="subtitle432">Asyik mengelamun saja, dari tadi.</p>
+<p begin="17937200000t" end="17952000000t" region="region.after" style="style.center" xml:id="subtitle433">Depan rezeki pula.</p>
+<p begin="17957600000t" end="17971200000t" region="region.after" style="style.center" xml:id="subtitle434">Sudah kena sampuk?</p>
+<p begin="18001600000t" end="18014000000t" region="region.after" style="style.center" xml:id="subtitle435">Tidak ada apalah.</p>
+<p begin="18027600000t" end="18068400000t" region="region.after" style="style.center" xml:id="subtitle436">- Amirul, cuba hulurkan. Lauk apa ini?<br/>- Ayam masak merah.</p>
+<p begin="18069200000t" end="18094800000t" region="region.after" style="style.center" xml:id="subtitle437">Ayam masak merah. Macam sedap.</p>
+<p begin="18100000000t" end="18131200000t" region="region.after" style="style.center" xml:id="subtitle438">- Lauk sedap mesti mak masak, bukan?<br/>- Tahu tidak apa.</p>
+<p begin="18180400000t" end="18210400000t" region="region.after" style="style.center" xml:id="subtitle439">[muzik piano suram]</p>
+<p begin="18232800000t" end="18245200000t" region="region.after" style="style.center" xml:id="subtitle440">[Adam]<br/><span style="style.center_1">Terima kasih.</span></p>
+<p begin="18252800000t" end="18283600000t" region="region.after" style="style.center" xml:id="subtitle441"><span style="style.center_1">- Deeja banyak tolong Adam.</span><br/><span style="style.center_1">- Sama-sama.</span></p>
+<p begin="18294400000t" end="18314000000t" region="region.after" style="style.center" xml:id="subtitle442"><span style="style.center_1">Kalau untuk Adam, apa salahnya?</span></p>
+<p begin="18350400000t" end="18390400000t" region="region.after" style="style.center" xml:id="subtitle443">Amboi, senyum meleret nampak.</p>
+<p begin="18391200000t" end="18441600000t" region="region.after" style="style.center" xml:id="subtitle444">- Macam sudah sampai langit ke tujuh.<br/>- Mama ini ada-ada saja.</p>
+<p begin="18451200000t" end="18468400000t" region="region.after" style="style.center" xml:id="subtitle445">Mama mahu tengok cincin itu.</p>
+<p begin="18478800000t" end="18499200000t" region="region.after" style="style.center" xml:id="subtitle446">[mengeluh gembira]</p>
+<p begin="18500000000t" end="18521600000t" region="region.after" style="style.center" xml:id="subtitle447">Ini cincin merisik.</p>
+<p begin="18524800000t" end="18554400000t" region="region.after" style="style.center" xml:id="subtitle448">Kalau cincin tunang, ada batu.</p>
+<p begin="18562400000t" end="18586400000t" region="region.after" style="style.center" xml:id="subtitle449">Kalau cincin nikah...</p>
+<p begin="18587200000t" end="18629600000t" region="region.after" style="style.center" xml:id="subtitle450">- mesti lagi besar batu dia.<br/>- Mama, tidak baiklah.</p>
+<p begin="18641200000t" end="18698400000t" region="region.after" style="style.center" xml:id="subtitle451">Mama, Deeja tidak kisah,<br/>cincin ada batu atau tidak.</p>
+<p begin="18699200000t" end="18727600000t" region="region.after" style="style.center" xml:id="subtitle452">Yang penting,<br/>Adam betul-betul ikhlas dengan Deeja.</p>
+<p begin="18728400000t" end="18767600000t" region="region.after" style="style.center" xml:id="subtitle453">Deeja serius sangat. Mama bergurau saja.</p>
+<p begin="18768400000t" end="18822000000t" region="region.after" style="style.center" xml:id="subtitle454">Mama suka sangat bila Deeja<br/>dengan Adam bertunang, tahu?</p>
+<p begin="18822800000t" end="18854800000t" region="region.after" style="style.center" xml:id="subtitle455">Sebab mama sudah lama berkenan dekat Adam.</p>
+<p begin="18860800000t" end="18911600000t" region="region.after" style="style.center" xml:id="subtitle456">Tetapi mama, betulkah Adam<br/>pilih Deeja sepenuh hati dia?</p>
+<p begin="18920000000t" end="18971200000t" region="region.after" style="style.center" xml:id="subtitle457">Betullah. Kalau tidak,<br/>kenapa hantar wakil merisik Deeja?</p>
+<p begin="18972000000t" end="19007600000t" region="region.after" style="style.center" xml:id="subtitle458">Betulkah Adam tahu keluarga dia<br/>hantar wakil dekat kita?</p>
+<p begin="19012400000t" end="19055200000t" region="region.after" style="style.center" xml:id="subtitle459">Deeja,<br/>soal mama macam polis pencen, kenapa?</p>
+<p begin="19058000000t" end="19092800000t" region="region.after" style="style.center" xml:id="subtitle460">Tidak adalah, mama. Deeja risau.</p>
+<p begin="19093600000t" end="19114800000t" region="region.after" style="style.center" xml:id="subtitle461">Siang tadi, Deeja Whatsapp dia...</p>
+<p begin="19115600000t" end="19165600000t" region="region.after" style="style.center" xml:id="subtitle462">Deeja cakap, terima kasih<br/>sebab terima Deeja sebagai isteri.</p>
+<p begin="19166400000t" end="19204400000t" region="region.after" style="style.center" xml:id="subtitle463">Tetapi, dia macam acuh tidak acuh saja.</p>
+<p begin="19205200000t" end="19253200000t" region="region.after" style="style.center" xml:id="subtitle464">Dia macam tidak tahu pun<br/>pasal hal merisik ini.</p>
+<p begin="19263600000t" end="19280800000t" region="region.after" style="style.center" xml:id="subtitle465">Jadi, Deeja susah hatilah.</p>
+<p begin="19288400000t" end="19317200000t" region="region.after" style="style.center" xml:id="subtitle466">Deeja ini suka fikir bukan-bukan.</p>
+<p begin="19318000000t" end="19342400000t" region="region.after" style="style.center" xml:id="subtitle467">Jangan fikir banyak sangat.<br/>Berkerut dahi itu.</p>
+<p begin="19343200000t" end="19364400000t" region="region.after" style="style.center" xml:id="subtitle468">Belum kahwin lagi, sudah tua nampak, tahu?</p>
+<p begin="19374400000t" end="19423200000t" region="region.after" style="style.center" xml:id="subtitle469">Deeja tahu, apa berlaku sekarang<br/>mesti daripada persetujuan Adam.</p>
+<p begin="19426800000t" end="19473600000t" region="region.after" style="style.center" xml:id="subtitle470">Takkanlah Ibu Hajar dan Ayah Haji<br/>mahu memandai semua ini.</p>
+<p begin="19483200000t" end="19511200000t" region="region.after" style="style.center" xml:id="subtitle471">Jangan fikir yang bukan-bukan.<br/>Sekarang, yang penting</p>
+<p begin="19512000000t" end="19548400000t" region="region.after" style="style.center" xml:id="subtitle472">Deeja kena belajar macam mana<br/>lembutkan hati Adam.</p>
+<p begin="19556400000t" end="19575600000t" region="region.after" style="style.center" xml:id="subtitle473">Jadi, mama mahu Deeja buat apa?</p>
+<p begin="19582000000t" end="19594800000t" region="region.after" style="style.center" xml:id="subtitle474">Macam ini.</p>
+<p begin="19595600000t" end="19653200000t" region="region.after" style="style.center" xml:id="subtitle475">Sekali-sekala, Deeja telefon dia.<br/>Tanya apa khabar.</p>
+<p begin="19654000000t" end="19674400000t" region="region.after" style="style.center" xml:id="subtitle476">Tanya pasal kerja dia.</p>
+<p begin="19675200000t" end="19738000000t" region="region.after" style="style.center" xml:id="subtitle477">Atau buat kuih kesukaan dia.<br/>Bagi dia makan.</p>
+<p begin="19738800000t" end="19782000000t" region="region.after" style="style.center" xml:id="subtitle478">Deeja kena buat kemesraan,<br/>barulah Adam selesa dengan Deeja.</p>
+<p begin="19782800000t" end="19812000000t" region="region.after" style="style.center" xml:id="subtitle479">Bila sudah kahwin,<br/>tidak adalah rasa kekok.</p>
+<p begin="19842800000t" end="19883600000t" region="region.after" style="style.center" xml:id="subtitle480">- Itupun mama kena ajar.<br/>- Okey, mama.</p>
+<p begin="19891600000t" end="19915200000t" region="region.after" style="style.center" xml:id="subtitle481">[telefon berdering]</p>
+<p begin="19960400000t" end="19973600000t" region="region.after" style="style.center" xml:id="subtitle482">Helo?</p>
+<p begin="19986000000t" end="20011600000t" region="region.after" style="style.center" xml:id="subtitle483">[bernada lembut]</p>
+<p begin="20012400000t" end="20046400000t" region="region.after" style="style.center" xml:id="subtitle484">Lama tidak dengar suara awak.</p>
+<p begin="20051600000t" end="20076000000t" region="region.after" style="style.center" xml:id="subtitle485">Rindu, tahu.</p>
+<p begin="20076800000t" end="20098400000t" region="region.after" style="style.center" xml:id="subtitle486">[gelak menggoda]</p>
+<p begin="20099200000t" end="20130400000t" region="region.after" style="style.center" xml:id="subtitle487">Awak mahu saya servis awak?</p>
+<p begin="20186800000t" end="20196800000t" region="region.after" style="style.center" xml:id="subtitle488">Yakah?</p>
+<p begin="20200000000t" end="20219200000t" region="region.after" style="style.center" xml:id="subtitle489">[muzik tegang]</p>
+<p begin="20223200000t" end="20231600000t" region="region.after" style="style.center" xml:id="subtitle490">Siapa beritahu?</p>
+<p begin="20247200000t" end="20274800000t" region="region.after" style="style.center" xml:id="subtitle491">[muzik tegang berterusan]</p>
+<p begin="20275600000t" end="20290400000t" region="region.after" style="style.center" xml:id="subtitle492">[sayup berbual]</p>
+<p begin="20324400000t" end="20356800000t" region="region.after" style="style.center" xml:id="subtitle493">- Nur, sudah siap?<br/>- Tengah bersiap, mak.</p>
+<p begin="20360400000t" end="20375200000t" region="region.after" style="style.center" xml:id="subtitle494">Cepat sedikit.</p>
+<p begin="20507199999t" end="20545200000t" region="region.after" style="style.center" xml:id="subtitle495">Perempuan mana yang bertuah<br/>dapat suami sempurna macam ini?</p>
+<p begin="20569200000t" end="20599200000t" region="region.after" style="style.center" xml:id="subtitle496">Tunggu apa lagi? Cepatlah.</p>
+<p begin="20600000000t" end="20614000000t" region="region.after" style="style.center" xml:id="subtitle497">Ya.</p>
+<p begin="20637199999t" end="20647600000t" region="region.after" style="style.center" xml:id="subtitle498">Mak...</p>
+<p begin="20653200000t" end="20665200000t" region="region.after" style="style.center" xml:id="subtitle499">Nur pergi dulu.</p>
+<p begin="20676000000t" end="20695600000t" region="region.after" style="style.center" xml:id="subtitle500">Nur, nanti.</p>
+<p begin="20699200000t" end="20718000000t" region="region.after" style="style.center" xml:id="subtitle501">- Awak mahu pergi mana?<br/>- Pergi kerja.</p>
+<p begin="20725600000t" end="20749200000t" region="region.after" style="style.center" xml:id="subtitle502">Awak tidak payah turun lorong malam ini.</p>
+<p begin="20750400000t" end="20778400000t" region="region.after" style="style.center" xml:id="subtitle503">Sebab malam ini, ada pelanggan <span style="style.center_1">walk-in</span>.</p>
+<p begin="20782399999t" end="20795600000t" region="region.after" style="style.center" xml:id="subtitle504">Apa <span style="style.center_1">walk</span>?</p>
+<p begin="20796399999t" end="20821200000t" region="region.after" style="style.center" xml:id="subtitle505">Lembablah. <span style="style.center_1">Walk-in</span> tidak tahu?</p>
+<p begin="20824800000t" end="20860800000t" region="region.after" style="style.center" xml:id="subtitle506"><span style="style.center_1">Walk-in</span> macam pandu lalu beli McD.</p>
+<p begin="20871599999t" end="20901599999t" region="region.after" style="style.center" xml:id="subtitle507">Orang ini, dia pelanggan tetap mak.</p>
+<p begin="20906000000t" end="20926000000t" region="region.after" style="style.center" xml:id="subtitle508">Tetapi kali ini, dia mahu cuba awak.</p>
+<p begin="20934800000t" end="20959600000t" region="region.after" style="style.center" xml:id="subtitle509">Jadi, awak layanlah dia baik-baik.</p>
+<p begin="20966000000t" end="20982000000t" region="region.after" style="style.center" xml:id="subtitle510">- Mak...<br/>- Sudah.</p>
+<p begin="20982800000t" end="21028000000t" region="region.after" style="style.center" xml:id="subtitle511">Nur, kenapa muka pucat lesi?</p>
+<p begin="21028800000t" end="21050000000t" region="region.after" style="style.center" xml:id="subtitle512">Gincu pun tidak ada.</p>
+<p begin="21054400000t" end="21079600000t" region="region.after" style="style.center" xml:id="subtitle513">Sini, sini.</p>
+<p begin="21080400000t" end="21099200000t" region="region.after" style="style.center" xml:id="subtitle514">Pakailah gincu sedikit.</p>
+<p begin="21108400000t" end="21132800000t" region="region.after" style="style.center" xml:id="subtitle515">Awak jangan buat hal,<br/>janganlah tidak jadi.</p>
+<p begin="21154000000t" end="21165600000t" region="region.after" style="style.center" xml:id="subtitle516">Lepaskan rambut.</p>
+<p begin="21166400000t" end="21184000000t" region="region.after" style="style.center" xml:id="subtitle517">Mak, tidak payahlah.</p>
+<p begin="21197200000t" end="21220400000t" region="region.after" style="style.center" xml:id="subtitle518">Ini.</p>
+<p begin="21224800000t" end="21244800000t" region="region.after" style="style.center" xml:id="subtitle519">Awak pakai bilik mak.</p>
+<p begin="21245600000t" end="21276800000t" region="region.after" style="style.center" xml:id="subtitle520">Mak sudah tukar cadar, siap pasang lilin.</p>
+<p begin="21282400000t" end="21310000000t" region="region.after" style="style.center" xml:id="subtitle521">- Tetapi, mak...<br/>- Jangan mengada-ngada.</p>
+<p begin="21310800000t" end="21333200000t" region="region.after" style="style.center" xml:id="subtitle522">- [Mak Nur merungut]<br/>- Helo?</p>
+<p begin="21344000000t" end="21368800000t" region="region.after" style="style.center" xml:id="subtitle523">Ini. Sini.</p>
+<p begin="21369600000t" end="21387600000t" region="region.after" style="style.center" xml:id="subtitle524">Ini. Betul.</p>
+<p begin="21397600000t" end="21433200000t" region="region.after" style="style.center" xml:id="subtitle525">[ketawa]</p>
+<p begin="21463200000t" end="21489200000t" region="region.after" style="style.center" xml:id="subtitle526">Mona, Nur, apa lagi? Cepat bersiap.</p>
+<p begin="21502400000t" end="21519600000t" region="region.after" style="style.center" xml:id="subtitle527">Awak layan dia baik-baik.</p>
+<p begin="21522400000t" end="21535600000t" region="region.after" style="style.center" xml:id="subtitle528">Sila, sila.</p>
+<p begin="21580400000t" end="21590400000t" region="region.after" style="style.center" xml:id="subtitle529">Masuk.</p>
+<p begin="21603600000t" end="21630000000t" region="region.after" style="style.center" xml:id="subtitle530">[muzik mengerikan]</p>
+<p begin="21680400000t" end="21702800000t" region="region.after" style="style.center" xml:id="subtitle531">Ini benda bayar, bukan percuma.</p>
+<p begin="21790000000t" end="21802000000t" region="region.after" style="style.center" xml:id="subtitle532">En. Mad...</p>
+<p begin="21852800000t" end="21865200000t" region="region.after" style="style.center" xml:id="subtitle533">Awak jangan kasar sangat.</p>
+<p begin="21867600000t" end="21877600000t" region="region.after" style="style.center" xml:id="subtitle534">Anak saya.</p>
+<p begin="21894400000t" end="21905200000t" region="region.after" style="style.center" xml:id="subtitle535">Pandailah saya.</p>
+<p begin="21910400000t" end="21930800000t" region="region.after" style="style.center" xml:id="subtitle536">Saya mahu pakai dia lama. Sudah, pergilah.</p>
+<p begin="21965600000t" end="21974400000t" region="region.after" style="style.center" xml:id="subtitle537">Nur...</p>
+<p begin="21981200000t" end="21990400000t" region="region.after" style="style.center" xml:id="subtitle538">Mak pergi dulu.</p>
+<p begin="22068800000t" end="22085200000t" region="region.after" style="style.center" xml:id="subtitle539">Oh, baik.</p>
+<p begin="22102800000t" end="22115200000t" region="region.after" style="style.center" xml:id="subtitle540">Cantik ini.</p>
+<p begin="22155200000t" end="22168000000t" region="region.after" style="style.center" xml:id="subtitle541">Macam pernah tengok.</p>
+<p begin="22180800000t" end="22191600000t" region="region.after" style="style.center" xml:id="subtitle542">Di mana?</p>
+<p begin="22221600000t" end="22239200000t" region="region.after" style="style.center" xml:id="subtitle543">Kenapa Mona tidak pernah beritahu?</p>
+<p begin="22250000000t" end="22278400000t" region="region.after" style="style.center" xml:id="subtitle544">Simpan bawah katil? Tengok sedikit.</p>
+<p begin="22298000000t" end="22312800000t" region="region.after" style="style.center" xml:id="subtitle545">Takkan tidak biasa.</p>
+<p begin="22313600000t" end="22326400000t" region="region.after" style="style.center" xml:id="subtitle546">[Bahasa Inggeris]<br/>Sinilah.</p>
+<p begin="22332000000t" end="22341200000t" region="region.after" style="style.center" xml:id="subtitle547">[Bahasa Melayu]<br/>Hei.</p>
+<p begin="22352000000t" end="22404800000t" region="region.after" style="style.center" xml:id="subtitle548">Perlahan, kita tidak payah gelojoh sangat.<br/>Jom.</p>
+<p begin="22412000000t" end="22434400000t" region="region.after" style="style.center" xml:id="subtitle549">Takkan buat di sini. Orang tengok nanti.</p>
+<p begin="22435200000t" end="22454000000t" region="region.after" style="style.center" xml:id="subtitle550">- Jom, masuk dalam.<br/>- [telefon berdering]</p>
+<p begin="22454800000t" end="22475200000t" region="region.after" style="style.center" xml:id="subtitle551">Abang, telefon.</p>
+<p begin="22476000000t" end="22492800000t" region="region.after" style="style.center" xml:id="subtitle552">Tidak apa, biarlah. Jom.</p>
+<p begin="22493600000t" end="22514000000t" region="region.after" style="style.center" xml:id="subtitle553">Mana tahu isteri abang telefon...</p>
+<p begin="22517600000t" end="22555600000t" region="region.after" style="style.center" xml:id="subtitle554">Penting. Mana tahu rumah abang terbakar?</p>
+<p begin="22634000000t" end="22654400000t" region="region.after" style="style.center" xml:id="subtitle555">Helo? Apa ini? Kenapa?</p>
+<p begin="22655200000t" end="22667600000t" region="region.after" style="style.center" xml:id="subtitle556">Abang di mana?</p>
+<p begin="22676000000t" end="22691200000t" region="region.after" style="style.center" xml:id="subtitle557">Tengah jumpa kawan, kenapa?</p>
+<p begin="22694000000t" end="22706000000t" region="region.after" style="style.center" xml:id="subtitle558">Balik sekarang, abang.</p>
+<p begin="22706800000t" end="22744400000t" region="region.after" style="style.center" xml:id="subtitle559">Astaghfirullah hal azim.<br/>Buat apa balik? Nanti baliklah.</p>
+<p begin="22745200000t" end="22762000000t" region="region.after" style="style.center" xml:id="subtitle560">Saya cakap, balik sekarang.</p>
+<p begin="22768000000t" end="22788400000t" region="region.after" style="style.center" xml:id="subtitle561">Abang jangan banyak tanya. Balik sekarang.</p>
+<p begin="22789200000t" end="22822400000t" region="region.after" style="style.center" xml:id="subtitle562">Lailahaillallah.<br/>Apa yang tidak menyempat ini? Yalah!</p>
+<p begin="22846800000t" end="22871600000t" region="region.after" style="style.center" xml:id="subtitle563">Hei, sekejap.</p>
+<p begin="22882800000t" end="22927200000t" region="region.after" style="style.center" xml:id="subtitle564">Abang, nanti minyak wangi saya<br/>melekat dekat abang,</p>
+<p begin="22928000000t" end="22947200000t" region="region.after" style="style.center" xml:id="subtitle565">isteri abang tahu, abang juga susah.</p>
+<p begin="22951200000t" end="22976400000t" region="region.after" style="style.center" xml:id="subtitle566">[Nur tercungap perlahan]</p>
+<p begin="23054800000t" end="23073200000t" region="region.after" style="style.center" xml:id="subtitle567">Abang balik sana, selesaikan dulu...</p>
+<p begin="23084400000t" end="23100400000t" region="region.after" style="style.center" xml:id="subtitle568">Nanti abang datang sini balik.</p>
+<p begin="23101200000t" end="23139200000t" region="region.after" style="style.center" xml:id="subtitle569">["Tak Pernah Hilang" oleh Amylea dan Kaer<br/>dimainkan dalam Bahasa Melayu]</p>
+<p begin="23140000000t" end="23154000000t" region="region.after" style="style.center" xml:id="subtitle570">Kita tidak selesai lagi, tahu.</p>
+<p begin="23160400000t" end="23188000000t" region="region.after" style="style.center" xml:id="subtitle571">[pintu dibuka dan ditutup]</p>
+<p begin="23257600000t" end="23278400000t" region="region.after" style="style.center" xml:id="subtitle572">[tercungap-cungap]</p>
+<p begin="23280000000t" end="23324000000t" region="region.after" style="style.center" xml:id="subtitle573"><span style="style.center_1">♪ Tiada siapa yang pernah rasa ♪</span></p>
+<p begin="23336800000t" end="23378400000t" region="region.after" style="style.center" xml:id="subtitle574"><span style="style.center_1">♪ Biar mereka cuba mahu ♪</span></p>
+<p begin="23379200000t" end="23434800000t" region="region.after" style="style.center" xml:id="subtitle575"><span style="style.center_1">♪ Cuba ada denganku ♪</span></p>
+<p begin="23449200000t" end="23495600000t" region="region.after" style="style.center" xml:id="subtitle576"><span style="style.center_1">♪ Mestilah perlu kau menjauh ♪</span></p>
+<p begin="23506800000t" end="23552400000t" region="region.after" style="style.center" xml:id="subtitle577"><span style="style.center_1">♪ Mestikah perlu kau menghalang ♪</span></p>
+<p begin="23563200000t" end="23603200000t" region="region.before" style="style.center" xml:id="subtitle578"><span style="style.center_1">♪ Perasaan yang pernah datang ♪</span></p>
+<p begin="23604000000t" end="23667200000t" region="region.before" style="style.center" xml:id="subtitle579"><span style="style.center_1">♪ Yang tidak pernah hilang ♪</span></p>
+<p begin="23678400000t" end="23722000000t" region="region.before" style="style.center" xml:id="subtitle580"><span style="style.center_1">♪ Aku yang merindumu ♪</span></p>
+<p begin="23733600000t" end="23791600000t" region="region.before" style="style.center" xml:id="subtitle581"><span style="style.center_1">♪ Selalu menantikan dirimu ♪</span></p>
+<p begin="23792400000t" end="23831200000t" region="region.after" style="style.center" xml:id="subtitle582"><span style="style.center_1">♪ Yang selalu memahami ♪</span></p>
+<p begin="23832000000t" end="23889200000t" region="region.before" style="style.center" xml:id="subtitle583"><span style="style.center_1">♪ Tiap kata hatimu ♪</span></p>
+<p begin="23905200000t" end="23949200000t" region="region.before" style="style.center" xml:id="subtitle584"><span style="style.center_1">♪ Aku yang merindumu ♪</span></p>
+<p begin="23957600000t" end="24016400000t" region="region.after" style="style.center" xml:id="subtitle585"><span style="style.center_1">♪ Selalu menantikan dirimu ♪</span></p>
+<p begin="24017200000t" end="24056000000t" region="region.after" style="style.center" xml:id="subtitle586"><span style="style.center_1">♪ Yang selalu memahami ♪</span></p>
+<p begin="24056800000t" end="24113200000t" region="region.after" style="style.center" xml:id="subtitle587"><span style="style.center_1">♪ Tiap kata hatimu ♪</span></p>
+<p begin="24464800000t" end="24512000000t" region="region.after" style="style.center" xml:id="subtitle588"><span style="style.center_1">♪ Jika aku yang kau ingin ♪</span></p>
+<p begin="24520400000t" end="24561600000t" region="region.after" style="style.center" xml:id="subtitle589"><span style="style.center_1">♪ Menantikan satu jawapan ♪</span></p>
+<p begin="24578000000t" end="24614800000t" region="region.after" style="style.center" xml:id="subtitle590"><span style="style.center_1">♪ Perasaan yang pernah datang ♪</span></p>
+</div>
+</body>
+</tt>

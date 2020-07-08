@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="385833333t" end="421250000t" region="top" style="normal" xml:id="subtitle0">BERDASARKAN KISAH BENAR</p>
+<p begin="450833333t" end="480000000t" style="normal" xml:id="subtitle1">[nafas berat]</p>
+<p begin="480833333t" end="500416666t" style="normal" xml:id="subtitle2">[suara lelaki] <span style="normal_1">Saya akan jaga hati awak...</span></p>
+<p begin="511250000t" end="538333333t" style="normal" xml:id="subtitle3"><span style="normal_1">ke akhir hayat saya.</span></p>
+<p begin="539166666t" end="558750000t" region="top" style="normal" xml:id="subtitle4"><span style="normal_1">Saya mahu lihat awak berhias.</span></p>
+<p begin="561666666t" end="579166666t" style="normal" xml:id="subtitle5">[tercungap-cungap]</p>
+<p begin="601250000t" end="613333333t" style="normal" xml:id="subtitle6">[suara lelaki] <span style="normal_1">Biarkanlah.</span></p>
+<p begin="635000000t" end="653750000t" style="normal" xml:id="subtitle7">[suara berbisik]</p>
+<p begin="654583333t" end="678333333t" region="top" style="normal" xml:id="subtitle8"><span style="normal_1">Awak dan Omar adalah nyawa saya.</span></p>
+<p begin="688750000t" end="699583333t" style="normal" xml:id="subtitle9">[suara lelaki] <span style="normal_1">Kembali.</span></p>
+<p begin="719583333t" end="735000000t" style="normal" xml:id="subtitle10">[percikan air, gelas pecah]</p>
+<p begin="735833333t" end="748750000t" style="normal" xml:id="subtitle11">[wanita tua menjerit] Ahmad!</p>
+<p begin="750833333t" end="759583333t" style="normal" xml:id="subtitle12">[bunyi tapak kaki]</p>
+<p begin="773333333t" end="784166666t" style="normal" xml:id="subtitle13">[Ahmad suruh diam]</p>
+<p begin="785000000t" end="812500000t" style="normal" xml:id="subtitle14">Sabar, nenek. Ahmad ada. Sabar.</p>
+<p begin="813333333t" end="830416666t" style="normal" xml:id="subtitle15">[tercungap-cungap]</p>
+<p begin="838333333t" end="858750000t" style="normal" xml:id="subtitle16">[hujan lebat]</p>
+<p begin="867500000t" end="881250000t" style="normal" xml:id="subtitle17">[menjentik picagari]</p>
+<p begin="900416666t" end="912500000t" region="top" style="normal" xml:id="subtitle18">[menyuruh diam]</p>
+<p begin="967500000t" end="978750000t" style="normal" xml:id="subtitle19">[mengeluh]</p>
+<p begin="990000000t" end="1018750000t" style="normal" xml:id="subtitle20">[nafas semakin tenang]</p>
+<p begin="1021250000t" end="1043750000t" style="normal" xml:id="subtitle21">Nenek, pergi hospital, ya.</p>
+<p begin="1065000000t" end="1076666666t" style="normal" xml:id="subtitle22">Jangan.</p>
+<p begin="1101666666t" end="1113750000t" style="normal" xml:id="subtitle23">[mengeluh berat]</p>
+<p begin="1114583333t" end="1125416666t" style="normal" xml:id="subtitle24">[bunyi taipan telefon]</p>
+<p begin="1126250000t" end="1137916666t" style="normal" xml:id="subtitle25">Kalau nenek pergi,</p>
+<p begin="1141666666t" end="1161666666t" region="top" style="normal" xml:id="subtitle26">nenek tak akan balik lagi ke sini.</p>
+<p begin="1221250000t" end="1236250000t" region="top" style="normal" xml:id="subtitle27">[guruh berdentum]</p>
+<p begin="1259583333t" end="1299583333t" region="top" style="normal" xml:id="subtitle28">[hujan lebat jatuh ke tanah melalui atap]</p>
+<p begin="1344583333t" end="1390833333t" region="top" style="normal" xml:id="subtitle29">[guruh berdentum]</p>
+<p begin="1440416666t" end="1467083333t" style="normal" xml:id="subtitle30">[guruh berdentum]</p>
+<p begin="1480000000t" end="1491666666t" style="normal" xml:id="subtitle31">[tarik nafas dalam]</p>
+<p begin="1593750000t" end="1615000000t" style="normal" xml:id="subtitle32">[suara wanita tidak jelas]</p>
+<p begin="1675833333t" end="1689166666t" style="normal" xml:id="subtitle33">[menghembus nafas]</p>
+<p begin="1744583333t" end="1758333333t" style="normal" xml:id="subtitle34">Masa semakin singkat.</p>
+<p begin="1765833333t" end="1789583333t" style="normal" xml:id="subtitle35">Nenek sudah tidak lama lagi di sini.</p>
+<p begin="1792083333t" end="1802500000t" style="normal" xml:id="subtitle36">[bernafas]</p>
+<p begin="1806250000t" end="1832916666t" style="normal" xml:id="subtitle37">Nenek, jangan cakap begitu.</p>
+<p begin="1836250000t" end="1851250000t" style="normal" xml:id="subtitle38">Nenek nak tahu, Ahmad.</p>
+<p begin="1861666666t" end="1891666666t" style="normal" xml:id="subtitle39">Sebelum malaikat maut datang menjemput...</p>
+<p begin="1897500000t" end="1907500000t" style="normal" xml:id="subtitle40">[menarik nafas]</p>
+<p begin="1908333333t" end="1919166666t" style="normal" xml:id="subtitle41">nenek mahu tahu...</p>
+<p begin="1927500000t" end="1953333333t" style="normal" xml:id="subtitle42">apa yang sebenarnya terjadi.</p>
+<p begin="1970833333t" end="2018333333t" region="top" style="normal" xml:id="subtitle43">Kamu dengar cerita yang<br/>nenek simpan selama ini.</p>
+<p begin="2022500000t" end="2062500000t" style="normal" xml:id="subtitle44">- [guruh berdentum]<br/>- Dari awal hingga ke akhir.</p>
+<p begin="2064166666t" end="2102083333t" region="top" style="normal" xml:id="subtitle45">[guruh berdentum, angin kencang]</p>
+<p begin="2206250000t" end="2257500000t" style="normal" xml:id="subtitle46">[kanak-kanak memekik]</p>
+<p begin="2328333333t" end="2345000000t" style="normal" xml:id="subtitle47">[wanita berbisik]</p>
+<p begin="2428750000t" end="2462916666t" style="normal" xml:id="subtitle48">[Thom Tua] <span style="normal_1">Nenek tak percaya</span><br/><span style="normal_1">cinta pandang pertama...</span></p>
+<p begin="2465833333t" end="2476250000t" region="top" style="normal" xml:id="subtitle49">1939, SERKAM, MELAKA</p>
+<p begin="2477083333t" end="2504583333t" region="top" style="normal" xml:id="subtitle50"><span style="normal_1">tetapi perasaan ini boleh datang</span></p>
+<p begin="2511250000t" end="2526250000t" region="top" style="normal" xml:id="subtitle51"><span style="normal_1">tanpa diduga.</span></p>
+<p begin="2665000000t" end="2682500000t" style="normal" xml:id="subtitle52">Tengok, kakak. Pilih.</p>
+<p begin="2692500000t" end="2704583333t" style="normal" xml:id="subtitle53">- Ikan segar.<br/>- Ikan.</p>
+<p begin="2713750000t" end="2727916666t" style="normal" xml:id="subtitle54">Silakan, ikan segar.</p>
+<p begin="2732500000t" end="2749583333t" style="normal" xml:id="subtitle55">Adik, mari, ikan baru.</p>
+<p begin="2751250000t" end="2769583333t" style="normal" xml:id="subtitle56">Ikan kembung, selayang, sardin.</p>
+<p begin="2770416666t" end="2787916666t" style="normal" xml:id="subtitle57">- Mari tengok ikan.<br/>- Kakak.</p>
+<p begin="2799583333t" end="2827916666t" style="normal" xml:id="subtitle58">- Tengok dulu.<br/>- Tengoklah dulu, adik.</p>
+<p begin="2831250000t" end="2851250000t" style="normal" xml:id="subtitle59">Thom, kalau awak nak yang bagus,</p>
+<p begin="2855000000t" end="2867500000t" style="normal" xml:id="subtitle60">di sana.</p>
+<p begin="2869583333t" end="2892500000t" style="normal" xml:id="subtitle61">[suara lelaki] Mari tengok ikan segar.</p>
+<p begin="2905833333t" end="2936666666t" style="normal" xml:id="subtitle62">Kedai Othman juga yang dicarinya.</p>
+<p begin="2937916666t" end="2950000000t" style="normal" xml:id="subtitle63">Ya.</p>
+<p begin="2974166666t" end="2982500000t" style="normal" xml:id="subtitle64">Salmah.</p>
+<p begin="2995833333t" end="3005000000t" style="normal" xml:id="subtitle65">[mencemuh]</p>
+<p begin="3018750000t" end="3046666666t" style="normal" xml:id="subtitle66">Kembung, Man. Macam biasa.<br/>Berikan yang besar.</p>
+<p begin="3047500000t" end="3073333333t" style="normal" xml:id="subtitle67">- Yang biasa, Salmah?<br/>- Ya, macam biasa.</p>
+<p begin="3086666666t" end="3117500000t" style="normal" xml:id="subtitle68">Ini Thom, kawan saya.<br/>Cucu saudara Che Puteh.</p>
+<p begin="3123333333t" end="3156250000t" style="normal" xml:id="subtitle69">Dia datang sebab nak jaga<br/>Che Puteh yang tidak sihat.</p>
+<p begin="3159583333t" end="3184583333t" style="normal" xml:id="subtitle70">- Salmah!<br/>- Ya, Karim. Apa awak nak?</p>
+<p begin="3197500000t" end="3207500000t" style="normal" xml:id="subtitle71">Terima kasih.</p>
+<p begin="3221666666t" end="3230000000t" style="normal" xml:id="subtitle72">Apa?</p>
+<p begin="3280833333t" end="3292083333t" style="normal" xml:id="subtitle73">Saya pun sama.</p>
+<p begin="3294166666t" end="3320833333t" style="normal" xml:id="subtitle74">[lelaki memekik] RM1.</p>
+<p begin="3330833333t" end="3354583333t" style="normal" xml:id="subtitle75">[orang berbual]</p>
+<p begin="3420000000t" end="3428333333t" style="normal" xml:id="subtitle76">Dah terlebih.</p>
+<p begin="3486666666t" end="3499166666t" style="normal" xml:id="subtitle77">Tak apa. Ikhlas.</p>
+<p begin="3538333333t" end="3547500000t" style="normal" xml:id="subtitle78">Bagi Che Puteh.</p>
+<p begin="3609166666t" end="3622916666t" style="normal" xml:id="subtitle79">- Terima kasih.<br/>- Ya.</p>
+<p begin="3637083333t" end="3653750000t" style="normal" xml:id="subtitle80">Che Thom.</p>
+<p begin="3662083333t" end="3673333333t" style="normal" xml:id="subtitle81">Sudah?</p>
+<p begin="3705416666t" end="3718333333t" style="normal" xml:id="subtitle82">[Salmah] Pergi dulu.</p>
+<p begin="3728750000t" end="3742916666t" style="normal" xml:id="subtitle83">- Che Thom.<br/>- Che Thom.</p>
+<p begin="3743750000t" end="3764583333t" style="normal" xml:id="subtitle84">Beratnya bakul awak.</p>
+<p begin="3835000000t" end="3848750000t" style="normal" xml:id="subtitle85">[bunyi percikan air]</p>
+<p begin="3971666666t" end="3998750000t" style="normal" xml:id="subtitle86">[Karim] Ikan segar, mari pilih!</p>
+<p begin="3999583333t" end="4042083333t" style="normal" xml:id="subtitle87">Hei, nampak berat sangat.<br/>Pinggang itu bukannya elok sangat.</p>
+<p begin="4067083333t" end="4078750000t" style="normal" xml:id="subtitle88">Salmah.</p>
+<p begin="4098333333t" end="4116250000t" style="normal" xml:id="subtitle89">[Karim] Taib, saya tambah ikan.</p>
+<p begin="4140833333t" end="4149166666t" style="normal" xml:id="subtitle90">Man.</p>
+<p begin="4151250000t" end="4173750000t" style="normal" xml:id="subtitle91">Jangan tenung rumah dia lama-lama.</p>
+<p begin="4182500000t" end="4202916666t" style="normal" xml:id="subtitle92">Bocor dinding, siapa nak jawab?</p>
+<p begin="4209583333t" end="4223750000t" style="normal" xml:id="subtitle93">[ketawa, melatah]</p>
+<p begin="4510416666t" end="4532916666t" style="normal" xml:id="subtitle94">[Othman] Ke sisi Che Thom yang...</p>
+<p begin="4552500000t" end="4562500000t" style="normal" xml:id="subtitle95">Dengan...</p>
+<p begin="4563333333t" end="4575000000t" style="normal" xml:id="subtitle96">[ombak menghempas]</p>
+<p begin="4578333333t" end="4590833333t" style="normal" xml:id="subtitle97">Ke hadapan...</p>
+<p begin="4595416666t" end="4613750000t" style="normal" xml:id="subtitle98">- Othman.<br/>- [terkejut, terjatuh]</p>
+<p begin="4621666666t" end="4630000000t" style="normal" xml:id="subtitle99">Oh, Tuhan.</p>
+<p begin="4645000000t" end="4653750000t" style="normal" xml:id="subtitle100">Terima kasih.</p>
+<p begin="4667083333t" end="4680000000t" style="normal" xml:id="subtitle101">Dah lama tak ke sini.</p>
+<p begin="4691250000t" end="4707500000t" style="normal" xml:id="subtitle102">Che Puteh tidak sihat.</p>
+<p begin="4714166666t" end="4729166666t" style="normal" xml:id="subtitle103">Tak boleh tinggalkan dia.</p>
+<p begin="4736250000t" end="4752083333t" style="normal" xml:id="subtitle104">Salmah tolong jaga.</p>
+<p begin="4788750000t" end="4802083333t" style="normal" xml:id="subtitle105">Awak pernah ke laut?</p>
+<p begin="4822500000t" end="4838750000t" style="normal" xml:id="subtitle106">Saya takut laut dalam.</p>
+<p begin="4848333333t" end="4860000000t" style="normal" xml:id="subtitle107">Takut lemas.</p>
+<p begin="4863750000t" end="4882500000t" style="normal" xml:id="subtitle108">Laut tenang daripada pantai.</p>
+<p begin="4895000000t" end="4907916666t" style="normal" xml:id="subtitle109">Mana mungkin?</p>
+<p begin="4927500000t" end="4939166666t" style="normal" xml:id="subtitle110">Cuba tutup mata.</p>
+<p begin="4943333333t" end="4953750000t" style="normal" xml:id="subtitle111">[hempasan ombak]</p>
+<p begin="4971666666t" end="4981666666t" style="normal" xml:id="subtitle112">[ketawa kecil]</p>
+<p begin="4992916666t" end="5001250000t" style="normal" xml:id="subtitle113">Tutup mata.</p>
+<p begin="5048750000t" end="5080416666t" style="normal" xml:id="subtitle114">[bunyi tapak kaki]</p>
+<p begin="5145416666t" end="5169166666t" style="normal" xml:id="subtitle115">Bayangkan awak sendirian di laut.</p>
+<p begin="5238750000t" end="5249583333t" style="normal" xml:id="subtitle116">Lihat langit.</p>
+<p begin="5279583333t" end="5295000000t" style="normal" xml:id="subtitle117">[bunyi percikan air]</p>
+<p begin="5305416666t" end="5316666666t" style="normal" xml:id="subtitle118">[Othman] <span style="normal_1">Biru...</span></p>
+<p begin="5344583333t" end="5358750000t" style="normal" xml:id="subtitle119"><span style="normal_1">disimbah matahari.</span></p>
+<p begin="5378750000t" end="5395416666t" style="normal" xml:id="subtitle120"><span style="normal_1">Sejauh mata memandang.</span></p>
+<p begin="5414583333t" end="5425833333t" style="normal" xml:id="subtitle121"><span style="normal_1">Lihat laut.</span></p>
+<p begin="5439583333t" end="5447916666t" style="normal" xml:id="subtitle122"><span style="normal_1">Hijau...</span></p>
+<p begin="5459583333t" end="5476666666t" style="normal" xml:id="subtitle123"><span style="normal_1">pekat mengikut dalam.</span></p>
+<p begin="5492083333t" end="5507500000t" style="normal" xml:id="subtitle124"><span style="normal_1">Tiada sempadan.</span></p>
+<p begin="5518333333t" end="5528750000t" style="normal" xml:id="subtitle125"><span style="normal_1">Sunyi.</span></p>
+<p begin="5538750000t" end="5556250000t" style="normal" xml:id="subtitle126"><span style="normal_1">Tanpa sebarang bunyi...</span></p>
+<p begin="5564166666t" end="5583333333t" style="normal" xml:id="subtitle127"><span style="normal_1">kecuali detik hati.</span></p>
+<p begin="5596666666t" end="5607916666t" style="normal" xml:id="subtitle128">[menarik nafas]</p>
+<p begin="5613333333t" end="5653333333t" style="normal" xml:id="subtitle129">[ombak menghempas]</p>
+<p begin="5684166666t" end="5700000000t" style="normal" xml:id="subtitle130">Itu tenang bagi saya.</p>
+<p begin="5707916666t" end="5721250000t" style="normal" xml:id="subtitle131">[bunyi percikan air]</p>
+<p begin="5742083333t" end="5764166666t" style="normal" xml:id="subtitle132">Tetapi laut tak sentiasa tenang, kan?</p>
+<p begin="5788333333t" end="5798333333t" style="normal" xml:id="subtitle133">Kalau tidak...</p>
+<p begin="5817916666t" end="5834166666t" style="normal" xml:id="subtitle134">tiada kapal seperti itu.</p>
+<p begin="5847083333t" end="5855416666t" style="normal" xml:id="subtitle135">Pecah.</p>
+<p begin="5871250000t" end="5880416666t" style="normal" xml:id="subtitle136">Terbiar.</p>
+<p begin="5895416666t" end="5912916666t" style="normal" xml:id="subtitle137">Biar pecah asal pernah belayar.</p>
+<p begin="5913750000t" end="5940833333t" style="normal" xml:id="subtitle138">Apa gunanya kapal kalau<br/>bersauh di tepi pantai?</p>
+<p begin="5974583333t" end="5982916666t" style="normal" xml:id="subtitle139">[Salmah] <span style="normal_1">Che Puteh.</span></p>
+<p begin="5990000000t" end="6005416666t" style="normal" xml:id="subtitle140">[menggumam]</p>
+<p begin="6006250000t" end="6015000000t" style="normal" xml:id="subtitle141">[Salmah] Oh, Tuhan!</p>
+<p begin="6022500000t" end="6032500000t" style="normal" xml:id="subtitle142">Nenek!</p>
+<p begin="6040000000t" end="6065000000t" style="normal" xml:id="subtitle143">- [Salmah] Che Puteh! Thom!<br/>- [Thom] Nenek!</p>
+<p begin="6070416666t" end="6096250000t" style="normal" xml:id="subtitle144">- Oh, Tuhan! Saya sudah cakap!<br/>- Nenek!</p>
+<p begin="6097083333t" end="6110416666t" style="normal" xml:id="subtitle145">[Othman] Nenek!</p>
+<p begin="6114166666t" end="6142083333t" style="normal" xml:id="subtitle146">Bagaimana boleh jatuh? Nek Puteh.</p>
+<p begin="6142916666t" end="6163333333t" style="normal" xml:id="subtitle147">[Thom Tua] <span style="normal_1">Kepergian Che Puteh</span></p>
+<p begin="6168750000t" end="6225000000t" style="normal" xml:id="subtitle148"><span style="normal_1">membuat nenek rasa</span><br/><span style="normal_1">kehilangan dan keseorangan.</span></p>
+<p begin="6230000000t" end="6297500000t" style="normal" xml:id="subtitle149"><span style="normal_1">Tiada tempat untuk nenek bergantung</span><br/><span style="normal_1">dan menumpang kasih sayang.</span></p>
+<p begin="6322500000t" end="6330833333t" style="normal" xml:id="subtitle150">[Othman] Thom.</p>
+<p begin="6342916666t" end="6362083333t" style="normal" xml:id="subtitle151">Berapa lama lagi awak di sini?</p>
+<p begin="6378750000t" end="6410000000t" style="normal" xml:id="subtitle152">Che Thom, jangan pergi.</p>
+<p begin="6410833333t" end="6425000000t" style="normal" xml:id="subtitle153">[menghembus nafas berat]</p>
+<p begin="6457083333t" end="6467083333t" style="normal" xml:id="subtitle154">[bernafas, mengeluh]</p>
+<p begin="6467916666t" end="6493333333t" style="normal" xml:id="subtitle155">Awak tak perlu pergi.<br/>Duduk sahaja di sini.</p>
+<p begin="6521250000t" end="6531666666t" style="normal" xml:id="subtitle156">Kalau saya...</p>
+<p begin="6532500000t" end="6557500000t" style="normal" xml:id="subtitle157">[mengeluh, bernafas berat]</p>
+<p begin="6558333333t" end="6574166666t" style="normal" xml:id="subtitle158">Che Thom, berapa lama...</p>
+<p begin="6588750000t" end="6615416666t" style="normal" xml:id="subtitle159">- Sampai bila awak di sini?<br/>- Kenapa, Othman?</p>
+<p begin="6616250000t" end="6630416666t" style="normal" xml:id="subtitle160">Bila Che Puteh pergi?</p>
+<p begin="6663333333t" end="6678333333t" style="normal" xml:id="subtitle161">Sampai bila awak di sini?</p>
+<p begin="6699583333t" end="6709583333t" style="normal" xml:id="subtitle162">Sehari dua.</p>
+<p begin="6737083333t" end="6755416666t" style="normal" xml:id="subtitle163">Tiada sebab saya lama di sini.</p>
+<p begin="6767500000t" end="6783333333t" style="normal" xml:id="subtitle164">Tiada sesiapa lagi.</p>
+<p begin="6801250000t" end="6815000000t" style="normal" xml:id="subtitle165">Sebelum awak pergi...</p>
+<p begin="6859166666t" end="6923750000t" style="normal" xml:id="subtitle166">[bunyi tapak kaki]</p>
+<p begin="6957916666t" end="6969166666t" style="normal" xml:id="subtitle167">[Othman] Saya tahu</p>
+<p begin="6972916666t" end="7004166666t" style="normal" xml:id="subtitle168">saya tiada kemewahan, harta,</p>
+<p begin="7009166666t" end="7018333333t" style="normal" xml:id="subtitle169">tiada keluarga.</p>
+<p begin="7025416666t" end="7037083333t" style="normal" xml:id="subtitle170">Saya terlalu biasa.</p>
+<p begin="7047083333t" end="7067083333t" style="normal" xml:id="subtitle171">Tetapi saya tidak malu bermimpi...</p>
+<p begin="7101666666t" end="7119583333t" style="normal" xml:id="subtitle172">untuk memperisterikan awak.</p>
+<p begin="7127916666t" end="7142916666t" style="normal" xml:id="subtitle173">Saya akan berusaha.</p>
+<p begin="7151250000t" end="7161250000t" style="normal" xml:id="subtitle174">Saya akan cuba.</p>
+<p begin="7170833333t" end="7207916666t" style="normal" xml:id="subtitle175">Selagi ada kudrat, saya akan cuba<br/>untuk memberikan kemewahan...</p>
+<p begin="7208750000t" end="7222916666t" style="normal" xml:id="subtitle176">Awak tidak tahu malu.</p>
+<p begin="7235000000t" end="7261250000t" style="normal" xml:id="subtitle177">Kenapa awak fikir saya utamakan harta?</p>
+<p begin="7272916666t" end="7282916666t" style="normal" xml:id="subtitle178">[mengeluh]</p>
+<p begin="7310416666t" end="7322500000t" style="normal" xml:id="subtitle179">Kita sama sahaja.</p>
+<p begin="7335416666t" end="7360000000t" style="normal" xml:id="subtitle180">Saya juga tidak punya apa-apa, Othman.</p>
+<p begin="7390833333t" end="7402916666t" style="normal" xml:id="subtitle181">Kecuali hati.</p>
+<p begin="7440833333t" end="7455416666t" style="normal" xml:id="subtitle182">Hati yang mencintai.</p>
+<p begin="7566250000t" end="7578333333t" style="normal" xml:id="subtitle183">Saya berjanji...</p>
+<p begin="7593750000t" end="7603333333t" style="normal" xml:id="subtitle184">[mengeluh]</p>
+<p begin="7644166666t" end="7665000000t" style="normal" xml:id="subtitle185">saya akan jaga hati ini...</p>
+<p begin="7706666666t" end="7726250000t" style="normal" xml:id="subtitle186">hingga akhir hayat saya.</p>
+<p begin="7727500000t" end="7738333333t" style="normal" xml:id="subtitle187">[mengeluh]</p>
+<p begin="7759583333t" end="7786666666t" style="normal" xml:id="subtitle188">[Thom Tua] <span style="normal_1">Kami berkahwin selepas itu.</span></p>
+<p begin="7796666666t" end="7830833333t" style="normal" xml:id="subtitle189"><span style="normal_1">Nenek tidak pernah sebahagia itu, Ahmad.</span></p>
+<p begin="7839166666t" end="7862500000t" style="normal" xml:id="subtitle190"><span style="normal_1">Tetapi dua tahun kemudian,</span></p>
+<p begin="7870416666t" end="7892500000t" style="normal" xml:id="subtitle191"><span style="normal_1">Jepun menyerang Tanah Melayu.</span></p>
+<p begin="7897916666t" end="7915833333t" style="normal" xml:id="subtitle192">[bom meletup]</p>
+<p begin="7925416666t" end="7958750000t" style="normal" xml:id="subtitle193">[bunyi kipas pesawat ringan]</p>
+<p begin="8015000000t" end="8032500000t" style="normal" xml:id="subtitle194">[bom meletup]</p>
+<p begin="8137500000t" end="8167083333t" style="normal" xml:id="subtitle195">[pesawat ringan berterbangan]</p>
+<p begin="8227083333t" end="8267916666t" region="top" style="normal" xml:id="subtitle196">1941, JEPUN MENYERANG TANAH MELAYU</p>
+<p begin="8327916666t" end="8350000000t" style="normal" xml:id="subtitle197">[burung berkicau]</p>
+<p begin="8406250000t" end="8444583333t" style="normal" xml:id="subtitle198">- [pesawat ringan berterbangan]<br/>- [bendera berkibar]</p>
+<p begin="8445416666t" end="8474583333t" style="normal" xml:id="subtitle199">[suara lelaki berbahasa Jepun]<br/>Cepat, teruskan!</p>
+<p begin="8475416666t" end="8515416666t" style="normal" xml:id="subtitle200">[Thom Tua]<br/><span style="normal_1">Jepun kemudian menjajah tanah air kita.</span></p>
+<p begin="8516250000t" end="8530000000t" style="normal" xml:id="subtitle201">[askar Jepun memekik]</p>
+<p begin="8530833333t" end="8583750000t" style="normal" xml:id="subtitle202"><span style="normal_1">Hari makin hari,</span><br/><span style="normal_1">hidup kami semakin sempit.</span></p>
+<p begin="8584583333t" end="8621666666t" style="normal" xml:id="subtitle203">- [bunyi bisikan]<br/>- [pesawat ringan berterbangan]</p>
+<p begin="8622500000t" end="8664583333t" style="normal" xml:id="subtitle204">[bahasa Jepun] Jalan, cepat! [bertepuk]</p>
+<p begin="8665416666t" end="8684583333t" style="normal" xml:id="subtitle205">- [bahasa Jepun] Jalan!<br/>- [wanita memekik]</p>
+<p begin="8685416666t" end="8715416666t" style="normal" xml:id="subtitle206">- [bahasa Jepun] Mara!<br/>- [suara lelaki] Bebas dari British!</p>
+<p begin="8719166666t" end="8729166666t" style="normal" xml:id="subtitle207">Cepat!</p>
+<p begin="8730000000t" end="8752916666t" style="normal" xml:id="subtitle208">[Thom Tua] <span style="normal_1">Kawan bertukar musuh.</span></p>
+<p begin="8757083333t" end="8780000000t" style="normal" xml:id="subtitle209"><span style="normal_1">Tali barut ada di mana-mana.</span></p>
+<p begin="8780833333t" end="8812083333t" style="normal" xml:id="subtitle210">- [orang memekik]<br/>- [bunyi tembakan]</p>
+<p begin="8812916666t" end="8859583333t" style="normal" xml:id="subtitle211">Bertenang, semua. Mereka nak lepaskan<br/>kita daripada cengkaman British.</p>
+<p begin="8860416666t" end="8890833333t" style="normal" xml:id="subtitle212">Semua lelaki perlu bantu orang Jepun.</p>
+<p begin="8895000000t" end="8917500000t" style="normal" xml:id="subtitle213">Melayu, India, sebelah sini.</p>
+<p begin="8920416666t" end="8937916666t" style="normal" xml:id="subtitle214">Cina sebelah sana, cepat!</p>
+<p begin="8945833333t" end="8973750000t" style="normal" xml:id="subtitle215">Asia untuk orang-orang Asia!</p>
+<p begin="8974583333t" end="9012500000t" style="normal" xml:id="subtitle216">Jepun adalah kawan kita<br/>dan nak bantu kita.</p>
+<p begin="9025416666t" end="9052916666t" style="normal" xml:id="subtitle217">- [suara lelaki] Jalan.<br/>- [orang memekik]</p>
+<p begin="9053750000t" end="9065000000t" style="normal" xml:id="subtitle218">Saya perlu pergi.</p>
+<p begin="9073333333t" end="9105416666t" style="normal" xml:id="subtitle219">Man, jangan pergi.</p>
+<p begin="9106250000t" end="9116250000t" style="normal" xml:id="subtitle220">Jangan risau.</p>
+<p begin="9119166666t" end="9143333333t" style="normal" xml:id="subtitle221">[Thom bernafas berat]</p>
+<p begin="9144166666t" end="9155833333t" style="normal" xml:id="subtitle222">Saya cari jalan.</p>
+<p begin="9167083333t" end="9177500000t" style="normal" xml:id="subtitle223">- [bahasa Jepun]<br/>- Huh?</p>
+<p begin="9180416666t" end="9190000000t" style="normal" xml:id="subtitle224">[pintu terbuka]</p>
+<p begin="9190833333t" end="9212500000t" style="normal" xml:id="subtitle225">[nafas berat]</p>
+<p begin="9213333333t" end="9238750000t" style="normal" xml:id="subtitle226">[suara lelaki] Jangan takut. Ikut sahaja.</p>
+<p begin="9241666666t" end="9254583333t" style="normal" xml:id="subtitle227">Ikut sahaja!</p>
+<p begin="9256666666t" end="9312500000t" style="normal" xml:id="subtitle228">[lelaki memekik dalam Bahasa Jepun]</p>
+<p begin="9313333333t" end="9359166666t" style="normal" xml:id="subtitle229">[Thom Tua]<br/><span style="normal_1">Itu kali pertama Othman tinggalkan nenek.</span></p>
+<p begin="9360000000t" end="9415833333t" style="normal" xml:id="subtitle230">[bahasa Jepun] Jalan, cepat!</p>
+<p begin="9418750000t" end="9434166666t" style="normal" xml:id="subtitle231">[wanita menangis]</p>
+<p begin="9456250000t" end="9476250000t" style="normal" xml:id="subtitle232">[pesawat ringan berterbangan]</p>
+<p begin="9477083333t" end="9507500000t" style="normal" xml:id="subtitle233">[Thom Tua] <span style="normal_1">Perang Jepun-China</span><br/><span style="normal_1">yang bermula di tanah besar</span></p>
+<p begin="9508333333t" end="9521250000t" style="normal" xml:id="subtitle234"><span style="normal_1">dibawa ke mari.</span></p>
+<p begin="9522083333t" end="9546250000t" style="normal" xml:id="subtitle235"><span style="normal_1">Jadi dendam pada China di Tanah Melayu.</span></p>
+<p begin="9547083333t" end="9564583333t" style="normal" xml:id="subtitle236">[askar cakap Jepun] Berhenti.</p>
+<p begin="9565416666t" end="9595000000t" style="normal" xml:id="subtitle237">[bahasa Jepun] Tukar kawalan,<br/>bergerak lepas sejam.</p>
+<p begin="9602083333t" end="9640000000t" style="normal" xml:id="subtitle238">[tali barut lelaki] Dengar.<br/>Lepas sejam, kita bergerak dari sini.</p>
+<p begin="9641250000t" end="9682916666t" style="normal" xml:id="subtitle239">Kita akan pergi sebalik gunung sana<br/>untuk buat lapangan terbang.</p>
+<p begin="9688333333t" end="9697500000t" style="normal" xml:id="subtitle240">Cepat masak.</p>
+<p begin="9698333333t" end="9708333333t" style="normal" xml:id="subtitle241">Hei.</p>
+<p begin="9711666666t" end="9730416666t" style="normal" xml:id="subtitle242">Cakap, "Salam sejahtera, Omar."</p>
+<p begin="9762083333t" end="9790833333t" style="normal" xml:id="subtitle243">Selamat sejahtera, Omar.</p>
+<p begin="9816250000t" end="9846666666t" style="normal" xml:id="subtitle244">- Selamat sejahtera, Omar.<br/>- Selamat sejahtera.</p>
+<p begin="9847500000t" end="9889583333t" style="normal" xml:id="subtitle245">Tidak sangka saya jumpa<br/>awak di sini. Apalah nasib?</p>
+<p begin="9893333333t" end="9901666666t" style="normal" xml:id="subtitle246">[mendengus]</p>
+<p begin="9902500000t" end="9917083333t" style="normal" xml:id="subtitle247">[bahasa Cina] Jepun teruk!</p>
+<p begin="9926250000t" end="9941250000t" style="normal" xml:id="subtitle248">[mengerang]</p>
+<p begin="9942083333t" end="9975833333t" style="normal" xml:id="subtitle249">[Thom Tua]<br/><span style="normal_1">Mereka diburu, dibunuh dengan kejam.</span></p>
+<p begin="9983750000t" end="9992500000t" style="normal" xml:id="subtitle250">[kayu patah]</p>
+<p begin="10050416666t" end="10063333333t" style="normal" xml:id="subtitle251">Orang nampak awak.</p>
+<p begin="10067500000t" end="10081666666t" style="normal" xml:id="subtitle252">[bahasa Jepun] Dia Cina.</p>
+<p begin="10084166666t" end="10095833333t" style="normal" xml:id="subtitle253">Lari sekarang.</p>
+<p begin="10098333333t" end="10115000000t" style="normal" xml:id="subtitle254">[bahasa Jepun] Kenapa cakap?</p>
+<p begin="10120000000t" end="10138750000t" style="normal" xml:id="subtitle255">Tidak apa, tenang.</p>
+<p begin="10140833333t" end="10161666666t" style="normal" xml:id="subtitle256">[bahasa Jepun] Pergi uruskannya.</p>
+<p begin="10173750000t" end="10192500000t" style="normal" xml:id="subtitle257">- Tenang.<br/>- [bunyi percikan air]</p>
+<p begin="10193333333t" end="10205833333t" style="normal" xml:id="subtitle258">[memekik]</p>
+<p begin="10206666666t" end="10240000000t" style="normal" xml:id="subtitle259">[pegawai Jepun mendengus]</p>
+<p begin="10240833333t" end="10252500000t" style="normal" xml:id="subtitle260">[pekikan]</p>
+<p begin="10255833333t" end="10282083333t" style="normal" xml:id="subtitle261">[bahasa Jepun] Tangkap dia!</p>
+<p begin="10285000000t" end="10314166666t" style="normal" xml:id="subtitle262">[bunyi tembakan]</p>
+<p begin="10349166666t" end="10357500000t" style="normal" xml:id="subtitle263">[mendengus]</p>
+<p begin="10380416666t" end="10391666666t" style="normal" xml:id="subtitle264">[tercungap-cungap]</p>
+<p begin="10407083333t" end="10425416666t" style="normal" xml:id="subtitle265">- [bunyi tembakan]<br/>- [mendengus]</p>
+<p begin="10437916666t" end="10483750000t" style="normal" xml:id="subtitle266">[pekikan dan dengusan]</p>
+<p begin="10488750000t" end="10502083333t" style="normal" xml:id="subtitle267">[mengerang]</p>
+<p begin="10515833333t" end="10557916666t" style="normal" xml:id="subtitle268">[dengusan berterusan]</p>
+<p begin="10563750000t" end="10578750000t" style="normal" xml:id="subtitle269">[bunyi percikan air]</p>
+<p begin="10596666666t" end="10606250000t" style="normal" xml:id="subtitle270">[bahasa Jepun] Cari!</p>
+<p begin="10659166666t" end="10673750000t" style="normal" xml:id="subtitle271">[bunyi percikan air]</p>
+<p begin="10674583333t" end="10714166666t" style="normal" xml:id="subtitle272">[kedua-duanya tercungap-cungap]</p>
+<p begin="10737083333t" end="10747083333t" style="normal" xml:id="subtitle273">[Othman bernafas]</p>
+<p begin="10817500000t" end="10826250000t" style="normal" xml:id="subtitle274">[tercungap-cungap]</p>
+<p begin="10827083333t" end="10854166666t" style="normal" xml:id="subtitle275">[askar berbahasa Jepun]<br/>Saya tahu kamu di mana.</p>
+<p begin="10863333333t" end="10885416666t" style="normal" xml:id="subtitle276">[bahasa Jepun] Tiada tempat sembunyi.</p>
+<p begin="10886250000t" end="10898333333t" style="normal" xml:id="subtitle277">[tarik nafas cemas]</p>
+<p begin="10899166666t" end="10912500000t" style="normal" xml:id="subtitle278">[askar berbahasa Jepun] Cari!</p>
+<p begin="10927500000t" end="10950833333t" style="normal" xml:id="subtitle279">[bahasa Jepun] Kamu takkan terlepas!</p>
+<p begin="10967916666t" end="10979166666t" style="normal" xml:id="subtitle280">[bahasa Jepun] Keluar!</p>
+<p begin="10997083333t" end="11013333333t" style="normal" xml:id="subtitle281">[bahasa Jepun] Cari mereka!</p>
+<p begin="11030833333t" end="11057083333t" style="normal" xml:id="subtitle282">[bahasa Jepun]<br/>Mereka sorok di sebalik mayat.</p>
+<p begin="11084583333t" end="11104583333t" style="normal" xml:id="subtitle283">[bahasa Jepun] Kamu faham arahan?</p>
+<p begin="11106666666t" end="11143750000t" style="normal" xml:id="subtitle284">[bahasa Jepun]<br/>Tempat ini teruk dan berbau busuk!</p>
+<p begin="11147500000t" end="11157916666t" style="normal" xml:id="subtitle285">[bahasa Jepun] Keluar!</p>
+<p begin="11181250000t" end="11202083333t" style="normal" xml:id="subtitle286">[bahasa Jepun] Pastikan dah mati!</p>
+<p begin="11226666666t" end="11237500000t" style="normal" xml:id="subtitle287">[menikam mayat]</p>
+<p begin="11263333333t" end="11272500000t" style="normal" xml:id="subtitle288">[menikam]</p>
+<p begin="11301250000t" end="11312500000t" style="normal" xml:id="subtitle289">[darah menitis]</p>
+<p begin="11370833333t" end="11384583333t" style="normal" xml:id="subtitle290">[askar berbahasa Jepun] Nanti!</p>
+<p begin="11388333333t" end="11397083333t" style="normal" xml:id="subtitle291">[bahasa Jepun] Dah.</p>
+<p begin="11401666666t" end="11425833333t" style="normal" xml:id="subtitle292">[bahasa Jepun] Mereka tiada! Ayuh!</p>
+<p begin="11429166666t" end="11443333333t" style="normal" xml:id="subtitle293">[bahasa Jepun] Membazir masa.</p>
+<p begin="11451250000t" end="11478333333t" style="normal" xml:id="subtitle294">[bahasa Jepun]<br/>Hari makin gelap. Cari esok.</p>
+<p begin="11479166666t" end="11488333333t" style="normal" xml:id="subtitle295">[bahasa Jepun] Ayuh!</p>
+<p begin="11516250000t" end="11532500000t" style="normal" xml:id="subtitle296">[lumpur berdecit]</p>
+<p begin="11536666666t" end="11565833333t" style="normal" xml:id="subtitle297">[berdengus, bernafas berat]</p>
+<p begin="11572500000t" end="11623750000t" style="normal" xml:id="subtitle298">[kedua-duanya berdengus]</p>
+<p begin="11659583333t" end="11673333333t" style="normal" xml:id="subtitle299">[daun berkersik]</p>
+<p begin="11674166666t" end="11691250000t" style="normal" xml:id="subtitle300">[dengusan berat]</p>
+<p begin="11692083333t" end="11706666666t" style="normal" xml:id="subtitle301">[lalat berterbangan]</p>
+<p begin="11707500000t" end="11730000000t" style="normal" xml:id="subtitle302">- [Lum berbisik]<br/>- [Othman mengerang]</p>
+<p begin="11748750000t" end="11760416666t" style="normal" xml:id="subtitle303">[mengerang]</p>
+<p begin="11765000000t" end="11773333333t" style="normal" xml:id="subtitle304">Hei.</p>
+<p begin="11789166666t" end="11798333333t" style="normal" xml:id="subtitle305">Besar ini boleh?</p>
+<p begin="11803333333t" end="11823750000t" style="normal" xml:id="subtitle306">- [Othman mengerang kesakitan]<br/>- Hmm?</p>
+<p begin="11866666666t" end="11892083333t" style="normal" xml:id="subtitle307">[Lum] Tunggu di sini.<br/>Orang Jepun di semua tempat.</p>
+<p begin="11917500000t" end="11959583333t" style="normal" xml:id="subtitle308">[mengerang, bernafas berat]</p>
+<p begin="11994166666t" end="12002500000t" style="normal" xml:id="subtitle309">Sakit?</p>
+<p begin="12012916666t" end="12021250000t" style="normal" xml:id="subtitle310">Tengok.</p>
+<p begin="12028750000t" end="12047083333t" style="normal" xml:id="subtitle311">[mengerang]</p>
+<p begin="12065833333t" end="12074166666t" style="normal" xml:id="subtitle312">Bagaimana?</p>
+<p begin="12081250000t" end="12091666666t" style="normal" xml:id="subtitle313">Oh?</p>
+<p begin="12092500000t" end="12112083333t" style="normal" xml:id="subtitle314">Balik nanti, boleh jahit.</p>
+<p begin="12112916666t" end="12124583333t" style="normal" xml:id="subtitle315">[bahasa Inggeris] Okey.</p>
+<p begin="12146666666t" end="12155000000t" style="normal" xml:id="subtitle316">- Awak?<br/>- Huh?</p>
+<p begin="12158333333t" end="12166666666t" style="normal" xml:id="subtitle317">Awaklah.</p>
+<p begin="12182083333t" end="12202083333t" style="normal" xml:id="subtitle318">Sedikit sahaja!</p>
+<p begin="12202916666t" end="12214583333t" style="normal" xml:id="subtitle319">[bahasa Inggeris] Okey!</p>
+<p begin="12218750000t" end="12227500000t" style="normal" xml:id="subtitle320">[ketawa kecil]</p>
+<p begin="12231250000t" end="12242916666t" style="normal" xml:id="subtitle321">[bahasa Inggeris] Okey.</p>
+<p begin="12245000000t" end="12265000000t" style="normal" xml:id="subtitle322">Macam koboi dalam wayang.</p>
+<p begin="12265833333t" end="12286250000t" style="normal" xml:id="subtitle323">- [Othman bernafas berat]<br/>- [Lum mendengus]</p>
+<p begin="12294166666t" end="12303750000t" style="normal" xml:id="subtitle324">Lum Kah Weng.</p>
+<p begin="12322916666t" end="12331250000t" style="normal" xml:id="subtitle325">Apa dia?</p>
+<p begin="12341666666t" end="12353750000t" style="normal" xml:id="subtitle326">Nama saya.</p>
+<p begin="12366250000t" end="12387083333t" style="normal" xml:id="subtitle327">Muka saya ada macam Omar?</p>
+<p begin="12397083333t" end="12405833333t" style="normal" xml:id="subtitle328">Huh?</p>
+<p begin="12411250000t" end="12431666666t" style="normal" xml:id="subtitle329">Orang Jepun sahaja tidak tahu beza.</p>
+<p begin="12436250000t" end="12447500000t" style="normal" xml:id="subtitle330">Apa mereka tahu?</p>
+<p begin="12453333333t" end="12468333333t" style="normal" xml:id="subtitle331">[bahasa Jepun] Hidup maharaja!</p>
+<p begin="12472500000t" end="12485000000t" style="normal" xml:id="subtitle332">Mereka tahu itu saja.</p>
+<p begin="12493750000t" end="12502500000t" style="normal" xml:id="subtitle333">[meludah]</p>
+<p begin="12503333333t" end="12512916666t" style="normal" xml:id="subtitle334">Othman.</p>
+<p begin="12530833333t" end="12570000000t" style="normal" xml:id="subtitle335">[bernafas berat]</p>
+<p begin="12570833333t" end="12592916666t" style="normal" xml:id="subtitle336">Othman, saya akan jaga awak.</p>
+<p begin="12597500000t" end="12605833333t" style="normal" xml:id="subtitle337">Jangan risau.</p>
+<p begin="12610833333t" end="12623750000t" style="normal" xml:id="subtitle338">[mengerang]</p>
+<p begin="12628750000t" end="12655416666t" style="normal" xml:id="subtitle339">Saya akan bawa awak<br/>ke Serkam dengan selamat.</p>
+<p begin="12658333333t" end="12672083333t" style="normal" xml:id="subtitle340">[bahasa Inggeris] Okey.</p>
+<p begin="12724583333t" end="12737083333t" style="normal" xml:id="subtitle341">[bahasa Inggeris] "Okey"?</p>
+<p begin="12740833333t" end="12759583333t" style="normal" xml:id="subtitle342">Bukankah awak punca semua ini?</p>
+<p begin="12770416666t" end="12783750000t" style="normal" xml:id="subtitle343">[bernafas berat]</p>
+<p begin="12793750000t" end="12806250000t" style="normal" xml:id="subtitle344">Betul juga.</p>
+<p begin="12810000000t" end="12834166666t" style="normal" xml:id="subtitle345">[ketawa]</p>
+<p begin="12867083333t" end="12883750000t" style="normal" xml:id="subtitle346">[guruh berdentum]</p>
+<p begin="12884583333t" end="12908750000t" style="normal" xml:id="subtitle347">[Thom meraung kesakitan]</p>
+<p begin="12909583333t" end="12946250000t" style="normal" xml:id="subtitle348">- [Thom meneran kuat]<br/>- [bayi menangis]</p>
+<p begin="12947083333t" end="12968750000t" style="normal" xml:id="subtitle349">[bernafas berat]</p>
+<p begin="12978333333t" end="13002500000t" style="normal" xml:id="subtitle350">Dengan nama Tuhan yang<br/>Maha Pemurah dan Pengasih.</p>
+<p begin="13045000000t" end="13077500000t" style="normal" xml:id="subtitle351">Syukur, Thom. Semuanya selamat.</p>
+<p begin="13120833333t" end="13130833333t" style="normal" xml:id="subtitle352">Sudah ada nama?</p>
+<p begin="13197500000t" end="13215833333t" style="normal" xml:id="subtitle353">Kita tunggu bapanya pulang.</p>
+<p begin="13307916666t" end="13350000000t" style="normal" xml:id="subtitle354">[jerami berkersik]</p>
+<p begin="13498333333t" end="13537500000t" style="normal" xml:id="subtitle355">[termengah-mengah]</p>
+<p begin="13709583333t" end="13732916666t" style="normal" xml:id="subtitle356">[ombak menghempas]</p>
+<p begin="13733750000t" end="13752500000t" style="normal" xml:id="subtitle357">[suara lelaki] Ada orang. Ayuh!</p>
+<p begin="13772500000t" end="13784166666t" style="normal" xml:id="subtitle358">[bahasa Inggeris] Okey.</p>
+<p begin="13785000000t" end="13796666666t" style="normal" xml:id="subtitle359">[bernafas berat]</p>
+<p begin="13801666666t" end="13810000000t" style="normal" xml:id="subtitle360">[mengeluh]</p>
+<p begin="13830833333t" end="13842083333t" style="normal" xml:id="subtitle361">Cepat!</p>
+<p begin="13955833333t" end="13982500000t" style="normal" xml:id="subtitle362">[Thom Tua]<br/><span style="normal_1">Jepun masih ada di mana-mana.</span></p>
+<p begin="13993750000t" end="14033750000t" style="normal" xml:id="subtitle363"><span style="normal_1">Yang dapat lari terpaksa</span><br/><span style="normal_1">bersembunyi di kampung lain</span></p>
+<p begin="14042083333t" end="14060000000t" style="normal" xml:id="subtitle364"><span style="normal_1">berbulan lamanya.</span></p>
+<p begin="14061666666t" end="14070000000t" style="normal" xml:id="subtitle365">Othman?</p>
+<p begin="14079583333t" end="14087916666t" style="normal" xml:id="subtitle366">Man.</p>
+<p begin="14093750000t" end="14104166666t" style="normal" xml:id="subtitle367">- Man.<br/>- [suruh diam]</p>
+<p begin="14105000000t" end="14113333333t" style="normal" xml:id="subtitle368">Man.</p>
+<p begin="14129166666t" end="14137500000t" style="normal" xml:id="subtitle369">Man.</p>
+<p begin="14142083333t" end="14153333333t" style="normal" xml:id="subtitle370">[Thom teresak-esak]</p>
+<p begin="14157083333t" end="14177500000t" style="normal" xml:id="subtitle371">[Othman termengah-mengah]</p>
+<p begin="14181250000t" end="14195000000t" style="normal" xml:id="subtitle372">Syukurlah.</p>
+<p begin="14207916666t" end="14221666666t" style="normal" xml:id="subtitle373">- Terima kasih.<br/>- Sama-sama.</p>
+<p begin="14224583333t" end="14244583333t" style="normal" xml:id="subtitle374">- Saya balik dulu.<br/>- Terima kasih.</p>
+<p begin="14245416666t" end="14262500000t" style="normal" xml:id="subtitle375">- Selamat jalan.<br/>- Selamat tinggal.</p>
+<p begin="14278750000t" end="14287083333t" style="normal" xml:id="subtitle376">Man.</p>
+<p begin="14290000000t" end="14323750000t" style="normal" xml:id="subtitle377">[bernafas berat]</p>
+<p begin="14324583333t" end="14340833333t" style="normal" xml:id="subtitle378">Selamat sejahtera.</p>
+<p begin="14341666666t" end="14362500000t" style="normal" xml:id="subtitle379">- [menyuruh diam]<br/>- [menarik nafas berat]</p>
+<p begin="14363333333t" end="14375000000t" style="normal" xml:id="subtitle380">[ketawa kecil]</p>
+<p begin="14393333333t" end="14406250000t" style="normal" xml:id="subtitle381">Awak sudah beri nama?</p>
+<p begin="14415000000t" end="14427500000t" style="normal" xml:id="subtitle382">[bayi bersuara]</p>
+<p begin="14428333333t" end="14439583333t" style="normal" xml:id="subtitle383">Saya tunggu awak.</p>
+<p begin="14442500000t" end="14456250000t" style="normal" xml:id="subtitle384">[mengeluh]</p>
+<p begin="14486250000t" end="14525000000t" style="normal" xml:id="subtitle385">- [bernafas berat]<br/>- [teresak-esak]</p>
+<p begin="14525833333t" end="14534166666t" style="normal" xml:id="subtitle386">Omar.</p>
+<p begin="14537083333t" end="14546250000t" style="normal" xml:id="subtitle387">[bayi bersuara]</p>
+<p begin="14547083333t" end="14559166666t" style="normal" xml:id="subtitle388">[ketawa kecil]</p>
+<p begin="14620833333t" end="14642083333t" style="normal" xml:id="subtitle389">- [Othman mengeluh]<br/>- [Thom menangis]</p>
+<p begin="14642916666t" end="14669166666t" style="normal" xml:id="subtitle390">[Thom Tua]<br/><span style="normal_1">Kali pertama dia tinggalkan nenek,</span></p>
+<p begin="14676250000t" end="14689166666t" style="normal" xml:id="subtitle391"><span style="normal_1">dia pulang.</span></p>
+<p begin="14696250000t" end="14717083333t" style="normal" xml:id="subtitle392"><span style="normal_1">Hampir tergadai nyawa,</span></p>
+<p begin="14727083333t" end="14745833333t" style="normal" xml:id="subtitle393"><span style="normal_1">tapi dia tetap pulang.</span></p>
+<p begin="14750416666t" end="14766250000t" style="normal" xml:id="subtitle394">[Jaybah] Selamat sejahtera.</p>
+<p begin="14780416666t" end="14788750000t" style="normal" xml:id="subtitle395">Nenek.</p>
+<p begin="14797500000t" end="14807500000t" style="normal" xml:id="subtitle396">Mak sudah sampai.</p>
+<p begin="14835416666t" end="14845000000t" style="normal" xml:id="subtitle397">[mengeluh]</p>
+<p begin="14847916666t" end="14856250000t" style="normal" xml:id="subtitle398">Mak.</p>
+<p begin="14947500000t" end="14962083333t" style="normal" xml:id="subtitle399">Mak, kenapa ini?</p>
+<p begin="14993333333t" end="15010416666t" style="normal" xml:id="subtitle400">Selepas perang tamat,</p>
+<p begin="15023333333t" end="15062083333t" style="normal" xml:id="subtitle401">kami sangka hilanglah<br/>kesempitan hidup selama ini.</p>
+<p begin="15063333333t" end="15092916666t" style="normal" xml:id="subtitle402">- [deruan ombak laut]<br/>- [Thom Tua] <span style="normal_1">Tetapi hidup masih susah.</span></p>
+<p begin="15095416666t" end="15116250000t" style="normal" xml:id="subtitle403"><span style="normal_1">Banyak benda yang musnah.</span></p>
+<p begin="15123333333t" end="15136250000t" style="normal" xml:id="subtitle404"><span style="normal_1">Othman kata,</span></p>
+<p begin="15137083333t" end="15160416666t" style="normal" xml:id="subtitle405"><span style="normal_1">senang tak datang bergolek.</span></p>
+<p begin="15161250000t" end="15188750000t" style="normal" xml:id="subtitle406"><span style="normal_1">Rezeki perlu dikejar.</span></p>
+<p begin="15189583333t" end="15241666666t" style="normal" xml:id="subtitle407"><span style="normal_1">Sebab itu dia selalu belayar</span><br/><span style="normal_1">lebih jauh daripada orang lain.</span></p>
+<p begin="15244166666t" end="15277083333t" style="normal" xml:id="subtitle408"><span style="normal_1">Kerja lebih kuat daripada orang lain.</span></p>
+<p begin="15277916666t" end="15303750000t" style="normal" xml:id="subtitle409">- Taib!<br/>- [Taib] Thom.</p>
+<p begin="15304583333t" end="15314583333t" style="normal" xml:id="subtitle410">Awak nampak Man?</p>
+<p begin="15328750000t" end="15343333333t" style="normal" xml:id="subtitle411">Ada di laut tadi.</p>
+<p begin="15346666666t" end="15366666666t" style="normal" xml:id="subtitle412">Saya ajak dia balik, dia tak mahu.</p>
+<p begin="15370833333t" end="15383333333t" style="normal" xml:id="subtitle413">Dia seorang di laut!</p>
+<p begin="15386250000t" end="15400416666t" style="normal" xml:id="subtitle414">Bawa saya ke laut.</p>
+<p begin="15406250000t" end="15424583333t" style="normal" xml:id="subtitle415">- Bukan sekarang.<br/>- [guruh berdentum]</p>
+<p begin="15425416666t" end="15449166666t" style="normal" xml:id="subtitle416">- Saya cari jika cuaca elok.<br/>- Saya ikut.</p>
+<p begin="15450000000t" end="15471250000t" style="normal" xml:id="subtitle417">- Tidak boleh.<br/>- Saya nak ikut!</p>
+<p begin="15482500000t" end="15492916666t" style="normal" xml:id="subtitle418">Yalah!</p>
+<p begin="15497083333t" end="15523750000t" style="normal" xml:id="subtitle419">Bukan sekarang.<br/>Saya cari dia jika cuaca elok.</p>
+<p begin="15572916666t" end="15625000000t" style="normal" xml:id="subtitle420">- [angin bertiup]<br/>- [ombak menderu]</p>
+<p begin="15625833333t" end="15657083333t" style="normal" xml:id="subtitle421">- [hujan lebat]<br/>- [bunyi hon kapal]</p>
+<p begin="15735000000t" end="15758750000t" style="normal" xml:id="subtitle422">[memekik]</p>
+<p begin="15772083333t" end="15794583333t" style="normal" xml:id="subtitle423">[lelaki memekik]</p>
+<p begin="15795416666t" end="15807500000t" style="normal" xml:id="subtitle424">[bahasa Inggeris] Awas!</p>
+<p begin="15808333333t" end="15837500000t" style="normal" xml:id="subtitle425">[ombak besar menghempas]</p>
+<p begin="15902083333t" end="15929583333t" style="normal" xml:id="subtitle426">Awal pula awak bangun hari ini. [ketawa]</p>
+<p begin="15945416666t" end="15953750000t" style="normal" xml:id="subtitle427">Eh.</p>
+<p begin="15954583333t" end="15963750000t" style="normal" xml:id="subtitle428">Thom?</p>
+<p begin="15968750000t" end="15980833333t" style="normal" xml:id="subtitle429">Awak tidak balik?</p>
+<p begin="15982500000t" end="15997916666t" style="normal" xml:id="subtitle430">Mari. Cuaca sudah elok.</p>
+<p begin="16033333333t" end="16050833333t" style="normal" xml:id="subtitle431">[bunyi percikan air]</p>
+<p begin="16068750000t" end="16082083333t" style="normal" xml:id="subtitle432">Jangan risau, Thom.</p>
+<p begin="16092916666t" end="16105000000t" style="normal" xml:id="subtitle433">Kita cari dia.</p>
+<p begin="16112083333t" end="16125833333t" style="normal" xml:id="subtitle434">Moga dia selamat.</p>
+<p begin="16153750000t" end="16189166666t" style="normal" xml:id="subtitle435">- [mendayung]<br/>- [Taib mengeluh]</p>
+<p begin="16217083333t" end="16252916666t" style="normal" xml:id="subtitle436">- Man! Taib, itu Man!<br/>- Man!</p>
+<p begin="16260416666t" end="16275833333t" style="normal" xml:id="subtitle437">Taib, cepat!</p>
+<p begin="16284166666t" end="16294583333t" style="normal" xml:id="subtitle438">Man!</p>
+<p begin="16319583333t" end="16337916666t" style="normal" xml:id="subtitle439">Hati-hati tangan awak, Thom.</p>
+<p begin="16338750000t" end="16387500000t" style="normal" xml:id="subtitle440">Jangan tinggalkan saya lagi, Man!</p>
+<p begin="16388333333t" end="16419166666t" style="normal" xml:id="subtitle441">Man, degil betul awak ini.</p>
+<p begin="16535000000t" end="16583750000t" style="normal" xml:id="subtitle442">[Thom Tua] <span style="normal_1">Itu kali kedua Othman</span><br/><span style="normal_1">pergi dan pulang kepada nenek.</span></p>
+<p begin="16601666666t" end="16631666666t" style="normal" xml:id="subtitle443"><span style="normal_1">Nenek fikir, cukuplah dua kali.</span></p>
+<p begin="16642500000t" end="16706250000t" style="normal" xml:id="subtitle444"><span style="normal_1">Selepas ini, biarlah hidup</span><br/><span style="normal_1">kami bertiga aman selamanya.</span></p>
+<p begin="16732500000t" end="16749166666t" style="normal" xml:id="subtitle445">[bunyi ombak laut]</p>
+<p begin="16845416666t" end="16877500000t" style="normal" xml:id="subtitle446">["Angin Menderu" dimainkan]<br/><span style="normal_1">♪ Angin menderu ♪</span></p>
+<p begin="16884166666t" end="16924583333t" style="normal" xml:id="subtitle447"><span style="normal_1">♪ Dahan jatuh menimpa batu ♪</span></p>
+<p begin="16928333333t" end="16940833333t" style="normal" xml:id="subtitle448">[Thom] Beratnya kamu.</p>
+<p begin="16947500000t" end="16961250000t" style="normal" xml:id="subtitle449">Satu.</p>
+<p begin="16977916666t" end="16990000000t" style="normal" xml:id="subtitle450">Dua.</p>
+<p begin="17005000000t" end="17020416666t" style="normal" xml:id="subtitle451">[Thom ketawa kecil]</p>
+<p begin="17029166666t" end="17089166666t" style="normal" xml:id="subtitle452">[nyanyian berterusan]<br/><span style="normal_1">♪ Murai terkejut berkicau-kicau ♪</span></p>
+<p begin="17092916666t" end="17102916666t" style="normal" xml:id="subtitle453">Salam sejahtera.</p>
+<p begin="17107083333t" end="17155833333t" style="normal" xml:id="subtitle454"><span style="normal_1">♪ Mendung diliputi awan ♪</span></p>
+<p begin="17206250000t" end="17230416666t" style="normal" xml:id="subtitle455">- Selamat sejahtera.<br/>- Selamat sejahtera.</p>
+<p begin="17231250000t" end="17257500000t" style="normal" xml:id="subtitle456">Sudah balik pun. Lamanya.</p>
+<p begin="17258333333t" end="17296666666t" style="normal" xml:id="subtitle457">- Lama tidak jumpa.<br/>- Segak bergaya pula itu.</p>
+<p begin="17316666666t" end="17353750000t" style="normal" xml:id="subtitle458">[percakapan tidak jelas]</p>
+<p begin="17382083333t" end="17395833333t" style="normal" xml:id="subtitle459">Kamu sudah besar.</p>
+<p begin="17396666666t" end="17411250000t" style="normal" xml:id="subtitle460">Mereka untung selepas perang.</p>
+<p begin="17419583333t" end="17431666666t" style="normal" xml:id="subtitle461">Kapal banyak...</p>
+<p begin="17449583333t" end="17459583333t" style="normal" xml:id="subtitle462">kerja pun banyak.</p>
+<p begin="17469583333t" end="17489166666t" style="normal" xml:id="subtitle463">- [Taib] Balik dulu.<br/>- [Othman] Ya.</p>
+<p begin="17490000000t" end="17519166666t" style="normal" xml:id="subtitle464">[percakapan tidak jelas]</p>
+<p begin="17530000000t" end="17547916666t" style="normal" xml:id="subtitle465">- Selamat sejahtera.<br/>- [Omar] Siapa itu?</p>
+<p begin="17590833333t" end="17602083333t" style="normal" xml:id="subtitle466">Kelasi, Omar.</p>
+<p begin="17620833333t" end="17633333333t" style="normal" xml:id="subtitle467">Kelasi itu apa?</p>
+<p begin="17637083333t" end="17645416666t" style="normal" xml:id="subtitle468">[mendengus]</p>
+<p begin="17646250000t" end="17660833333t" style="normal" xml:id="subtitle469">Kelasi itu naik kapal...</p>
+<p begin="17678333333t" end="17692916666t" style="normal" xml:id="subtitle470">keliling satu dunia.</p>
+<p begin="17693750000t" end="17707083333t" style="normal" xml:id="subtitle471">[Omar] Keliling dunia?</p>
+<p begin="17710000000t" end="17723333333t" style="normal" xml:id="subtitle472">Seronoknya.</p>
+<p begin="17726666666t" end="17735833333t" style="normal" xml:id="subtitle473">[ketawa kecil]</p>
+<p begin="17754583333t" end="17768750000t" style="normal" xml:id="subtitle474">[suara lelaki] Syukur!</p>
+<p begin="17773333333t" end="17781666666t" style="normal" xml:id="subtitle475">[mengeluh]</p>
+<p begin="17795833333t" end="17807916666t" style="normal" xml:id="subtitle476">[suara lelaki] Laparlah!</p>
+<p begin="17814583333t" end="17843333333t" style="normal" xml:id="subtitle477">- Thom, saya jumpa Karim sekejap.<br/>- Saya nak ikut.</p>
+<p begin="17857500000t" end="17866250000t" style="normal" xml:id="subtitle478">[mendengus]</p>
+<p begin="17878333333t" end="17886666666t" style="normal" xml:id="subtitle479">[mendengus]</p>
+<p begin="17902916666t" end="17942083333t" style="normal" xml:id="subtitle480">- [Karim] Akhirnya balik ke rumah.<br/>- [wanita] Nasib baik tak ribut.</p>
+<p begin="17956666666t" end="17967916666t" style="normal" xml:id="subtitle481">Selamat sejahtera.</p>
+<p begin="17985000000t" end="17997083333t" style="normal" xml:id="subtitle482">[Karim] Salam sejahtera.</p>
+<p begin="17997916666t" end="18011666666t" style="normal" xml:id="subtitle483">[wanita bercakap]</p>
+<p begin="18012500000t" end="18030833333t" style="normal" xml:id="subtitle484">- Sihat, Karim?<br/>- Apa ini?</p>
+<p begin="18031666666t" end="18050000000t" style="normal" xml:id="subtitle485">[Karim ketawa]</p>
+<p begin="18088333333t" end="18114583333t" style="normal" xml:id="subtitle486">[bunyi terjunan]</p>
+<p begin="18310416666t" end="18320833333t" style="normal" xml:id="subtitle487">[ayam berketak]</p>
+<p begin="18415416666t" end="18433333333t" style="normal" xml:id="subtitle488">[sayap mengepak]</p>
+<p begin="18560000000t" end="18570000000t" style="normal" xml:id="subtitle489">[menguap]</p>
+<p begin="18579583333t" end="18590833333t" style="normal" xml:id="subtitle490">Adik, pandang sini.</p>
+<p begin="18600000000t" end="18634166666t" style="normal" xml:id="subtitle491">- Omar, pandang depan.<br/>- Satu, dua, tiga.</p>
+<p begin="18643750000t" end="18653333333t" style="normal" xml:id="subtitle492">[denyar kamera]</p>
+<p begin="18704583333t" end="18732916666t" style="normal" xml:id="subtitle493">[Thom Tua] <span style="normal_1">Omar tidak mengerti apa-apa.</span></p>
+<p begin="18743750000t" end="18774166666t" style="normal" xml:id="subtitle494">- [wanita menyanyi dalam radio]<br/><span style="normal_1">- Tetapi nenek tahu,</span></p>
+<p begin="18775416666t" end="18803750000t" style="normal" xml:id="subtitle495"><span style="normal_1">Othman akan meninggalkan kami berdua.</span></p>
+<p begin="18811250000t" end="18843333333t" style="normal" xml:id="subtitle496">[nyanyian berterusan] <span style="normal_1">♪ Kenangan ♪</span></p>
+<p begin="18879583333t" end="18906666666t" style="normal" xml:id="subtitle497"><span style="normal_1">♪ Hatiku rindu ♪</span></p>
+<p begin="18975416666t" end="19004166666t" style="normal" xml:id="subtitle498">[Thom menyanyi] <span style="normal_1">♪ Bulan! ♪</span></p>
+<p begin="19021250000t" end="19050416666t" style="normal" xml:id="subtitle499"><span style="normal_1">♪ Mana bintang? ♪</span></p>
+<p begin="19082500000t" end="19122500000t" style="normal" xml:id="subtitle500"><span style="normal_1">♪ Atas pucuk ♪</span></p>
+<p begin="19132500000t" end="19160833333t" style="normal" xml:id="subtitle501"><span style="normal_1">♪ Kayu ara ♪</span></p>
+<p begin="19175833333t" end="19208333333t" style="normal" xml:id="subtitle502"><span style="normal_1">♪ Mari, encik ♪</span></p>
+<p begin="19232916666t" end="19262916666t" style="normal" xml:id="subtitle503"><span style="normal_1">♪ Mari, sayang ♪</span></p>
+<p begin="19310000000t" end="19330000000t" style="normal" xml:id="subtitle504"><span style="normal_1">♪ Kita pergi ♪</span></p>
+<p begin="19342083333t" end="19376250000t" style="normal" xml:id="subtitle505"><span style="normal_1">♪ Jalan-jalan ♪</span></p>
+<p begin="19403750000t" end="19423750000t" style="normal" xml:id="subtitle506"><span style="normal_1">♪ Banyak bintang ♪</span></p>
+<p begin="19434583333t" end="19480000000t" style="normal" xml:id="subtitle507"><span style="normal_1">♪ Kawan bulan ♪</span></p>
+<p begin="19522083333t" end="19530416666t" style="normal" xml:id="subtitle508">Mari.</p>
+<p begin="19559583333t" end="19569166666t" style="normal" xml:id="subtitle509">Ke mana?</p>
+<p begin="19587916666t" end="19597500000t" style="normal" xml:id="subtitle510">Jalan-jalan.</p>
+<p begin="19605833333t" end="19640833333t" style="normal" xml:id="subtitle511">[cengkerik berbunyi]</p>
+<p begin="19659166666t" end="19670833333t" style="normal" xml:id="subtitle512">Malam terang.</p>
+<p begin="19685416666t" end="19702083333t" style="normal" xml:id="subtitle513">Banyak bintang kawan bulan.</p>
+<p begin="19715000000t" end="19723333333t" style="normal" xml:id="subtitle514">Mari.</p>
+<p begin="19757500000t" end="19812500000t" style="normal" xml:id="subtitle515">- [Othman bersenandung]<br/>- [Thom menangis]</p>
+<p begin="19839166666t" end="19858750000t" style="normal" xml:id="subtitle516">[Thom teresak-esak]</p>
+<p begin="19981666666t" end="20027083333t" style="normal" xml:id="subtitle517">[Thom teresak-esak]</p>
+<p begin="20057916666t" end="20084166666t" style="normal" xml:id="subtitle518">- Jangan menangis.<br/>- Jangan pergi, Man.</p>
+<p begin="20109583333t" end="20141666666t" style="normal" xml:id="subtitle519">Saya tak mahu kita<br/>selama-lamanya hidup miskin begini.</p>
+<p begin="20144166666t" end="20153750000t" style="normal" xml:id="subtitle520">Tetapi kita...</p>
+<p begin="20159166666t" end="20178750000t" style="normal" xml:id="subtitle521">Kita boleh usaha di sini sahaja.</p>
+<p begin="20189583333t" end="20216666666t" style="normal" xml:id="subtitle522">Saya boleh banyakkan<br/>menjahit dan awak boleh...</p>
+<p begin="20217500000t" end="20235833333t" style="normal" xml:id="subtitle523">Saya boleh apa lagi, Thom?</p>
+<p begin="20245833333t" end="20264583333t" style="normal" xml:id="subtitle524">Saya orang laut sahaja, Thom.</p>
+<p begin="20305416666t" end="20318333333t" style="normal" xml:id="subtitle525">Saya cuma tahu laut.</p>
+<p begin="20364166666t" end="20388333333t" style="normal" xml:id="subtitle526">[bunyi ombak laut]</p>
+<p begin="20417916666t" end="20435833333t" style="normal" xml:id="subtitle527">Saya mahu lihat awak berhias.</p>
+<p begin="20486666666t" end="20502916666t" style="normal" xml:id="subtitle528">Kalau bukan dengan permata...</p>
+<p begin="20516666666t" end="20542083333t" style="normal" xml:id="subtitle529">dengan emas, walau sekeping.</p>
+<p begin="20554166666t" end="20581666666t" style="normal" xml:id="subtitle530">Lagipun, saya dah berjanji<br/>dengan awak dulu...</p>
+<p begin="20615833333t" end="20638750000t" style="normal" xml:id="subtitle531">jika awak terima saya sebagai suami...</p>
+<p begin="20669166666t" end="20690416666t" style="normal" xml:id="subtitle532">saya akan berikan awak kemewahan.</p>
+<p begin="20693750000t" end="20713750000t" style="normal" xml:id="subtitle533">Tetapi saya tidak mahu semua itu.</p>
+<p begin="20723750000t" end="20741666666t" style="normal" xml:id="subtitle534">Cukup dengan apa yang ada.</p>
+<p begin="20805000000t" end="20820000000t" style="normal" xml:id="subtitle535">Relakan saya pergi, Thom.</p>
+<p begin="20861250000t" end="20879583333t" style="normal" xml:id="subtitle536">Awak tak akan lupakan saya?</p>
+<p begin="20897500000t" end="20913750000t" style="normal" xml:id="subtitle537">- Tak akan.<br/>- Janji.</p>
+<p begin="20922916666t" end="20932083333t" style="normal" xml:id="subtitle538">[menarik nafas]</p>
+<p begin="20932916666t" end="20959166666t" style="normal" xml:id="subtitle539">Janji yang awak akan<br/>pulang kepada saya, Man.</p>
+<p begin="20971666666t" end="20991666666t" style="normal" xml:id="subtitle540">Awak dan Omar adalah nyawa saya.</p>
+<p begin="21036666666t" end="21047916666t" style="normal" xml:id="subtitle541">Saya akan pulang.</p>
+<p begin="21074583333t" end="21127916666t" style="normal" xml:id="subtitle542">[muzik beralun di gramofon lama]<br/><span style="normal_1">♪ Ibarat kapal tidak berhaluan ♪</span></p>
+<p begin="21128750000t" end="21165000000t" style="normal" xml:id="subtitle543"><span style="normal_1">♪ Sayang disayang ♪</span></p>
+<p begin="21299166666t" end="21334583333t" style="normal" xml:id="subtitle544">[bunyi hon kapal, loceng berbunyi]</p>
+<p begin="21370000000t" end="21378333333t" style="normal" xml:id="subtitle545">Terima kasih.</p>
+<p begin="21383750000t" end="21396250000t" style="normal" xml:id="subtitle546">[Othman] Sudah selesai.</p>
+<p begin="21397083333t" end="21409166666t" style="normal" xml:id="subtitle547">[Lum berbahasa Cina] Nanti!</p>
+<p begin="21410000000t" end="21422916666t" style="normal" xml:id="subtitle548">[bahasa Cina] Tunggu!</p>
+<p begin="21429166666t" end="21437500000t" style="normal" xml:id="subtitle549">Oh!</p>
+<p begin="21444166666t" end="21460416666t" style="normal" xml:id="subtitle550">[termengah-mengah]</p>
+<p begin="21481666666t" end="21495000000t" style="normal" xml:id="subtitle551">[bahasa Cina] Hampir saja.</p>
+<p begin="21495833333t" end="21508750000t" style="normal" xml:id="subtitle552">[Othman] Salam sejahtera.</p>
+<p begin="21530000000t" end="21554583333t" style="normal" xml:id="subtitle553">- Man.<br/>- Lum.</p>
+<p begin="21555416666t" end="21572083333t" style="normal" xml:id="subtitle554">[kedua-duanya ketawa]</p>
+<p begin="21572916666t" end="21583750000t" style="normal" xml:id="subtitle555">Tidak apalah.</p>
+<p begin="21589166666t" end="21600000000t" style="normal" xml:id="subtitle556">Tengok muka awak.</p>
+<p begin="21605000000t" end="21633750000t" style="normal" xml:id="subtitle557">Saya lebih biasa tengok<br/>muka awak yang "saya nak balik."</p>
+<p begin="21634583333t" end="21650000000t" style="normal" xml:id="subtitle558">[Lum mengusik Othman]</p>
+<p begin="21650833333t" end="21673333333t" style="normal" xml:id="subtitle559">[Othman ketawa]</p>
+<p begin="21685833333t" end="21696250000t" style="normal" xml:id="subtitle560">Thom.</p>
+<p begin="21697500000t" end="21710833333t" style="normal" xml:id="subtitle561">Ini Che Thom?</p>
+<p begin="21726666666t" end="21739166666t" style="normal" xml:id="subtitle562">Oh.</p>
+<p begin="21740000000t" end="21774583333t" style="normal" xml:id="subtitle563">Patutlah awak paksa saya<br/>bawa awak balik Serkam.</p>
+<p begin="21782083333t" end="21795416666t" style="normal" xml:id="subtitle564">Thom, ini Lum.</p>
+<p begin="21800000000t" end="21808333333t" style="normal" xml:id="subtitle565">Hmm.</p>
+<p begin="21817916666t" end="21844166666t" style="normal" xml:id="subtitle566">Omar! Ini Omar, anak saya.</p>
+<p begin="21888750000t" end="21901250000t" style="normal" xml:id="subtitle567">- Omar?<br/>- Omar.</p>
+<p begin="21905416666t" end="21916666666t" style="normal" xml:id="subtitle568">[ketawa kecil]</p>
+<p begin="21932916666t" end="21954583333t" style="normal" xml:id="subtitle569">- Kacak macam saya.<br/>- [Othman ketawa]</p>
+<p begin="21957083333t" end="21969166666t" style="normal" xml:id="subtitle570">[menarik nafas dalam] Hei.</p>
+<p begin="21972083333t" end="22008750000t" style="normal" xml:id="subtitle571">- Awak nak kerja di kapal juga?<br/>- Ya, saya Swyre.</p>
+<p begin="22018333333t" end="22032500000t" style="normal" xml:id="subtitle572">[ketawa kecil] Saya pun!</p>
+<p begin="22046250000t" end="22058333333t" style="normal" xml:id="subtitle573">Swyre?</p>
+<p begin="22059166666t" end="22068333333t" style="normal" xml:id="subtitle574">[Othman ketawa]</p>
+<p begin="22072083333t" end="22086666666t" style="normal" xml:id="subtitle575">Baguslah, ada kawan.</p>
+<p begin="22095416666t" end="22127083333t" style="normal" xml:id="subtitle576">Thom, jangan risau.<br/>Saya akan jaga suami awak.</p>
+<p begin="22131666666t" end="22144583333t" style="normal" xml:id="subtitle577">Kalau dia nakal, saya...</p>
+<p begin="22145833333t" end="22171666666t" style="normal" xml:id="subtitle578">- [mendengus]<br/>- Hei.</p>
+<p begin="22176250000t" end="22187083333t" style="normal" xml:id="subtitle579">[menepuk Lum]</p>
+<p begin="22215416666t" end="22223750000t" style="normal" xml:id="subtitle580">[mengeluh]</p>
+<p begin="22229166666t" end="22269583333t" style="normal" xml:id="subtitle581">[bunyi camar dari jauh]</p>
+<p begin="22362500000t" end="22377916666t" style="normal" xml:id="subtitle582">Omar, belajar rajin-rajin.</p>
+<p begin="22398750000t" end="22410000000t" style="normal" xml:id="subtitle583">Jaga ayam.</p>
+<p begin="22410833333t" end="22423333333t" style="normal" xml:id="subtitle584">Jaga bot ayah.</p>
+<p begin="22424166666t" end="22447083333t" style="normal" xml:id="subtitle585">Ayah nak tengok semua elok selepas balik.</p>
+<p begin="22450833333t" end="22460833333t" style="normal" xml:id="subtitle586">Ya, ayah.</p>
+<p begin="22475833333t" end="22485833333t" style="normal" xml:id="subtitle587">Jaga mak.</p>
+<p begin="22600833333t" end="22614166666t" style="normal" xml:id="subtitle588">Tulis surat, Man.</p>
+<p begin="22630416666t" end="22651250000t" style="normal" xml:id="subtitle589">Saya tak pandai tulis surat, Thom.</p>
+<p begin="22656666666t" end="22666250000t" style="normal" xml:id="subtitle590">Cuba.</p>
+<p begin="22706250000t" end="22728750000t" style="normal" xml:id="subtitle591">[Thom teresak-esak]</p>
+<p begin="22772083333t" end="22782916666t" style="normal" xml:id="subtitle592">[menarik nafas dalam]</p>
+<p begin="22790416666t" end="22808750000t" style="normal" xml:id="subtitle593">[mengeluh]</p>
+<p begin="22895833333t" end="22904583333t" style="normal" xml:id="subtitle594">Sana sedikit.</p>
+<p begin="23110416666t" end="23157916666t" style="normal" xml:id="subtitle595">[Thom Tua] <span style="normal_1">Itulah kali</span><br/><span style="normal_1">terakhir nenek lihat wajah dia.</span></p>
+<p begin="23170416666t" end="23196666666t" style="normal" xml:id="subtitle596">Nenek nak tahu kenapa<br/>dia tak pulang, Ahmad.</p>
+<p begin="23202916666t" end="23233333333t" style="normal" xml:id="subtitle597">Masih hidupkah dia atau sudah tiada?</p>
+<p begin="23237500000t" end="23259166666t" style="normal" xml:id="subtitle598">Kalau dia dah meninggal, bagaimana?</p>
+<p begin="23276250000t" end="23288750000t" style="normal" xml:id="subtitle599">Di mana kuburnya?</p>
+<p begin="23306250000t" end="23336250000t" style="normal" xml:id="subtitle600">[Thom] Cari di mana datuk<br/>kamu sekarang, Ahmad.</p>
+<p begin="23344583333t" end="23357500000t" style="normal" xml:id="subtitle601">Nenek nak tahu...</p>
+<p begin="23385833333t" end="23403750000t" style="normal" xml:id="subtitle602">sebelum nenek pergi.</p>
+<p begin="23453750000t" end="23466250000t" style="normal" xml:id="subtitle603">Sudah lama, nenek.</p>
+<p begin="23475833333t" end="23490000000t" style="normal" xml:id="subtitle604">Bagaimana saya nak cari?</p>
+<p begin="23502500000t" end="23518750000t" style="normal" xml:id="subtitle605">Saya tak tahu cara nak mulakan.</p>
+<p begin="23529583333t" end="23545416666t" style="normal" xml:id="subtitle606">Cuba tanya bapa kamu.</p>
+<p begin="23561666666t" end="23572083333t" style="normal" xml:id="subtitle607">[Jaybah] Mak, Omar...</p>
+<p begin="23572916666t" end="23591250000t" style="normal" xml:id="subtitle608">Jaybah, mak tahu.</p>
+<p begin="23603750000t" end="23612500000t" style="normal" xml:id="subtitle609">Nenek.</p>
+<p begin="23617083333t" end="23628750000t" style="normal" xml:id="subtitle610">Kalau cari pun,</p>
+<p begin="23634166666t" end="23661250000t" style="normal" xml:id="subtitle611">- belum tentu jumpa apa yang nenek nak.<br/>- Cuba.</p>
+<p begin="23671666666t" end="23700416666t" style="normal" xml:id="subtitle612">[bernafas berat]</p>
+<p begin="23887916666t" end="23909166666t" style="normal" xml:id="subtitle613">[kaca mata berbunyi]</p>
+<p begin="23920000000t" end="23948750000t" style="normal" xml:id="subtitle614">- Selamat sejahtera, ayah.<br/>- Selamat sejahtera.</p>
+<p begin="23959166666t" end="23971666666t" style="normal" xml:id="subtitle615">Kamu baru sampai?</p>
+<p begin="23973750000t" end="23996250000t" style="normal" xml:id="subtitle616">- Ya, ayah. [ketawa kecil]<br/>- Sudah makan?</p>
+<p begin="23997083333t" end="24007083333t" style="normal" xml:id="subtitle617">Sudah.</p>
+<p begin="24010000000t" end="24051666666t" style="normal" xml:id="subtitle618">[Omar bernafas dalam]</p>
+<p begin="24052916666t" end="24069166666t" style="normal" xml:id="subtitle619">[burung berkicau]</p>
+<p begin="24151250000t" end="24160833333t" style="normal" xml:id="subtitle620">Ayah.</p>
+<p begin="24180000000t" end="24192916666t" style="normal" xml:id="subtitle621">Boleh saya tanya?</p>
+<p begin="24252500000t" end="24264166666t" style="normal" xml:id="subtitle622">[mengeluh]</p>
+<p begin="24265000000t" end="24278333333t" style="normal" xml:id="subtitle623">Ini tentang datuk.</p>
+<p begin="24287500000t" end="24325000000t" style="normal" xml:id="subtitle624">["Angin Menderu" dimainkan]<br/><span style="normal_1">♪ Angin menderu ♪</span></p>
+<p begin="24326250000t" end="24375000000t" style="normal" xml:id="subtitle625"><span style="normal_1">♪ Dahan jatuh menimpa batu ♪</span></p>
+<p begin="24375833333t" end="24384166666t" style="normal" xml:id="subtitle626">[Ahmad] <span style="normal_1">Ayah.</span></p>
+<p begin="24399166666t" end="24408333333t" style="normal" xml:id="subtitle627">Ayah?</p>
+<p begin="24417916666t" end="24433333333t" style="normal" xml:id="subtitle628">Kamu baru sampai.</p>
+<p begin="24440000000t" end="24449166666t" style="normal" xml:id="subtitle629">Sudah makan?</p>
+<p begin="24492916666t" end="24502916666t" style="normal" xml:id="subtitle630">Sudah.</p>
+<p begin="24555416666t" end="24572083333t" style="normal" xml:id="subtitle631">- [kaca mata berbunyi]<br/>- [menepuk]</p>
+<p begin="24613333333t" end="24627916666t" style="normal" xml:id="subtitle632">[bunyi klik, berkeriut]</p>
+<p begin="24748333333t" end="24757500000t" style="normal" xml:id="subtitle633">Itu ayah punya.</p>
+<p begin="24790000000t" end="24799166666t" style="normal" xml:id="subtitle634">Boleh tengok?</p>
+<p begin="24972916666t" end="25003750000t" style="normal" xml:id="subtitle635">[kayu berkeriut]</p>
+<p begin="25028333333t" end="25052500000t" style="normal" xml:id="subtitle636">[kertas berkersik]</p>
+<p begin="25053333333t" end="25094166666t" style="normal" xml:id="subtitle637">Ini masa kali pertama<br/>ayah janji temu dengan mak.</p>
+<p begin="25165000000t" end="25175416666t" style="normal" xml:id="subtitle638">Yang ini, ayah?</p>
+<p begin="25213333333t" end="25245000000t" style="normal" xml:id="subtitle639">Ini masa ayah buat ijazah di London.</p>
+<p begin="25255416666t" end="25272916666t" style="normal" xml:id="subtitle640">Dapat biasiswa masa itu.</p>
+<p begin="25279583333t" end="25299583333t" style="normal" xml:id="subtitle641">[bahasa Inggeris] Tahun 1966.</p>
+<p begin="25307500000t" end="25324583333t" style="normal" xml:id="subtitle642">Yang ini peta apa, ayah?</p>
+<p begin="25358750000t" end="25367083333t" style="normal" xml:id="subtitle643">Peta datuk.</p>
+<p begin="25417916666t" end="25430416666t" style="normal" xml:id="subtitle644">[kertas berkersik]</p>
+<p begin="25482916666t" end="25496250000t" style="normal" xml:id="subtitle645">[bunyi halaman dibuka]</p>
+<p begin="25558333333t" end="25575416666t" style="normal" xml:id="subtitle646">Ayah.</p>
+<p begin="25580000000t" end="25592083333t" style="normal" xml:id="subtitle647">Kamu baru sampai?</p>
+<p begin="25605000000t" end="25617083333t" style="normal" xml:id="subtitle648">Sudah makan?</p>
+<p begin="25664583333t" end="25672916666t" style="normal" xml:id="subtitle649">[tersedu]</p>
+<p begin="25838750000t" end="25854583333t" style="normal" xml:id="subtitle650">BUKU TELEFON BRITISH</p>
+<p begin="25855416666t" end="25869166666t" region="top" style="normal" xml:id="subtitle651">[cengkerik berbunyi]</p>
+<p begin="25942083333t" end="25952916666t" style="normal" xml:id="subtitle652">[menarik nafas dalam]</p>
+<p begin="26066666666t" end="26092916666t" style="normal" xml:id="subtitle653">- [pemanggil wanita] <span style="normal_1">Helo?</span><br/>- [Ahmad cakap Inggeris] Helo?</p>
+<p begin="26093750000t" end="26116250000t" style="normal" xml:id="subtitle654">- [bahasa Inggeris] Ahmad.<br/>- [bahasa Inggeris] <span style="normal_1">Ya.</span></p>
+<p begin="26117083333t" end="26147916666t" style="normal" xml:id="subtitle655">[bahasa Inggeris] Saya beri pesanan<br/>untuk Jamil Noh dari Malaysia.</p>
+<p begin="26148750000t" end="26177916666t" style="normal" xml:id="subtitle656">[bahasa Inggeris melalui telefon]<br/><span style="normal_1">Ya. Sila tunggu.</span></p>
+<p begin="26180833333t" end="26194166666t" style="normal" xml:id="subtitle657">[bahasa Inggeris] Baiklah.</p>
+<p begin="26202500000t" end="26215833333t" style="normal" xml:id="subtitle658">[bunyi kereta lalu]</p>
+<p begin="26244166666t" end="26259166666t" style="normal" xml:id="subtitle659">[bunyi hon kapal]</p>
+<p begin="26262916666t" end="26300833333t" region="top" style="normal" xml:id="subtitle660">1949, KAPAL SWYRE, PANTAI SINGAPURA</p>
+<p begin="26307916666t" end="26331250000t" style="normal" xml:id="subtitle661">[lelaki berbahasa Cina]<br/>Turunkan! Jangan malas!</p>
+<p begin="26332083333t" end="26372083333t" style="normal" xml:id="subtitle662">[Omar] <span style="normal_1">Setelah meninggalkan Serkam,</span><br/><span style="normal_1">ayah naiki kapal dari Singapura.</span></p>
+<p begin="26381250000t" end="26421250000t" style="normal" xml:id="subtitle663"><span style="normal_1">Dia saja kelasi Melayu antara ramai</span><br/><span style="normal_1">kelasi yang lebih berpengalaman.</span></p>
+<p begin="26431250000t" end="26442916666t" style="normal" xml:id="subtitle664"><span style="normal_1">Kerjanya susah.</span></p>
+<p begin="26447083333t" end="26495416666t" style="normal" xml:id="subtitle665"><span style="normal_1">Tetapi tidak terasa sebab dalam fikirannya</span><br/><span style="normal_1">dia hanya ingin ubah kehidupan keluarga.</span></p>
+<p begin="26505000000t" end="26528750000t" style="normal" xml:id="subtitle666">[bahasa Cina] Jangan malas! Cepat!</p>
+<p begin="26590000000t" end="26611666666t" style="normal" xml:id="subtitle667">[guruh berdentum]</p>
+<p begin="26639166666t" end="26658333333t" style="normal" xml:id="subtitle668">[angin bertiup]</p>
+<p begin="26682083333t" end="26712083333t" style="normal" xml:id="subtitle669">[ombak menghempas]</p>
+<p begin="26712916666t" end="26734166666t" style="normal" xml:id="subtitle670">[guruh berdentum]</p>
+<p begin="26752916666t" end="26772083333t" style="normal" xml:id="subtitle671">[hujan lebat]</p>
+<p begin="26802083333t" end="26827083333t" style="normal" xml:id="subtitle672">[bahasa Cina] Kerja lagi? Apa dia buat?</p>
+<p begin="26858333333t" end="26902500000t" style="normal" xml:id="subtitle673">[menggeletar]</p>
+<p begin="26903333333t" end="26920000000t" style="normal" xml:id="subtitle674">[perbualan tidak jelas]</p>
+<p begin="26962083333t" end="26975416666t" style="normal" xml:id="subtitle675">[kerusi berkeriut]</p>
+<p begin="26981250000t" end="27010416666t" style="normal" xml:id="subtitle676">[menggeletar]</p>
+<p begin="27011250000t" end="27035833333t" style="normal" xml:id="subtitle677">- [bahasa Cina] Hujan lebat.<br/>- [bahasa Cina] Lagi?</p>
+<p begin="27042500000t" end="27064166666t" style="normal" xml:id="subtitle678">[bahasa Cina]<br/>Makan khinzir. Awak akan okey.</p>
+<p begin="27074583333t" end="27087500000t" style="normal" xml:id="subtitle679">[bahasa Cina] Awak dungu?</p>
+<p begin="27088333333t" end="27107916666t" style="normal" xml:id="subtitle680">[bahasa Cina] Dia Islam.<br/>Dia tak makan itu.</p>
+<p begin="27108750000t" end="27131666666t" style="normal" xml:id="subtitle681">[bahasa Cina] Saya tak tahu<br/>apa yang mereka makan.</p>
+<p begin="27132500000t" end="27155416666t" style="normal" xml:id="subtitle682">[bahasa Cina] Mungkin<br/>makan angin. Sebab itu di luar.</p>
+<p begin="27156250000t" end="27167083333t" style="normal" xml:id="subtitle683">[lelaki ketawa]</p>
+<p begin="27167916666t" end="27177083333t" style="normal" xml:id="subtitle684">[bahasa Cina] Betul.</p>
+<p begin="27177916666t" end="27205416666t" style="normal" xml:id="subtitle685">[bahasa Cina]<br/>Dia tak banyak makan, tapi lebih kuat.</p>
+<p begin="27208333333t" end="27220000000t" style="normal" xml:id="subtitle686">[bahasa Cina] Apa?</p>
+<p begin="27243333333t" end="27252500000t" style="normal" xml:id="subtitle687">[bahasa Cina] Apa?</p>
+<p begin="27256250000t" end="27270833333t" style="normal" xml:id="subtitle688">[bahasa Cina] Awak tak faham?</p>
+<p begin="27277083333t" end="27287083333t" style="normal" xml:id="subtitle689">[logam berdentang]</p>
+<p begin="27287916666t" end="27296250000t" style="normal" xml:id="subtitle690">Lum.</p>
+<p begin="27307916666t" end="27316250000t" style="normal" xml:id="subtitle691">Hei.</p>
+<p begin="27318333333t" end="27330416666t" style="normal" xml:id="subtitle692">[bahasa Cina] Pergi kerja!</p>
+<p begin="27367083333t" end="27379166666t" style="normal" xml:id="subtitle693">- [berbisik]<br/>- [mengelak]</p>
+<p begin="27425416666t" end="27435000000t" style="normal" xml:id="subtitle694">[bahasa Cina] Mari.</p>
+<p begin="27464166666t" end="27497916666t" style="normal" xml:id="subtitle695">[percakapan tidak jelas]</p>
+<p begin="27507916666t" end="27523333333t" style="normal" xml:id="subtitle696">Kenapa bergaduh dengan mereka?</p>
+<p begin="27531250000t" end="27547916666t" style="normal" xml:id="subtitle697">- Saya marah.<br/>- [pisau berdesing]</p>
+<p begin="27557500000t" end="27578750000t" style="normal" xml:id="subtitle698">[bahasa Cina] Kenapa awak peduli?</p>
+<p begin="27600833333t" end="27616666666t" style="normal" xml:id="subtitle699">Awak fasih berbahasa Cina.</p>
+<p begin="27617500000t" end="27631250000t" style="normal" xml:id="subtitle700">[ketawa kecil]</p>
+<p begin="27632083333t" end="27640833333t" style="normal" xml:id="subtitle701">Bolehlah.</p>
+<p begin="27652916666t" end="27680000000t" style="normal" xml:id="subtitle702">Beri sup kubis awak yang paling sedap.</p>
+<p begin="27719583333t" end="27732083333t" style="normal" xml:id="subtitle703">Yang sedap sampai</p>
+<p begin="27732916666t" end="27754583333t" style="normal" xml:id="subtitle704">- itik mengawan tak ikut musim.<br/>- [mencemuh]</p>
+<p begin="27759583333t" end="27768750000t" style="normal" xml:id="subtitle705">Bagi saya rasa.</p>
+<p begin="27771666666t" end="27795416666t" style="normal" xml:id="subtitle706">Saya nak tahu itik<br/>mengawan ikut musim atau tak.</p>
+<p begin="27805000000t" end="27818333333t" style="normal" xml:id="subtitle707">[menghisap rokok]</p>
+<p begin="27834166666t" end="27845000000t" style="normal" xml:id="subtitle708">[menarik nafas dalam]</p>
+<p begin="27845833333t" end="27884583333t" style="normal" xml:id="subtitle709">[Lum menyanyi berbahasa Cina] <span style="normal_1">♪ Kawanku ♪</span></p>
+<p begin="27887500000t" end="27931666666t" style="normal" xml:id="subtitle710"><span style="normal_1">♪ Belayar keliling dunia ♪</span></p>
+<p begin="27939583333t" end="27971666666t" style="normal" xml:id="subtitle711"><span style="normal_1">♪ Dia merindui isterinya ♪</span></p>
+<p begin="27972500000t" end="27997500000t" style="normal" xml:id="subtitle712"><span style="normal_1">♪ Hidupnya sengsara ♪</span></p>
+<p begin="27998333333t" end="28045000000t" style="normal" xml:id="subtitle713">[guruh berdentum, hujan lebat]</p>
+<p begin="28047500000t" end="28066666666t" style="normal" xml:id="subtitle714">- Surat! [bunyi loceng]<br/>- Terima kasih.</p>
+<p begin="28094166666t" end="28105833333t" style="normal" xml:id="subtitle715">Surat!</p>
+<p begin="28136666666t" end="28150000000t" style="normal" xml:id="subtitle716">Surat!</p>
+<p begin="28174583333t" end="28186250000t" style="normal" xml:id="subtitle717">[pakaian berkibas]</p>
+<p begin="28187083333t" end="28213750000t" style="normal" xml:id="subtitle718">- Sudah buat kerja yang cikgu bagi?<br/>- Ya, cikgu.</p>
+<p begin="28214583333t" end="28222916666t" style="normal" xml:id="subtitle719">Bagus.</p>
+<p begin="28240833333t" end="28251250000t" style="normal" xml:id="subtitle720">Pergi kepada mak.</p>
+<p begin="28255416666t" end="28289166666t" style="normal" xml:id="subtitle721">[Omar termengah-mengah]</p>
+<p begin="28290000000t" end="28305416666t" style="normal" xml:id="subtitle722">[Omar] Mak, posmen tak datang?</p>
+<p begin="28323750000t" end="28333333333t" style="normal" xml:id="subtitle723">[Thom] Kamu lapar?</p>
+<p begin="28335416666t" end="28361250000t" style="normal" xml:id="subtitle724">[kuali berdesing]</p>
+<p begin="28365000000t" end="28377500000t" style="normal" xml:id="subtitle725">[berbisik] Esok, mungkin.</p>
+<p begin="28393750000t" end="28402916666t" style="normal" xml:id="subtitle726">[Thom] Hm?</p>
+<p begin="28415000000t" end="28455000000t" style="normal" xml:id="subtitle727">Esok mungkin surat ayah sampai.</p>
+<p begin="28470833333t" end="28504583333t" style="normal" xml:id="subtitle728">Esok saya nak balik awal. Tunggu posmen.</p>
+<p begin="28617916666t" end="28653333333t" style="normal" xml:id="subtitle729">[tergagap]</p>
+<p begin="28655833333t" end="28667500000t" style="normal" xml:id="subtitle730">[mengeluh]</p>
+<p begin="28668333333t" end="28686250000t" style="normal" xml:id="subtitle731">Mak perlu cuba.</p>
+<p begin="28687083333t" end="28716250000t" style="normal" xml:id="subtitle732">Kalau surat ayah sudah<br/>sampai, mak boleh baca.</p>
+<p begin="28732500000t" end="28743333333t" style="normal" xml:id="subtitle733">Selamat sejahtera.</p>
+<p begin="28744166666t" end="28761666666t" style="normal" xml:id="subtitle734">- Selamat sejahtera.<br/>- [Cikgu] Omar.</p>
+<p begin="28773750000t" end="28782083333t" style="normal" xml:id="subtitle735">Ini buku kamu.</p>
+<p begin="28791250000t" end="28802500000t" style="normal" xml:id="subtitle736">Tertinggal di sekolah.</p>
+<p begin="28808333333t" end="28820416666t" style="normal" xml:id="subtitle737">Terima kasih, cikgu.</p>
+<p begin="28860833333t" end="28882500000t" style="normal" xml:id="subtitle738">- [Cikgu] Saya balik dulu.<br/>- Terima kasih.</p>
+<p begin="28897500000t" end="28915000000t" style="normal" xml:id="subtitle739">Kalau Omar...</p>
+<p begin="28922083333t" end="28940833333t" style="normal" xml:id="subtitle740">atau sesiapa mahu saya ajar...</p>
+<p begin="28944583333t" end="28978333333t" style="normal" xml:id="subtitle741">Maksud saya, belajar itu bagus.<br/>Tiada yang nak disegankan.</p>
+<p begin="28987500000t" end="29001250000t" style="normal" xml:id="subtitle742">- Surat!<br/>- [loceng berbunyi]</p>
+<p begin="29013333333t" end="29055833333t" style="normal" xml:id="subtitle743">Posmen, tunggu!</p>
+<p begin="29064583333t" end="29082083333t" style="normal" xml:id="subtitle744">Surat! Tunggu!</p>
+<p begin="29125833333t" end="29134166666t" style="normal" xml:id="subtitle745">Ada lagi?</p>
+<p begin="29140833333t" end="29149583333t" style="normal" xml:id="subtitle746">Tiada.</p>
+<p begin="29155000000t" end="29167083333t" style="normal" xml:id="subtitle747">Mak, tengok ini!</p>
+<p begin="29212083333t" end="29239166666t" style="normal" xml:id="subtitle748">"Kasih dan sayang<br/>daripada Othman Haji Alias."</p>
+<p begin="29243333333t" end="29276250000t" style="normal" xml:id="subtitle749">Bukankah saya sudah kata?<br/>Surat ayah mesti sampai.</p>
+<p begin="29328333333t" end="29346666666t" style="normal" xml:id="subtitle750">[tingkap berkeriut]</p>
+<p begin="29347500000t" end="29371250000t" style="normal" xml:id="subtitle751">- [hujan lebat]<br/>- [pintu berkeriut]</p>
+<p begin="29399583333t" end="29422083333t" style="normal" xml:id="subtitle752">[bunyi tapak kaki]</p>
+<p begin="29422916666t" end="29439583333t" style="normal" xml:id="subtitle753">[Ketua berbahasa Cina] Apa awak buat?</p>
+<p begin="29440416666t" end="29462916666t" style="normal" xml:id="subtitle754">Bukan kali pertama awak curi makanan!</p>
+<p begin="29475416666t" end="29492083333t" style="normal" xml:id="subtitle755">[Lum berbahasa Cina] Ini mencuri?</p>
+<p begin="29495416666t" end="29522083333t" style="normal" xml:id="subtitle756">[bahasa Cina] Saya ambil sedikit sahaja.</p>
+<p begin="29528333333t" end="29567083333t" style="normal" xml:id="subtitle757">[bahasa Cina] Kalau saya tak ambil,<br/>ia basi dan awak akan buang.</p>
+<p begin="29568333333t" end="29587083333t" style="normal" xml:id="subtitle758">[bahasa Cina] Semuanya sama di sini.</p>
+<p begin="29587916666t" end="29600000000t" style="normal" xml:id="subtitle759">[bahasa Cina] Awak juga!</p>
+<p begin="29614166666t" end="29633333333t" style="normal" xml:id="subtitle760">- [Othman berbahasa Cina] Cef.<br/>- Pergi!</p>
+<p begin="29634166666t" end="29649166666t" style="normal" xml:id="subtitle761">[Othman berbahasa Cina] Nanti.</p>
+<p begin="29652500000t" end="29666666666t" style="normal" xml:id="subtitle762">[bahasa Cina] Dia tak salah.</p>
+<p begin="29667500000t" end="29680000000t" style="normal" xml:id="subtitle763">[bahasa Cina] Salah saya.</p>
+<p begin="29687083333t" end="29703333333t" style="normal" xml:id="subtitle764">[bahasa Cina] Salah kamu berdua.</p>
+<p begin="29725833333t" end="29738750000t" style="normal" xml:id="subtitle765">Tengok apa awak buat.</p>
+<p begin="29746250000t" end="29760000000t" style="normal" xml:id="subtitle766">Ini bukan salah awak.</p>
+<p begin="29765833333t" end="29785833333t" style="normal" xml:id="subtitle767">Saya tak boleh makan apa yang dia masak.</p>
+<p begin="29811250000t" end="29822083333t" style="normal" xml:id="subtitle768">Saya beritahu dia.</p>
+<p begin="29822916666t" end="29832500000t" style="normal" xml:id="subtitle769">Man.</p>
+<p begin="29835833333t" end="29856666666t" style="normal" xml:id="subtitle770">Man! Kenapa awak buat kerja ini?</p>
+<p begin="29857500000t" end="29872083333t" style="normal" xml:id="subtitle771">Awak akan dibuang kerja.</p>
+<p begin="29875416666t" end="29886250000t" style="normal" xml:id="subtitle772">Saya tak peduli, Lum.</p>
+<p begin="29887083333t" end="29898750000t" style="normal" xml:id="subtitle773">Awak pergi, saya pergi!</p>
+<p begin="29902500000t" end="29927500000t" style="normal" xml:id="subtitle774">- Memang bukan salah awak pun.<br/>- Jangan!</p>
+<p begin="29928333333t" end="29940000000t" style="normal" xml:id="subtitle775">[Othman mendengus]</p>
+<p begin="29952083333t" end="29978333333t" style="normal" xml:id="subtitle776">- [bahasa Cina] Nak jadi pencuri?<br/>- Kenapa ini?</p>
+<p begin="29979166666t" end="30013750000t" style="normal" xml:id="subtitle777">[semua mendengus]</p>
+<p begin="30026666666t" end="30037500000t" style="normal" xml:id="subtitle778">[bahasa Cina] Pegang!</p>
+<p begin="30041250000t" end="30056666666t" style="normal" xml:id="subtitle779">- [memekik]<br/>- [mendengus]</p>
+<p begin="30067083333t" end="30083333333t" style="normal" xml:id="subtitle780">[pisau berdesing]</p>
+<p begin="30089166666t" end="30101250000t" style="normal" xml:id="subtitle781">- [menampar]<br/>- [menumbuk]</p>
+<p begin="30102083333t" end="30127083333t" style="normal" xml:id="subtitle782">[semua mendengus]</p>
+<p begin="30127916666t" end="30137083333t" style="normal" xml:id="subtitle783">[mengerang]</p>
+<p begin="30180833333t" end="30206666666t" style="normal" xml:id="subtitle784">- [menumbuk]<br/>- [mendengus]</p>
+<p begin="30207500000t" end="30221250000t" style="normal" xml:id="subtitle785">[menghempas ke dinding]</p>
+<p begin="30245000000t" end="30254583333t" style="normal" xml:id="subtitle786">[mengerang]</p>
+<p begin="30257500000t" end="30277083333t" style="normal" xml:id="subtitle787">- [berdentang]<br/>- [mendengus]</p>
+<p begin="30277916666t" end="30296250000t" style="normal" xml:id="subtitle788">[kayu patah]</p>
+<p begin="30302916666t" end="30325000000t" style="normal" xml:id="subtitle789">- [menumbuk]<br/>- [mendengus]</p>
+<p begin="30339583333t" end="30360416666t" style="normal" xml:id="subtitle790">[semua mendengus]</p>
+<p begin="30387916666t" end="30398750000t" style="normal" xml:id="subtitle791">[mengerang kesakitan]</p>
+<p begin="30422083333t" end="30440833333t" style="normal" xml:id="subtitle792">- [Lum mendengus]<br/>- [pisau berdentang]</p>
+<p begin="30444583333t" end="30475833333t" style="normal" xml:id="subtitle793">[kedua-duanya mendengus]</p>
+<p begin="30476666666t" end="30507916666t" style="normal" xml:id="subtitle794">- [bahasa Inggeris] Apa yang berlaku?<br/>- [termengah-mengah]</p>
+<p begin="30577916666t" end="30608333333t" style="normal" xml:id="subtitle795">Hei. Saya tiada,<br/>jadi awak jaga diri baik-baik.</p>
+<p begin="30609166666t" end="30630000000t" style="normal" xml:id="subtitle796">[bunyi camar dari jauh]</p>
+<p begin="30640416666t" end="30675416666t" style="normal" xml:id="subtitle797">- [menepuk]<br/>- [bunyi hon kapal]</p>
+<p begin="30682500000t" end="30701666666t" style="normal" xml:id="subtitle798">Bila saya boleh jumpa awak lagi, Lum?</p>
+<p begin="30725416666t" end="30739166666t" style="normal" xml:id="subtitle799">Itu kita tidak tahu.</p>
+<p begin="30743333333t" end="30760416666t" style="normal" xml:id="subtitle800">Tetapi kita ada jodoh.</p>
+<p begin="30767916666t" end="30778333333t" style="normal" xml:id="subtitle801">Tak percaya, tengoklah.</p>
+<p begin="30817916666t" end="30827083333t" style="normal" xml:id="subtitle802">Jepun.</p>
+<p begin="30827916666t" end="30852916666t" style="normal" xml:id="subtitle803">- [percakapan tidak jelas]<br/>- [Lum meludah]</p>
+<p begin="30868750000t" end="30905833333t" region="top" style="normal" xml:id="subtitle804">1950, OKINAWA, JEPUN</p>
+<p begin="30931250000t" end="30962500000t" style="normal" xml:id="subtitle805">PULAU JEJU, KOREA SELATAN</p>
+<p begin="30978333333t" end="30995833333t" style="normal" xml:id="subtitle806">[mengorek]</p>
+<p begin="31030000000t" end="31042083333t" style="normal" xml:id="subtitle807">[mengorek]</p>
+<p begin="31149166666t" end="31158333333t" style="normal" xml:id="subtitle808">[logam berdentang]</p>
+<p begin="31185000000t" end="31193333333t" style="normal" xml:id="subtitle809">[mencemuh]</p>
+<p begin="31233333333t" end="31251666666t" style="normal" xml:id="subtitle810">[kertas berkersik]</p>
+<p begin="31264166666t" end="31284583333t" style="normal" xml:id="subtitle811">[mengeluh]</p>
+<p begin="31305416666t" end="31323750000t" style="normal" xml:id="subtitle812">[mengunyah]</p>
+<p begin="31342083333t" end="31368333333t" style="normal" xml:id="subtitle813">[mengunyah dengan kuat]</p>
+<p begin="31369166666t" end="31380833333t" style="normal" xml:id="subtitle814">[menarik nafas dalam]</p>
+<p begin="31440000000t" end="31455416666t" style="normal" xml:id="subtitle815">[muntah, mengerang]</p>
+<p begin="31463333333t" end="31485416666t" style="normal" xml:id="subtitle816">[menarik nafas]</p>
+<p begin="31501250000t" end="31511250000t" style="normal" xml:id="subtitle817">[tersedu]</p>
+<p begin="31512083333t" end="31527083333t" style="normal" xml:id="subtitle818">[percakapan tidak jelas]</p>
+<p begin="31568750000t" end="31604166666t" style="normal" xml:id="subtitle819">[bunga api meletup]</p>
+<p begin="31617500000t" end="31631250000t" style="normal" xml:id="subtitle820">[bunga api meletup]</p>
+<p begin="31642500000t" end="31660833333t" style="normal" xml:id="subtitle821">[bunga api meletup]</p>
+<p begin="31683333333t" end="31703333333t" style="normal" xml:id="subtitle822">[bunga api meletup]</p>
+<p begin="31715000000t" end="31766666666t" style="normal" xml:id="subtitle823">[bunyi bunga api dari jauh]</p>
+<p begin="31949583333t" end="31987916666t" style="normal" xml:id="subtitle824">[teresak-esak]</p>
+<p begin="32002083333t" end="32017916666t" style="normal" xml:id="subtitle825">Saya mahu pulang, Thom.</p>
+<p begin="32050833333t" end="32072916666t" style="normal" xml:id="subtitle826">[bernafas dalam, mengeluh]</p>
+<p begin="32073750000t" end="32092916666t" style="normal" xml:id="subtitle827">[bunga api meletup]</p>
+<p begin="32093750000t" end="32130833333t" style="normal" xml:id="subtitle828">[bunga api meletup]</p>
+<p begin="32138333333t" end="32162916666t" style="normal" xml:id="subtitle829">[kelasi berbahasa Cina] Turunkan kargo.</p>
+<p begin="32180000000t" end="32207083333t" style="normal" xml:id="subtitle830">[bahasa Cina] Okey. Ke tepi lagi.</p>
+<p begin="32219166666t" end="32232500000t" style="normal" xml:id="subtitle831">[bahasa Cina] Ke tepi.</p>
+<p begin="32240416666t" end="32260000000t" style="normal" xml:id="subtitle832">[bahasa Cina] Letakkan. Ke tepi.</p>
+<p begin="32265000000t" end="32274583333t" style="normal" xml:id="subtitle833">[bahasa Cina] Okey.</p>
+<p begin="32283333333t" end="32300833333t" region="top" style="normal" xml:id="subtitle834">MUDAH TERBAKAR</p>
+<p begin="32301666666t" end="32313333333t" style="normal" xml:id="subtitle835">[bahasa Cina] Habis.</p>
+<p begin="32325833333t" end="32354166666t" style="normal" xml:id="subtitle836">[dentuman kuat]</p>
+<p begin="32363333333t" end="32402083333t" style="normal" xml:id="subtitle837">[penggera berbunyi]</p>
+<p begin="32402916666t" end="32437916666t" style="normal" xml:id="subtitle838">[tercungap-cungap]</p>
+<p begin="32452916666t" end="32504166666t" style="normal" xml:id="subtitle839">[penggera berbunyi]</p>
+<p begin="32505000000t" end="32568750000t" style="normal" xml:id="subtitle840">- [gas bocor]<br/>- [mendengus]</p>
+<p begin="32588750000t" end="32605416666t" style="normal" xml:id="subtitle841">- [letupan]<br/>- [mengerang]</p>
+<p begin="32606250000t" end="32617500000t" style="normal" xml:id="subtitle842">[bahasa Cina] Hei.</p>
+<p begin="32618333333t" end="32647916666t" style="normal" xml:id="subtitle843">[kelasi berbahasa Cina]<br/>Awak okey? Tolong dia!</p>
+<p begin="32659166666t" end="32671666666t" style="normal" xml:id="subtitle844">[kelasi berbahasa Cina] Bahaya.</p>
+<p begin="32672500000t" end="32690000000t" style="normal" xml:id="subtitle845">[lelaki memekik]</p>
+<p begin="32690833333t" end="32702916666t" style="normal" xml:id="subtitle846">[mengerang kesakitan]</p>
+<p begin="32729166666t" end="32754583333t" style="normal" xml:id="subtitle847">[suara lelaki berbahasa Cina]<br/>Dia terbakar. Cepat!</p>
+<p begin="32757916666t" end="32780416666t" style="normal" xml:id="subtitle848">[bahasa Cina]<br/>Dia terbakar! Selamatkan dia!</p>
+<p begin="32796250000t" end="32816666666t" style="normal" xml:id="subtitle849">- [letupan]<br/>- [lelaki memekik]</p>
+<p begin="32817500000t" end="32831666666t" style="normal" xml:id="subtitle850">[suara lelaki tidak jelas]</p>
+<p begin="32832500000t" end="32843750000t" style="normal" xml:id="subtitle851">[bunyi letupan]</p>
+<p begin="32846666666t" end="32861250000t" style="normal" xml:id="subtitle852">[lelaki memekik]</p>
+<p begin="32878750000t" end="32887916666t" style="normal" xml:id="subtitle853">Hei.</p>
+<p begin="32895416666t" end="32922916666t" style="normal" xml:id="subtitle854">- [kelasi satu berbahasa Cina] Ayuh!<br/>- [kelasi dua berbahasa Cina] Sini!</p>
+<p begin="32923750000t" end="32948750000t" style="normal" xml:id="subtitle855">[kelasi tiga berbahasa Inggeris]<br/>Selamatkan kapal!</p>
+<p begin="33003750000t" end="33023750000t" style="normal" xml:id="subtitle856">[mancis menyala]</p>
+<p begin="33036666666t" end="33049583333t" style="normal" xml:id="subtitle857">[menghisap rokok]</p>
+<p begin="33055000000t" end="33079166666t" style="normal" xml:id="subtitle858">- [bahasa Cina] Terima kasih.<br/>- [bahasa Cina] Ya.</p>
+<p begin="33082083333t" end="33095833333t" style="normal" xml:id="subtitle859">[bahasa Cina] Terima kasih.</p>
+<p begin="33098333333t" end="33122500000t" style="normal" xml:id="subtitle860">- [bahasa Cina] Terima kasih.<br/>- [bahasa Cina] Ya.</p>
+<p begin="33125416666t" end="33150000000t" style="normal" xml:id="subtitle861">- [bahasa Cina] Terima kasih.<br/>- [bahasa Cina] Ya.</p>
+<p begin="33164583333t" end="33190416666t" style="normal" xml:id="subtitle862">[bahasa Inggeris] Ambil laporan<br/>kerosakan, senaraikan kerugian.</p>
+<p begin="33219583333t" end="33264583333t" region="top" style="normal" xml:id="subtitle863">[wanita menyanyi "Layarlah Kembali"]</p>
+<p begin="33626666666t" end="33636250000t" style="normal" xml:id="subtitle864">[periuk berdentang]</p>
+<p begin="33671666666t" end="33686666666t" style="normal" xml:id="subtitle865">[berdentang]</p>
+<p begin="33690416666t" end="33699583333t" style="normal" xml:id="subtitle866">[kertas berkersik]</p>
+<p begin="33713750000t" end="33735416666t" style="normal" xml:id="subtitle867">[bunyi tapak kaki kuat]</p>
+<p begin="33736250000t" end="33744583333t" style="normal" xml:id="subtitle868">Mak!</p>
+<p begin="33769583333t" end="33780000000t" style="normal" xml:id="subtitle869">Mak, janganlah!</p>
+<p begin="33780833333t" end="33797083333t" style="normal" xml:id="subtitle870">Kalau tak mahu, kenapa tak tulis</p>
+<p begin="33797916666t" end="33823750000t" style="normal" xml:id="subtitle871">apa-apa pun pada poskad itu?</p>
+<p begin="33829583333t" end="33837916666t" style="normal" xml:id="subtitle872">Mak.</p>
+<p begin="33840000000t" end="33867500000t" style="normal" xml:id="subtitle873">- Dia ingat kita lagi, Omar?<br/>- Mestilah ingat.</p>
+<p begin="33868333333t" end="33903750000t" style="normal" xml:id="subtitle874">Dia tidak pernah tanya kita<br/>susah, sihat atau senang di sini.</p>
+<p begin="33904583333t" end="33932500000t" style="normal" xml:id="subtitle875">- Dia tak pernah beritahu keadaannya.<br/>- Atas kapal susah, mak.</p>
+<p begin="33933333333t" end="33949166666t" style="normal" xml:id="subtitle876">Banyak kerja. Tiada masa.</p>
+<p begin="33956666666t" end="33967500000t" style="normal" xml:id="subtitle877">Janganlah marah.</p>
+<p begin="33968333333t" end="33982083333t" style="normal" xml:id="subtitle878">Mak tidak marah!</p>
+<p begin="33992083333t" end="34002916666t" style="normal" xml:id="subtitle879">[menarik nafas dalam]</p>
+<p begin="34017500000t" end="34027916666t" style="normal" xml:id="subtitle880">Nanti ayah tulislah.</p>
+<p begin="34037083333t" end="34049583333t" style="normal" xml:id="subtitle881">Saya tahu.</p>
+<p begin="34097916666t" end="34154583333t" style="normal" xml:id="subtitle882">- [angin bertiup]<br/>- [Thom teresak-esak]</p>
+<p begin="34207083333t" end="34218750000t" style="normal" xml:id="subtitle883">[Taib] Selamat sejahtera.</p>
+<p begin="34235416666t" end="34256250000t" style="normal" xml:id="subtitle884">- [Taib] Selamat sejahtera.<br/>- [Thom] Selamat sejahtera.</p>
+<p begin="34270833333t" end="34300833333t" style="normal" xml:id="subtitle885">Ini duit yang saya pinjam<br/>daripada Othman dulu.</p>
+<p begin="34314166666t" end="34326666666t" style="normal" xml:id="subtitle886">Pakailah duit itu.</p>
+<p begin="34340416666t" end="34352916666t" style="normal" xml:id="subtitle887">Saya balik dulu.</p>
+<p begin="34355416666t" end="34367916666t" style="normal" xml:id="subtitle888">Terima kasih.</p>
+<p begin="34423333333t" end="34440416666t" style="normal" xml:id="subtitle889">- [Taib] Terima kasih.<br/>- [pembeli] Ya.</p>
+<p begin="34442500000t" end="34453750000t" style="normal" xml:id="subtitle890">[Omar] Mak?</p>
+<p begin="34465416666t" end="34481250000t" style="normal" xml:id="subtitle891">- [Taib] Bolehkah?<br/>- [Omar] Mak?</p>
+<p begin="34494583333t" end="34509583333t" style="normal" xml:id="subtitle892">Kenapa dia naik bot ayah?</p>
+<p begin="34517083333t" end="34529166666t" style="normal" xml:id="subtitle893">Mak sudah jual bot itu.</p>
+<p begin="34530000000t" end="34545000000t" style="normal" xml:id="subtitle894">Mak, ayah tak bagi orang lain...</p>
+<p begin="34547916666t" end="34558750000t" style="normal" xml:id="subtitle895">Mak.</p>
+<p begin="34559583333t" end="34576666666t" style="normal" xml:id="subtitle896">[memekik] Mak sudah jual bot itu!</p>
+<p begin="34579583333t" end="34591250000t" style="normal" xml:id="subtitle897">[pembeli bot mendayung]</p>
+<p begin="34592083333t" end="34611666666t" style="normal" xml:id="subtitle898">Mak, janganlah. Nanti ayah marah.</p>
+<p begin="34655833333t" end="34664166666t" style="normal" xml:id="subtitle899">Omar.</p>
+<p begin="34700416666t" end="34722916666t" style="normal" xml:id="subtitle900">Mak mahu cari bapa kamu.</p>
+<p begin="34745416666t" end="34757500000t" style="normal" xml:id="subtitle901">Mak cari bapa kamu.</p>
+<p begin="34766666666t" end="34780833333t" style="normal" xml:id="subtitle902">Ajak dia pulang.</p>
+<p begin="34815833333t" end="34829583333t" style="normal" xml:id="subtitle903">Tetapi kalau ayah pulang...</p>
+<p begin="34836250000t" end="34852083333t" style="normal" xml:id="subtitle904">bot dia sudah tiada, bagaimana?</p>
+<p begin="34862083333t" end="34897500000t" style="normal" xml:id="subtitle905">Kalau kita simpan bot itu,<br/>tapi dia tidak pulang?</p>
+<p begin="34905000000t" end="34916666666t" style="normal" xml:id="subtitle906">Dia tiada.</p>
+<p begin="34935416666t" end="34960416666t" style="normal" xml:id="subtitle907">Lebih baik kita ada dia daripada ada bot.</p>
+<p begin="34973333333t" end="34986666666t" style="normal" xml:id="subtitle908">Betul, Omar?</p>
+<p begin="34998750000t" end="35012083333t" style="normal" xml:id="subtitle909">Omar.</p>
+<p begin="35056666666t" end="35069166666t" style="normal" xml:id="subtitle910">Awak mahu cari di mana?</p>
+<p begin="35073333333t" end="35090000000t" style="normal" xml:id="subtitle911">[burung berkicau dari jauh]</p>
+<p begin="35099583333t" end="35118333333t" style="normal" xml:id="subtitle912">Poskad terakhir dia dari Hong Kong.</p>
+<p begin="35127083333t" end="35137916666t" style="normal" xml:id="subtitle913">Kalau dia tiada?</p>
+<p begin="35150833333t" end="35164583333t" style="normal" xml:id="subtitle914">Saya perlu cuba, cikgu.</p>
+<p begin="35262500000t" end="35296250000t" style="normal" xml:id="subtitle915">[angin bertiup]</p>
+<p begin="35325833333t" end="35337083333t" style="normal" xml:id="subtitle916">Ada apa, cikgu?</p>
+<p begin="35368333333t" end="35406666666t" style="normal" xml:id="subtitle917">Tidak cukup duit bot itu kalau<br/>nak naik kapal ke Hong Kong.</p>
+<p begin="35414166666t" end="35462083333t" style="normal" xml:id="subtitle918">[angin bertiup]</p>
+<p begin="35462916666t" end="35472916666t" style="normal" xml:id="subtitle919">Ambillah, Che Thom.</p>
+<p begin="35518750000t" end="35527083333t" style="normal" xml:id="subtitle920">Ambil.</p>
+<p begin="35527916666t" end="35550833333t" style="normal" xml:id="subtitle921">[angin bertiup]</p>
+<p begin="35551666666t" end="35561666666t" style="normal" xml:id="subtitle922">Tidak apa, cikgu.</p>
+<p begin="35575416666t" end="35597500000t" style="normal" xml:id="subtitle923">Takut tak terbayar hutang awak nanti.</p>
+<p begin="35606250000t" end="35617500000t" style="normal" xml:id="subtitle924">Saya ikhlas.</p>
+<p begin="35632500000t" end="35653333333t" style="normal" xml:id="subtitle925">Bayar sikit-sikit apabila mampu.</p>
+<p begin="35660833333t" end="35687083333t" style="normal" xml:id="subtitle926">[angin bertiup]</p>
+<p begin="35712083333t" end="35728333333t" style="normal" xml:id="subtitle927">Saya hanya mahu bantu Omar.</p>
+<p begin="35788750000t" end="35797083333t" style="normal" xml:id="subtitle928">Cikgu.</p>
+<p begin="35813750000t" end="35831666666t" style="normal" xml:id="subtitle929">[angin bertiup]</p>
+<p begin="35832500000t" end="35842916666t" style="normal" xml:id="subtitle930">Dengan izin Tuhan...</p>
+<p begin="35857500000t" end="35876666666t" style="normal" xml:id="subtitle931">Tuhan akan murahkan rezeki awak nanti.</p>
+<p begin="35896250000t" end="35907500000t" style="normal" xml:id="subtitle932">Dengan izin Tuhan.</p>
+<p begin="35917083333t" end="35931250000t" style="normal" xml:id="subtitle933">Terus doakan saya, Che Thom.</p>
+<p begin="35942916666t" end="35959166666t" style="normal" xml:id="subtitle934">[burung berkicau dari jauh]</p>
+<p begin="36182500000t" end="36229166666t" style="normal" xml:id="subtitle935">[ombak menghempas]</p>
+<p begin="36292500000t" end="36332083333t" style="normal" xml:id="subtitle936">[percakapan tidak jelas di latar belakang]</p>
+<p begin="36342083333t" end="36388333333t" style="normal" xml:id="subtitle937">[percakapan tidak jelas]</p>
+<p begin="36393750000t" end="36418333333t" style="normal" xml:id="subtitle938">[percakapan tidak jelas]</p>
+<p begin="36427083333t" end="36442500000t" style="normal" xml:id="subtitle939">[percakapan tidak jelas]</p>
+<p begin="36477083333t" end="36495000000t" style="normal" xml:id="subtitle940">[kelasi mengusik]</p>
+<p begin="36512916666t" end="36541666666t" style="normal" xml:id="subtitle941">[percakapan tidak jelas]</p>
+<p begin="36542500000t" end="36582083333t" style="normal" xml:id="subtitle942">[percakapan tidak jelas di latar belakang]</p>
+<p begin="36589166666t" end="36621666666t" style="normal" xml:id="subtitle943">[percakapan tidak jelas di latar belakang]</p>
+<p begin="36622500000t" end="36654583333t" style="normal" xml:id="subtitle944">[percakapan tidak jelas di latar belakang]</p>
+<p begin="36658333333t" end="36680833333t" style="normal" xml:id="subtitle945">[percakapan tidak jelas di latar belakang]</p>
+<p begin="36690833333t" end="36729166666t" style="normal" xml:id="subtitle946">[percakapan tidak jelas di latar belakang]</p>
+<p begin="36730000000t" end="36739166666t" style="normal" xml:id="subtitle947">PEJABAT PELABUHAN</p>
+<p begin="36740000000t" end="36755000000t" style="normal" xml:id="subtitle948">[percakapan tidak jelas]</p>
+<p begin="36755833333t" end="36769583333t" style="normal" xml:id="subtitle949">[mendengus]</p>
+<p begin="36783333333t" end="36794583333t" style="normal" xml:id="subtitle950">[kelasi memekik]</p>
+<p begin="36795416666t" end="36862083333t" style="normal" xml:id="subtitle951">[orang ramai bergaduh]</p>
+<p begin="36869166666t" end="36893750000t" style="normal" xml:id="subtitle952">[Ibu Ayam berbahasa Cina]<br/>Ikut saya. Jangan risau.</p>
+<p begin="36894583333t" end="36908750000t" style="normal" xml:id="subtitle953">[bahasa Cina] Tahan dia.</p>
+<p begin="36911666666t" end="36933750000t" style="normal" xml:id="subtitle954">- Tolong!<br/>- [bahasa Cina] Ke tepi!</p>
+<p begin="36940416666t" end="36957916666t" style="normal" xml:id="subtitle955">- [bahasa Cina] Sini!<br/>- [Thom] Tolong!</p>
+<p begin="36958750000t" end="36978333333t" style="normal" xml:id="subtitle956">- [bahasa Cina] Senyap!<br/>- [Thom memekik]</p>
+<p begin="36979166666t" end="36995416666t" style="normal" xml:id="subtitle957">- [bahasa Cina] Masuk.<br/>- [Lum] Thom?</p>
+<p begin="36999166666t" end="37029583333t" style="normal" xml:id="subtitle958">- [Lum] Thom!<br/>- [bahasa Cina] Siapa lelaki itu?</p>
+<p begin="37042500000t" end="37055000000t" style="normal" xml:id="subtitle959">[bahasa Cina] Siapa awak?</p>
+<p begin="37059583333t" end="37075000000t" style="normal" xml:id="subtitle960">[Lum berbahasa Cina] Saya...</p>
+<p begin="37075833333t" end="37091666666t" style="normal" xml:id="subtitle961">[bahasa Cina] Ini sayalah.</p>
+<p begin="37101666666t" end="37122916666t" style="normal" xml:id="subtitle962">[bahasa Cina] Awak bukan sesiapa.</p>
+<p begin="37127916666t" end="37162500000t" style="normal" xml:id="subtitle963">- [bahasa Cina] Bawa dia keluar!<br/>- Tidak, dengar sini.</p>
+<p begin="37164583333t" end="37195833333t" style="normal" xml:id="subtitle964">[bahasa Cina] Awak kutip dia<br/>dari jalanan. Awak tahu siapa dia?</p>
+<p begin="37200000000t" end="37214166666t" style="normal" xml:id="subtitle965">[bahasa Cina] Saya tak peduli.</p>
+<p begin="37215000000t" end="37240416666t" style="normal" xml:id="subtitle966">[bahasa Cina] Dia akan<br/>dapatkan saya banyak duit.</p>
+<p begin="37241250000t" end="37252916666t" style="normal" xml:id="subtitle967">[Thom termengah-mengah]</p>
+<p begin="37253750000t" end="37292083333t" style="normal" xml:id="subtitle968">[bahasa Cina] Baiklah, jangan risau.</p>
+<p begin="37292916666t" end="37303333333t" style="normal" xml:id="subtitle969">[bahasa Cina] Biarlah.</p>
+<p begin="37304166666t" end="37326666666t" style="normal" xml:id="subtitle970">[bahasa Cina] Tiada masalah. Okey?</p>
+<p begin="37334166666t" end="37348750000t" style="normal" xml:id="subtitle971">- [bahasa Cina] Bawa dia.<br/>- Lum!</p>
+<p begin="37349583333t" end="37368750000t" style="normal" xml:id="subtitle972">- [bahasa Inggeris] Okey.<br/>- [Thom] Lum!</p>
+<p begin="37370416666t" end="37397916666t" style="normal" xml:id="subtitle973">[bahasa Cina] Saya akan beritahu Bos Kuan.</p>
+<p begin="37400833333t" end="37422500000t" style="normal" xml:id="subtitle974">[bahasa Cina] Awak guna<br/>mereka untuk perniagaan.</p>
+<p begin="37423333333t" end="37442083333t" style="normal" xml:id="subtitle975">[bahasa Cina] Dengar pendapat Bos Kuan.</p>
+<p begin="37442916666t" end="37452500000t" style="normal" xml:id="subtitle976">[bahasa Cina] Nanti!</p>
+<p begin="37469166666t" end="37480833333t" style="normal" xml:id="subtitle977">[bahasa Cina] Apa dia?</p>
+<p begin="37489583333t" end="37501250000t" style="normal" xml:id="subtitle978">[bahasa Cina] Bos Kuan?</p>
+<p begin="37502500000t" end="37516666666t" style="normal" xml:id="subtitle979">[bahasa Cina] Dia orang Kuan?</p>
+<p begin="37534583333t" end="37551666666t" style="normal" xml:id="subtitle980">[bahasa Cina] Mari jumpa Bos Kuan.</p>
+<p begin="37581666666t" end="37601250000t" style="normal" xml:id="subtitle981">[bahasa Cina] Ah Ngau, lepaskan dia.</p>
+<p begin="37632083333t" end="37642500000t" style="normal" xml:id="subtitle982">[Thom termengah-mengah]</p>
+<p begin="37650833333t" end="37664583333t" style="normal" xml:id="subtitle983">[bahasa Cina] Ayuh!</p>
+<p begin="37670833333t" end="37683333333t" style="normal" xml:id="subtitle984">[bahasa Cina] Ayuh!</p>
+<p begin="37715416666t" end="37727083333t" style="normal" xml:id="subtitle985">[Thom termengah-mengah]</p>
+<p begin="37760000000t" end="37777500000t" style="normal" xml:id="subtitle986">[bahasa Cina] Ini orang baru.</p>
+<p begin="37783750000t" end="37808750000t" style="normal" xml:id="subtitle987">[bahasa Cina] Dia perlu belajar peraturan.</p>
+<p begin="37818333333t" end="37830000000t" style="normal" xml:id="subtitle988">[bahasa Cina] Bawalah!</p>
+<p begin="37830833333t" end="37855416666t" style="normal" xml:id="subtitle989">- Terima kasih, Lum.<br/>- [Lum menyuruh diam] Jalan.</p>
+<p begin="37863333333t" end="37885833333t" style="normal" xml:id="subtitle990">Awak buat apa di Hong Kong? Mana Man?</p>
+<p begin="37887083333t" end="37901250000t" style="normal" xml:id="subtitle991">Saya datang untuk cari dia.</p>
+<p begin="37907083333t" end="37929583333t" style="normal" xml:id="subtitle992">[bahasa Cina] Tengok apa?<br/>Pergi sambung kerja!</p>
+<p begin="37934166666t" end="37949166666t" style="normal" xml:id="subtitle993">Awak pun degil macam Othman.</p>
+<p begin="37950000000t" end="37965416666t" style="normal" xml:id="subtitle994">[bunyi pemetik api]</p>
+<p begin="37985416666t" end="38007083333t" style="normal" xml:id="subtitle995">Datang sini seorang diri.</p>
+<p begin="38007916666t" end="38023333333t" style="normal" xml:id="subtitle996">[percakapan tidak jelas]</p>
+<p begin="38024166666t" end="38037083333t" style="normal" xml:id="subtitle997">Bahaya.</p>
+<p begin="38037916666t" end="38052916666t" style="normal" xml:id="subtitle998">Saya perlu cari Othman.</p>
+<p begin="38067500000t" end="38080833333t" style="normal" xml:id="subtitle999">Awak tahu dia di mana?</p>
+<p begin="38081666666t" end="38106250000t" style="normal" xml:id="subtitle1000">[percakapan tidak jelas di latar belakang]</p>
+<p begin="38107083333t" end="38126250000t" style="normal" xml:id="subtitle1001">Saya tidak lama satu kapal dengan dia.</p>
+<p begin="38134583333t" end="38153333333t" style="normal" xml:id="subtitle1002">Selepas itu, tak jumpa lagi.</p>
+<p begin="38182083333t" end="38199166666t" style="normal" xml:id="subtitle1003">Saya sangka senang cari dia.</p>
+<p begin="38206666666t" end="38222083333t" style="normal" xml:id="subtitle1004">Saya sangka apabila di sini...</p>
+<p begin="38236666666t" end="38251666666t" style="normal" xml:id="subtitle1005">ada orang kenal dia.</p>
+<p begin="38263333333t" end="38275416666t" style="normal" xml:id="subtitle1006">Tahu dia di mana.</p>
+<p begin="38286666666t" end="38297916666t" style="normal" xml:id="subtitle1007">Macam di kampung.</p>
+<p begin="38310833333t" end="38325416666t" style="normal" xml:id="subtitle1008">Ini bukan macam kampung kita.</p>
+<p begin="38430000000t" end="38459583333t" style="normal" xml:id="subtitle1009">Begini. Saya ada ramai kawan di pelabuhan.</p>
+<p begin="38465000000t" end="38483750000t" style="normal" xml:id="subtitle1010">Ada yang pernah kerja di kapal Swyre.</p>
+<p begin="38489166666t" end="38499166666t" style="normal" xml:id="subtitle1011">Nanti saya tanyakan.</p>
+<p begin="38505833333t" end="38525416666t" style="normal" xml:id="subtitle1012">Sementara itu, awak duduk sini.</p>
+<p begin="38536666666t" end="38549583333t" style="normal" xml:id="subtitle1013">Saya tumpang bilik kawan.</p>
+<p begin="38564166666t" end="38579166666t" style="normal" xml:id="subtitle1014">Saya sudah susahkan awak, Lum.</p>
+<p begin="38587083333t" end="38601666666t" style="normal" xml:id="subtitle1015">[Lum] Othman macam adik saya.</p>
+<p begin="38605833333t" end="38627916666t" style="normal" xml:id="subtitle1016">Jadi kita keluarga.</p>
+<p begin="38668750000t" end="38716666666t" style="normal" xml:id="subtitle1017">[lelaki bergosip]</p>
+<p begin="38717500000t" end="38736250000t" style="normal" xml:id="subtitle1018">[bahasa Cina] Dia ada perempuan simpanan?</p>
+<p begin="38737083333t" end="38762500000t" style="normal" xml:id="subtitle1019">[lelaki bergosip]</p>
+<p begin="38802083333t" end="38817083333t" style="normal" xml:id="subtitle1020">Baik kita tutup tingkap.</p>
+<p begin="38820416666t" end="38830416666t" style="normal" xml:id="subtitle1021">[lelaki bergosip]</p>
+<p begin="38836250000t" end="38862083333t" style="normal" xml:id="subtitle1022">[tingkap berkeriut lalu tertutup]</p>
+<p begin="38930416666t" end="38959583333t" style="normal" xml:id="subtitle1023">- [Lum] Ada jumpa Man?<br/>- [Yusop] Dia naik pangkat dan gaji.</p>
+<p begin="38960416666t" end="38975833333t" style="normal" xml:id="subtitle1024">[Yusop] Saya tak jumpa dia lagi.</p>
+<p begin="38996666666t" end="39022916666t" style="normal" xml:id="subtitle1025">[wanita bercakap tidak<br/>jelas di latar belakang]</p>
+<p begin="39055833333t" end="39080416666t" style="normal" xml:id="subtitle1026">Othman sudah naik kapal P&amp;O.</p>
+<p begin="39097083333t" end="39110833333t" style="normal" xml:id="subtitle1027">Sekarang di Rusia.</p>
+<p begin="39116250000t" end="39136250000t" style="normal" xml:id="subtitle1028">Tetapi tidak tahu bila nak balik sini.</p>
+<p begin="39145416666t" end="39155833333t" style="normal" xml:id="subtitle1029">Itu Yusop.</p>
+<p begin="39178750000t" end="39193750000t" style="normal" xml:id="subtitle1030">Dia jumpa Othman di sini.</p>
+<p begin="39204166666t" end="39256250000t" style="normal" xml:id="subtitle1031">Dia cakap Man sudah naik<br/>pangkat, naik gaji di kapal P&amp;O.</p>
+<p begin="39308750000t" end="39337500000t" style="normal" xml:id="subtitle1032">Naik pangkat, naik gaji...</p>
+<p begin="39384583333t" end="39400000000t" style="normal" xml:id="subtitle1033">tapi tidak boleh pulang.</p>
+<p begin="39529583333t" end="39543333333t" style="normal" xml:id="subtitle1034">Lum, boleh tolong saya?</p>
+<p begin="39574166666t" end="39594166666t" style="normal" xml:id="subtitle1035">Sampaikan surat ini kepada Othman.</p>
+<p begin="39602500000t" end="39640000000t" style="normal" xml:id="subtitle1036">[percakapan tidak jelas di latar belakang]</p>
+<p begin="39640833333t" end="39656666666t" style="normal" xml:id="subtitle1037">Saya tahu bukan senang.</p>
+<p begin="39685833333t" end="39713333333t" style="normal" xml:id="subtitle1038">Tetapi saya tidak tahu nak<br/>minta tolong siapa lagi, Lum.</p>
+<p begin="39742500000t" end="39771250000t" style="normal" xml:id="subtitle1039">[percakapan tidak jelas di latar belakang]</p>
+<p begin="39772083333t" end="39782500000t" style="normal" xml:id="subtitle1040">Saya cuba.</p>
+<p begin="39816666666t" end="39832083333t" style="normal" xml:id="subtitle1041">Tidak kiralah berapa lama.</p>
+<p begin="39840000000t" end="39874583333t" style="normal" xml:id="subtitle1042">[percakapan tidak jelas di latar belakang]</p>
+<p begin="39875416666t" end="39904166666t" style="normal" xml:id="subtitle1043">Asalkan sampai ke tangan Othman.</p>
+<p begin="39934583333t" end="39950000000t" style="normal" xml:id="subtitle1044">Saya pastikan dia dapat surat ini.</p>
+<p begin="39950833333t" end="39981666666t" style="normal" xml:id="subtitle1045">[percakapan tidak jelas di latar belakang]</p>
+<p begin="39982500000t" end="39995000000t" style="normal" xml:id="subtitle1046">Terima kasih, Lum.</p>
+<p begin="40107083333t" end="40116250000t" style="normal" xml:id="subtitle1047">Xiao Bo.</p>
+<p begin="40122083333t" end="40159166666t" style="normal" xml:id="subtitle1048">[bahasa Cina] Surat ini mesti<br/>diserahkan kepada Othman di kapal P&amp;O.</p>
+<p begin="40160000000t" end="40173750000t" style="normal" xml:id="subtitle1049">[bahasa Cina] Dia perlu dapat.</p>
+<p begin="40183333333t" end="40198333333t" style="normal" xml:id="subtitle1050">[Xiao Bo berbahasa Cina] Qing.</p>
+<p begin="40201250000t" end="40222916666t" style="normal" xml:id="subtitle1051">[Xiao Bo berbahasa Cina]<br/>Beri surat kepada Othman.</p>
+<p begin="40303750000t" end="40369166666t" style="normal" xml:id="subtitle1052">[lelaki mengimpal]</p>
+<p begin="40375833333t" end="40404583333t" region="top" style="normal" xml:id="subtitle1053">1953, KAPAL P&amp;O, LAUTAN PASIFIK</p>
+<p begin="40422083333t" end="40460000000t" style="normal" xml:id="subtitle1054">[pintu terbuka kemudian tertutup]</p>
+<p begin="40540416666t" end="40574166666t" style="normal" xml:id="subtitle1055">["Layarlah Kembali" dimainkan]</p>
+<p begin="40592500000t" end="40613333333t" style="normal" xml:id="subtitle1056">- [loceng berdering] Surat!<br/>- Hei.</p>
+<p begin="40631250000t" end="40639583333t" style="normal" xml:id="subtitle1057">Surat!</p>
+<p begin="40644166666t" end="40657083333t" style="normal" xml:id="subtitle1058">Tolong angkat ini.</p>
+<p begin="40666666666t" end="40675000000t" style="normal" xml:id="subtitle1059">[posmen] Pos!</p>
+<p begin="40675833333t" end="40710833333t" style="normal" xml:id="subtitle1060">[muzik latar]</p>
+<p begin="40788750000t" end="40797916666t" style="normal" xml:id="subtitle1061">[loceng berdering]</p>
+<p begin="41177500000t" end="41212500000t" style="normal" xml:id="subtitle1062">[muzik latar semakin lenyap]</p>
+<p begin="41230833333t" end="41245000000t" style="normal" xml:id="subtitle1063">Dia tak akan pulang.</p>
+<p begin="41263750000t" end="41275000000t" style="normal" xml:id="subtitle1064">Kamu perlu terima.</p>
+<p begin="41299166666t" end="41308750000t" style="normal" xml:id="subtitle1065">Mak sudah terima.</p>
+<p begin="41333333333t" end="41343750000t" style="normal" xml:id="subtitle1066">[peti kayu tertutup]</p>
+<p begin="41354583333t" end="41367916666t" style="normal" xml:id="subtitle1067">Saya tahu ayah akan balik.</p>
+<p begin="41388750000t" end="41400000000t" style="normal" xml:id="subtitle1068">[peti kayu terbuka]</p>
+<p begin="41411666666t" end="41421250000t" style="normal" xml:id="subtitle1069">Kalau tak pulang...</p>
+<p begin="41436250000t" end="41447083333t" style="normal" xml:id="subtitle1070">saya pergi cari ayah.</p>
+<p begin="41505833333t" end="41552916666t" style="normal" xml:id="subtitle1071">[ombak menghempas]</p>
+<p begin="41553750000t" end="41567500000t" style="normal" xml:id="subtitle1072">Ada berita daripada Othman?</p>
+<p begin="41623750000t" end="41638750000t" style="normal" xml:id="subtitle1073">[Thom] Poskad pun sudah tiada.</p>
+<p begin="41660833333t" end="41670833333t" style="normal" xml:id="subtitle1074">Surat...</p>
+<p begin="41695416666t" end="41706250000t" style="normal" xml:id="subtitle1075">apatah lagi.</p>
+<p begin="41737916666t" end="41758750000t" style="normal" xml:id="subtitle1076">Lum pun tak hantar apa-apa berita.</p>
+<p begin="41777083333t" end="41796250000t" style="normal" xml:id="subtitle1077">Orang laut semua sama sahaja.</p>
+<p begin="41838750000t" end="41855000000t" style="normal" xml:id="subtitle1078">Tapi saya orang darat, Che Thom.</p>
+<p begin="41881250000t" end="41901666666t" style="normal" xml:id="subtitle1079">[bunyi ombak memukul]</p>
+<p begin="42048750000t" end="42090416666t" style="normal" xml:id="subtitle1080">1954, MADAGASKAR</p>
+<p begin="42207083333t" end="42250000000t" region="top" style="normal" xml:id="subtitle1081">1954, DURBAN, AFRIKA SELATAN</p>
+<p begin="42250833333t" end="42267916666t" style="normal" xml:id="subtitle1082">[percakapan tidak jelas]</p>
+<p begin="42270416666t" end="42280000000t" style="normal" xml:id="subtitle1083">[percikan air]</p>
+<p begin="42337500000t" end="42357916666t" style="normal" xml:id="subtitle1084">[percikan air]</p>
+<p begin="42502916666t" end="42518333333t" style="normal" xml:id="subtitle1085">[Othman berbahasa Inggeris] Turun.</p>
+<p begin="42561250000t" end="42578333333t" style="normal" xml:id="subtitle1086">[Othman berbahasa Inggeris] Turun.</p>
+<p begin="42616250000t" end="42628333333t" style="normal" xml:id="subtitle1087">[bahasa Inggeris] Turun.</p>
+<p begin="42635416666t" end="42670000000t" style="normal" xml:id="subtitle1088">PENNY LANE, IKAN DAN JEJARI KENTANG</p>
+<p begin="42719166666t" end="42747083333t" style="normal" xml:id="subtitle1089">[pintu terbuka]</p>
+<p begin="42798333333t" end="42835000000t" style="normal" xml:id="subtitle1090">["Angin Menderu" dimainkan]<br/><span style="normal_1">♪ Angin menderu ♪</span></p>
+<p begin="42835833333t" end="42900833333t" style="normal" xml:id="subtitle1091"><span style="normal_1">♪ Dahan jatuh menimpa batu ♪</span></p>
+<p begin="42903750000t" end="42922083333t" style="normal" xml:id="subtitle1092">[pintu tertutup]</p>
+<p begin="43170000000t" end="43184583333t" style="normal" xml:id="subtitle1093">[Othman berbahasa Inggeris] Lagi.</p>
+<p begin="43194583333t" end="43206250000t" style="normal" xml:id="subtitle1094">[bahasa Inggeris] Lagi.</p>
+<p begin="43214166666t" end="43228750000t" style="normal" xml:id="subtitle1095">[bahasa Inggeris] Turun lagi.</p>
+<p begin="43230000000t" end="43247916666t" style="normal" xml:id="subtitle1096">[bahasa Inggeris] Perlahan.</p>
+<p begin="43254166666t" end="43267916666t" style="normal" xml:id="subtitle1097">[bahasa Inggeris] Berhenti!</p>
+<p begin="43272083333t" end="43283750000t" style="normal" xml:id="subtitle1098">[berdentum]</p>
+<p begin="43284583333t" end="43352083333t" style="normal" xml:id="subtitle1099">[Othman batuk]</p>
+<p begin="43352916666t" end="43365416666t" style="normal" xml:id="subtitle1100">[bahasa Inggeris] Awak okey?</p>
+<p begin="43371250000t" end="43382083333t" style="normal" xml:id="subtitle1101">[bahasa Inggeris] Pasti?</p>
+<p begin="43386666666t" end="43409166666t" style="normal" xml:id="subtitle1102">[Othman batuk]</p>
+<p begin="43606250000t" end="43635416666t" region="top" style="normal" xml:id="subtitle1103">KELAB KELASI MELAYU</p>
+<p begin="43636250000t" end="43655833333t" region="top" style="normal" xml:id="subtitle1104">[Lum] Dia tarik benang, tanya...</p>
+<p begin="43661666666t" end="43679583333t" style="normal" xml:id="subtitle1105">"Itu duyungkah?"</p>
+<p begin="43680416666t" end="43697083333t" style="normal" xml:id="subtitle1106">"Bukan, itu ikan pari!"</p>
+<p begin="43697916666t" end="43722083333t" style="normal" xml:id="subtitle1107">[lelaki ketawa]</p>
+<p begin="43722916666t" end="43747500000t" style="normal" xml:id="subtitle1108">[Lum] Dia tanya, "Jantan atau betina?"</p>
+<p begin="43760416666t" end="43787500000t" style="normal" xml:id="subtitle1109">- "Ikan pari ini mengandung!"<br/>- [lelaki ketawa]</p>
+<p begin="43791250000t" end="43805833333t" style="normal" xml:id="subtitle1110">[Lum] Mengandung, dia cakap.</p>
+<p begin="43806666666t" end="43856250000t" style="normal" xml:id="subtitle1111">[lelaki terus ketawa]</p>
+<p begin="43857083333t" end="43895833333t" style="normal" xml:id="subtitle1112">[Lum berbahasa Inggeris]<br/>Boleh bayangkan, ikan pari mengandung?</p>
+<p begin="43918333333t" end="43932500000t" style="normal" xml:id="subtitle1113">Selamat sejahtera, Omar.</p>
+<p begin="44042083333t" end="44050416666t" style="normal" xml:id="subtitle1114">Man.</p>
+<p begin="44063750000t" end="44072500000t" style="normal" xml:id="subtitle1115">Lum.</p>
+<p begin="44087500000t" end="44101250000t" style="normal" xml:id="subtitle1116">- [ketawa kecil] Man!<br/>- Lum.</p>
+<p begin="44102083333t" end="44131666666t" style="normal" xml:id="subtitle1117">[Lum ketawa kecil]</p>
+<p begin="44142916666t" end="44154166666t" style="normal" xml:id="subtitle1118">Tidak sabar.</p>
+<p begin="44180833333t" end="44203750000t" style="normal" xml:id="subtitle1119">Dengan nama Tuhan yang<br/>Maha Pengasih dan Penyayang.</p>
+<p begin="44240000000t" end="44250416666t" style="normal" xml:id="subtitle1120">[sudu garpu berdentang]</p>
+<p begin="44279583333t" end="44302083333t" style="normal" xml:id="subtitle1121">- Sama macam dulu, Lum.<br/>- Bagaimana?</p>
+<p begin="44318333333t" end="44327916666t" style="normal" xml:id="subtitle1122">Teruk.</p>
+<p begin="44329583333t" end="44364583333t" style="normal" xml:id="subtitle1123">- [kedua-duanya ketawa]<br/>- [Lum menepuk meja]</p>
+<p begin="44365416666t" end="44392916666t" style="normal" xml:id="subtitle1124">[api bergemeretak]</p>
+<p begin="44424166666t" end="44437500000t" style="normal" xml:id="subtitle1125">Awak dah balik Malaya?</p>
+<p begin="44445000000t" end="44455000000t" style="normal" xml:id="subtitle1126">Tidak jumpa Thom?</p>
+<p begin="44485416666t" end="44515000000t" style="normal" xml:id="subtitle1127">Tiga tahun selepas awak belayar,<br/>dia cari awak di Hong Kong.</p>
+<p begin="44539583333t" end="44559166666t" style="normal" xml:id="subtitle1128">Masa itu, awak belayar ke Rusia.</p>
+<p begin="44568333333t" end="44580416666t" style="normal" xml:id="subtitle1129">Nasib baik dia jumpa saya.</p>
+<p begin="44581250000t" end="44596250000t" style="normal" xml:id="subtitle1130">[pemetik api berbunyi]</p>
+<p begin="44597083333t" end="44620833333t" style="normal" xml:id="subtitle1131">- [api bergemeretak]<br/>- [pemetik api berbunyi]</p>
+<p begin="44655000000t" end="44667083333t" style="normal" xml:id="subtitle1132">[meniup asap rokok]</p>
+<p begin="44667916666t" end="44684583333t" style="normal" xml:id="subtitle1133">Dia cari saya, Lum?</p>
+<p begin="44704583333t" end="44716250000t" style="normal" xml:id="subtitle1134">Bahaya.</p>
+<p begin="44730000000t" end="44742083333t" style="normal" xml:id="subtitle1135">Tetapi dia berani...</p>
+<p begin="44752500000t" end="44764166666t" style="normal" xml:id="subtitle1136">macam awak juga.</p>
+<p begin="44793750000t" end="44808333333t" style="normal" xml:id="subtitle1137">Dia cakap terpaksa cari awak.</p>
+<p begin="44823333333t" end="44853333333t" style="normal" xml:id="subtitle1138">Sebab tiada berita, tidak balik-balik.</p>
+<p begin="44862083333t" end="44876250000t" style="normal" xml:id="subtitle1139">Awak tak balik langsung?</p>
+<p begin="44898750000t" end="44910416666t" style="normal" xml:id="subtitle1140">Baliklah.</p>
+<p begin="44918750000t" end="44937083333t" style="normal" xml:id="subtitle1141">Kenapa tua sendirian di sini?</p>
+<p begin="44951250000t" end="44963750000t" style="normal" xml:id="subtitle1142">Ada kampung, lagi bagus.</p>
+<p begin="44997083333t" end="45021250000t" style="normal" xml:id="subtitle1143">Kalau saya ada anak<br/>dan isteri, saya sudah balik.</p>
+<p begin="45032500000t" end="45045416666t" style="normal" xml:id="subtitle1144">Kopi atau teh, Lum?</p>
+<p begin="45072916666t" end="45085416666t" style="normal" xml:id="subtitle1145">Kopilah.</p>
+<p begin="45089166666t" end="45101666666t" style="normal" xml:id="subtitle1146">Baru kenalkah?</p>
+<p begin="45205416666t" end="45214583333t" style="normal" xml:id="subtitle1147">Ambil ini.</p>
+<p begin="45216666666t" end="45242916666t" style="normal" xml:id="subtitle1148">- Tidak perlulah.<br/>- Di sana lagi banyak, lagi cantik.</p>
+<p begin="45243750000t" end="45252916666t" style="normal" xml:id="subtitle1149">Ambil.</p>
+<p begin="45273750000t" end="45300833333t" style="normal" xml:id="subtitle1150">[bunyi tapak kaki]</p>
+<p begin="45314583333t" end="45322916666t" style="normal" xml:id="subtitle1151">Lum.</p>
+<p begin="45340416666t" end="45371250000t" style="normal" xml:id="subtitle1152">Saya nak cakap terima kasih.<br/>Awak banyak tolong saya.</p>
+<p begin="45378333333t" end="45390833333t" style="normal" xml:id="subtitle1153">- Kalau awak...<br/>- Apa ini?</p>
+<p begin="45396666666t" end="45411250000t" style="normal" xml:id="subtitle1154">Cakap macam orang tua.</p>
+<p begin="45412083333t" end="45422916666t" style="normal" xml:id="subtitle1155">[ketawa kecil]</p>
+<p begin="45425000000t" end="45439583333t" style="normal" xml:id="subtitle1156">Umur panjang lagi.</p>
+<p begin="45447500000t" end="45455833333t" style="normal" xml:id="subtitle1157">Hmm?</p>
+<p begin="45460000000t" end="45473333333t" style="normal" xml:id="subtitle1158">Saya hantar poskad nanti.</p>
+<p begin="45563333333t" end="45585000000t" style="normal" xml:id="subtitle1159">[Lum] Cepatlah.</p>
+<p begin="45588750000t" end="45613333333t" style="normal" xml:id="subtitle1160">Tertinggal kapal nanti,<br/>saya tidak sampai Amerika.</p>
+<p begin="45625000000t" end="45646666666t" style="normal" xml:id="subtitle1161">[kedua-duanya ketawa]</p>
+<p begin="45682500000t" end="45693750000t" style="normal" xml:id="subtitle1162">Jaga diri.</p>
+<p begin="45795833333t" end="45807083333t" style="normal" xml:id="subtitle1163">[bahasa Inggeris] Hei.</p>
+<p begin="45808750000t" end="45819166666t" style="normal" xml:id="subtitle1164">[bahasa Inggeris] Okey.</p>
+<p begin="46008750000t" end="46019166666t" style="normal" xml:id="subtitle1165">[pintu terbuka]</p>
+<p begin="46031666666t" end="46080416666t" style="normal" xml:id="subtitle1166">[muzik disko di latar belakang]</p>
+<p begin="46097916666t" end="46139166666t" style="normal" xml:id="subtitle1167">[orang ramai berbual tidak<br/>jelas dengan muzik kuat]</p>
+<p begin="46140000000t" end="46149583333t" style="normal" xml:id="subtitle1168">[pintu tertutup]</p>
+<p begin="46155833333t" end="46201250000t" style="normal" xml:id="subtitle1169">[orang ramai berbual tidak<br/>jelas dengan muzik kuat]</p>
+<p begin="46206666666t" end="46237500000t" style="normal" xml:id="subtitle1170">[orang ramai berbual tidak<br/>jelas dengan muzik kuat]</p>
+<p begin="46253750000t" end="46265833333t" style="normal" xml:id="subtitle1171">[bahasa Inggeris] Maaf.</p>
+<p begin="46266666666t" end="46284166666t" style="normal" xml:id="subtitle1172">Saya nak jumpa Othman Haji Alias.</p>
+<p begin="46309583333t" end="46364583333t" style="normal" xml:id="subtitle1173">[muzik disko terus bermain]</p>
+<p begin="46365416666t" end="46384166666t" style="normal" xml:id="subtitle1174">- Othman Haji Alias?<br/>- [lelaki ketawa]</p>
+<p begin="46392083333t" end="46410416666t" style="normal" xml:id="subtitle1175">[bahasa Inggeris] Di sana.</p>
+<p begin="46425833333t" end="46469166666t" style="normal" xml:id="subtitle1176">[lelaki berbual tidak jelas]</p>
+<p begin="46555833333t" end="46595000000t" style="normal" xml:id="subtitle1177">- [orang ramai berbual tidak jelas]<br/>- [Othman batuk dari jauh]</p>
+<p begin="46595833333t" end="46605833333t" style="normal" xml:id="subtitle1178">[Othman batuk]</p>
+<p begin="46738333333t" end="46746666666t" style="normal" xml:id="subtitle1179">Tepi.</p>
+<p begin="46775416666t" end="46783750000t" style="normal" xml:id="subtitle1180">Ayah.</p>
+<p begin="46866666666t" end="46876666666t" style="normal" xml:id="subtitle1181">Omar?</p>
+<p begin="46985416666t" end="47011666666t" style="normal" xml:id="subtitle1182">[tercungap-cungap]</p>
+<p begin="47072500000t" end="47085833333t" style="normal" xml:id="subtitle1183">Omar, anak ayah.</p>
+<p begin="47148750000t" end="47163750000t" style="normal" xml:id="subtitle1184">[suara serak] Omar, anak ayah.</p>
+<p begin="47207916666t" end="47232083333t" style="normal" xml:id="subtitle1185">[Othman teresak-esak] Omar, anak ayah.</p>
+<p begin="47292916666t" end="47327916666t" style="normal" xml:id="subtitle1186">- [Othman batuk]<br/>- [kopi dituang]</p>
+<p begin="47332083333t" end="47347083333t" style="normal" xml:id="subtitle1187">[Othman] Bagaimana jumpa ayah?</p>
+<p begin="47355000000t" end="47367500000t" style="normal" xml:id="subtitle1188">Pak Cik Lum beri surat...</p>
+<p begin="47379583333t" end="47390000000t" style="normal" xml:id="subtitle1189">[Omar] dan alamat.</p>
+<p begin="47446250000t" end="47456250000t" style="normal" xml:id="subtitle1190">Duduk.</p>
+<p begin="47469583333t" end="47480000000t" style="normal" xml:id="subtitle1191">[Othman] Minumlah.</p>
+<p begin="47641666666t" end="47659166666t" style="normal" xml:id="subtitle1192">Tiada apa harta pun, Omar.</p>
+<p begin="47660000000t" end="47676666666t" style="normal" xml:id="subtitle1193">[mancis menyala]</p>
+<p begin="47737083333t" end="47752500000t" style="normal" xml:id="subtitle1194">Belayar bertahun-tahun...</p>
+<p begin="47788333333t" end="47801250000t" style="normal" xml:id="subtitle1195">tapi tiada apa.</p>
+<p begin="47817500000t" end="47842500000t" style="normal" xml:id="subtitle1196">Ayah. Rumah kita di kampung ada lagi.</p>
+<p begin="47858750000t" end="47880416666t" style="normal" xml:id="subtitle1197">Cuma mak sudah jual bot.</p>
+<p begin="47881250000t" end="47894583333t" style="normal" xml:id="subtitle1198">Tidak apa.</p>
+<p begin="47910000000t" end="47931250000t" style="normal" xml:id="subtitle1199">Harta mak kamu, bukan harta ayah.</p>
+<p begin="47973750000t" end="47987083333t" style="normal" xml:id="subtitle1200">Ayah tidak mahu balik?</p>
+<p begin="48001666666t" end="48011250000t" style="normal" xml:id="subtitle1201">[menghirup kopi]</p>
+<p begin="48016250000t" end="48032083333t" style="normal" xml:id="subtitle1202">[berdeham kemudian batuk]</p>
+<p begin="48055000000t" end="48078750000t" style="normal" xml:id="subtitle1203">Tiada tempat untuk ayah di situ, Omar.</p>
+<p begin="48123750000t" end="48137083333t" style="normal" xml:id="subtitle1204">Ayah tak mahu jumpa mak?</p>
+<p begin="48150833333t" end="48166666666t" style="normal" xml:id="subtitle1205">[menghembus asap rokok]</p>
+<p begin="48258333333t" end="48272916666t" style="normal" xml:id="subtitle1206">Ayah tidak kasihankan mak?</p>
+<p begin="48316250000t" end="48327500000t" style="normal" xml:id="subtitle1207">Kenapa ayah tak balik?</p>
+<p begin="48328333333t" end="48364583333t" style="normal" xml:id="subtitle1208">[api bergemeretak]</p>
+<p begin="48499166666t" end="48519166666t" style="normal" xml:id="subtitle1209">Ayah ingat reban ayam di rumah kita itu?</p>
+<p begin="48534166666t" end="48545833333t" style="normal" xml:id="subtitle1210">Sudah besar, ayah.</p>
+<p begin="48556666666t" end="48580833333t" style="normal" xml:id="subtitle1211">Ayah ingat masa ayam kita terlepas?</p>
+<p begin="48597500000t" end="48620000000t" style="normal" xml:id="subtitle1212">- Kita keliling rumah.<br/>- [Othman ketawa kecil]</p>
+<p begin="48624583333t" end="48643750000t" style="normal" xml:id="subtitle1213">Kita kejar ayam sampai ke dalam rumah.</p>
+<p begin="48662083333t" end="48672083333t" style="normal" xml:id="subtitle1214">[Othman batuk]</p>
+<p begin="48672916666t" end="48686666666t" style="normal" xml:id="subtitle1215">Kamu ingat lagi, Omar?</p>
+<p begin="48710833333t" end="48720416666t" style="normal" xml:id="subtitle1216">Ingat, ayah.</p>
+<p begin="48739583333t" end="48757916666t" style="normal" xml:id="subtitle1217">Selepas itu, selang beberapa hari...</p>
+<p begin="48791666666t" end="48805000000t" style="normal" xml:id="subtitle1218">ayah pergi Singapura.</p>
+<p begin="48899166666t" end="48918750000t" style="normal" xml:id="subtitle1219">Selepas itu, ayah terus tak balik.</p>
+<p begin="48984166666t" end="49023750000t" style="normal" xml:id="subtitle1220">Ayah tahu sampai sekarang mak tunggu ayah?</p>
+<p begin="49092083333t" end="49111250000t" style="normal" xml:id="subtitle1221">Kamu tahu kenapa ayah tak balik?</p>
+<p begin="49170833333t" end="49182916666t" style="normal" xml:id="subtitle1222">Ayah mahu pulang.</p>
+<p begin="49197916666t" end="49207083333t" style="normal" xml:id="subtitle1223">[pintu terbuka]</p>
+<p begin="49211666666t" end="49233333333t" style="normal" xml:id="subtitle1224">[Othman]<br/><span style="normal_1">Tetapi takdir bukan ketentuan ayah.</span></p>
+<p begin="49307916666t" end="49317083333t" region="top" style="normal" xml:id="subtitle1225">[angin kencang]</p>
+<p begin="49317916666t" end="49352916666t" region="top" style="normal" xml:id="subtitle1226">1953, KAPAL P&amp;O, LAUTAN PASIFIK</p>
+<p begin="49358333333t" end="49380833333t" style="normal" xml:id="subtitle1227">[kapal berkeriut]</p>
+<p begin="49422500000t" end="49442500000t" style="normal" xml:id="subtitle1228">[bahasa Inggeris] Kita menempuhi taufan.</p>
+<p begin="49487083333t" end="49508333333t" style="normal" xml:id="subtitle1229">- [angin bertiup kencang]<br/>- [ombak menghempas]</p>
+<p begin="49568750000t" end="49585833333t" style="normal" xml:id="subtitle1230">[hujan lebat]</p>
+<p begin="49586666666t" end="49601666666t" style="normal" xml:id="subtitle1231">- [batuk]<br/>- Oh, Tuhan.</p>
+<p begin="49602500000t" end="49614583333t" style="normal" xml:id="subtitle1232">[bahasa Inggeris] Ke kanan!</p>
+<p begin="49640833333t" end="49656666666t" style="normal" xml:id="subtitle1233">[penggera berbunyi]</p>
+<p begin="49682500000t" end="49698750000t" style="normal" xml:id="subtitle1234">- [terhempas]<br/>- [mendengus]</p>
+<p begin="49699583333t" end="49737916666t" style="normal" xml:id="subtitle1235">[penggera berbunyi]</p>
+<p begin="49762083333t" end="49786250000t" style="normal" xml:id="subtitle1236">[ombak menghempas]</p>
+<p begin="49787083333t" end="49797083333t" style="normal" xml:id="subtitle1237">[penggera berbunyi]</p>
+<p begin="49797916666t" end="49812500000t" style="normal" xml:id="subtitle1238">[bahasa Inggeris] Dek atas!</p>
+<p begin="49825833333t" end="49853333333t" style="normal" xml:id="subtitle1239">[bahasa Inggeris] Bangun! Cepat!</p>
+<p begin="49863750000t" end="49881250000t" style="normal" xml:id="subtitle1240">[hujan lebat]</p>
+<p begin="49882083333t" end="49919583333t" style="normal" xml:id="subtitle1241">- [kelasi berbahasa Inggeris] Cepat!<br/>- [Othman berbahasa Inggeris] Cepat!</p>
+<p begin="49920416666t" end="49937083333t" style="normal" xml:id="subtitle1242">[hujan lebat]</p>
+<p begin="49937916666t" end="49957916666t" style="normal" xml:id="subtitle1243">- Duit.<br/>- [kelasi berbahasa Inggeris] Awas!</p>
+<p begin="49965000000t" end="49981666666t" style="normal" xml:id="subtitle1244">[bahasa Inggeris] Jangan!</p>
+<p begin="49983750000t" end="50007500000t" style="normal" xml:id="subtitle1245">[kelasi memekik]</p>
+<p begin="50021666666t" end="50032916666t" style="normal" xml:id="subtitle1246">[percikan air]</p>
+<p begin="50099166666t" end="50116666666t" style="normal" xml:id="subtitle1247">[bahasa Inggeris] Cari jalan lain!</p>
+<p begin="50145416666t" end="50185833333t" style="normal" xml:id="subtitle1248">- [penggera berbunyi]<br/>- [kapal berkeriut]</p>
+<p begin="50208333333t" end="50235416666t" style="normal" xml:id="subtitle1249">[hujan lebat]</p>
+<p begin="50246666666t" end="50261666666t" style="normal" xml:id="subtitle1250">[bahasa Inggeris] Selamatkan diri!</p>
+<p begin="50262500000t" end="50276666666t" style="normal" xml:id="subtitle1251">[kelasi mendengus]</p>
+<p begin="50278333333t" end="50292500000t" style="normal" xml:id="subtitle1252">[ombak besar menghempas]</p>
+<p begin="50293333333t" end="50315416666t" style="normal" xml:id="subtitle1253">- [terhempas]<br/>- [mengerang]</p>
+<p begin="50330833333t" end="50340416666t" style="normal" xml:id="subtitle1254">[Kapten memekik]</p>
+<p begin="50341250000t" end="50370833333t" style="normal" xml:id="subtitle1255">[kelasi memekik]</p>
+<p begin="50399583333t" end="50410000000t" style="normal" xml:id="subtitle1256">[tingkap berkeriut]</p>
+<p begin="50415000000t" end="50442083333t" style="normal" xml:id="subtitle1257">[tingkap berkeriut]</p>
+<p begin="50444166666t" end="50465416666t" style="normal" xml:id="subtitle1258">- [air mencurah-curah]<br/>- [kelasi memekik]</p>
+<p begin="50504583333t" end="50512916666t" style="normal" xml:id="subtitle1259">[kelasi memekik]</p>
+<p begin="50520833333t" end="50535416666t" style="normal" xml:id="subtitle1260">[kelasi mendengus]</p>
+<p begin="50537916666t" end="50548750000t" style="normal" xml:id="subtitle1261">[ombak menghempas]</p>
+<p begin="50582916666t" end="50610000000t" style="normal" xml:id="subtitle1262">- [kelasi memekik]<br/>- [air mencurah-curah]</p>
+<p begin="50659583333t" end="50679583333t" style="normal" xml:id="subtitle1263">- [air mencurah-curah]<br/>- [kelasi memekik]</p>
+<p begin="50745833333t" end="50754166666t" style="normal" xml:id="subtitle1264">[Othman mendengus]</p>
+<p begin="50755000000t" end="50786250000t" style="normal" xml:id="subtitle1265">[kapal berkeriut]</p>
+<p begin="50787083333t" end="50815416666t" style="normal" xml:id="subtitle1266">- [logam patah]<br/>- [kapal berkeriut]</p>
+<p begin="50838333333t" end="50860833333t" style="normal" xml:id="subtitle1267">- [kapal terbelah]<br/>- [Othman mendengus]</p>
+<p begin="50867083333t" end="50908750000t" style="normal" xml:id="subtitle1268">[kapal terus berkeriut]</p>
+<p begin="50958750000t" end="50972083333t" style="normal" xml:id="subtitle1269">[Othman memekik]</p>
+<p begin="51302083333t" end="51339166666t" style="normal" xml:id="subtitle1270">[hujan lebat]</p>
+<p begin="51340000000t" end="51349583333t" style="normal" xml:id="subtitle1271">[Othman mengerang]</p>
+<p begin="51432916666t" end="51445833333t" style="normal" xml:id="subtitle1272">[Othman termengah-mengah]</p>
+<p begin="51552083333t" end="51570000000t" style="normal" xml:id="subtitle1273">[Othman memekik]</p>
+<p begin="51752500000t" end="51762916666t" style="normal" xml:id="subtitle1274">[batuk]</p>
+<p begin="51987500000t" end="52012500000t" style="normal" xml:id="subtitle1275">[bahasa Inggeris]<br/>Orang dalam laut! Bawa pelampung!</p>
+<p begin="52058750000t" end="52069583333t" style="normal" xml:id="subtitle1276">[percikan air]</p>
+<p begin="52211250000t" end="52220416666t" style="normal" xml:id="subtitle1277">[Karim] Bagaimana?</p>
+<p begin="52243333333t" end="52283333333t" style="normal" xml:id="subtitle1278">[Othman batuk]</p>
+<p begin="52289583333t" end="52297916666t" style="normal" xml:id="subtitle1279">[Karim] Man?</p>
+<p begin="52307083333t" end="52322083333t" style="normal" xml:id="subtitle1280">[Karim] Oh, Tuhan, Othman!</p>
+<p begin="52357500000t" end="52366250000t" style="normal" xml:id="subtitle1281">[Othman batuk]</p>
+<p begin="52417916666t" end="52431250000t" style="normal" xml:id="subtitle1282">Kapal ini ke mana, Karim?</p>
+<p begin="52432500000t" end="52449166666t" style="normal" xml:id="subtitle1283">Kapal ini ke Manila...</p>
+<p begin="52457500000t" end="52471666666t" style="normal" xml:id="subtitle1284">selepas itu ke Goa,</p>
+<p begin="52477083333t" end="52500833333t" style="normal" xml:id="subtitle1285">Cape Town dan terus balik ke London.</p>
+<p begin="52557083333t" end="52570833333t" style="normal" xml:id="subtitle1286">[Othman] Lalu Singapura?</p>
+<p begin="52585833333t" end="52600416666t" style="normal" xml:id="subtitle1287">[Karim] Awak nak balik?</p>
+<p begin="52638750000t" end="52662916666t" style="normal" xml:id="subtitle1288">Tetapi saya tak boleh balik<br/>dalam keadaan begini.</p>
+<p begin="52690416666t" end="52705833333t" style="normal" xml:id="subtitle1289">Sehelai sepinggang.</p>
+<p begin="52769166666t" end="52785000000t" style="normal" xml:id="subtitle1290">Saya malu dengan orang kampung.</p>
+<p begin="52817916666t" end="52828333333t" style="normal" xml:id="subtitle1291">Dengan Thom.</p>
+<p begin="52842083333t" end="52860000000t" style="normal" xml:id="subtitle1292">Hei, apa awak cakap ini?</p>
+<p begin="52866666666t" end="52875000000t" style="normal" xml:id="subtitle1293">Hmm?</p>
+<p begin="52887083333t" end="52910833333t" style="normal" xml:id="subtitle1294">Kapal awak karam. Bukannya salah awak.</p>
+<p begin="52917500000t" end="52940000000t" style="normal" xml:id="subtitle1295">Lagipun, saya kenal<br/>sangat dengan isteri awak.</p>
+<p begin="52952083333t" end="52985000000t" style="normal" xml:id="subtitle1296">Awak rasa dia fikir sangat<br/>awak balik berduit atau tak?</p>
+<p begin="52992916666t" end="53007916666t" style="normal" xml:id="subtitle1297">Asalkan awak selamat.</p>
+<p begin="53031666666t" end="53052500000t" style="normal" xml:id="subtitle1298">Dia nak tahu asalkan awak selamat.</p>
+<p begin="53066250000t" end="53077083333t" style="normal" xml:id="subtitle1299">[Karim menepuk lutut Othman]</p>
+<p begin="53292916666t" end="53325000000t" region="top" style="normal" xml:id="subtitle1300">1953, SINGAPURA</p>
+<p begin="53551666666t" end="53570000000t" style="normal" xml:id="subtitle1301">[Ahmad]<br/><span style="normal_1">Selepas dengar cerita ayah...</span></p>
+<p begin="53597083333t" end="53616666666t" style="normal" xml:id="subtitle1302"><span style="normal_1">saya lebih memahami dirinya.</span></p>
+<p begin="53648750000t" end="53679583333t" style="normal" xml:id="subtitle1303"><span style="normal_1">Tetapi saya rasa dia masih</span><br/><span style="normal_1">memendamkan sesuatu.</span></p>
+<p begin="53714583333t" end="53725416666t" style="normal" xml:id="subtitle1304"><span style="normal_1">Walau apa pun...</span></p>
+<p begin="53735000000t" end="53760416666t" style="normal" xml:id="subtitle1305"><span style="normal_1">saya tetap mahu ayah</span><br/><span style="normal_1">pulang ke pangkuan mak.</span></p>
+<p begin="53798333333t" end="53810833333t" style="normal" xml:id="subtitle1306">[mengeluh]</p>
+<p begin="53872083333t" end="53882916666t" style="normal" xml:id="subtitle1307">[lampu terpadam]</p>
+<p begin="53942083333t" end="53951250000t" style="normal" xml:id="subtitle1308">[pintu berkeriut]</p>
+<p begin="54107500000t" end="54143333333t" style="normal" xml:id="subtitle1309">- [gelas berdentang]<br/>- [air mengalir]</p>
+<p begin="54170833333t" end="54179166666t" style="normal" xml:id="subtitle1310">Ayah?</p>
+<p begin="54189583333t" end="54197916666t" style="normal" xml:id="subtitle1311">Ya, Omar.</p>
+<p begin="54206250000t" end="54222083333t" style="normal" xml:id="subtitle1312">Saya balik London dulu.</p>
+<p begin="54247500000t" end="54259166666t" style="normal" xml:id="subtitle1313">Saya datang lagi, ayah.</p>
+<p begin="54299166666t" end="54307500000t" style="normal" xml:id="subtitle1314">Ya.</p>
+<p begin="54341250000t" end="54357500000t" style="normal" xml:id="subtitle1315">Saya tidak lama di London.</p>
+<p begin="54383333333t" end="54412916666t" style="normal" xml:id="subtitle1316">- Nanti apabila saya habis belajar...<br/>- [pintu terbuka]</p>
+<p begin="54427916666t" end="54441250000t" style="normal" xml:id="subtitle1317">jika ayah nak balik...</p>
+<p begin="54455000000t" end="54467500000t" style="normal" xml:id="subtitle1318">kita balik sama-sama, ya.</p>
+<p begin="54483750000t" end="54495416666t" style="normal" xml:id="subtitle1319">Ya.</p>
+<p begin="54512083333t" end="54524583333t" style="normal" xml:id="subtitle1320">Nanti saya datang lagi.</p>
+<p begin="54566250000t" end="54574583333t" style="normal" xml:id="subtitle1321">Ya.</p>
+<p begin="54587083333t" end="54597916666t" style="normal" xml:id="subtitle1322">Cuti Krismas.</p>
+<p begin="54625000000t" end="54633333333t" style="normal" xml:id="subtitle1323">Ya.</p>
+<p begin="54637916666t" end="54647916666t" style="normal" xml:id="subtitle1324">[tersedu]</p>
+<p begin="54648750000t" end="54662500000t" style="normal" xml:id="subtitle1325">Kita makan sama-sama.</p>
+<p begin="54697083333t" end="54705416666t" style="normal" xml:id="subtitle1326">Ya.</p>
+<p begin="54727083333t" end="54737916666t" style="normal" xml:id="subtitle1327">Saya telefon ayah.</p>
+<p begin="54777083333t" end="54790000000t" style="normal" xml:id="subtitle1328">Malamlah.</p>
+<p begin="54801250000t" end="54813750000t" style="normal" xml:id="subtitle1329">Siang, ayah kerja.</p>
+<p begin="54980416666t" end="55000000000t" style="normal" xml:id="subtitle1330">[mendengus]</p>
+<p begin="55025416666t" end="55053333333t" style="normal" xml:id="subtitle1331">Mak kamu tahu ayah di sini?</p>
+<p begin="55071250000t" end="55079583333t" style="normal" xml:id="subtitle1332">Tidak.</p>
+<p begin="55102916666t" end="55111250000t" style="normal" xml:id="subtitle1333">Yalah.</p>
+<p begin="55122500000t" end="55138333333t" style="normal" xml:id="subtitle1334">- Saya balik dulu.<br/>- Hmm.</p>
+<p begin="55151250000t" end="55159583333t" style="normal" xml:id="subtitle1335">Ya.</p>
+<p begin="55187916666t" end="55217083333t" style="normal" xml:id="subtitle1336">- Selamat jalan.<br/>- Selamat tinggal.</p>
+<p begin="55564166666t" end="55590833333t" style="normal" xml:id="subtitle1337">- [Othman batuk]<br/>- [pemandu berbahasa Inggeris] <span style="normal_1">Baik</span>.</p>
+<p begin="55605416666t" end="55620000000t" style="normal" xml:id="subtitle1338">[bahasa Inggeris] Sudah sampai.</p>
+<p begin="55682500000t" end="55697083333t" style="normal" xml:id="subtitle1339">- [enjin menderu]<br/>- [telefon berbunyi]</p>
+<p begin="55697916666t" end="55719166666t" style="normal" xml:id="subtitle1340">Salam sejahtera. Nenek bagaimana?</p>
+<p begin="55735416666t" end="55745416666t" style="normal" xml:id="subtitle1341">Okey.</p>
+<p begin="55755833333t" end="55771250000t" style="normal" xml:id="subtitle1342">Saya baru sampai.</p>
+<p begin="55776666666t" end="55796250000t" style="normal" xml:id="subtitle1343">Apa-apa nanti, saya telefon.</p>
+<p begin="55806250000t" end="55818750000t" style="normal" xml:id="subtitle1344">Selamat tinggal.</p>
+<p begin="55827500000t" end="55847916666t" style="normal" xml:id="subtitle1345">[angin bertiup]</p>
+<p begin="55854583333t" end="55867916666t" style="normal" xml:id="subtitle1346">[tingkap kayu terbuka]</p>
+<p begin="55972083333t" end="55982083333t" style="normal" xml:id="subtitle1347">[Thom Tua] Omar.</p>
+<p begin="56016250000t" end="56035416666t" style="normal" xml:id="subtitle1348">Mak rindu kamu.</p>
+<p begin="56087916666t" end="56099166666t" style="normal" xml:id="subtitle1349">Saya pun rindukan mak.</p>
+<p begin="56119166666t" end="56138750000t" style="normal" xml:id="subtitle1350">[Omar] Ayah suruh saya jaga bot dia...</p>
+<p begin="56151666666t" end="56165000000t" style="normal" xml:id="subtitle1351">tapi mak jual.</p>
+<p begin="56192083333t" end="56210416666t" style="normal" xml:id="subtitle1352">Mak nak pergi Hong Kong.</p>
+<p begin="56254583333t" end="56266250000t" style="normal" xml:id="subtitle1353">Mak baliklah nanti.</p>
+<p begin="56372500000t" end="56388750000t" style="normal" xml:id="subtitle1354">[termengah-mengah]</p>
+<p begin="56406666666t" end="56417083333t" style="normal" xml:id="subtitle1355">Mak?</p>
+<p begin="56430833333t" end="56456666666t" style="normal" xml:id="subtitle1356">Mak?</p>
+<p begin="56458333333t" end="56480000000t" style="normal" xml:id="subtitle1357">Mak tunggu Ahmad. Saya telefon dia.</p>
+<p begin="56480833333t" end="56492916666t" style="normal" xml:id="subtitle1358">Mak cakap dengan...</p>
+<p begin="56493750000t" end="56511666666t" style="normal" xml:id="subtitle1359">Omar ada sini, mak.</p>
+<p begin="56514583333t" end="56537916666t" style="normal" xml:id="subtitle1360">[Thom Tua termengah-mengah]</p>
+<p begin="56538750000t" end="56555000000t" style="normal" xml:id="subtitle1361">[Jamil] Awak nak cari siapa?</p>
+<p begin="56560416666t" end="56577916666t" style="normal" xml:id="subtitle1362">Kawan saya yang mana satu?</p>
+<p begin="56582083333t" end="56590416666t" style="normal" xml:id="subtitle1363">Oh.</p>
+<p begin="56591250000t" end="56622083333t" style="normal" xml:id="subtitle1364">Saya nak tahu kalau awak kenal datuk saya.</p>
+<p begin="56632083333t" end="56647083333t" style="normal" xml:id="subtitle1365">Othman Haji Alias?</p>
+<p begin="56675000000t" end="56697916666t" style="normal" xml:id="subtitle1366">Dia asal Serkam. Dia duduk di...</p>
+<p begin="56700833333t" end="56717500000t" style="normal" xml:id="subtitle1367">Ah. [ketawa kecil]</p>
+<p begin="56718333333t" end="56752916666t" style="normal" xml:id="subtitle1368">Othman Serkam? Ya. [ketawa kecil]</p>
+<p begin="56753750000t" end="56802916666t" style="normal" xml:id="subtitle1369">Mestilah kenal. Kawan baik.</p>
+<p begin="56803750000t" end="56834166666t" style="normal" xml:id="subtitle1370">Di kelab, hari-hari sama-sama...</p>
+<p begin="56835000000t" end="56849166666t" style="normal" xml:id="subtitle1371">[ketawa kecil]</p>
+<p begin="56850000000t" end="56858750000t" style="normal" xml:id="subtitle1372">Dululah.</p>
+<p begin="56864166666t" end="56880000000t" style="normal" xml:id="subtitle1373">Awak tahu dia di mana sekarang?</p>
+<p begin="56901250000t" end="56920833333t" style="normal" xml:id="subtitle1374">- [pemetik api berbunyi]<br/>- Hmm.</p>
+<p begin="56942500000t" end="56952500000t" style="normal" xml:id="subtitle1375">Dia sudah tiada.</p>
+<p begin="56962083333t" end="56995000000t" style="normal" xml:id="subtitle1376">Dari Tuhan kita datang,<br/>kepada Tuhan kita kembali.</p>
+<p begin="57037083333t" end="57055000000t" style="normal" xml:id="subtitle1377">[tersedu kemudian mengeluh]</p>
+<p begin="57071666666t" end="57085416666t" style="normal" xml:id="subtitle1378">Sudah lamakah, pak cik?</p>
+<p begin="57100416666t" end="57110833333t" style="normal" xml:id="subtitle1379">Sudah lama.</p>
+<p begin="57131250000t" end="57142500000t" style="normal" xml:id="subtitle1380">Ah.</p>
+<p begin="57145833333t" end="57166250000t" style="normal" xml:id="subtitle1381">Tidak ingat pula tahun apa.</p>
+<p begin="57172083333t" end="57220416666t" style="normal" xml:id="subtitle1382">Masa itu, anak dia di sini.</p>
+<p begin="57237083333t" end="57292916666t" style="normal" xml:id="subtitle1383">[Jamil]<br/><span style="normal_1">Kami sama-sama mengebumikan Othman.</span></p>
+<p begin="57455000000t" end="57479166666t" style="normal" xml:id="subtitle1384">[Jamil] Ini topi kawan baik dia, Lum.</p>
+<p begin="57498333333t" end="57532083333t" style="normal" xml:id="subtitle1385">Othman selalu gelak<br/>kalau cerita tentang Lum.</p>
+<p begin="57549583333t" end="57560416666t" style="normal" xml:id="subtitle1386">[menghembus udara]</p>
+<p begin="57901666666t" end="57913750000t" style="normal" xml:id="subtitle1387">[teresak-esak]</p>
+<p begin="57971666666t" end="58036666666t" style="normal" xml:id="subtitle1388">[teresak-esak]</p>
+<p begin="58146666666t" end="58161666666t" style="normal" xml:id="subtitle1389">Awak tahu kubur dia di mana?</p>
+<p begin="58230416666t" end="58245000000t" style="normal" xml:id="subtitle1390">[batuk]</p>
+<p begin="58245833333t" end="58260000000t" style="normal" xml:id="subtitle1391">[Alia] Datuk okey?</p>
+<p begin="58284583333t" end="58292916666t" style="normal" xml:id="subtitle1392">Ah.</p>
+<p begin="58317500000t" end="58330416666t" style="normal" xml:id="subtitle1393">Nak minum?</p>
+<p begin="58377916666t" end="58388750000t" style="normal" xml:id="subtitle1394">Alia.</p>
+<p begin="58393333333t" end="58411666666t" style="normal" xml:id="subtitle1395">[bahasa Inggeris] Di telefon.</p>
+<p begin="58427916666t" end="58445000000t" style="normal" xml:id="subtitle1396">Bagaimana awak tahu tentang datuk?</p>
+<p begin="58452500000t" end="58466250000t" style="normal" xml:id="subtitle1397">[bahasa Inggeris] Jurnal bapa saya.</p>
+<p begin="58470833333t" end="58480833333t" style="normal" xml:id="subtitle1398">Oh.</p>
+<p begin="58487500000t" end="58502500000t" style="normal" xml:id="subtitle1399">[bahasa Inggeris] Boleh lihat?</p>
+<p begin="58563750000t" end="58583750000t" style="normal" xml:id="subtitle1400">[telefon bimbit berdering]</p>
+<p begin="58584583333t" end="58599583333t" style="normal" xml:id="subtitle1401">[bahasa Inggeris] Sekejap.</p>
+<p begin="58603750000t" end="58613750000t" style="normal" xml:id="subtitle1402">Salam sejahtera.</p>
+<p begin="58614583333t" end="58632083333t" style="normal" xml:id="subtitle1403">- [Jaybah] <span style="normal_1">Ahmad.</span><br/>- Nenek bagaimana?</p>
+<p begin="58634583333t" end="58660416666t" style="normal" xml:id="subtitle1404">[Jaybah]<br/>Kita tiada masa, nenek sudah tenat.</p>
+<p begin="58694166666t" end="58706666666t" style="normal" xml:id="subtitle1405">[bahasa Inggeris] Kenapa?</p>
+<p begin="58727083333t" end="58739583333t" style="normal" xml:id="subtitle1406">Nenek sudah nazak.</p>
+<p begin="58755000000t" end="58764166666t" style="normal" xml:id="subtitle1407">Sekarang...</p>
+<p begin="58766666666t" end="58783750000t" style="normal" xml:id="subtitle1408">[bahasa Inggeris] perlu cari kuburnya.</p>
+<p begin="58784583333t" end="58807083333t" style="normal" xml:id="subtitle1409">Nenek kata,<br/>kalau dia tiada, cari kubur dia.</p>
+<p begin="58815000000t" end="58834583333t" style="normal" xml:id="subtitle1410">[bahasa Inggeris] Saya perlu buat, tapi</p>
+<p begin="58835416666t" end="58861250000t" style="normal" xml:id="subtitle1411">saya tak tahu cara mulakan.<br/>Saya tak tahu Liverpool.</p>
+<p begin="58864583333t" end="58888333333t" style="normal" xml:id="subtitle1412">[Alia berbahasa Inggeris]<br/>Baiklah, ke mana kita?</p>
+<p begin="58892916666t" end="58910833333t" style="normal" xml:id="subtitle1413">[Ahmad berbahasa Inggeris] Siapa tahu?</p>
+<p begin="58911666666t" end="58929166666t" style="normal" xml:id="subtitle1414">[bahasa Inggeris] Hospital? Masjid?</p>
+<p begin="58933333333t" end="58946666666t" style="normal" xml:id="subtitle1415">Pasti ada rekod.</p>
+<p begin="58952083333t" end="58960833333t" style="normal" xml:id="subtitle1416">Oh.</p>
+<p begin="58961666666t" end="58972083333t" style="normal" xml:id="subtitle1417">[bahasa Inggeris] Nanti.</p>
+<p begin="58976250000t" end="58987500000t" style="normal" xml:id="subtitle1418">[bahasa Inggeris] Apa?</p>
+<p begin="58988333333t" end="59003750000t" style="normal" xml:id="subtitle1419">Ada seorang profesor</p>
+<p begin="59004583333t" end="59048750000t" style="normal" xml:id="subtitle1420">pernah buat kajian tentang seorang<br/>kelasi Melayu di Liverpool dulu.</p>
+<p begin="59049583333t" end="59063333333t" style="normal" xml:id="subtitle1421">[bahasa Inggeris] Dia tahu.</p>
+<p begin="59066666666t" end="59075416666t" style="normal" xml:id="subtitle1422">Ah.</p>
+<p begin="59091666666t" end="59117083333t" style="normal" xml:id="subtitle1423">[bahasa Inggeris]<br/>Itu dia. Profesor Bunnell.</p>
+<p begin="59117916666t" end="59126666666t" region="top" style="normal" xml:id="subtitle1424">AMBULANS</p>
+<p begin="59127500000t" end="59160833333t" style="normal" xml:id="subtitle1425">[siren berbunyi]</p>
+<p begin="59203750000t" end="59221250000t" style="normal" xml:id="subtitle1426">[Alia berbahasa Inggeris] Terima kasih.</p>
+<p begin="59222083333t" end="59233333333t" style="normal" xml:id="subtitle1427">[Alia] Everton!</p>
+<p begin="59235416666t" end="59284583333t" style="normal" xml:id="subtitle1428">Menurut Tim, kubur orang Islam<br/>ada di Tanah Perkuburan Everton.</p>
+<p begin="59428333333t" end="59440000000t" style="normal" xml:id="subtitle1429">Saya tak jumpa apa-apa.</p>
+<p begin="59446250000t" end="59478333333t" style="normal" xml:id="subtitle1430">- [telefon bimbit berdering]<br/>- Ah.</p>
+<p begin="59486666666t" end="59528333333t" style="normal" xml:id="subtitle1431">[bahasa Inggeris] Hai, Tim.<br/>Kami di Everton, tapi tak jumpa apa-apa.</p>
+<p begin="59539166666t" end="59548333333t" style="normal" xml:id="subtitle1432">Oh.</p>
+<p begin="59557916666t" end="59582083333t" style="normal" xml:id="subtitle1433">[berbahasa Inggeris] Tidak. Terima kasih.</p>
+<p begin="59587083333t" end="59612083333t" style="normal" xml:id="subtitle1434">- [bahasa Inggeris] Mari pergi.<br/>- [bahasa Inggeris] Apa?</p>
+<p begin="59623333333t" end="59648750000t" style="normal" xml:id="subtitle1435">Tim cakap, kubur orang Islam di sini.</p>
+<p begin="59649583333t" end="59694583333t" style="normal" xml:id="subtitle1436">Tetapi kalau sebelum tahun 1970,<br/>di Tanah Perkuburan Anfield.</p>
+<p begin="59697916666t" end="59710416666t" style="normal" xml:id="subtitle1437">[bahasa Inggeris] Tak faham.</p>
+<p begin="59724166666t" end="59744166666t" style="normal" xml:id="subtitle1438">[bahasa Inggeris] Dia di Anfield.</p>
+<p begin="59754583333t" end="59781250000t" style="normal" xml:id="subtitle1439">[bahasa Inggeris]<br/>Ada banyak kubur di Anfield.</p>
+<p begin="59782083333t" end="59794583333t" style="normal" xml:id="subtitle1440">Bagaimana nak cari dia?</p>
+<p begin="59795416666t" end="59812500000t" style="normal" xml:id="subtitle1441">[bahasa Inggeris] Pejabat Pendaftaran.</p>
+<p begin="59813333333t" end="59828750000t" style="normal" xml:id="subtitle1442">Tim suruh ke sana dulu.</p>
+<p begin="59829583333t" end="59882916666t" style="normal" xml:id="subtitle1443">[termengah-mengah]</p>
+<p begin="60120416666t" end="60144583333t" style="normal" xml:id="subtitle1444">[bahasa Inggeris]<br/>Tiada apa-apa pada tahun 1966.</p>
+<p begin="60145416666t" end="60155833333t" style="normal" xml:id="subtitle1445">[bahasa Inggeris] Nanti.</p>
+<p begin="60156666666t" end="60173333333t" style="normal" xml:id="subtitle1446">Kenapa datuk awak tak balik?</p>
+<p begin="60176250000t" end="60202083333t" style="normal" xml:id="subtitle1447">Mesti dia sudah kumpul duit<br/>selepas kapal karam itu.</p>
+<p begin="60202916666t" end="60227500000t" style="normal" xml:id="subtitle1448">Kalau tidak banyak pun,<br/>mesti cukup untuk bawa balik.</p>
+<p begin="60228333333t" end="60245000000t" style="normal" xml:id="subtitle1449">Tetapi kenapa duduk di Liverpool</p>
+<p begin="60245833333t" end="60259583333t" style="normal" xml:id="subtitle1450">- dan tidak...<br/>- Awak dengar?</p>
+<p begin="60260416666t" end="60277500000t" style="normal" xml:id="subtitle1451">[bahasa Inggeris]<br/>Tiada apa pada tahun 1966.</p>
+<p begin="60278333333t" end="60311666666t" style="normal" xml:id="subtitle1452">- [bunyi tapak kaki menghampiri]<br/>- [bahasa Inggeris] Ada satu lagi.</p>
+<p begin="60323333333t" end="60341250000t" style="normal" xml:id="subtitle1453">[bahasa Inggeris] Saya ada di sana.</p>
+<p begin="60350416666t" end="60358750000t" style="normal" xml:id="subtitle1454">[mengeluh]</p>
+<p begin="60361250000t" end="60372916666t" style="normal" xml:id="subtitle1455">[mengeluh]</p>
+<p begin="60400416666t" end="60412500000t" style="normal" xml:id="subtitle1456">[bahasa Inggeris] Lagi.</p>
+<p begin="60440833333t" end="60452500000t" style="normal" xml:id="subtitle1457">[Alia berbahasa Inggeris]<br/>Lagi.</p>
+<p begin="60518750000t" end="60542500000t" style="normal" xml:id="subtitle1458">"Othman Haji Alias."</p>
+<p begin="60550416666t" end="60566666666t" style="normal" xml:id="subtitle1459">[bahasa Inggeris] Lokasi...</p>
+<p begin="60575416666t" end="60587500000t" style="normal" xml:id="subtitle1460">[bahasa Inggeris] Gen 11.</p>
+<p begin="60588333333t" end="60605416666t" style="normal" xml:id="subtitle1461">[termengah-mengah]</p>
+<p begin="60829166666t" end="60838750000t" style="normal" xml:id="subtitle1462">"Khan."</p>
+<p begin="60857500000t" end="60872083333t" style="normal" xml:id="subtitle1463">"Shihaniz."</p>
+<p begin="60874166666t" end="60895000000t" style="normal" xml:id="subtitle1464">- "Harith Sulaiman."<br/>- "Shirajudin."</p>
+<p begin="60910833333t" end="60919583333t" style="normal" xml:id="subtitle1465">"Othman...</p>
+<p begin="60932083333t" end="60943333333t" style="normal" xml:id="subtitle1466">Bin Haji Alias."</p>
+<p begin="60947083333t" end="60976250000t" style="normal" xml:id="subtitle1467">[burung berkicau dari jauh]</p>
+<p begin="61085416666t" end="61140000000t" style="normal" xml:id="subtitle1468">[burung berkicau dari jauh]</p>
+<p begin="61189583333t" end="61198750000t" style="normal" xml:id="subtitle1469">Nenek.</p>
+<p begin="61214166666t" end="61229166666t" style="normal" xml:id="subtitle1470">Saya dah jumpa. [teresak-esak]</p>
+<p begin="61361250000t" end="61382083333t" style="normal" xml:id="subtitle1471">[burung berkicau dari jauh]</p>
+<p begin="61390833333t" end="61411666666t" style="normal" xml:id="subtitle1472">Saya minta perlindungan<br/>Tuhan daripada Syaitan.</p>
+<p begin="61412500000t" end="61436666666t" style="normal" xml:id="subtitle1473">Dengan nama Tuhan yang<br/>Maha Pengasih dan Penyayang.</p>
+<p begin="61437500000t" end="61497500000t" style="normal" xml:id="subtitle1474">Oh, Tuhan! Maafkan dia, kurniakan<br/>belas kasihan kepadanya, ampunkan dia.</p>
+<p begin="61501250000t" end="61535000000t" style="normal" xml:id="subtitle1475">[burung berkicau dari jauh]</p>
+<p begin="61573333333t" end="61591666666t" style="normal" xml:id="subtitle1476">[Alia berbahasa Inggeris] Tak dapat?</p>
+<p begin="61604166666t" end="61633333333t" style="normal" xml:id="subtitle1477">[Ahmad berbahasa Inggeris]<br/>Tiada jawapan. Saya perlu balik.</p>
+<p begin="61634166666t" end="61662083333t" style="normal" xml:id="subtitle1478">[loceng gereja berbunyi]</p>
+<p begin="61662916666t" end="61672916666t" style="normal" xml:id="subtitle1479">Ah...</p>
+<p begin="61677916666t" end="61691250000t" style="normal" xml:id="subtitle1480">[bahasa Inggeris] Bagaimana...</p>
+<p begin="61704583333t" end="61727083333t" style="normal" xml:id="subtitle1481">- [bahasa Inggeris] Terima kasih.<br/>- [bunyi kereta]</p>
+<p begin="61727916666t" end="61736250000t" style="normal" xml:id="subtitle1482">[ketawa kecil]</p>
+<p begin="61737083333t" end="61750833333t" style="normal" xml:id="subtitle1483">[bahasa Inggeris] Ayuh.</p>
+<p begin="61831666666t" end="61841250000t" style="normal" xml:id="subtitle1484">[mengeluh]</p>
+<p begin="61857500000t" end="61875000000t" style="normal" xml:id="subtitle1485">[bahasa Inggeris] Jumpa Raya nanti?</p>
+<p begin="61893333333t" end="61903333333t" style="normal" xml:id="subtitle1486">Ah...</p>
+<p begin="61906250000t" end="61915416666t" style="normal" xml:id="subtitle1487">[bahasa Inggeris] Ya.</p>
+<p begin="61937500000t" end="61949583333t" style="normal" xml:id="subtitle1488">[bahasa Inggeris] Pergi.</p>
+<p begin="61958333333t" end="61970416666t" style="normal" xml:id="subtitle1489">[bahasa Inggeris] Pergi.</p>
+<p begin="62073750000t" end="62082083333t" style="normal" xml:id="subtitle1490">[Ahmad] Nenek.</p>
+<p begin="62095833333t" end="62105416666t" style="normal" xml:id="subtitle1491">[Ahmad] Ini saya.</p>
+<p begin="62122083333t" end="62135416666t" style="normal" xml:id="subtitle1492">[Ahmad] Saya sudah balik.</p>
+<p begin="62141250000t" end="62156666666t" style="normal" xml:id="subtitle1493">Saya sudah jumpa datuk.</p>
+<p begin="62164583333t" end="62187500000t" style="normal" xml:id="subtitle1494">[mesin berbunyi]</p>
+<p begin="62193750000t" end="62203750000t" style="normal" xml:id="subtitle1495">Dia dah meninggal.</p>
+<p begin="62278333333t" end="62302916666t" style="normal" xml:id="subtitle1496">Kita milik Tuhan.</p>
+<p begin="62381250000t" end="62393333333t" style="normal" xml:id="subtitle1497">Ini kubur dia.</p>
+<p begin="62405000000t" end="62416250000t" style="normal" xml:id="subtitle1498">Di Liverpool.</p>
+<p begin="62435833333t" end="62450000000t" style="normal" xml:id="subtitle1499">Othman Bin Haji Alias.</p>
+<p begin="62459583333t" end="62488333333t" style="normal" xml:id="subtitle1500">Dia pergi Disember 1966, nenek.</p>
+<p begin="62512083333t" end="62521666666t" style="normal" xml:id="subtitle1501">[menghembus nafas]</p>
+<p begin="62538750000t" end="62560000000t" style="normal" xml:id="subtitle1502">Dia pergi dulu.</p>
+<p begin="62574583333t" end="62598333333t" style="normal" xml:id="subtitle1503">[Thom Tua]<br/>Dia pergi bagaimana, Ahmad?</p>
+<p begin="62604166666t" end="62617916666t" style="normal" xml:id="subtitle1504">[Thom Tua] Ada yang sayang?</p>
+<p begin="62624583333t" end="62645416666t" style="normal" xml:id="subtitle1505">Ada keluarga di sana?</p>
+<p begin="62673750000t" end="62682083333t" style="normal" xml:id="subtitle1506">Tiada, nenek.</p>
+<p begin="62691666666t" end="62702083333t" style="normal" xml:id="subtitle1507">Tetapi...</p>
+<p begin="62712083333t" end="62728750000t" style="normal" xml:id="subtitle1508">ayah ada dengan dia waktu itu.</p>
+<p begin="62756666666t" end="62773333333t" style="normal" xml:id="subtitle1509">Ayah yang mengebumikan dia.</p>
+<p begin="62777916666t" end="62834166666t" style="normal" xml:id="subtitle1510">Selama ini, Omar tahu<br/>ayahnya sudah meninggal.</p>
+<p begin="62839166666t" end="62851666666t" style="normal" xml:id="subtitle1511">Saya tidak tahu.</p>
+<p begin="62856666666t" end="62872500000t" style="normal" xml:id="subtitle1512">Saya tidak tahu, mak.</p>
+<p begin="62873333333t" end="62907916666t" style="normal" xml:id="subtitle1513">[mesin berbunyi]</p>
+<p begin="62913333333t" end="62932916666t" style="normal" xml:id="subtitle1514">Ayah ada beri nenek surat?</p>
+<p begin="62947916666t" end="62957916666t" style="normal" xml:id="subtitle1515">Daripada datuk?</p>
+<p begin="62992500000t" end="63010000000t" style="normal" xml:id="subtitle1516">[angin bertiup]</p>
+<p begin="63047916666t" end="63064166666t" style="normal" xml:id="subtitle1517">Mak baca surat itu dulu.</p>
+<p begin="63088333333t" end="63107083333t" style="normal" xml:id="subtitle1518">Sudah terlambat, Omar.</p>
+<p begin="63131666666t" end="63154166666t" style="normal" xml:id="subtitle1519">Surat ini sudah tiada apa-apa makna.</p>
+<p begin="63198750000t" end="63207500000t" style="normal" xml:id="subtitle1520">Mak.</p>
+<p begin="63221666666t" end="63235833333t" style="normal" xml:id="subtitle1521">Mak tak mahu tahu tentang ayah?</p>
+<p begin="63257500000t" end="63276666666t" style="normal" xml:id="subtitle1522">Dia pernah ambil tahu tentang kita?</p>
+<p begin="63292916666t" end="63301666666t" style="normal" xml:id="subtitle1523">Pernah?</p>
+<p begin="63318750000t" end="63338333333t" style="normal" xml:id="subtitle1524">Lapan belas tahun, Omar.</p>
+<p begin="63355416666t" end="63387500000t" style="normal" xml:id="subtitle1525">Cuma ada mak, cuma ada Omar.</p>
+<p begin="63400833333t" end="63410833333t" style="normal" xml:id="subtitle1526">Dia tiada.</p>
+<p begin="63415416666t" end="63442083333t" style="normal" xml:id="subtitle1527">Sekarang ini dia berikan surat ini.</p>
+<p begin="63447083333t" end="63460416666t" style="normal" xml:id="subtitle1528">Dia nak balik dengan kita?</p>
+<p begin="63464583333t" end="63472916666t" style="normal" xml:id="subtitle1529">Huh?</p>
+<p begin="63480000000t" end="63493750000t" style="normal" xml:id="subtitle1530">Dia nak balik dengan kita?</p>
+<p begin="63498333333t" end="63507500000t" style="normal" xml:id="subtitle1531">Mak!</p>
+<p begin="63531666666t" end="63550000000t" style="normal" xml:id="subtitle1532">- [kabinet kayu terbuka]<br/>- Mak?</p>
+<p begin="63558333333t" end="63570000000t" style="normal" xml:id="subtitle1533">[Omar] Apa ini?</p>
+<p begin="63570833333t" end="63585416666t" style="normal" xml:id="subtitle1534">- Sabar, mak.<br/>- Tepi!</p>
+<p begin="63586250000t" end="63595000000t" style="normal" xml:id="subtitle1535">Mak.</p>
+<p begin="63639583333t" end="63661250000t" style="normal" xml:id="subtitle1536">- Sabar, mak.<br/>- [mengangkat bahu]</p>
+<p begin="63677083333t" end="63687083333t" style="normal" xml:id="subtitle1537">Tepi, Omar!</p>
+<p begin="63694583333t" end="63710000000t" style="normal" xml:id="subtitle1538">- Jangan derhaka!<br/>- [terhempas]</p>
+<p begin="63711666666t" end="63721666666t" style="normal" xml:id="subtitle1539">Kamu puncanya!</p>
+<p begin="63739166666t" end="63750416666t" style="normal" xml:id="subtitle1540">Sebab kamu...</p>
+<p begin="63759166666t" end="63779583333t" style="normal" xml:id="subtitle1541">mak tunggu ayah.</p>
+<p begin="63801250000t" end="63819583333t" style="normal" xml:id="subtitle1542">Jangan sebut nama dia lagi.</p>
+<p begin="63820416666t" end="63839583333t" style="normal" xml:id="subtitle1543">[bunyi tapak kaki turun tangga]</p>
+<p begin="63949583333t" end="63979166666t" style="normal" xml:id="subtitle1544">[bunyi tapak kaki menghampiri]</p>
+<p begin="64012083333t" end="64020833333t" style="normal" xml:id="subtitle1545">Ayah.</p>
+<p begin="64043333333t" end="64058750000t" style="normal" xml:id="subtitle1546">Mana surat datuk, ayah?</p>
+<p begin="64135416666t" end="64149583333t" style="normal" xml:id="subtitle1547">[nelayan satu memekik] Tolak!</p>
+<p begin="64150416666t" end="64175833333t" style="normal" xml:id="subtitle1548">- [nelayan dua] Tolak!<br/>- [nelayan tiga] Tolak!</p>
+<p begin="64212083333t" end="64233750000t" style="normal" xml:id="subtitle1549">- [terhempas]<br/>- [teresak-esak]</p>
+<p begin="64234583333t" end="64257083333t" style="normal" xml:id="subtitle1550">[Thom teresak-esak]</p>
+<p begin="64552916666t" end="64567500000t" style="normal" xml:id="subtitle1551">[Omar] <span style="normal_1">Maafkan saya, mak.</span></p>
+<p begin="64580000000t" end="64595416666t" style="normal" xml:id="subtitle1552">Tidak ikut cakap mak.</p>
+<p begin="64607916666t" end="64630000000t" style="normal" xml:id="subtitle1553">Saya tidak buang surat ayah.</p>
+<p begin="64670833333t" end="64685000000t" style="normal" xml:id="subtitle1554">Saya simpan.</p>
+<p begin="64756666666t" end="64769166666t" style="normal" xml:id="subtitle1555">[mengeluh]</p>
+<p begin="64803750000t" end="64813750000t" style="normal" xml:id="subtitle1556">[tersedu]</p>
+<p begin="64839583333t" end="64873750000t" style="normal" xml:id="subtitle1557">[Thom Tua teresak-esak]</p>
+<p begin="64974166666t" end="64996250000t" style="normal" xml:id="subtitle1558">[teresak-esak]</p>
+<p begin="65009583333t" end="65019583333t" style="normal" xml:id="subtitle1559">Mak.</p>
+<p begin="65056666666t" end="65072500000t" style="normal" xml:id="subtitle1560">Nenek nak saya bacakan?</p>
+<p begin="65168750000t" end="65184166666t" style="normal" xml:id="subtitle1561">- "Thom..."<br/>- [Othman] <span style="normal_1">Thom...</span></p>
+<p begin="65196250000t" end="65224166666t" style="normal" xml:id="subtitle1562">[Othman]<br/><span style="normal_1">Ketika surat ini sampai kepada awak...</span></p>
+<p begin="65252083333t" end="65272916666t" style="normal" xml:id="subtitle1563"><span style="normal_1">saya sudah tiada.</span></p>
+<p begin="65347083333t" end="65395416666t" style="normal" xml:id="subtitle1564"><span style="normal_1">Tetapi saya tidak pernah lupa janji.</span></p>
+<p begin="65466250000t" end="65483333333t" style="normal" xml:id="subtitle1565">[percikan air]</p>
+<p begin="65493333333t" end="65503750000t" style="normal" xml:id="subtitle1566">Man!</p>
+<p begin="65517916666t" end="65528333333t" style="normal" xml:id="subtitle1567">Apa awak buat?</p>
+<p begin="65536250000t" end="65547500000t" style="normal" xml:id="subtitle1568">[Karim] Othman!</p>
+<p begin="65563333333t" end="65572916666t" style="normal" xml:id="subtitle1569">Hei!</p>
+<p begin="65575416666t" end="65583750000t" style="normal" xml:id="subtitle1570">Berhenti!</p>
+<p begin="65586666666t" end="65606666666t" style="normal" xml:id="subtitle1571">Berhenti! Tunggu!</p>
+<p begin="65612916666t" end="65622500000t" style="normal" xml:id="subtitle1572">Othman!</p>
+<p begin="65626666666t" end="65637500000t" style="normal" xml:id="subtitle1573">Berhenti!</p>
+<p begin="65640000000t" end="65657916666t" style="normal" xml:id="subtitle1574">[kelasi] Tunggu! Mari!</p>
+<p begin="65696250000t" end="65705833333t" style="normal" xml:id="subtitle1575">[percikan air]</p>
+<p begin="65902500000t" end="65930416666t" style="normal" xml:id="subtitle1576">[termengah-mengah]</p>
+<p begin="66017500000t" end="66065833333t" style="normal" xml:id="subtitle1577">- [bunyi tapak kaki menghampiri]<br/>- [muzik upacara dimainkan]</p>
+<p begin="66087916666t" end="66098750000t" style="normal" xml:id="subtitle1578">[Salmah] Sudahlah.</p>
+<p begin="66105833333t" end="66120833333t" style="normal" xml:id="subtitle1579">[Salmah] Jangan bermasam muka.</p>
+<p begin="66131250000t" end="66143333333t" style="normal" xml:id="subtitle1580">Ini benda baik.</p>
+<p begin="66144166666t" end="66161666666t" style="normal" xml:id="subtitle1581">[Taib] Saya kasihankan Othman.</p>
+<p begin="66167916666t" end="66177916666t" style="normal" xml:id="subtitle1582">Jika dia balik?</p>
+<p begin="66181250000t" end="66192083333t" style="normal" xml:id="subtitle1583">[Salmah] Thom pula?</p>
+<p begin="66197500000t" end="66206666666t" style="normal" xml:id="subtitle1584">Dengan Omar?</p>
+<p begin="66213750000t" end="66225416666t" style="normal" xml:id="subtitle1585">Awak tidak kasihan?</p>
+<p begin="66226250000t" end="66241666666t" style="normal" xml:id="subtitle1586">[Salmah] Cikgu Hassan baik.</p>
+<p begin="66242500000t" end="66250833333t" style="normal" xml:id="subtitle1587">Orang senang.</p>
+<p begin="66251666666t" end="66272083333t" style="normal" xml:id="subtitle1588">Masa depan mereka terjaga.</p>
+<p begin="66279583333t" end="66289166666t" style="normal" xml:id="subtitle1589">Dengan izin Tuhan.</p>
+<p begin="66293333333t" end="66324166666t" style="normal" xml:id="subtitle1590">[muzik upacara dimainkan]</p>
+<p begin="66383333333t" end="66392916666t" style="normal" xml:id="subtitle1591">Thom.</p>
+<p begin="66458750000t" end="66493333333t" style="normal" xml:id="subtitle1592">[percakapan tidak jelas]</p>
+<p begin="66587083333t" end="66599583333t" style="normal" xml:id="subtitle1593">[percakapan tidak jelas]</p>
+<p begin="66634583333t" end="66657916666t" style="normal" xml:id="subtitle1594">[Othman] <span style="normal_1">Saya mahu lihat awak berhias...</span></p>
+<p begin="66668333333t" end="66707083333t" style="normal" xml:id="subtitle1595"><span style="normal_1">kalau bukan dengan permata, dengan emas...</span></p>
+<p begin="66713333333t" end="66728750000t" style="normal" xml:id="subtitle1596"><span style="normal_1">walau sekeping.</span></p>
+<p begin="66827916666t" end="66878750000t" style="normal" xml:id="subtitle1597">[Othman teresak-esak]</p>
+<p begin="67042916666t" end="67060416666t" style="normal" xml:id="subtitle1598">[Ahmad] <span style="normal_1">Nenek tak kahwin lagi.</span></p>
+<p begin="67063750000t" end="67090000000t" style="normal" xml:id="subtitle1599">[Thom Tua] <span style="normal_1">Nenek nak teruskan hidup...</span></p>
+<p begin="67108333333t" end="67151666666t" style="normal" xml:id="subtitle1600"><span style="normal_1">tapi cinta tidak berganjak.</span></p>
+<p begin="67165000000t" end="67193750000t" style="normal" xml:id="subtitle1601">[Thom Tua teresak-esak]</p>
+<p begin="67194583333t" end="67231666666t" style="normal" xml:id="subtitle1602"><span style="normal_1">Cinta hanya pada dia seorang.</span></p>
+<p begin="67250416666t" end="67260833333t" style="normal" xml:id="subtitle1603">Maaf, saya tidak boleh.</p>
+<p begin="67325000000t" end="67378333333t" style="normal" xml:id="subtitle1604">[Thom Tua] <span style="normal_1">Malam itulah</span><br/><span style="normal_1">agaknya datuk balik ke Serkam.</span></p>
+<p begin="67387916666t" end="67412916666t" style="normal" xml:id="subtitle1605">[Thom Tua teresak-esak]</p>
+<p begin="67421666666t" end="67452083333t" style="normal" xml:id="subtitle1606">[teresak-esak] Datuk pulang, Ahmad.</p>
+<p begin="67456666666t" end="67515833333t" style="normal" xml:id="subtitle1607">[Thom Tua teresak-esak]</p>
+<p begin="67525833333t" end="67560833333t" style="normal" xml:id="subtitle1608">[teresak-esak] Dia pulang, Omar.</p>
+<p begin="67589583333t" end="67609583333t" style="normal" xml:id="subtitle1609">[Othman] <span style="normal_1">Maafkan saya, Thom.</span></p>
+<p begin="67620000000t" end="67648750000t" style="normal" xml:id="subtitle1610"><span style="normal_1">Kerana menyangka</span><br/><span style="normal_1">awak akan lebih bahagia...</span></p>
+<p begin="67665416666t" end="67683750000t" style="normal" xml:id="subtitle1611"><span style="normal_1">dengan orang yang lebih kaya...</span></p>
+<p begin="67704583333t" end="67722916666t" style="normal" xml:id="subtitle1612"><span style="normal_1">daripada orang yang awak cinta.</span></p>
+<p begin="67752500000t" end="67796666666t" style="normal" xml:id="subtitle1613"><span style="normal_1">Maafkan saya kerana tidak</span><br/><span style="normal_1">percaya dengan kata-kata awak.</span></p>
+<p begin="67811250000t" end="67857916666t" style="normal" xml:id="subtitle1614"><span style="normal_1">Maafkan saya menyebabkan</span><br/><span style="normal_1">kita terpisah selama ini.</span></p>
+<p begin="67876250000t" end="67892916666t" style="normal" xml:id="subtitle1615"><span style="normal_1">Dulu saya fikir...</span></p>
+<p begin="67900416666t" end="67933333333t" style="normal" xml:id="subtitle1616"><span style="normal_1">tidak berguna kapal yang tidak belayar.</span></p>
+<p begin="67950416666t" end="67966250000t" style="normal" xml:id="subtitle1617"><span style="normal_1">Kini saya tahu, Thom...</span></p>
+<p begin="67986250000t" end="68029166666t" style="normal" xml:id="subtitle1618"><span style="normal_1">kapal yang selamanya</span><br/><span style="normal_1">berkelana tidak berpangkalan,</span></p>
+<p begin="68036666666t" end="68060833333t" style="normal" xml:id="subtitle1619"><span style="normal_1">itulah sebenarnya sia-sia.</span></p>
+<p begin="68077916666t" end="68100833333t" style="normal" xml:id="subtitle1620"><span style="normal_1">Saya tidak pernah lupakan awak, Thom.</span></p>
+<p begin="68110416666t" end="68129583333t" style="normal" xml:id="subtitle1621"><span style="normal_1">Saya masih cintakan awak.</span></p>
+<p begin="68145833333t" end="68158750000t" style="normal" xml:id="subtitle1622"><span style="normal_1">Hingga ke hari ini.</span></p>
+<p begin="68217083333t" end="68238750000t" style="normal" xml:id="subtitle1623">[Salmah teresak-esak]</p>
+<p begin="68239583333t" end="68263333333t" style="normal" xml:id="subtitle1624">Dari Tuhan kita datang,<br/>kepada Tuhan kita kembali.</p>
+<p begin="68264166666t" end="68287500000t" style="normal" xml:id="subtitle1625">Dari Tuhan kita datang,<br/>kepada Tuhan kita kembali.</p>
+<p begin="68403333333t" end="68438333333t" style="normal" xml:id="subtitle1626">[Othman] <span style="normal_1">Kalau kita tak</span><br/><span style="normal_1">dapat berjumpa di dunia ini...</span></p>
+<p begin="68456250000t" end="68485000000t" style="normal" xml:id="subtitle1627"><span style="normal_1">semoga Tuhan izinkan kita berjumpa...</span></p>
+<p begin="68505000000t" end="68521250000t" style="normal" xml:id="subtitle1628"><span style="normal_1">di syurga.</span></p>
+<p begin="68538333333t" end="68575000000t" style="normal" xml:id="subtitle1629">["Layarlah Kembali" dimainkan]</p>
+<p begin="68899583333t" end="68951250000t" region="top" style="normal" xml:id="subtitle1630">Othman meninggal dunia enam bulan selepas<br/>berjumpa Omar. Dia tak sempat pulang.</p>
+<p begin="68958333333t" end="69012916666t" region="top" style="normal" xml:id="subtitle1631">Thom tidak pernah berkahwin lagi,<br/>menunggu Othman sehingga dia meninggal.</p>
+<p begin="69017916666t" end="69047500000t" region="top" style="normal" xml:id="subtitle1632">Omar kini tinggal di Petaling Jaya.</p>
+<p begin="69048333333t" end="69092916666t" region="top" style="normal" xml:id="subtitle1633">Akhirnya dia melawat<br/>kubur Othman selepas 49 tahun.</p>
+<p begin="69104583333t" end="69134583333t" style="normal" xml:id="subtitle1634">Terjemahan sari kata oleh: Aizat Bahri</p>
+</div>
+</body>
+</tt>

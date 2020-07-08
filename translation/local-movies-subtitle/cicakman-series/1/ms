@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="style.center"/>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="style.center_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="region.after"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="region.before"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="26400000t" end="38800000t" region="region.after" style="style.center" xml:id="subtitle0">BAHAYA</p>
+<p begin="100400000t" end="118800000t" region="region.after" style="style.center" xml:id="subtitle1"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="119600000t" end="132800000t" region="region.after" style="style.center" xml:id="subtitle2"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="136400000t" end="159200000t" region="region.after" style="style.center" xml:id="subtitle3"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="172000000t" end="207600000t" region="region.after" style="style.center" xml:id="subtitle4"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="208400000t" end="236400000t" region="region.after" style="style.center" xml:id="subtitle5"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="277600000t" end="305200000t" region="region.after" style="style.center" xml:id="subtitle6"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="324799999t" end="345600000t" region="region.after" style="style.center" xml:id="subtitle7">CICAKMAN, AYUH!</p>
+<p begin="412800000t" end="447200000t" region="region.after" style="style.center" xml:id="subtitle8"><span style="style.center_1">[DJ radio] Selamat pagi, Metrofulus!</span><br/><span style="style.center_1">Ini berita Radio WKRU.</span></p>
+<p begin="448000000t" end="472400000t" region="region.after" style="style.center" xml:id="subtitle9"><span style="style.center_1">Hari ini cuaca panas</span><br/><span style="style.center_1">melanda bandar ini lagi!</span></p>
+<p begin="473200000t" end="498000000t" region="region.after" style="style.center" xml:id="subtitle10">Saya tidak tahan dengan cuaca panas ini.</p>
+<p begin="502000000t" end="543200000t" region="region.after" style="style.center" xml:id="subtitle11">Saya juga tidak tahan.<br/>Sudah tiga bulan hujan tidak turun!</p>
+<p begin="548000000t" end="575200000t" region="region.after" style="style.center" xml:id="subtitle12"><span style="style.center_1">[lelaki dalam radio]</span><br/><span style="style.center_1">Ini Pusat Kawalan. Sila jawab.</span></p>
+<p begin="578800000t" end="592000000t" region="region.after" style="style.center" xml:id="subtitle13">Ya. Teruskan, Pusat Kawalan.</p>
+<p begin="592800000t" end="609600000t" region="region.after" style="style.center" xml:id="subtitle14">Kami sudah ambil jongkong emas itu.</p>
+<p begin="610400000t" end="633600000t" region="region.after" style="style.center" xml:id="subtitle15">Kami dalam perjalanan<br/>ke bilik kebal Bank Utama.</p>
+<p begin="634400000t" end="649200000t" region="region.after" style="style.center" xml:id="subtitle16">Kami akan tiba dalam...</p>
+<p begin="655600000t" end="665200000t" region="region.after" style="style.center" xml:id="subtitle17">Hah?</p>
+<p begin="681600000t" end="708800000t" region="region.after" style="style.center" xml:id="subtitle18">Nampaknya kita sedang<br/>diekori oleh awan hujan!</p>
+<p begin="713200000t" end="721600000t" region="region.after" style="style.center" xml:id="subtitle19">[bunyi kilat]</p>
+<p begin="760000000t" end="784800000t" region="region.after" style="style.center" xml:id="subtitle20">[bunyi besi melebur]</p>
+<p begin="798400000t" end="806800000t" region="region.after" style="style.center" xml:id="subtitle21">[bunyi kaca pecah]</p>
+<p begin="811600000t" end="854400000t" region="region.after" style="style.center" xml:id="subtitle22">Ini bukannya hujan biasa!<br/>Ini hujan asid! Jaga-jaga!</p>
+<p begin="892400000t" end="904400000t" region="region.after" style="style.center" xml:id="subtitle23">[bunyi tayar pancit]</p>
+<p begin="907200000t" end="921600000t" region="region.after" style="style.center" xml:id="subtitle24">[bunyi trak berlanggar]</p>
+<p begin="1007600000t" end="1022800000t" region="region.after" style="style.center" xml:id="subtitle25">[bunyi letupan]</p>
+<p begin="1023600000t" end="1068400000t" region="region.after" style="style.center" xml:id="subtitle26">[Profesor Klon] Mana Cicakman<br/>apabila kamu perlukan dia, Metrofulus?</p>
+<p begin="1098800000t" end="1131200000t" region="region.before" style="style.center" xml:id="subtitle27">SEKOLAH TINGGI LUNA</p>
+<p begin="1132000000t" end="1146000000t" region="region.after" style="style.center" xml:id="subtitle28">[tercungap-cungap]</p>
+<p begin="1155200000t" end="1164800000t" region="region.after" style="style.center" xml:id="subtitle29">[bunyi berdebap]</p>
+<p begin="1178400000t" end="1190000000t" region="region.after" style="style.center" xml:id="subtitle30">[bunyi mengerang]</p>
+<p begin="1241200000t" end="1252400000t" region="region.after" style="style.center" xml:id="subtitle31">[bunyi air menitis]</p>
+<p begin="1274800000t" end="1286000000t" region="region.after" style="style.center" xml:id="subtitle32">[merintih]</p>
+<p begin="1317200000t" end="1372000000t" region="region.after" style="style.center" xml:id="subtitle33">Tidak! Saya tidaklah begitu terdesak!</p>
+<p begin="1380000000t" end="1396400000t" region="region.after" style="style.center" xml:id="subtitle34">[tercungap-cungap]</p>
+<p begin="1400400000t" end="1420800000t" region="region.after" style="style.center" xml:id="subtitle35">Janganlah sekarang!</p>
+<p begin="1421600000t" end="1432800000t" region="region.after" style="style.center" xml:id="subtitle36">[bunyi tercekik]</p>
+<p begin="1433600000t" end="1449200000t" region="region.after" style="style.center" xml:id="subtitle37">Air!</p>
+<p begin="1469600000t" end="1482000000t" region="region.after" style="style.center" xml:id="subtitle38">[bunyi berlanggar]</p>
+<p begin="1515200000t" end="1525200000t" region="region.after" style="style.center" xml:id="subtitle39">[Hairi mengerang]</p>
+<p begin="1530000000t" end="1543200000t" region="region.after" style="style.center" xml:id="subtitle40">Air!</p>
+<p begin="1554800000t" end="1564800000t" region="region.after" style="style.center" xml:id="subtitle41">Beri saya!</p>
+<p begin="1568800000t" end="1580400000t" region="region.after" style="style.center" xml:id="subtitle42">Maaf, Hairi!</p>
+<p begin="1581200000t" end="1607200000t" region="region.after" style="style.center" xml:id="subtitle43">Itu titisan air terakhir<br/>dalam sekolah kita.</p>
+<p begin="1608000000t" end="1644400000t" region="region.after" style="style.center" xml:id="subtitle44">[Linda] Maksud awak, dalam bandar ini!<br/>Namun, sekejap saja!</p>
+<p begin="1645200000t" end="1688000000t" region="region.after" style="style.center" xml:id="subtitle45">Mesin ini akan pulihkan bekalan air.<br/>Bermula dengan pusat takungan air.</p>
+<p begin="1688800000t" end="1699600000t" region="region.after" style="style.center" xml:id="subtitle46">Mesin apa itu?</p>
+<p begin="1702800000t" end="1738800000t" region="region.after" style="style.center" xml:id="subtitle47">Ini ialah projek sains saya!<br/>Mesin Penjana Awan Hujan!</p>
+<p begin="1739600000t" end="1764800000t" region="region.after" style="style.center" xml:id="subtitle48">Ada sesiapa cakap "hujan"?</p>
+<p begin="1765600000t" end="1782400000t" region="region.after" style="style.center" xml:id="subtitle49">Hei, tunggulah saya!</p>
+<p begin="1815200000t" end="1828800000t" region="region.after" style="style.center" xml:id="subtitle50">[bunyi pintu dibuka]</p>
+<p begin="1847600000t" end="1860400000t" region="region.after" style="style.center" xml:id="subtitle51">[bunyi pintu ditutup]</p>
+<p begin="1873200000t" end="1918800000t" region="region.after" style="style.center" xml:id="subtitle52">Jongkong emas berjumlah satu bilion fulus!<br/>Boleh tahan juga rezeki pagi ini!</p>
+<p begin="1923600000t" end="1951600000t" region="region.after" style="style.center" xml:id="subtitle53">Semuanya disebabkan si bijak pandai ini.</p>
+<p begin="1955200000t" end="1980000000t" region="region.after" style="style.center" xml:id="subtitle54">Kalaulah dia tahu<br/>kerja sekolahnya bantu saya</p>
+<p begin="1980800000t" end="2019600000t" region="region.after" style="style.center" xml:id="subtitle55">guna alam semula jadi untuk<br/>buat jenayah! Memang bijak!</p>
+<p begin="2020400000t" end="2038800000t" region="region.after" style="style.center" xml:id="subtitle56">- PERINGATAN MESYUARAT PIBG<br/>- [mengerang]</p>
+<p begin="2039600000t" end="2082000000t" region="region.before" style="style.center" xml:id="subtitle57">Miss Campbell mahu Dr. Kline datang<br/>ke mesyuarat ibu bapa dan guru.</p>
+<p begin="2087600000t" end="2098800000t" region="region.after" style="style.center" xml:id="subtitle58">Tiada masalah.</p>
+<p begin="2101200000t" end="2127600000t" region="region.after" style="style.center" xml:id="subtitle59">Hari ini hari terakhir<br/>kemunculan Dr. Kline.</p>
+<p begin="2128400000t" end="2169600000t" region="region.after" style="style.center" xml:id="subtitle60">Emas saya sudah banyak<br/>untuk berhenti hidup dengan dua identiti!</p>
+<p begin="2177600000t" end="2200400000t" region="region.after" style="style.center" xml:id="subtitle61">[bunyi tongkat berdesing]</p>
+<p begin="2203200000t" end="2214000000t" region="region.after" style="style.center" xml:id="subtitle62">[Kit dan Kon mengerang]</p>
+<p begin="2240800000t" end="2278800000t" region="region.after" style="style.center" xml:id="subtitle63">Apa khabar, Dr. Kline yang palsu<br/>buat kali terakhir?</p>
+<p begin="2279600000t" end="2320400000t" region="region.after" style="style.center" xml:id="subtitle64">[Miss Chi] Bukan Dr. Kline saja<br/>satu-satunya benda yang palsu di sini.</p>
+<p begin="2346800000t" end="2360000000t" region="region.after" style="style.center" xml:id="subtitle65">[bunyi pisau memotong]</p>
+<p begin="2364800000t" end="2374800000t" region="region.after" style="style.center" xml:id="subtitle66">[bunyi terbelah]</p>
+<p begin="2381600000t" end="2422800000t" region="region.after" style="style.center" xml:id="subtitle67">Plumbum yang dicat emas?<br/>Saya betul-betul tidak percaya!</p>
+<p begin="2423600000t" end="2452400000t" region="region.after" style="style.center" xml:id="subtitle68">- [bunyi plumbum dipecahkan]<br/>- Tony Sumo!</p>
+<p begin="2476000000t" end="2486800000t" region="region.after" style="style.center" xml:id="subtitle69">UMUR, TINGGI, BERAT</p>
+<p begin="2487600000t" end="2516000000t" region="region.after" style="style.center" xml:id="subtitle70">Si pencuri gemuk tidak guna<br/>yang tidak sedar diri itu!</p>
+<p begin="2516800000t" end="2538000000t" region="region.after" style="style.center" xml:id="subtitle71">Berani betul dia khianati saya?</p>
+<p begin="2571200000t" end="2612400000t" region="region.after" style="style.center" xml:id="subtitle72">Baiklah. Bagaimana jika<br/>saya pula yang mengkhianati dia?</p>
+<p begin="2620000000t" end="2636400000t" region="region.after" style="style.center" xml:id="subtitle73">Saya fikir... [mengerang kesakitan]</p>
+<p begin="2638400000t" end="2656400000t" region="region.after" style="style.center" xml:id="subtitle74">Saya tidak bayar awak untuk berfikir!</p>
+<p begin="2658000000t" end="2679600000t" region="region.after" style="style.center" xml:id="subtitle75">Kami dapat bayarankah?<br/>[mengerang kesakitan]</p>
+<p begin="2680400000t" end="2723200000t" region="region.after" style="style.center" xml:id="subtitle76">Itu bayarannya! Pergi siapkan<br/>kapal udara sekarang!</p>
+<p begin="2726400000t" end="2747600000t" region="region.before" style="style.center" xml:id="subtitle77">TAKUNGAN AIR BANDAR</p>
+<p begin="2766800000t" end="2778000000t" region="region.after" style="style.center" xml:id="subtitle78">[bunyi air dituang]</p>
+<p begin="2788800000t" end="2809600000t" region="region.after" style="style.center" xml:id="subtitle79">[Linda] Baiklah, mari kita mulakan!</p>
+<p begin="2810400000t" end="2824800000t" region="region.after" style="style.center" xml:id="subtitle80">[bunyi wap naik ke udara]</p>
+<p begin="2825600000t" end="2839200000t" region="region.after" style="style.center" xml:id="subtitle81">[Hairi ketawa]</p>
+<p begin="2861600000t" end="2884800000t" region="region.after" style="style.center" xml:id="subtitle82">- [bunyi air tumpah]<br/>- [Hairi mengerang]</p>
+<p begin="2902000000t" end="2922400000t" region="region.after" style="style.center" xml:id="subtitle83">[Linda ketawa]</p>
+<p begin="2955600000t" end="2987200000t" region="region.after" style="style.center" xml:id="subtitle84">[Miss Chi] Sila jawab, Profesor Klon.<br/>Awak dengarkah?</p>
+<p begin="2989200000t" end="3013600000t" region="region.after" style="style.center" xml:id="subtitle85"><span style="style.center_1">[Profesor Klon] Saya dengar</span><br/><span style="style.center_1">dengan jelas, Miss Chi!</span></p>
+<p begin="3014400000t" end="3056800000t" region="region.after" style="style.center" xml:id="subtitle86">Peranti penyamaran<br/>akan diaktifkan sekarang!</p>
+<p begin="3224800000t" end="3235200000t" region="region.after" style="style.center" xml:id="subtitle87">Biar betul?</p>
+<p begin="3236000000t" end="3269200000t" region="region.after" style="style.center" xml:id="subtitle88">Kita buat hujan turun dan sekarang<br/>awan hujan sebenar muncul pula.</p>
+<p begin="3302400000t" end="3319200000t" region="region.after" style="style.center" xml:id="subtitle89">[Hairi] Kamu bersiap-siap untuk balik</p>
+<p begin="3320000000t" end="3346000000t" region="region.after" style="style.center" xml:id="subtitle90">sementara saya pergi periksa<br/>awan hujan yang misteri itu.</p>
+<p begin="3347600000t" end="3369600000t" region="region.after" style="style.center" xml:id="subtitle91">Cicakman, ayuh!</p>
+<p begin="3456400000t" end="3478400000t" region="region.after" style="style.center" xml:id="subtitle92"><span style="style.center_1">[juruhebah] Ini amaran</span><br/><span style="style.center_1">untuk Bandar Metrofulus.</span></p>
+<p begin="3479200000t" end="3503200000t" region="region.after" style="style.center" xml:id="subtitle93"><span style="style.center_1">Semua penduduk pastikan</span><br/><span style="style.center_1">berada di dalam rumah.</span></p>
+<p begin="3504000000t" end="3532000000t" region="region.after" style="style.center" xml:id="subtitle94"><span style="style.center_1">Pihak berkuasa mengesyaki</span><br/><span style="style.center_1">awan hitam yang menyelubungi bandar</span></p>
+<p begin="3532800000t" end="3554000000t" region="region.after" style="style.center" xml:id="subtitle95"><span style="style.center_1">menurunkan hujan asid berbahaya.</span></p>
+<p begin="3554800000t" end="3576000000t" region="region.after" style="style.center" xml:id="subtitle96"><span style="style.center_1">Para penduduk dilarang mendekatinya.</span></p>
+<p begin="3608800000t" end="3630000000t" region="region.after" style="style.center" xml:id="subtitle97">[Tony Sumo ketawa]</p>
+<p begin="3661600000t" end="3692800000t" region="region.after" style="style.center" xml:id="subtitle98">Kita boleh beli banyak susyi<br/>dengan jongkong emas ini!</p>
+<p begin="3694800000t" end="3723600000t" region="region.after" style="style.center" xml:id="subtitle99">Semuanya disebabkan<br/>rancangan Profesor Klon itu!</p>
+<p begin="3724400000t" end="3745600000t" region="region.after" style="style.center" xml:id="subtitle100">Serta khianat atas khianat!</p>
+<p begin="3749200000t" end="3767200000t" region="region.after" style="style.center" xml:id="subtitle101">[semua ketawa]</p>
+<p begin="3797200000t" end="3824400000t" region="region.after" style="style.center" xml:id="subtitle102"><span style="style.center_1">Kawalan ditetapkan</span><br/><span style="style.center_1">menuju ke lokasi Tony Sumo.</span></p>
+<p begin="3825200000t" end="3847600000t" region="region.after" style="style.center" xml:id="subtitle103">[ketawa]</p>
+<p begin="3853200000t" end="3867600000t" region="region.after" style="style.center" xml:id="subtitle104">Bagus, Miss Chi.</p>
+<p begin="3868400000t" end="3899600000t" region="region.after" style="style.center" xml:id="subtitle105">Persoalannya sekarang,<br/>bagaimana saya mahu perli</p>
+<p begin="3900400000t" end="3936800000t" region="region.after" style="style.center" xml:id="subtitle106">En. Sumo kita itu untuk<br/>pengkhianatannya ke atas saya?</p>
+<p begin="3937600000t" end="3980400000t" region="region.after" style="style.center" xml:id="subtitle107">Saya sukakan ayat, "Lain kali<br/>sediakan payung sebelum hujan".</p>
+<p begin="3989200000t" end="4022800000t" region="region.after" style="style.center" xml:id="subtitle108">- Apa pendapat awak?<br/>- Awak mahu kami berfikirkah?</p>
+<p begin="4023600000t" end="4037200000t" region="region.after" style="style.center" xml:id="subtitle109">[Kit dan Kon mengerang]</p>
+<p begin="4078800000t" end="4092400000t" region="region.after" style="style.center" xml:id="subtitle110">[bunyi penggera kereta]</p>
+<p begin="4093200000t" end="4116800000t" region="region.after" style="style.center" xml:id="subtitle111">Akhirnya, ia sudah berhenti bergerak.</p>
+<p begin="4141200000t" end="4173600000t" region="region.after" style="style.center" xml:id="subtitle112">Cicakman sudah ada rancangan TV<br/>istimewa dia sendiri!</p>
+<p begin="4175200000t" end="4187200000t" region="region.after" style="style.center" xml:id="subtitle113">Apa?</p>
+<p begin="4193200000t" end="4208400000t" region="region.after" style="style.center" xml:id="subtitle114">[Kit dan Kon mengerang]</p>
+<p begin="4214000000t" end="4260800000t" region="region.after" style="style.center" xml:id="subtitle115">Sudah tiba masanya kita hapuskan<br/>cicak tak guna itu buat selama-lamanya!</p>
+<p begin="4281600000t" end="4298800000t" region="region.after" style="style.center" xml:id="subtitle116">[bunyi hujan turun]</p>
+<p begin="4303200000t" end="4349200000t" region="region.after" style="style.center" xml:id="subtitle117">Hebat! Eloklah hujan turun.<br/>Boleh sejukkan sikit badan!</p>
+<p begin="4355600000t" end="4366000000t" region="region.after" style="style.center" xml:id="subtitle118">[ketawa kecil]</p>
+<p begin="4366800000t" end="4389200000t" region="region.after" style="style.center" xml:id="subtitle119">Air hujan ini terlalu panas buat saya!</p>
+<p begin="4399600000t" end="4442000000t" region="region.after" style="style.center" xml:id="subtitle120">Gerak kaki cicak saya yang tangkas<br/>boleh jauhkan saya daripada hujan ini!</p>
+<p begin="4451200000t" end="4480400000t" region="region.after" style="style.center" xml:id="subtitle121">Asalkan masih ada<br/>tempat untuk saya berpijak!</p>
+<p begin="4492800000t" end="4534800000t" region="region.after" style="style.center" xml:id="subtitle122">Mungkin saya tiada tempat untuk lari!<br/>Namun, awak tiada tempat untuk sembunyi!</p>
+<p begin="4574400000t" end="4608000000t" region="region.after" style="style.center" xml:id="subtitle123">Itu Cicakman! Cepat! Hidupkan enjin kapal!</p>
+<p begin="4614000000t" end="4642400000t" region="region.after" style="style.center" xml:id="subtitle124">Baik kita pergi dari sini<br/>sementara masih sempat!</p>
+<p begin="4741200000t" end="4766800000t" region="region.after" style="style.center" xml:id="subtitle125">[Prof. Klon] Sudah tiada lagi<br/>Cicakman untuk halang saya.</p>
+<p begin="4767600000t" end="4800800000t" region="region.after" style="style.center" xml:id="subtitle126">Masa untuk ucapkan<br/>selamat tinggal kepada En. Sumo</p>
+<p begin="4801600000t" end="4818800000t" region="region.after" style="style.center" xml:id="subtitle127">buat selama-lamanya!</p>
+<p begin="4848000000t" end="4878800000t" region="region.after" style="style.center" xml:id="subtitle128">Saya harap dia tidak berada<br/>di dalam awan hitam itu!</p>
+<p begin="4879600000t" end="4904800000t" region="region.after" style="style.center" xml:id="subtitle129">Ia kelihatan seperti mahu meletup!</p>
+<p begin="4908400000t" end="4942000000t" region="region.after" style="style.center" xml:id="subtitle130">Saya sudah kenal Cicakman.<br/>Pasti dia di dalam awan itu!</p>
+<p begin="4942800000t" end="4962000000t" region="region.after" style="style.center" xml:id="subtitle131">[Linda] Kita perlu buat sesuatu!</p>
+<p begin="4969200000t" end="4988000000t" region="region.after" style="style.center" xml:id="subtitle132">[Danny] Soda penaik! Itulah caranya!</p>
+<p begin="4988800000t" end="5020000000t" region="region.after" style="style.center" xml:id="subtitle133"><span style="style.center_1">Diulang. Lebih baik awak</span><br/><span style="style.center_1">berhenti kejar Tony Sumo!</span></p>
+<p begin="5020800000t" end="5048400000t" region="region.after" style="style.center" xml:id="subtitle134"><span style="style.center_1">Ada ramai polis dan wartawan</span><br/><span style="style.center_1">di sekitar bandar ini!</span></p>
+<p begin="5062400000t" end="5078000000t" region="region.after" style="style.center" xml:id="subtitle135">Cicakman?</p>
+<p begin="5082400000t" end="5124400000t" region="region.after" style="style.center" xml:id="subtitle136">Tinggalkan awan palsu ini dan<br/>serah diri sekarang, Profesor Klon.</p>
+<p begin="5128400000t" end="5143600000t" region="region.after" style="style.center" xml:id="subtitle137">Saya sangka awak sudah...</p>
+<p begin="5144400000t" end="5195599999t" region="region.after" style="style.center" xml:id="subtitle138">Mati? Tidak! Maaf tapi lain kali<br/>sediakan payung sebelum hujan!</p>
+<p begin="5196400000t" end="5244800000t" region="region.after" style="style.center" xml:id="subtitle139">Namun, itu ayat saya!<br/>Berani awak curi ayat saya?</p>
+<p begin="5247200000t" end="5282800000t" region="region.after" style="style.center" xml:id="subtitle140">Tiada sesiapa boleh mencuri<br/>daripada Profesor Klon!</p>
+<p begin="5287600000t" end="5316000000t" region="region.after" style="style.center" xml:id="subtitle141">Tangkap cicak tak guna itu sekarang!</p>
+<p begin="5341200000t" end="5360000000t" region="region.after" style="style.center" xml:id="subtitle142">[bunyi tumbukan, tendangan]</p>
+<p begin="5360800000t" end="5376000000t" region="region.after" style="style.center" xml:id="subtitle143">[bunyi tali elastik]</p>
+<p begin="5451200000t" end="5490800000t" region="region.after" style="style.center" xml:id="subtitle144">Secara asasnya, awan boleh dihasilkan<br/>dengan apa-apa saja yang awak masukkan.</p>
+<p begin="5491600000t" end="5529600000t" region="region.after" style="style.center" xml:id="subtitle145">Memanglah tapi selama ini<br/>saya cuma masukkan air,</p>
+<p begin="5530400000t" end="5557600000t" region="region.after" style="style.center" xml:id="subtitle146">- bukannya soda penaik!<br/>- [Danny] Jika betul tekaan saya,</p>
+<p begin="5558400000t" end="5598000000t" region="region.after" style="style.center" xml:id="subtitle147">ini satu-satunya peluang Cicakman untuk<br/>terselamat jika awan asid itu meletup!</p>
+<p begin="5598800000t" end="5617200000t" region="region.after" style="style.center" xml:id="subtitle148">[mesin bergetar]</p>
+<p begin="5658400000t" end="5671200000t" region="region.after" style="style.center" xml:id="subtitle149">Baiklah, mari kita cuba.</p>
+<p begin="5728800000t" end="5740800000t" region="region.after" style="style.center" xml:id="subtitle150">[bunyi tumbukan]</p>
+<p begin="5800400000t" end="5818000000t" region="region.after" style="style.center" xml:id="subtitle151">[Profesor Klon menjerit kerana marah]</p>
+<p begin="5845600000t" end="5880800000t" region="region.after" style="style.center" xml:id="subtitle152">[Cicakman] Jangan lari!<br/>Permainan awak sudah tamat, Klon!</p>
+<p begin="5881600000t" end="5914800000t" region="region.after" style="style.center" xml:id="subtitle153">Permainan awak yang sudah tamat,<br/>bukan saya, Cicakman!</p>
+<p begin="5918800000t" end="5928800000t" region="region.after" style="style.center" xml:id="subtitle154">[Profesor Klon ketawa]</p>
+<p begin="5958400000t" end="5970000000t" region="region.after" style="style.center" xml:id="subtitle155">[Cicakman mengerang]</p>
+<p begin="5970800000t" end="5981200000t" region="region.after" style="style.center" xml:id="subtitle156">[bunyi berdebur]</p>
+<p begin="5984800000t" end="6018800000t" region="region.after" style="style.center" xml:id="subtitle157">Awan itu hampir meletup, Danny!<br/>Kita sudah terlambat!</p>
+<p begin="6043600000t" end="6060400000t" region="region.after" style="style.center" xml:id="subtitle158">Sikit lagi ia akan sampai.</p>
+<p begin="6075600000t" end="6094400000t" region="region.after" style="style.center" xml:id="subtitle159">Sikit lagi! Sekarang!</p>
+<p begin="6136000000t" end="6162000000t" region="region.after" style="style.center" xml:id="subtitle160">[bunyi petir sabung-menyabung]</p>
+<p begin="6167200000t" end="6177600000t" region="region.after" style="style.center" xml:id="subtitle161">[bunyi meletup]</p>
+<p begin="6204400000t" end="6222800000t" region="region.after" style="style.center" xml:id="subtitle162">[menjerit]</p>
+<p begin="6261200000t" end="6275200000t" region="region.after" style="style.center" xml:id="subtitle163">[Danny dan Linda] Ya!</p>
+<p begin="6352400000t" end="6404000000t" region="region.after" style="style.center" xml:id="subtitle164"><span style="style.center_1">Wira nombor satu saya! Wira kita semua!</span><br/><span style="style.center_1">Cicakman selamatkan kita sekali lagi!</span></p>
+<p begin="6428400000t" end="6441600000t" region="region.after" style="style.center" xml:id="subtitle165">[Linda dan Danny] Hah?</p>
+<p begin="6442400000t" end="6453200000t" region="region.after" style="style.center" xml:id="subtitle166">[Hairi ketawa]</p>
+<p begin="6454000000t" end="6495200000t" region="region.after" style="style.center" xml:id="subtitle167">Nampaknya, Cicakman kembali jadi<br/>adiwira orang ramai yang paling disayangi!</p>
+<p begin="6500800000t" end="6532800000t" region="region.after" style="style.center" xml:id="subtitle168">Ya! Saya rasa Danny juga<br/>patut dapat pujian.</p>
+<p begin="6533600000t" end="6563200000t" region="region.after" style="style.center" xml:id="subtitle169">Sebab dia sedar yang soda penaik<br/>ialah satu-satunya bahan</p>
+<p begin="6564000000t" end="6596400000t" region="region.after" style="style.center" xml:id="subtitle170">yang boleh meneutralkan asid<br/>dalam awan hujan Tony Sumo!</p>
+<p begin="6600800000t" end="6634000000t" region="region.after" style="style.center" xml:id="subtitle171">Namun, bukan Tony Sumo<br/>yang buat awan hujan berasid itu!</p>
+<p begin="6634800000t" end="6649200000t" region="region.after" style="style.center" xml:id="subtitle172">Itu angkara Profesor Klon!</p>
+<p begin="6652400000t" end="6668800000t" region="region.after" style="style.center" xml:id="subtitle173">Jadi, di mana dia sekarang?</p>
+<p begin="6712400000t" end="6752000000t" region="region.after" style="style.center" xml:id="subtitle174">[Profesor Klon] Sila jawab, Miss Chi.<br/>Awak boleh dengar suara saya?</p>
+<p begin="6752800000t" end="6773600000t" region="region.after" style="style.center" xml:id="subtitle175">Saya boleh dengar suara bos!</p>
+<p begin="6781600000t" end="6799600000t" region="region.after" style="style.center" xml:id="subtitle176">[Profesor Klon] Apa? Bukanlah!</p>
+<p begin="6800400000t" end="6832400000t" region="region.after" style="style.center" xml:id="subtitle177">Mari sini. Awak dengar<br/>saya bacakan Akta Rusuhan!</p>
+<p begin="6833200000t" end="6848000000t" region="region.after" style="style.center" xml:id="subtitle178">Dungu betul awak!</p>
+<p begin="6848800000t" end="6876000000t" region="region.after" style="style.center" xml:id="subtitle179">- Terimalah pukulan saya! Rasakan!<br/>- [Kit dan Kon mengerang]</p>
+<p begin="6876800000t" end="6906000000t" region="region.after" style="style.center" xml:id="subtitle180">Terimalah pukulan saya sekali lagi!<br/>Rasakan!</p>
+<p begin="7087600000t" end="7108000000t" region="region.after" style="style.center" xml:id="subtitle181">[Dr. Kline] Sains<br/>adalah satu perkembangan!</p>
+<p begin="7114400000t" end="7130000000t" region="region.after" style="style.center" xml:id="subtitle182">Demi membuktikannya,</p>
+<p begin="7130800000t" end="7162400000t" region="region.after" style="style.center" xml:id="subtitle183">saya sudah janjikan kepada anda<br/>untuk tunjukkan kuasa saya.</p>
+<p begin="7177600000t" end="7192000000t" region="region.after" style="style.center" xml:id="subtitle184">[batuk]</p>
+<p begin="7196000000t" end="7226800000t" region="region.after" style="style.center" xml:id="subtitle185">Maksud saya, kuasa perkembangan!</p>
+<p begin="7232400000t" end="7280800000t" region="region.after" style="style.center" xml:id="subtitle186">Tiada contoh lebih baik daripada senjata!</p>
+<p begin="7291200000t" end="7324800000t" region="region.after" style="style.center" xml:id="subtitle187">Saya boleh fikirkan banyak contoh lain<br/>berkenaan perkembangan.</p>
+<p begin="7325600000t" end="7342800000t" region="region.after" style="style.center" xml:id="subtitle188">Tenaga panel solar...</p>
+<p begin="7354000000t" end="7386800000t" region="region.after" style="style.center" xml:id="subtitle189">Namun, bolehkah<br/>tenaga panel solar buat begini?</p>
+<p begin="7406000000t" end="7427200000t" region="region.after" style="style.center" xml:id="subtitle190">- Atau begini?<br/>- [bunyi meriam]</p>
+<p begin="7442400000t" end="7474400000t" region="region.after" style="style.center" xml:id="subtitle191">Tidak, tapi bolehkah mesin itu menukar<br/>cahaya matahari kepada kuasa</p>
+<p begin="7475200000t" end="7487600000t" region="region.after" style="style.center" xml:id="subtitle192">- untuk...<br/>- Kuasa?</p>
+<p begin="7491200000t" end="7530000000t" region="region.after" style="style.center" xml:id="subtitle193">Mesin ini boleh menukar gelombang bunyi<br/>kepada kuasa sebenar!</p>
+<p begin="7530800000t" end="7549200000t" region="region.after" style="style.center" xml:id="subtitle194">Kuasa untuk apa, Dr. Kline?</p>
+<p begin="7550000000t" end="7573600000t" region="region.after" style="style.center" xml:id="subtitle195">Biar saya teka. Untuk kembangkan sesuatu?</p>
+<p begin="7578800000t" end="7596000000t" region="region.after" style="style.center" xml:id="subtitle196">Itu satu idea yang bagus!</p>
+<p begin="7647600000t" end="7687600000t" region="region.after" style="style.center" xml:id="subtitle197">[Hairi] Tengoklah makanan yang Hairi<br/>bawa untuk awak hari ini, Insang Emas!</p>
+<p begin="7714400000t" end="7725200000t" region="region.after" style="style.center" xml:id="subtitle198">[Hairi terkejut]</p>
+<p begin="7731200000t" end="7742000000t" region="region.after" style="style.center" xml:id="subtitle199">[Hairi mengerang]</p>
+<p begin="7742800000t" end="7762000000t" region="region.after" style="style.center" xml:id="subtitle200">Mereka beri awak makanan apa?</p>
+<p begin="7764000000t" end="7775600000t" region="region.after" style="style.center" xml:id="subtitle201">[Dr.Kline mengerang]</p>
+<p begin="7776400000t" end="7802800000t" region="region.after" style="style.center" xml:id="subtitle202">Kami masih lagi menunggu bom itu,<br/>Dr. Kline!</p>
+<p begin="7816000000t" end="7829600000t" region="region.after" style="style.center" xml:id="subtitle203">[loceng berbunyi]</p>
+<p begin="7830800000t" end="7845200000t" region="region.after" style="style.center" xml:id="subtitle204">[Dr. Kline] Kelas bersurai!</p>
+<p begin="7846000000t" end="7878400000t" region="region.after" style="style.center" xml:id="subtitle205">Mesin tak guna! Musnahkannya!</p>
+<p begin="7884000000t" end="7895200000t" region="region.after" style="style.center" xml:id="subtitle206">[mesin diaktifkan]</p>
+<p begin="7896000000t" end="7913600000t" region="region.after" style="style.center" xml:id="subtitle207"><span style="style.center_1">[Mesin] Musnahkan.</span></p>
+<p begin="7942000000t" end="7974800000t" region="region.after" style="style.center" xml:id="subtitle208">[Hairi mengerang kesakitan]</p>
+<p begin="8047200000t" end="8058000000t" region="region.after" style="style.center" xml:id="subtitle209">Ikan yang nakal!</p>
+<p begin="8078800000t" end="8099600000t" region="region.after" style="style.center" xml:id="subtitle210">Mesti orang sangka awak<br/>cuba mahu makan saya!</p>
+<p begin="8110400000t" end="8134800000t" region="region.after" style="style.center" xml:id="subtitle211">Makan? Awak hampir tepat.</p>
+<p begin="8226000000t" end="8283200000t" region="region.after" style="style.center" xml:id="subtitle212">Awak cakap yang mesin ini<br/>boleh mengawal minda haiwan?</p>
+<p begin="8284000000t" end="8308800000t" region="region.after" style="style.center" xml:id="subtitle213">Nampaknya begitulah, Profesor Klon.</p>
+<p begin="8310800000t" end="8344400000t" region="region.after" style="style.center" xml:id="subtitle214">Secara tidak langsung,<br/>ia akan menuruti arahan kita.</p>
+<p begin="8350400000t" end="8406800000t" region="region.after" style="style.center" xml:id="subtitle215">Biar saya tunjukkan dengan menyuruhnya<br/>membuka peti keselamatan rahsia awak.</p>
+<p begin="8412400000t" end="8438400000t" region="region.after" style="style.center" xml:id="subtitle216">[bunyi laser ditembak]</p>
+<p begin="8456800000t" end="8480400000t" region="region.after" style="style.center" xml:id="subtitle217">[haiwan berbunyi]</p>
+<p begin="8496400000t" end="8518400000t" region="region.after" style="style.center" xml:id="subtitle218">Saya mahu tengok ia lakukannya!</p>
+<p begin="8522000000t" end="8552400000t" region="region.after" style="style.center" xml:id="subtitle219">Labah-labah, buka kunci itu.</p>
+<p begin="8586400000t" end="8597200000t" region="region.after" style="style.center" xml:id="subtitle220">[pintu besi dibuka]</p>
+<p begin="8598000000t" end="8609600000t" region="region.after" style="style.center" xml:id="subtitle221">Mengagumkan.</p>
+<p begin="8618400000t" end="8663600000t" region="region.after" style="style.center" xml:id="subtitle222">Namun, labah-labah tidak tahu<br/>kombinasi kunci untuk buka pintu besi.</p>
+<p begin="8666400000t" end="8677200000t" region="region.after" style="style.center" xml:id="subtitle223">Tidak perlu.</p>
+<p begin="8683600000t" end="8715200000t" region="region.after" style="style.center" xml:id="subtitle224">Buaya, tolong musnahkan pintu itu!</p>
+<p begin="8755600000t" end="8778800000t" region="region.after" style="style.center" xml:id="subtitle225">- [bunyi besi pecah]<br/>- [Profesor Klon] Menakjubkan.</p>
+<p begin="8779600000t" end="8817600000t" region="region.after" style="style.center" xml:id="subtitle226">Gorila, bawa keluar beg berisi duit.</p>
+<p begin="8887600000t" end="8900400000t" region="region.after" style="style.center" xml:id="subtitle227">Bagus!</p>
+<p begin="8901200000t" end="8924400000t" region="region.after" style="style.center" xml:id="subtitle228">Dengan segerombolan haiwan<br/>di bawah arahan saya,</p>
+<p begin="8925200000t" end="8965600000t" region="region.after" style="style.center" xml:id="subtitle229">Metrofulus jadi milik saya dan<br/>tiada sesiapa boleh hentikan saya!</p>
+<p begin="8970400000t" end="8992000000t" region="region.after" style="style.center" xml:id="subtitle230">Termasuklah Cicakman!</p>
+<p begin="9016400000t" end="9051200000t" region="region.after" style="style.center" xml:id="subtitle231">KAFE REAL</p>
+<p begin="9056000000t" end="9070800000t" region="region.after" style="style.center" xml:id="subtitle232">Kamu sudah tonton berita?</p>
+<p begin="9071600000t" end="9117200000t" region="region.after" style="style.center" xml:id="subtitle233">Ada 20 bank dirompak malam semalam.<br/>Perompak itu bawa lari berjuta-juta fulus!</p>
+<p begin="9118000000t" end="9148800000t" region="region.after" style="style.center" xml:id="subtitle234">Sudah tentu polis Metrofulus<br/>akan tangkap perompak itu.</p>
+<p begin="9156400000t" end="9207200000t" region="region.after" style="style.center" xml:id="subtitle235">- Seorang daripada geng itu ditangkap.<br/>- Baguslah! Siapa? Profesor Klon?</p>
+<p begin="9214800000t" end="9224000000t" region="region.after" style="style.center" xml:id="subtitle236">Tony Sumo?</p>
+<p begin="9232000000t" end="9255600000t" region="region.after" style="style.center" xml:id="subtitle237">Seseorang yang lebih licik daripadanya.</p>
+<p begin="9267600000t" end="9292400000t" region="region.after" style="style.center" xml:id="subtitle238">[Hairi] Ular yang bercahaya dalam gelap!</p>
+<p begin="9300000000t" end="9330000000t" region="region.after" style="style.center" xml:id="subtitle239">[ketawa] Mengapa pula<br/>ular mahu rompak bank?</p>
+<p begin="9330800000t" end="9362800000t" region="region.after" style="style.center" xml:id="subtitle240">Itulah yang Cicakman<br/>akan cuba siasat sekarang,</p>
+<p begin="9365600000t" end="9406800000t" region="region.after" style="style.center" xml:id="subtitle241">sebelum semua haiwan reptilia<br/>tidak bersalah akan ditangkap nanti!</p>
+<p begin="9517600000t" end="9543600000t" region="region.after" style="style.center" xml:id="subtitle242">Ular bercahaya itu buat saya teringat</p>
+<p begin="9544400000t" end="9582400000t" region="region.after" style="style.center" xml:id="subtitle243">tentang awak mahu makan saya<br/>tempoh hari. Awak tahu, Insang Emas?</p>
+<p begin="9600400000t" end="9630000000t" region="region.after" style="style.center" xml:id="subtitle244">Namun, apa atau siapa<br/>yang suruh awak buat begitu?</p>
+<p begin="9649600000t" end="9666800000t" region="region.after" style="style.center" xml:id="subtitle245">Petunjuk pertama saya.</p>
+<p begin="9679200000t" end="9724000000t" region="region.after" style="style.center" xml:id="subtitle246">[Cicakman] Dr. Kline, apa yang<br/>bermain dalam kepala awak?</p>
+<p begin="9740000000t" end="9757200000t" region="region.after" style="style.center" xml:id="subtitle247"><span style="style.center_1">[Pembaca berita] Penutup malam ini.</span></p>
+<p begin="9758000000t" end="9802400000t" region="region.after" style="style.center" xml:id="subtitle248"><span style="style.center_1">Berita baru diterima tentang barang kemas</span><br/><span style="style.center_1">terbesar, istimewa dan termahal di dunia,</span></p>
+<p begin="9803200000t" end="9833600000t" region="region.after" style="style.center" xml:id="subtitle249"><span style="style.center_1">Cicak Zamrud telah disimpan</span><br/><span style="style.center_1">di bilik kebal Bank Metrofulus</span></p>
+<p begin="9834400000t" end="9867200000t" region="region.after" style="style.center" xml:id="subtitle250"><span style="style.center_1">sebelum dihantar ke New York untuk</span><br/><span style="style.center_1">jualan lelong yang dinanti-nantikan.</span></p>
+<p begin="9868000000t" end="9911200000t" region="region.after" style="style.center" xml:id="subtitle251"><span style="style.center_1">Pihak pakar percaya bahawa ia</span><br/><span style="style.center_1">bernilai lebih kurang 100 juta fulus.</span></p>
+<p begin="9981200000t" end="10017600000t" region="region.after" style="style.center" xml:id="subtitle252">[Linda] Okey. Sebenarnya,<br/>mengapa kita ke sini?</p>
+<p begin="10023200000t" end="10060400000t" region="region.after" style="style.center" xml:id="subtitle253">Sebab Cicak Zamrud ada<br/>di dalam bilik kebal bank itu.</p>
+<p begin="10062400000t" end="10103600000t" region="region.after" style="style.center" xml:id="subtitle254">Saya yakin Profesor Klon<br/>dan kawan-kawan haiwannya itu</p>
+<p begin="10104400000t" end="10128000000t" region="region.after" style="style.center" xml:id="subtitle255">akan cuba curi barang kemas itu.</p>
+<p begin="10130800000t" end="10160000000t" region="region.after" style="style.center" xml:id="subtitle256">Profesor Klon suka barang kemaskah?</p>
+<p begin="10169200000t" end="10199200000t" region="region.after" style="style.center" xml:id="subtitle257">Tidak, Linda. Dia cuma suka mencuri.</p>
+<p begin="10209200000t" end="10221200000t" region="region.after" style="style.center" xml:id="subtitle258">Linda?</p>
+<p begin="10246400000t" end="10293599999t" region="region.after" style="style.center" xml:id="subtitle259">Tugas kita pula adalah hentikan dia!<br/>Kamu faham, Geng Cicak?</p>
+<p begin="10302000000t" end="10325600000t" region="region.after" style="style.center" xml:id="subtitle260">Okey, nampaknya tidak.</p>
+<p begin="10330000000t" end="10364800000t" region="region.after" style="style.center" xml:id="subtitle261">Danny? Linda? Di mana kamu...</p>
+<p begin="10370000000t" end="10384000000t" region="region.after" style="style.center" xml:id="subtitle262">[Cicakman menjerit]</p>
+<p begin="10387600000t" end="10405600000t" region="region.after" style="style.center" xml:id="subtitle263">[buaya berdesis]</p>
+<p begin="10426400000t" end="10442800000t" region="region.after" style="style.center" xml:id="subtitle264">KEDAI</p>
+<p begin="10450400000t" end="10460000000t" region="region.after" style="style.center" xml:id="subtitle265">[bunyi hentakan]</p>
+<p begin="10474400000t" end="10505600000t" region="region.after" style="style.center" xml:id="subtitle266">Saya harap kamu berdua<br/>tiada di dalam perut buaya ini!</p>
+<p begin="10511200000t" end="10533200000t" region="region.after" style="style.center" xml:id="subtitle267">[Danny] Cicakman, tolong!</p>
+<p begin="10534000000t" end="10572000000t" region="region.after" style="style.center" xml:id="subtitle268">Danny! Saya minta maaf!</p>
+<p begin="10572800000t" end="10599200000t" region="region.after" style="style.center" xml:id="subtitle269">[menangis] Linda juga ada<br/>di dalam perut buaya inikah?</p>
+<p begin="10600000000t" end="10632400000t" region="region.after" style="style.center" xml:id="subtitle270">FESYEN</p>
+<p begin="10640000000t" end="10665600000t" region="region.after" style="style.center" xml:id="subtitle271">Danny! Linda! Saya datang!</p>
+<p begin="10666400000t" end="10680400000t" region="region.after" style="style.center" xml:id="subtitle272">[bunyi trak berhenti]</p>
+<p begin="10681200000t" end="10692000000t" region="region.after" style="style.center" xml:id="subtitle273">KEDAI TELE ZONE</p>
+<p begin="10692800000t" end="10724000000t" region="region.after" style="style.center" xml:id="subtitle274">Ia akan alihkan perhatian Cicakman<br/>sementara kita bertiga</p>
+<p begin="10724800000t" end="10746000000t" region="region.after" style="style.center" xml:id="subtitle275">pergi ambil Cicak Zamrud itu.</p>
+<p begin="10760000000t" end="10773200000t" region="region.after" style="style.center" xml:id="subtitle276">Ya, bos.</p>
+<p begin="10780400000t" end="10809200000t" region="region.after" style="style.center" xml:id="subtitle277">KEDAI TELE ZONE</p>
+<p begin="10810000000t" end="10859200000t" region="region.after" style="style.center" xml:id="subtitle278">[batuk] Saya rasa<br/>saya tertelan lalat! Gelinya!</p>
+<p begin="10898400000t" end="10939600000t" region="region.after" style="style.center" xml:id="subtitle279">Okey, beruk tak guna! Awak di mana?</p>
+<p begin="10944400000t" end="10968800000t" region="region.after" style="style.center" xml:id="subtitle280">Saya harap awak tidak maksudkan saya.</p>
+<p begin="10976000000t" end="11000000000t" region="region.after" style="style.center" xml:id="subtitle281">Linda! Danny! Kamu selamat!</p>
+<p begin="11010400000t" end="11037600000t" region="region.after" style="style.center" xml:id="subtitle282">Okey, mungkin belum selamat lagi!</p>
+<p begin="11038400000t" end="11084000000t" region="region.after" style="style.center" xml:id="subtitle283">Saya mahu beri amaran<br/>yang saya Cicakman...</p>
+<p begin="11089600000t" end="11128400000t" region="region.after" style="style.center" xml:id="subtitle284">penjaga undang-undang di kawasan...</p>
+<p begin="11131600000t" end="11143600000t" region="region.after" style="style.center" xml:id="subtitle285">Metrofulus.</p>
+<p begin="11151600000t" end="11174000000t" region="region.after" style="style.center" xml:id="subtitle286">Saya rasa ia tidak dengar cakap awak!</p>
+<p begin="11181200000t" end="11238800000t" region="region.after" style="style.center" xml:id="subtitle287">Yakah? Baiklah. Masa untuk<br/>perkenalkan diri saya, gaya cicak!</p>
+<p begin="11296000000t" end="11313200000t" region="region.after" style="style.center" xml:id="subtitle288">[Cicakman mengerang]</p>
+<p begin="11413200000t" end="11442800000t" region="region.after" style="style.center" xml:id="subtitle289">Saya terhibur tapi bolehkah<br/>awak turunkan kami sekarang?</p>
+<p begin="11454400000t" end="11466400000t" region="region.after" style="style.center" xml:id="subtitle290">Sudah tentu.</p>
+<p begin="11558800000t" end="11602800000t" region="region.after" style="style.center" xml:id="subtitle291">Sekarang, kamu berdua pergi<br/>perhatikan Profesor Klon di bank itu</p>
+<p begin="11603600000t" end="11630800000t" region="region.after" style="style.center" xml:id="subtitle292">sementara saya uruskan Pang Pong di sini.</p>
+<p begin="11631600000t" end="11651200000t" region="region.after" style="style.center" xml:id="subtitle293">- Ayuh, Linda!<br/>- Ya, baiklah!</p>
+<p begin="11684000000t" end="11715200000t" region="region.after" style="style.center" xml:id="subtitle294">Okey, gergasi. Pusingan kedua!</p>
+<p begin="11716400000t" end="11732400000t" region="region.after" style="style.center" xml:id="subtitle295">[Cicakman menjerit]</p>
+<p begin="11737200000t" end="11767600000t" region="region.after" style="style.center" xml:id="subtitle296">Ular tidak akan boleh takutkan cicak ini!</p>
+<p begin="11778800000t" end="11814000000t" region="region.after" style="style.center" xml:id="subtitle297">Awak sudah pilih cicak yang salah, tahu?</p>
+<p begin="11827600000t" end="11841600000t" region="region.after" style="style.center" xml:id="subtitle298">[ular mendesis]</p>
+<p begin="11842400000t" end="11864000000t" region="region.after" style="style.center" xml:id="subtitle299">[gorila bertempik]</p>
+<p begin="11893200000t" end="11907200000t" region="region.after" style="style.center" xml:id="subtitle300">[Profesor Klon mendengus]</p>
+<p begin="11908000000t" end="11938800000t" region="region.after" style="style.center" xml:id="subtitle301">Mengapa kamu berdua begitu lambat?</p>
+<p begin="11944400000t" end="11952800000t" region="region.after" style="style.center" xml:id="subtitle302">Namun...</p>
+<p begin="11958000000t" end="11990400000t" region="region.after" style="style.center" xml:id="subtitle303">[Profesor Klon] Kamu berdua ke tepi.<br/>Serahkan kepada kumpulan baru saya,</p>
+<p begin="11991200000t" end="12020400000t" region="region.after" style="style.center" xml:id="subtitle304">masih segar dari Zoo Bandar Metrofulus!</p>
+<p begin="12032400000t" end="12045600000t" region="region.after" style="style.center" xml:id="subtitle305">[mesin laser dihidupkan]</p>
+<p begin="12051200000t" end="12066800000t" region="region.after" style="style.center" xml:id="subtitle306">Musnahkan pintu itu!</p>
+<p begin="12070400000t" end="12111200000t" region="region.after" style="style.center" xml:id="subtitle307">- [gajah meringkik]<br/>- [Kit dan Kon menjerit]</p>
+<p begin="12129600000t" end="12150400000t" region="region.after" style="style.center" xml:id="subtitle308">Begitulah cara yang betul.</p>
+<p begin="12151200000t" end="12182400000t" region="region.after" style="style.center" xml:id="subtitle309">Itulah masa depan<br/>kejahatan dalam bandar ini.</p>
+<p begin="12203200000t" end="12226400000t" region="region.after" style="style.center" xml:id="subtitle310">[Prof. Klon] Ayuh, haiwan-haiwan<br/>yang telah dirasuk.</p>
+<p begin="12227200000t" end="12263600000t" region="region.after" style="style.center" xml:id="subtitle311">Mari bawa zamrud itu pergi<br/>sebelum polis sampai.</p>
+<p begin="12267200000t" end="12290400000t" region="region.after" style="style.center" xml:id="subtitle312">Dia cakap haiwan-haiwan itu dirasukkah?</p>
+<p begin="12300000000t" end="12320800000t" region="region.after" style="style.center" xml:id="subtitle313">Ya, tapi apa yang kita mahu buat?</p>
+<p begin="12327200000t" end="12344400000t" region="region.after" style="style.center" xml:id="subtitle314">Beli gula-gula getah!</p>
+<p begin="12365600000t" end="12384400000t" region="region.after" style="style.center" xml:id="subtitle315">Kamu bertiga tunggu di situ</p>
+<p begin="12385200000t" end="12415600000t" region="region.after" style="style.center" xml:id="subtitle316">sehingga pihak zoo datang<br/>untuk ambil kamu kembali.</p>
+<p begin="12426800000t" end="12471600000t" region="region.after" style="style.center" xml:id="subtitle317">Masa untuk tengok aksi Linda dan Danny<br/>hancurkan rancangan Profesor Klon.</p>
+<p begin="12482800000t" end="12505200000t" region="region.after" style="style.center" xml:id="subtitle318">Tidak cukup lagikah<br/>gula-gula getah kita, Linda?</p>
+<p begin="12506000000t" end="12539200000t" region="region.after" style="style.center" xml:id="subtitle319">Saya bukannya mahu gula-gula getah, Danny.<br/>Saya mahukan benda ini!</p>
+<p begin="12543200000t" end="12564800000t" region="region.after" style="style.center" xml:id="subtitle320">Tikus mainan? Namun, mengapa?</p>
+<p begin="12571200000t" end="12602800000t" region="region.after" style="style.center" xml:id="subtitle321">Saya harap ia dapat menakutkan gajah itu.</p>
+<p begin="12603600000t" end="12645600000t" region="region.after" style="style.center" xml:id="subtitle322">[gajah meringkik]</p>
+<p begin="12652800000t" end="12667600000t" region="region.after" style="style.center" xml:id="subtitle323">Gajah sudah gagal.</p>
+<p begin="12676000000t" end="12722400000t" region="region.after" style="style.center" xml:id="subtitle324">Tiada Cicak Zamrud. Kit dan Kon tangkap.</p>
+<p begin="12729600000t" end="12742400000t" region="region.after" style="style.center" xml:id="subtitle325">Salah lagi.</p>
+<p begin="12762000000t" end="12784400000t" region="region.after" style="style.center" xml:id="subtitle326">[gajah meringkik]</p>
+<p begin="12792000000t" end="12807200000t" region="region.after" style="style.center" xml:id="subtitle327">[ketawa]</p>
+<p begin="12808400000t" end="12817600000t" region="region.after" style="style.center" xml:id="subtitle328">Sempurna!</p>
+<p begin="12821600000t" end="12843200000t" region="region.after" style="style.center" xml:id="subtitle329">Saya akan uruskan batu permata ini.</p>
+<p begin="12846800000t" end="12860400000t" region="region.after" style="style.center" xml:id="subtitle330">Cicakman!</p>
+<p begin="12887200000t" end="12909200000t" region="region.after" style="style.center" xml:id="subtitle331">Hancurkan Cicakman!</p>
+<p begin="12927600000t" end="12941200000t" region="region.after" style="style.center" xml:id="subtitle332">[gajah meringkik]</p>
+<p begin="12954400000t" end="12964800000t" region="region.after" style="style.center" xml:id="subtitle333">[Cicakman terkejut]</p>
+<p begin="12965600000t" end="12983600000t" region="region.after" style="style.center" xml:id="subtitle334">[gajah meringkik]</p>
+<p begin="12996000000t" end="13014400000t" region="region.after" style="style.center" xml:id="subtitle335">[Cicakman menjerit]</p>
+<p begin="13015200000t" end="13027600000t" region="region.after" style="style.center" xml:id="subtitle336">[mainan tikus berciut]</p>
+<p begin="13056800000t" end="13074000000t" region="region.after" style="style.center" xml:id="subtitle337">- [semua menjerit]<br/>- [gajah meringkik]</p>
+<p begin="13074800000t" end="13092400000t" region="region.after" style="style.center" xml:id="subtitle338">[semua ketawa]</p>
+<p begin="13093200000t" end="13103200000t" region="region.after" style="style.center" xml:id="subtitle339">[bunyi mesin dipijak]</p>
+<p begin="13104000000t" end="13132400000t" region="region.after" style="style.center" xml:id="subtitle340">Tidak! Jangan hancurkan mesin saya itu!</p>
+<p begin="13139600000t" end="13164400000t" region="region.after" style="style.center" xml:id="subtitle341">Kita sudah selamatkan Cicak Zamrud!</p>
+<p begin="13166400000t" end="13184400000t" region="region.after" style="style.center" xml:id="subtitle342">Serta hentikan rancangan Profesor Klon</p>
+<p begin="13185200000t" end="13208800000t" region="region.after" style="style.center" xml:id="subtitle343">untuk jadikan semua haiwan<br/>dalam Metrofulus</p>
+<p begin="13209600000t" end="13228400000t" region="region.after" style="style.center" xml:id="subtitle344">penjenayah yang berbahaya.</p>
+<p begin="13232400000t" end="13274800000t" region="region.after" style="style.center" xml:id="subtitle345">Namun, nampaknya kita tidak berjaya<br/>menangkap Profesor Klon sekali lagi.</p>
+<p begin="13275600000t" end="13284000000t" region="region.after" style="style.center" xml:id="subtitle346">[bunyi enjin trak]</p>
+<p begin="13289600000t" end="13312000000t" region="region.after" style="style.center" xml:id="subtitle347">Apa? Tidak mengapa.</p>
+<p begin="13318000000t" end="13349600000t" region="region.after" style="style.center" xml:id="subtitle348">Kita perlu bertenang<br/>untuk raikan kemenangan kita.</p>
+<p begin="13350400000t" end="13380000000t" region="region.after" style="style.center" xml:id="subtitle349">- Awak setuju? Setuju atau tidak?<br/>- [mainan tikus berciut]</p>
+<p begin="13420800000t" end="13438000000t" region="region.after" style="style.center" xml:id="subtitle350">[gajah meringkik]</p>
+<p begin="13438800000t" end="13469200000t" region="region.after" style="style.center" xml:id="subtitle351">[Cicakman menjerit]</p>
+<p begin="13488000000t" end="13515600000t" region="region.after" style="style.center" xml:id="subtitle352">[ketawa]</p>
+<p begin="13540000000t" end="13573600000t" region="region.after" style="style.center" xml:id="subtitle353"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="13575200000t" end="13602800000t" region="region.after" style="style.center" xml:id="subtitle354"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="13610000000t" end="13642400000t" region="region.after" style="style.center" xml:id="subtitle355"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="13644800000t" end="13674400000t" region="region.after" style="style.center" xml:id="subtitle356"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="13714800000t" end="13744400000t" region="region.after" style="style.center" xml:id="subtitle357"><span style="style.center_1">♪ Cicakman ♪</span></p>
+<p begin="13750400000t" end="13769600000t" region="region.before" style="style.center" xml:id="subtitle358">Terjemahan sari kata oleh Aizat Bahri</p>
+</div>
+</body>
+</tt>
