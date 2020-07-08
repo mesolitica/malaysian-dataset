@@ -40,6 +40,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Chatbot](#chatbot)
     * [Wiki Wizard](#wiki-wizard)
     * [ConvAI2](#convai2)
+    * [Blended Skill Talk](#blended-skill-talk)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Translated Emotion](#Translated-Emotion)
@@ -140,11 +141,15 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 
 #### [Wiki Wizard](chatbot/wiki-wizard)
 
-Total size: 397.4 MB
+Total size: 275.0 MB
 
 #### [ConvAI2](chatbot/convai2)
 
 Total size: 127.9 MB
+
+#### [Blended Skill Talk](chatbot/blended-skill-talk)
+
+Total size: 31.2 MB
 
 ## [Corpus](corpus)
 
@@ -948,7 +953,7 @@ Unigram and Bigram collected from news, structure,
 
 #### [MSMARCO](document-ranking/msmarco)
 
-Total size: 812.0 MB
+Total size: 857.2 MB
 
 ## [Dumping](dumping)
 
