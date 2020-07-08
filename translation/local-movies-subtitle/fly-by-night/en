@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style.default"/>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style.default_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.after.center"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.before.center"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="5000000t" end="21666666t" region="region.after.center" style="style.default" xml:id="subtitle0">ALL POLICE CHARACTERS<br/>IN THIS FILM ARE FICTIONAL</p>
+<p begin="22500000t" end="35000000t" region="region.after.center" style="style.default" xml:id="subtitle1">AND NOT RELATED TO ANY POLICE FORCE</p>
+<p begin="593750000t" end="609583333t" region="region.after.center" style="style.default" xml:id="subtitle2">You should try getting on one.</p>
+<p begin="632083333t" end="646666666t" region="region.after.center" style="style.default" xml:id="subtitle3">Wait until I get over my fear of flying.</p>
+<p begin="704583333t" end="715000000t" region="region.after.center" style="style.default" xml:id="subtitle4">What's that?</p>
+<p begin="723333333t" end="737916666t" region="region.after.center" style="style.default" xml:id="subtitle5">I'm trying to quit smoking.</p>
+<p begin="740833333t" end="752083333t" region="region.after.center" style="style.default" xml:id="subtitle6">It's good that you're back.</p>
+<p begin="753333333t" end="766250000t" region="region.after.center" style="style.default" xml:id="subtitle7">Let's get something to eat.</p>
+<p begin="861250000t" end="886666666t" region="region.after.center" style="style.default" xml:id="subtitle8"><span style="style.default_1">Jakarta Flight C726 has arrived.</span></p>
+<p begin="929166666t" end="939583333t" region="region.after.center" style="style.default" xml:id="subtitle9">Where are you going?</p>
+<p begin="940416666t" end="950000000t" region="region.after.center" style="style.default" xml:id="subtitle10">Bukit Jelutong.</p>
+<p begin="960833333t" end="972916666t" region="region.after.center" style="style.default" xml:id="subtitle11">House or apartment?</p>
+<p begin="973750000t" end="985000000t" region="region.after.center" style="style.default" xml:id="subtitle12">House.</p>
+<p begin="1095833333t" end="1112500000t" region="region.after.center" style="style.default" xml:id="subtitle13"><span style="style.default_1">Ah Soon, there's a camera<br/>in the back seat.</span></p>
+<p begin="1113333333t" end="1123333333t" region="region.after.center" style="style.default" xml:id="subtitle14"><span style="style.default_1">Take it.</span></p>
+<p begin="1124166666t" end="1153333333t" region="region.after.center" style="style.default" xml:id="subtitle15">You don't need to be old school for me.</p>
+<p begin="1154166666t" end="1187916666t" region="region.after.center" style="style.default" xml:id="subtitle16">I saw smartphones<br/>when I was jailed back then.</p>
+<p begin="1188750000t" end="1200833333t" region="region.after.center" style="style.default" xml:id="subtitle17">I don't trust technology.</p>
+<p begin="1206666666t" end="1218750000t" region="region.after.center" style="style.default" xml:id="subtitle18">Sir, your taxi is here.</p>
+<p begin="1290416666t" end="1301666666t" region="region.after.center" style="style.default" xml:id="subtitle19">What about this then?</p>
+<p begin="1305416666t" end="1322500000t" region="region.after.center" style="style.default" xml:id="subtitle20">The Japanese gave this to me<br/>for insurance.</p>
+<p begin="1323333333t" end="1340833333t" region="region.after.center" style="style.default" xml:id="subtitle21">We switch it off if we are doing a hit.</p>
+<p begin="1361250000t" end="1371666666t" region="region.after.center" style="style.default" xml:id="subtitle22"><span style="style.default_1">Do we have guns?</span></p>
+<p begin="1375000000t" end="1390000000t" region="region.after.center" style="style.default" xml:id="subtitle23"><span style="style.default_1">We don't play with fire.</span></p>
+<p begin="1395000000t" end="1421250000t" region="region.after.center" style="style.default" xml:id="subtitle24"><span style="style.default_1">Let's keep it small, only extortion.</span></p>
+<p begin="1422500000t" end="1436250000t" region="region.after.center" style="style.default" xml:id="subtitle25"><span style="style.default_1">Who do we have?</span></p>
+<p begin="1438750000t" end="1452083333t" region="region.after.center" style="style.default" xml:id="subtitle26"><span style="style.default_1">Ah Wai and Gwailo.</span></p>
+<p begin="1464166666t" end="1491666666t" region="region.after.center" style="style.default" xml:id="subtitle27"><span style="style.default_1">One gets pissed easily,<br/>and another one is stupid.</span></p>
+<p begin="1497083333t" end="1507500000t" region="region.after.center" style="style.default" xml:id="subtitle28"><span style="style.default_1">I know.</span></p>
+<p begin="1511666666t" end="1523750000t" region="region.after.center" style="style.default" xml:id="subtitle29"><span style="style.default_1">They're not the smartest people.</span></p>
+<p begin="1528750000t" end="1553750000t" region="region.after.center" style="style.default" xml:id="subtitle30"><span style="style.default_1">But they're one of us, right?</span></p>
+<p begin="1561666666t" end="1574166666t" region="region.after.center" style="style.default" xml:id="subtitle31"><span style="style.default_1">Fine.</span></p>
+<p begin="1681250000t" end="1712083333t" region="region.after.center" style="style.default" xml:id="subtitle32">The quality of things nowadays is so bad.</p>
+<p begin="1723333333t" end="1741250000t" region="region.after.center" style="style.default" xml:id="subtitle33">-Ah Soon.<br/>-What?</p>
+<p begin="1744166666t" end="1774166666t" region="region.after.center" style="style.default" xml:id="subtitle34">Did your brother take good care of you?</p>
+<p begin="1814583333t" end="1828333333t" region="region.after.center" style="style.default" xml:id="subtitle35">Rest assured, Godmother.</p>
+<p begin="1841666666t" end="1853333333t" region="region.after.center" style="style.default" xml:id="subtitle36">He has been taking care of me.</p>
+<p begin="1904583333t" end="1915000000t" region="region.after.center" style="style.default" xml:id="subtitle37">That's what he should do.</p>
+<p begin="1924583333t" end="1961666666t" region="region.after.center" style="style.default" xml:id="subtitle38">If your godfather were still around,<br/>he would do the same.</p>
+<p begin="1975416666t" end="2012083333t" region="region.after.center" style="style.default" xml:id="subtitle39">My bookie saw someone bribing a cop,<br/>but the cop wouldn't take cash.</p>
+<p begin="2012916666t" end="2027083333t" region="region.after.center" style="style.default" xml:id="subtitle40">Instead, the guy took the cop aside.</p>
+<p begin="2027916666t" end="2046250000t" region="region.after.center" style="style.default" xml:id="subtitle41">He took off his pants<br/>and gave him a blowjob.</p>
+<p begin="2055833333t" end="2067916666t" region="region.after.center" style="style.default" xml:id="subtitle42">Who's the one giving the blowjob?</p>
+<p begin="2071666666t" end="2085833333t" region="region.after.center" style="style.default" xml:id="subtitle43">He gave the cop a blowjob!</p>
+<p begin="2087916666t" end="2102500000t" region="region.after.center" style="style.default" xml:id="subtitle44">You've got to be kidding me!</p>
+<p begin="2103333333t" end="2132083333t" region="region.after.center" style="style.default" xml:id="subtitle45">He has seen all kinds of shit in jail.</p>
+<p begin="2132916666t" end="2154166666t" region="region.after.center" style="style.default" xml:id="subtitle46">Really? Did the cop just let him do that?</p>
+<p begin="2155000000t" end="2174583333t" region="region.after.center" style="style.default" xml:id="subtitle47">It's a blowjob. Why not?</p>
+<p begin="2176666666t" end="2193750000t" region="region.after.center" style="style.default" xml:id="subtitle48">Mom, I'm going out to do some work.</p>
+<p begin="2217500000t" end="2234583333t" region="region.after.center" style="style.default" xml:id="subtitle49">Be careful.</p>
+<p begin="2239583333t" end="2254166666t" region="region.after.center" style="style.default" xml:id="subtitle50">All right.</p>
+<p begin="2272500000t" end="2286250000t" region="region.after.center" style="style.default" xml:id="subtitle51">-Are you serious?<br/>-Trust me.</p>
+<p begin="2287083333t" end="2322500000t" region="region.after.center" style="style.default" xml:id="subtitle52">People in jail,<br/>they've seen all kinds of shit.</p>
+<p begin="2362500000t" end="2377083333t" region="region.after.center" style="style.default" xml:id="subtitle53">What kind of shit are you talking about?</p>
+<p begin="2393750000t" end="2406666666t" region="region.after.center" style="style.default" xml:id="subtitle54">It's nothing.</p>
+<p begin="2407500000t" end="2425416666t" region="region.after.center" style="style.default" xml:id="subtitle55">I was just saying that I respect you</p>
+<p begin="2426250000t" end="2442083333t" region="region.after.center" style="style.default" xml:id="subtitle56">since you've probably seen<br/>all kinds of shit.</p>
+<p begin="2444583333t" end="2454583333t" region="region.after.center" style="style.default" xml:id="subtitle57">That's right.</p>
+<p begin="2457916666t" end="2486666666t" region="region.after.center" style="style.default" xml:id="subtitle58">A big mouth like yours<br/>can probably fit a few in.</p>
+<p begin="2538333333t" end="2548750000t" region="region.after.center" style="style.default" xml:id="subtitle59">Hey.</p>
+<p begin="2556666666t" end="2567083333t" region="region.after.center" style="style.default" xml:id="subtitle60">When did you get out?</p>
+<p begin="2581250000t" end="2591666666t" region="region.after.center" style="style.default" xml:id="subtitle61">Not long ago.</p>
+<p begin="2605416666t" end="2617500000t" region="region.after.center" style="style.default" xml:id="subtitle62">All right, listen up.</p>
+<p begin="2624583333t" end="2654583333t" region="region.after.center" style="style.default" xml:id="subtitle63">From today onward, Ah Soon will be<br/>a crucial part of the team.</p>
+<p begin="2665833333t" end="2678333333t" region="region.after.center" style="style.default" xml:id="subtitle64">He is one of us now.</p>
+<p begin="2688750000t" end="2720000000t" region="region.after.center" style="style.default" xml:id="subtitle65">No matter what he did,<br/>you'll have to respect him.</p>
+<p begin="2724166666t" end="2734166666t" region="region.after.center" style="style.default" xml:id="subtitle66">Understand?</p>
+<p begin="2747500000t" end="2763333333t" region="region.after.center" style="style.default" xml:id="subtitle67">Take off your hat.</p>
+<p begin="2795000000t" end="2808750000t" region="region.after.center" style="style.default" xml:id="subtitle68">Do you need me to help you get that?</p>
+<p begin="2834166666t" end="2865000000t" region="region.after.center" style="style.default" xml:id="subtitle69">Great, following an old addict<br/>is exactly what we need.</p>
+<p begin="2895833333t" end="2905833333t" region="region.after.center" style="style.default" xml:id="subtitle70">Is he Malay?</p>
+<p begin="2949583333t" end="2974583333t" region="region.after.center" style="style.default" xml:id="subtitle71">I want to know everything<br/>about him and his wife.</p>
+<p begin="3005000000t" end="3018333333t" region="region.after.center" style="style.default" xml:id="subtitle72">We can use this.</p>
+<p begin="3027500000t" end="3051666666t" region="region.after.center" style="style.default" xml:id="subtitle73">There's a thing called a smartphone.</p>
+<p begin="3056666666t" end="3082083333t" region="region.after.center" style="style.default" xml:id="subtitle74">It's got a camera,<br/>and it fits in your pocket.</p>
+<p begin="3158750000t" end="3172916666t" region="region.after.center" style="style.default" xml:id="subtitle75">You've got everything in this.</p>
+<p begin="3179583333t" end="3213333333t" region="region.after.center" style="style.default" xml:id="subtitle76">What if you get caught<br/>and all of our information gets leaked?</p>
+<p begin="3215416666t" end="3230416666t" region="region.after.center" style="style.default" xml:id="subtitle77">We won't get caught.</p>
+<p begin="3239583333t" end="3260416666t" region="region.after.center" style="style.default" xml:id="subtitle78">People get caught.</p>
+<p begin="3268750000t" end="3281250000t" region="region.after.center" style="style.default" xml:id="subtitle79">Am I talking to you?</p>
+<p begin="3316250000t" end="3333750000t" region="region.after.center" style="style.default" xml:id="subtitle80">What the fuck are you staring at, convict?</p>
+<p begin="3379166666t" end="3391250000t" region="region.after.center" style="style.default" xml:id="subtitle81">Are you mute?</p>
+<p begin="3440833333t" end="3452083333t" region="region.after.center" style="style.default" xml:id="subtitle82">What are you doing?</p>
+<p begin="3466666666t" end="3476666666t" region="region.after.center" style="style.default" xml:id="subtitle83">Sit down.</p>
+<p begin="3478750000t" end="3490000000t" region="region.after.center" style="style.default" xml:id="subtitle84">What are you doing?</p>
+<p begin="3587916666t" end="3606250000t" region="region.after.center" style="style.default" xml:id="subtitle85">He was like a son to your late father.</p>
+<p begin="3611250000t" end="3625000000t" region="region.after.center" style="style.default" xml:id="subtitle86">And a brother to us.</p>
+<p begin="3627500000t" end="3654583333t" region="region.after.center" style="style.default" xml:id="subtitle87">You better behave and listen to me.</p>
+<p begin="3660416666t" end="3670000000t" region="region.after.center" style="style.default" xml:id="subtitle88">This is my house.</p>
+<p begin="3677916666t" end="3690833333t" region="region.after.center" style="style.default" xml:id="subtitle89">We go by my rules.</p>
+<p begin="3735833333t" end="3749166666t" region="region.after.center" style="style.default" xml:id="subtitle90">I've ordered new ink cartridges.</p>
+<p begin="3750833333t" end="3759583333t" region="region.after.center" style="style.default" xml:id="subtitle91">Go get it.</p>
+<p begin="3762916666t" end="3777083333t" region="region.after.center" style="style.default" xml:id="subtitle92">-I just bought a new printer.<br/>-Go get it!</p>
+<p begin="3800416666t" end="3810416666t" region="region.after.center" style="style.default" xml:id="subtitle93">I'll go.</p>
+<p begin="3820416666t" end="3832500000t" region="region.after.center" style="style.default" xml:id="subtitle94">Leave it.</p>
+<p begin="3836250000t" end="3846666666t" region="region.after.center" style="style.default" xml:id="subtitle95">I'll go get it.</p>
+<p begin="3855000000t" end="3874583333t" region="region.after.center" style="style.default" xml:id="subtitle96">Is there anything else you need help<br/>picking up, boss?</p>
+<p begin="4090833333t" end="4125833333t" region="region.after.center" style="style.default" xml:id="subtitle97">Hey! Brother Bookie. Yes.</p>
+<p begin="4127083333t" end="4145000000t" region="region.after.center" style="style.default" xml:id="subtitle98">I've been very busy lately.</p>
+<p begin="4149166666t" end="4169166666t" region="region.after.center" style="style.default" xml:id="subtitle99">Just give me a little bit more time.</p>
+<p begin="4187083333t" end="4222500000t" region="region.after.center" style="style.default" xml:id="subtitle100">Your dad's home office<br/>is exactly the way I remember it.</p>
+<p begin="4230000000t" end="4242916666t" region="region.after.center" style="style.default" xml:id="subtitle101">Nothing has changed.</p>
+<p begin="4246666666t" end="4271666666t" region="region.after.center" style="style.default" xml:id="subtitle102">You know him.<br/>He liked to keep things in order.</p>
+<p begin="4292916666t" end="4308750000t" region="region.after.center" style="style.default" xml:id="subtitle103">Ah Soon. Have you got the device?</p>
+<p begin="4359583333t" end="4370000000t" region="region.after.center" style="style.default" xml:id="subtitle104">Does it work?</p>
+<p begin="4437500000t" end="4467083333t" region="region.after.center" style="style.default" xml:id="subtitle105">No. Of course, I know I'm late but...</p>
+<p begin="4500000000t" end="4525000000t" region="region.after.center" style="style.default" xml:id="subtitle106">Hello? Can you hear me?</p>
+<p begin="4590833333t" end="4615416666t" region="region.after.center" style="style.default" xml:id="subtitle107">Azman, I need the bank details.</p>
+<p begin="4616250000t" end="4638750000t" region="region.after.center" style="style.default" xml:id="subtitle108">He's a Datuk.<br/>He earns a lot, but he spends a lot.</p>
+<p begin="4646250000t" end="4661666666t" region="region.after.center" style="style.default" xml:id="subtitle109">There's not much money<br/>in his bank account.</p>
+<p begin="4662500000t" end="4675000000t" region="region.after.center" style="style.default" xml:id="subtitle110">The wife has most of his money.</p>
+<p begin="4710833333t" end="4725416666t" region="region.after.center" style="style.default" xml:id="subtitle111"><span style="style.default_1">Watch them closely.</span></p>
+<p begin="4772500000t" end="4785000000t" region="region.after.center" style="style.default" xml:id="subtitle112"><span style="style.default_1">Follow them.</span></p>
+<p begin="4846666666t" end="4858750000t" region="region.after.center" style="style.default" xml:id="subtitle113"><span style="style.default_1">Hello, Ah Soon.</span></p>
+<p begin="4859583333t" end="4872500000t" region="region.after.center" style="style.default" xml:id="subtitle114"><span style="style.default_1">I want pictures of his wife.</span></p>
+<p begin="4875000000t" end="4885000000t" region="region.after.center" style="style.default" xml:id="subtitle115"><span style="style.default_1">Make sure they are clear.</span></p>
+<p begin="4924583333t" end="4947500000t" region="region.after.center" style="style.default" xml:id="subtitle116"><span style="style.default_1">Gwailo, get me his number.</span></p>
+<p begin="5000833333t" end="5015833333t" region="region.after.center" style="style.default" xml:id="subtitle117">There's an empty spot right beside my car.</p>
+<p begin="5016666666t" end="5036250000t" region="region.after.center" style="style.default" xml:id="subtitle118">I didn't see it earlier. Don't be mad.</p>
+<p begin="5080000000t" end="5095000000t" region="region.after.center" style="style.default" xml:id="subtitle119">Are we going after his wife?</p>
+<p begin="5096666666t" end="5113750000t" region="region.after.center" style="style.default" xml:id="subtitle120">No. Her husband.</p>
+<p begin="5117083333t" end="5131666666t" region="region.after.center" style="style.default" xml:id="subtitle121">We'll handle the wife.</p>
+<p begin="5187916666t" end="5200833333t" region="region.after.center" style="style.default" xml:id="subtitle122">Is this his wife?</p>
+<p begin="5210833333t" end="5225000000t" region="region.after.center" style="style.default" xml:id="subtitle123">She's not my cup of tea.</p>
+<p begin="5236666666t" end="5249166666t" region="region.after.center" style="style.default" xml:id="subtitle124">I'll drink it anyway.</p>
+<p begin="5552083333t" end="5571250000t" region="region.after.center" style="style.default" xml:id="subtitle125">-Yes?<br/>-<span style="style.default_1">Mr. Khairy.</span></p>
+<p begin="5573333333t" end="5590000000t" region="region.after.center" style="style.default" xml:id="subtitle126">-Who is this?<br/>-<span style="style.default_1">You should park your car.</span></p>
+<p begin="5618750000t" end="5640833333t" region="region.after.center" style="style.default" xml:id="subtitle127"><span style="style.default_1">You can't contact Khalida, am I right?</span></p>
+<p begin="5642916666t" end="5653750000t" region="region.after.center" style="style.default" xml:id="subtitle128">Who are you?</p>
+<p begin="5657083333t" end="5677083333t" region="region.after.center" style="style.default" xml:id="subtitle129"><span style="style.default_1">There's a bus stop at 200 meters.</span></p>
+<p begin="5677916666t" end="5689166666t" region="region.after.center" style="style.default" xml:id="subtitle130"><span style="style.default_1">You can park there.</span></p>
+<p begin="5720833333t" end="5732083333t" region="region.after.center" style="style.default" xml:id="subtitle131">Where's my wife?</p>
+<p begin="5736666666t" end="5761250000t" region="region.after.center" style="style.default" xml:id="subtitle132"><span style="style.default_1">Your wife is wearing<br/>a blue shirt today, right?</span></p>
+<p begin="5767500000t" end="5784583333t" region="region.after.center" style="style.default" xml:id="subtitle133"><span style="style.default_1">She's got a great figure.</span></p>
+<p begin="5817083333t" end="5832500000t" region="region.after.center" style="style.default" xml:id="subtitle134">You better not do anything to my wife!</p>
+<p begin="5833333333t" end="5857916666t" region="region.after.center" style="style.default" xml:id="subtitle135"><span style="style.default_1">If you don't give us what we want,</span></p>
+<p begin="5858750000t" end="5883333333t" region="region.after.center" style="style.default" xml:id="subtitle136"><span style="style.default_1">we will take turns with your wife.</span></p>
+<p begin="5884166666t" end="5905000000t" region="region.after.center" style="style.default" xml:id="subtitle137">Then we will kill her. Do you understand?</p>
+<p begin="5922500000t" end="5934583333t" region="region.after.center" style="style.default" xml:id="subtitle138">Okay, what do you want?</p>
+<p begin="6300833333t" end="6310416666t" region="region.after.center" style="style.default" xml:id="subtitle139">Ah Soon.</p>
+<p begin="6335416666t" end="6345000000t" region="region.after.center" style="style.default" xml:id="subtitle140">Ah Wai.</p>
+<p begin="6366666666t" end="6376250000t" region="region.after.center" style="style.default" xml:id="subtitle141">Gwailo.</p>
+<p begin="6454166666t" end="6469583333t" region="region.after.center" style="style.default" xml:id="subtitle142">-Ah Wai.<br/>-What?</p>
+<p begin="6472083333t" end="6490416666t" region="region.after.center" style="style.default" xml:id="subtitle143">You haven't seen your wife<br/>in a while, right?</p>
+<p begin="6532500000t" end="6545833333t" region="region.after.center" style="style.default" xml:id="subtitle144">Do you know how I know this?</p>
+<p begin="6598333333t" end="6616666666t" region="region.after.center" style="style.default" xml:id="subtitle145">Because I'm the one<br/>who has been taking care of her.</p>
+<p begin="6642500000t" end="6660416666t" region="region.after.center" style="style.default" xml:id="subtitle146">I'll visit them on my way out later.</p>
+<p begin="6687916666t" end="6697083333t" region="region.after.center" style="style.default" xml:id="subtitle147">Hey.</p>
+<p begin="6710833333t" end="6722916666t" region="region.after.center" style="style.default" xml:id="subtitle148">Spend wisely.</p>
+<p begin="6724583333t" end="6733333333t" region="region.after.center" style="style.default" xml:id="subtitle149">Okay.</p>
+<p begin="6779166666t" end="6791666666t" region="region.after.center" style="style.default" xml:id="subtitle150">Hurry up, Gwailo!</p>
+<p begin="6794583333t" end="6812500000t" region="region.after.center" style="style.default" xml:id="subtitle151">-Chinaman, I'll head off first.<br/>-Okay.</p>
+<p begin="6826666666t" end="6836666666t" region="region.after.center" style="style.default" xml:id="subtitle152">I don't wait for people.</p>
+<p begin="6837500000t" end="6852083333t" region="region.after.center" style="style.default" xml:id="subtitle153">Hey, wait up.</p>
+<p begin="6872916666t" end="6887083333t" region="region.after.center" style="style.default" xml:id="subtitle154">I never know what they're up to anymore.</p>
+<p begin="7129583333t" end="7140416666t" region="region.after.center" style="style.default" xml:id="subtitle155">-Hey.<br/>-What?</p>
+<p begin="7141250000t" end="7152916666t" region="region.after.center" style="style.default" xml:id="subtitle156">You can't wear caps inside.</p>
+<p begin="7155833333t" end="7169583333t" region="region.after.center" style="style.default" xml:id="subtitle157">But it's my lucky cap.</p>
+<p begin="7170416666t" end="7187500000t" region="region.after.center" style="style.default" xml:id="subtitle158">It's the rules,<br/>you can't do anything about it.</p>
+<p begin="7312916666t" end="7330000000t" region="region.after.center" style="style.default" xml:id="subtitle159">All grown up but still picking fights.</p>
+<p begin="7332916666t" end="7357916666t" region="region.after.center" style="style.default" xml:id="subtitle160">We can settle this. I know how this works.</p>
+<p begin="7360833333t" end="7376250000t" region="region.after.center" style="style.default" xml:id="subtitle161">Sure, we can settle it.</p>
+<p begin="7380416666t" end="7405000000t" region="region.after.center" style="style.default" xml:id="subtitle162">But you got to talk to the headmaster.</p>
+<p begin="7405833333t" end="7417500000t" region="region.after.center" style="style.default" xml:id="subtitle163">Don't you know who I am?</p>
+<p begin="7661666666t" end="7671250000t" region="region.after.center" style="style.default" xml:id="subtitle164">What's your name?</p>
+<p begin="7684583333t" end="7693750000t" region="region.after.center" style="style.default" xml:id="subtitle165">Alan.</p>
+<p begin="7762916666t" end="7776666666t" region="region.after.center" style="style.default" xml:id="subtitle166">"Budikusuma."</p>
+<p begin="7785000000t" end="7800833333t" region="region.after.center" style="style.default" xml:id="subtitle167">You should know my family name.</p>
+<p begin="7807916666t" end="7820416666t" region="region.after.center" style="style.default" xml:id="subtitle168">The Ambassador.</p>
+<p begin="7832083333t" end="7852083333t" region="region.after.center" style="style.default" xml:id="subtitle169">You've been to one<br/>of our grand events, right?</p>
+<p begin="7935000000t" end="7955000000t" region="region.after.center" style="style.default" xml:id="subtitle170">Alan, is there one "L"<br/>or two "L" in your name?</p>
+<p begin="7956666666t" end="7966666666t" region="region.after.center" style="style.default" xml:id="subtitle171">One "L."</p>
+<p begin="7978750000t" end="7987916666t" region="region.after.center" style="style.default" xml:id="subtitle172">Honest.</p>
+<p begin="7988750000t" end="8004583333t" region="region.after.center" style="style.default" xml:id="subtitle173">You have the characteristics<br/>of a gentleman.</p>
+<p begin="8005416666t" end="8020000000t" region="region.after.center" style="style.default" xml:id="subtitle174">Of course, I am a gentleman.</p>
+<p begin="8020833333t" end="8047916666t" region="region.after.center" style="style.default" xml:id="subtitle175">So we can settle this, right?</p>
+<p begin="8057083333t" end="8067500000t" region="region.after.center" style="style.default" xml:id="subtitle176">How much is your usual?</p>
+<p begin="8074583333t" end="8084166666t" region="region.after.center" style="style.default" xml:id="subtitle177">Is one thousand enough?</p>
+<p begin="8095000000t" end="8105000000t" region="region.after.center" style="style.default" xml:id="subtitle178">No?</p>
+<p begin="8111666666t" end="8121250000t" region="region.after.center" style="style.default" xml:id="subtitle179">Three thousand?</p>
+<p begin="8122083333t" end="8130833333t" region="region.after.center" style="style.default" xml:id="subtitle180">Sounds fair, doesn't it?</p>
+<p begin="8173750000t" end="8183333333t" region="region.after.center" style="style.default" xml:id="subtitle181">Alan.</p>
+<p begin="8190000000t" end="8201250000t" region="region.after.center" style="style.default" xml:id="subtitle182">What do you think this is?</p>
+<p begin="8215000000t" end="8228750000t" region="region.after.center" style="style.default" xml:id="subtitle183">Late payment for your road tax?</p>
+<p begin="8245416666t" end="8256666666t" region="region.after.center" style="style.default" xml:id="subtitle184">Bring him to the station.</p>
+<p begin="8257500000t" end="8268750000t" region="region.after.center" style="style.default" xml:id="subtitle185">Five thousand.</p>
+<p begin="8272916666t" end="8295416666t" region="region.after.center" style="style.default" xml:id="subtitle186">That's much more than what you're used to.</p>
+<p begin="8310000000t" end="8320416666t" region="region.after.center" style="style.default" xml:id="subtitle187">Am I right?</p>
+<p begin="8323750000t" end="8344583333t" region="region.after.center" style="style.default" xml:id="subtitle188">Section 352, Assault Act.</p>
+<p begin="8349166666t" end="8363750000t" region="region.after.center" style="style.default" xml:id="subtitle189">Section 26K.</p>
+<p begin="8366666666t" end="8386250000t" region="region.after.center" style="style.default" xml:id="subtitle190">Attempt to bribe a police officer.</p>
+<p begin="8395416666t" end="8410000000t" region="region.after.center" style="style.default" xml:id="subtitle191">Do you know what "K" stands for?</p>
+<p begin="8417083333t" end="8427083333t" region="region.after.center" style="style.default" xml:id="subtitle192">No.</p>
+<p begin="8481666666t" end="8501250000t" region="region.after.center" style="style.default" xml:id="subtitle193">And you claim to be a gentleman.</p>
+<p begin="8543750000t" end="8553750000t" region="region.after.center" style="style.default" xml:id="subtitle194">-Sir.<br/>-What?</p>
+<p begin="8555833333t" end="8577083333t" region="region.after.center" style="style.default" xml:id="subtitle195">The taxi robbers have appeared again.</p>
+<p begin="8583333333t" end="8594583333t" region="region.after.center" style="style.default" xml:id="subtitle196">What did they do this time?</p>
+<p begin="8595416666t" end="8609583333t" region="region.after.center" style="style.default" xml:id="subtitle197">They extorted a Datuk.</p>
+<p begin="8626666666t" end="8635416666t" region="region.after.center" style="style.default" xml:id="subtitle198">So?</p>
+<p begin="8636666666t" end="8663750000t" region="region.after.center" style="style.default" xml:id="subtitle199">The headquarters finally gave us<br/>permission to go after them.</p>
+<p begin="8698333333t" end="8717083333t" region="region.after.center" style="style.default" xml:id="subtitle200">Privileges of Datuk.</p>
+<p begin="8762500000t" end="8773750000t" region="region.after.center" style="style.default" xml:id="subtitle201">The money was too little.</p>
+<p begin="8781666666t" end="8790000000t" region="region.after.center" style="style.default" xml:id="subtitle202">What?</p>
+<p begin="8796666666t" end="8811250000t" region="region.after.center" style="style.default" xml:id="subtitle203">The money we got was too little.</p>
+<p begin="8818750000t" end="8840000000t" region="region.after.center" style="style.default" xml:id="subtitle204">It's not that bad.</p>
+<p begin="8840833333t" end="8876666666t" region="region.after.center" style="style.default" xml:id="subtitle205">We each make seven thousand a week<br/>by just driving and making the calls.</p>
+<p begin="8877500000t" end="8887083333t" region="region.after.center" style="style.default" xml:id="subtitle206">What else do you want?</p>
+<p begin="8891666666t" end="8908750000t" region="region.after.center" style="style.default" xml:id="subtitle207">But I don't get to do anything.</p>
+<p begin="8913333333t" end="8932083333t" region="region.after.center" style="style.default" xml:id="subtitle208">He only asks me<br/>to do easy jobs most of the time.</p>
+<p begin="8944583333t" end="8965416666t" region="region.after.center" style="style.default" xml:id="subtitle209">So? Do you want to take less?</p>
+<p begin="9005000000t" end="9022500000t" region="region.after.center" style="style.default" xml:id="subtitle210">He doesn't trust me.</p>
+<p begin="9023333333t" end="9051250000t" region="region.after.center" style="style.default" xml:id="subtitle211">Chinaman never trusts anyone.</p>
+<p begin="9060416666t" end="9085833333t" region="region.after.center" style="style.default" xml:id="subtitle212">Come on, I have skills.</p>
+<p begin="9090833333t" end="9103333333t" region="region.after.center" style="style.default" xml:id="subtitle213">I want to do bigger heists.</p>
+<p begin="9106666666t" end="9135833333t" region="region.after.center" style="style.default" xml:id="subtitle214">I don't want to just earn<br/>seven thousand per job. Okay?</p>
+<p begin="9138333333t" end="9160000000t" region="region.after.center" style="style.default" xml:id="subtitle215">Sure, you've got skills.</p>
+<p begin="9161666666t" end="9173750000t" region="region.after.center" style="style.default" xml:id="subtitle216">If only telling jokes was a skill.</p>
+<p begin="9189583333t" end="9200833333t" region="region.after.center" style="style.default" xml:id="subtitle217">Let's drink.</p>
+<p begin="9265000000t" end="9278333333t" region="region.after.center" style="style.default" xml:id="subtitle218">I want to break off on my own.</p>
+<p begin="9307083333t" end="9317916666t" region="region.after.center" style="style.default" xml:id="subtitle219">Did you hear me?</p>
+<p begin="9325416666t" end="9335000000t" region="region.after.center" style="style.default" xml:id="subtitle220">Gwailo.</p>
+<p begin="9339166666t" end="9359583333t" region="region.after.center" style="style.default" xml:id="subtitle221">-How's it?<br/>-Hey, Alex.</p>
+<p begin="9360416666t" end="9372083333t" region="region.after.center" style="style.default" xml:id="subtitle222">I have something going on now.</p>
+<p begin="9372916666t" end="9389166666t" region="region.after.center" style="style.default" xml:id="subtitle223">I'll talk to you later.</p>
+<p begin="9390000000t" end="9400000000t" region="region.after.center" style="style.default" xml:id="subtitle224">Hurry up.</p>
+<p begin="9412500000t" end="9426666666t" region="region.after.center" style="style.default" xml:id="subtitle225">Hurry up.</p>
+<p begin="9447916666t" end="9459583333t" region="region.after.center" style="style.default" xml:id="subtitle226">What's going on there?</p>
+<p begin="9464166666t" end="9475000000t" region="region.after.center" style="style.default" xml:id="subtitle227">What?</p>
+<p begin="9482500000t" end="9504583333t" region="region.after.center" style="style.default" xml:id="subtitle228">He owes the boss money,<br/>they bring him to see the boss.</p>
+<p begin="9617083333t" end="9631666666t" region="region.after.center" style="style.default" xml:id="subtitle229">Benny!</p>
+<p begin="9638750000t" end="9647916666t" region="region.after.center" style="style.default" xml:id="subtitle230">Have a seat.</p>
+<p begin="9648750000t" end="9659166666t" region="region.after.center" style="style.default" xml:id="subtitle231">Don't be shy.</p>
+<p begin="9672916666t" end="9683333333t" region="region.after.center" style="style.default" xml:id="subtitle232">Sit.</p>
+<p begin="9702083333t" end="9712916666t" region="region.after.center" style="style.default" xml:id="subtitle233">Do you want some tea?</p>
+<p begin="9950833333t" end="9967083333t" region="region.after.center" style="style.default" xml:id="subtitle234">Do you know why you're here?</p>
+<p begin="10003333333t" end="10013750000t" region="region.after.center" style="style.default" xml:id="subtitle235">I know.</p>
+<p begin="10022500000t" end="10038750000t" region="region.after.center" style="style.default" xml:id="subtitle236">I didn't pay back your money in time.</p>
+<p begin="10048333333t" end="10058333333t" region="region.after.center" style="style.default" xml:id="subtitle237">That's right!</p>
+<p begin="10084583333t" end="10096666666t" region="region.after.center" style="style.default" xml:id="subtitle238">You lied to me.</p>
+<p begin="10120833333t" end="10134166666t" region="region.after.center" style="style.default" xml:id="subtitle239">You broke your promise.</p>
+<p begin="10197500000t" end="10212916666t" region="region.after.center" style="style.default" xml:id="subtitle240">As humans,</p>
+<p begin="10222916666t" end="10251666666t" region="region.after.center" style="style.default" xml:id="subtitle241">we need to keep our promises.</p>
+<p begin="10261666666t" end="10274583333t" region="region.after.center" style="style.default" xml:id="subtitle242">Animals on the other hand,</p>
+<p begin="10296666666t" end="10315833333t" region="region.after.center" style="style.default" xml:id="subtitle243">they don't need to keep their promises.</p>
+<p begin="10328333333t" end="10343333333t" region="region.after.center" style="style.default" xml:id="subtitle244">You're not an animal.</p>
+<p begin="10352916666t" end="10374166666t" region="region.after.center" style="style.default" xml:id="subtitle245">Am I right?</p>
+<p begin="10451250000t" end="10467500000t" region="region.after.center" style="style.default" xml:id="subtitle246">He can't speak.</p>
+<p begin="10529583333t" end="10549583333t" region="region.after.center" style="style.default" xml:id="subtitle247">Maybe it's because he's thirsty.</p>
+<p begin="10727916666t" end="10747916666t" region="region.after.center" style="style.default" xml:id="subtitle248">I will ask you two questions.</p>
+<p begin="10754166666t" end="10788750000t" region="region.after.center" style="style.default" xml:id="subtitle249">If you get both of them right,<br/>I'll give you two more days.</p>
+<p begin="10794583333t" end="10803333333t" region="region.after.center" style="style.default" xml:id="subtitle250">First question.</p>
+<p begin="10843333333t" end="10856250000t" region="region.after.center" style="style.default" xml:id="subtitle251">Do you think I've been good to you?</p>
+<p begin="10858750000t" end="10870416666t" region="region.after.center" style="style.default" xml:id="subtitle252">Yes...</p>
+<p begin="10871250000t" end="10907083333t" region="region.after.center" style="style.default" xml:id="subtitle253">Yes!</p>
+<p begin="10909166666t" end="10929166666t" region="region.after.center" style="style.default" xml:id="subtitle254">Good! Excellent answer!</p>
+<p begin="10951666666t" end="10963333333t" region="region.after.center" style="style.default" xml:id="subtitle255">That earns you one day.</p>
+<p begin="10966666666t" end="10975416666t" region="region.after.center" style="style.default" xml:id="subtitle256">Not bad.</p>
+<p begin="10992916666t" end="11003333333t" region="region.after.center" style="style.default" xml:id="subtitle257">Second question.</p>
+<p begin="11007083333t" end="11017916666t" region="region.after.center" style="style.default" xml:id="subtitle258">Here goes the question.</p>
+<p begin="11041666666t" end="11053750000t" region="region.after.center" style="style.default" xml:id="subtitle259">Do you think...</p>
+<p begin="11065833333t" end="11077500000t" region="region.after.center" style="style.default" xml:id="subtitle260">I'll be as good</p>
+<p begin="11083750000t" end="11114166666t" region="region.after.center" style="style.default" xml:id="subtitle261">to your wife and daughter?</p>
+<p begin="11115000000t" end="11132916666t" region="region.after.center" style="style.default" xml:id="subtitle262">Don't...</p>
+<p begin="11138333333t" end="11148750000t" region="region.after.center" style="style.default" xml:id="subtitle263">Don't?</p>
+<p begin="11158750000t" end="11173750000t" region="region.after.center" style="style.default" xml:id="subtitle264">Don't?</p>
+<p begin="11175833333t" end="11184583333t" region="region.after.center" style="style.default" xml:id="subtitle265">What is that?</p>
+<p begin="11196250000t" end="11208333333t" region="region.after.center" style="style.default" xml:id="subtitle266">I see.</p>
+<p begin="11218750000t" end="11230833333t" region="region.after.center" style="style.default" xml:id="subtitle267">You were trying to say</p>
+<p begin="11232916666t" end="11255416666t" region="region.after.center" style="style.default" xml:id="subtitle268">"Please, don't." Am I right?</p>
+<p begin="11257500000t" end="11273333333t" region="region.after.center" style="style.default" xml:id="subtitle269">It's "Please, don't."</p>
+<p begin="11307500000t" end="11319583333t" region="region.after.center" style="style.default" xml:id="subtitle270">That's not the answer.</p>
+<p begin="11363333333t" end="11374166666t" region="region.after.center" style="style.default" xml:id="subtitle271">You only have one day.</p>
+<p begin="11447083333t" end="11462083333t" region="region.after.center" style="style.default" xml:id="subtitle272">The tea might be a little hot.</p>
+<p begin="11471666666t" end="11489166666t" region="region.after.center" style="style.default" xml:id="subtitle273">Hold on for a while, it'll be over soon.</p>
+<p begin="11493750000t" end="11530833333t" region="region.after.center" style="style.default" xml:id="subtitle274">Please, don't...</p>
+<p begin="11575000000t" end="11588333333t" region="region.after.center" style="style.default" xml:id="subtitle275">Don't scream.</p>
+<p begin="11598333333t" end="11608750000t" region="region.after.center" style="style.default" xml:id="subtitle276">Don't move.</p>
+<p begin="11613333333t" end="11631250000t" region="region.after.center" style="style.default" xml:id="subtitle277">The more you move, the more it hurts.</p>
+<p begin="11693333333t" end="11706250000t" region="region.after.center" style="style.default" xml:id="subtitle278">Here it comes.</p>
+<p begin="11805000000t" end="11813750000t" region="region.after.center" style="style.default" xml:id="subtitle279">Hey!</p>
+<p begin="11873750000t" end="11883333333t" region="region.after.center" style="style.default" xml:id="subtitle280">Benny.</p>
+<p begin="11895416666t" end="11905416666t" region="region.after.center" style="style.default" xml:id="subtitle281">Benny!</p>
+<p begin="11933750000t" end="11948333333t" region="region.after.center" style="style.default" xml:id="subtitle282">I thought you were dead.</p>
+<p begin="11952916666t" end="11963750000t" region="region.after.center" style="style.default" xml:id="subtitle283">You gave me a fright.</p>
+<p begin="11964583333t" end="11982500000t" region="region.after.center" style="style.default" xml:id="subtitle284">What am I going to do if you die?</p>
+<p begin="12017083333t" end="12032083333t" region="region.after.center" style="style.default" xml:id="subtitle285">A reminder to you.</p>
+<p begin="12065833333t" end="12101666666t" region="region.after.center" style="style.default" xml:id="subtitle286">Next time, try to enunciate better.</p>
+<p begin="12102500000t" end="12120833333t" region="region.after.center" style="style.default" xml:id="subtitle287">Otherwise, I don't know what<br/>you're saying.</p>
+<p begin="12130416666t" end="12148750000t" region="region.after.center" style="style.default" xml:id="subtitle288">What if you wanted to say "Yes,"</p>
+<p begin="12151666666t" end="12166666666t" region="region.after.center" style="style.default" xml:id="subtitle289">but I heard it as "Die"?</p>
+<p begin="12167500000t" end="12182500000t" region="region.after.center" style="style.default" xml:id="subtitle290">It could turn really ugly for you.</p>
+<p begin="12186666666t" end="12199583333t" region="region.after.center" style="style.default" xml:id="subtitle291">Understand?</p>
+<p begin="12232083333t" end="12248750000t" region="region.after.center" style="style.default" xml:id="subtitle292">I had just come back from a business trip.</p>
+<p begin="12260416666t" end="12276666666t" region="region.after.center" style="style.default" xml:id="subtitle293">I took a taxi from the airport counter.</p>
+<p begin="12288333333t" end="12302500000t" region="region.after.center" style="style.default" xml:id="subtitle294">There was a lady working at the counter.</p>
+<p begin="12313333333t" end="12325833333t" region="region.after.center" style="style.default" xml:id="subtitle295">She gave me a ticket.</p>
+<p begin="12339583333t" end="12352083333t" region="region.after.center" style="style.default" xml:id="subtitle296">Do you still have the ticket?</p>
+<p begin="12450833333t" end="12464583333t" region="region.after.center" style="style.default" xml:id="subtitle297">Check out the security footage.</p>
+<p begin="12761666666t" end="12775833333t" region="region.after.center" style="style.default" xml:id="subtitle298">Hello, Jane.</p>
+<p begin="12795000000t" end="12814166666t" region="region.after.center" style="style.default" xml:id="subtitle299">I just got back from Singapore.</p>
+<p begin="12842083333t" end="12852083333t" region="region.after.center" style="style.default" xml:id="subtitle300">No.</p>
+<p begin="12857916666t" end="12876250000t" region="region.after.center" style="style.default" xml:id="subtitle301">It's just me today.</p>
+<p begin="12885000000t" end="12899166666t" region="region.after.center" style="style.default" xml:id="subtitle302">I haven't told him yet.</p>
+<p begin="12907083333t" end="12920000000t" region="region.after.center" style="style.default" xml:id="subtitle303">See you later.</p>
+<p begin="13091250000t" end="13110000000t" region="region.after.center" style="style.default" xml:id="subtitle304">D1209.</p>
+<p begin="13631666666t" end="13642916666t" region="region.after.center" style="style.default" xml:id="subtitle305">Send my regards to Brian.</p>
+<p begin="13877916666t" end="13906250000t" region="region.after.center" style="style.default" xml:id="subtitle306">I think you should leave the ring here.</p>
+<p begin="13913750000t" end="13937500000t" region="region.after.center" style="style.default" xml:id="subtitle307">Don't you think it looks nicer on me?</p>
+<p begin="13950000000t" end="13965000000t" region="region.after.center" style="style.default" xml:id="subtitle308">Now is not the time.</p>
+<p begin="13970000000t" end="13985000000t" region="region.after.center" style="style.default" xml:id="subtitle309">When is the time then?</p>
+<p begin="14025416666t" end="14047083333t" region="region.after.center" style="style.default" xml:id="subtitle310">We will never have a future.</p>
+<p begin="14070416666t" end="14084166666t" region="region.after.center" style="style.default" xml:id="subtitle311">You're beautiful.</p>
+<p begin="14093750000t" end="14114583333t" region="region.after.center" style="style.default" xml:id="subtitle312">There are many men out there<br/>waiting for you.</p>
+<p begin="14135000000t" end="14145833333t" region="region.after.center" style="style.default" xml:id="subtitle313">Marcus.</p>
+<p begin="14149166666t" end="14165000000t" region="region.after.center" style="style.default" xml:id="subtitle314">There's something I need to tell you.</p>
+<p begin="14165833333t" end="14175833333t" region="region.after.center" style="style.default" xml:id="subtitle315">Let's end our relationship.</p>
+<p begin="14278333333t" end="14290000000t" region="region.after.center" style="style.default" xml:id="subtitle316">Where are you heading, sir?</p>
+<p begin="14290833333t" end="14301250000t" region="region.after.center" style="style.default" xml:id="subtitle317">Emerald Hills.</p>
+<p begin="14322500000t" end="14333750000t" region="region.after.center" style="style.default" xml:id="subtitle318">Are you working alone?</p>
+<p begin="14337083333t" end="14346250000t" region="region.after.center" style="style.default" xml:id="subtitle319">Yes.</p>
+<p begin="14360416666t" end="14372083333t" region="region.after.center" style="style.default" xml:id="subtitle320">70 Ringgit.</p>
+<p begin="14387916666t" end="14404583333t" region="region.after.center" style="style.default" xml:id="subtitle321">Pass this to the driver, please.</p>
+<p begin="14412500000t" end="14422916666t" region="region.after.center" style="style.default" xml:id="subtitle322">Gate four, right?</p>
+<p begin="14424583333t" end="14434166666t" region="region.after.center" style="style.default" xml:id="subtitle323">It's gate three.</p>
+<p begin="14472500000t" end="14508333333t" region="region.after.center" style="style.default" xml:id="subtitle324">May I ask why this ticket has two ticks<br/>and mine doesn't?</p>
+<p begin="14527500000t" end="14540000000t" region="region.after.center" style="style.default" xml:id="subtitle325">House or apartment?</p>
+<p begin="14541666666t" end="14552083333t" region="region.after.center" style="style.default" xml:id="subtitle326">House.</p>
+<p begin="14566666666t" end="14597083333t" region="region.after.center" style="style.default" xml:id="subtitle327">Maybe that's for detail confirmation.</p>
+<p begin="14607500000t" end="14620833333t" region="region.after.center" style="style.default" xml:id="subtitle328">Confirmation for the driver?</p>
+<p begin="14682083333t" end="14693333333t" region="region.after.center" style="style.default" xml:id="subtitle329">Do you recognize this man?</p>
+<p begin="14805000000t" end="14814166666t" region="region.after.center" style="style.default" xml:id="subtitle330">No.</p>
+<p begin="14848750000t" end="14883750000t" region="region.after.center" style="style.default" xml:id="subtitle331">This guy told me that<br/>he picked up a taxi here</p>
+<p begin="14887083333t" end="14902500000t" region="region.after.center" style="style.default" xml:id="subtitle332">and ended up a victim of extortion.</p>
+<p begin="14906666666t" end="14947500000t" region="region.after.center" style="style.default" xml:id="subtitle333">The lady at the counter asked<br/>if it was a house or an apartment.</p>
+<p begin="14952500000t" end="14962500000t" region="region.after.center" style="style.default" xml:id="subtitle334">What a coincidence.</p>
+<p begin="14980000000t" end="14998750000t" region="region.after.center" style="style.default" xml:id="subtitle335">This is not the first victim.</p>
+<p begin="15013333333t" end="15029166666t" region="region.after.center" style="style.default" xml:id="subtitle336">There have been many.</p>
+<p begin="15040833333t" end="15073333333t" region="region.after.center" style="style.default" xml:id="subtitle337">There's only one taxi counter here.</p>
+<p begin="15102500000t" end="15111250000t" region="region.after.center" style="style.default" xml:id="subtitle338">Sir.</p>
+<p begin="15118750000t" end="15154166666t" region="region.after.center" style="style.default" xml:id="subtitle339">There are thousands of taxis<br/>and customers in this city.</p>
+<p begin="15157083333t" end="15177500000t" region="region.after.center" style="style.default" xml:id="subtitle340">There's no way I would be able<br/>to remember everyone, right?</p>
+<p begin="15213750000t" end="15225416666t" region="region.after.center" style="style.default" xml:id="subtitle341">I understand.</p>
+<p begin="15267500000t" end="15278750000t" region="region.after.center" style="style.default" xml:id="subtitle342">Gate three, right?</p>
+<p begin="15313333333t" end="15325000000t" region="region.after.center" style="style.default" xml:id="subtitle343">I'll remember you.</p>
+<p begin="15477916666t" end="15511666666t" region="region.after.center" style="style.default" xml:id="subtitle344">-Go away!<br/>-Mind your own business.</p>
+<p begin="15662500000t" end="15676250000t" region="region.after.center" style="style.default" xml:id="subtitle345">Do you mind if I join you?</p>
+<p begin="15816250000t" end="15828750000t" region="region.after.center" style="style.default" xml:id="subtitle346">Do you come here often?</p>
+<p begin="15838333333t" end="15854166666t" region="region.after.center" style="style.default" xml:id="subtitle347">I like eating here.</p>
+<p begin="15934166666t" end="15949166666t" region="region.after.center" style="style.default" xml:id="subtitle348">Where is that flight from?</p>
+<p begin="16062500000t" end="16074166666t" region="region.after.center" style="style.default" xml:id="subtitle349">How do you know?</p>
+<p begin="16085000000t" end="16099583333t" region="region.after.center" style="style.default" xml:id="subtitle350">That's the last flight.</p>
+<p begin="16277083333t" end="16294166666t" region="region.after.center" style="style.default" xml:id="subtitle351">We've met before.</p>
+<p begin="16303333333t" end="16312916666t" region="region.after.center" style="style.default" xml:id="subtitle352">Right?</p>
+<p begin="16337500000t" end="16355416666t" region="region.after.center" style="style.default" xml:id="subtitle353">You look very similar to my captain.</p>
+<p begin="16363750000t" end="16382083333t" region="region.after.center" style="style.default" xml:id="subtitle354">He loved watching airplanes too.</p>
+<p begin="16419583333t" end="16434583333t" region="region.after.center" style="style.default" xml:id="subtitle355">What are you doing here?</p>
+<p begin="16505833333t" end="16519166666t" region="region.after.center" style="style.default" xml:id="subtitle356">I'm just watching the airplanes.</p>
+<p begin="16582083333t" end="16601666666t" region="region.after.center" style="style.default" xml:id="subtitle357">Do you need a taxi? I have one.</p>
+<p begin="16604166666t" end="16626666666t" region="region.after.center" style="style.default" xml:id="subtitle358">Mention my name to get a discount.</p>
+<p begin="16639583333t" end="16655000000t" region="region.after.center" style="style.default" xml:id="subtitle359">They call me Chinaman.</p>
+<p begin="16729166666t" end="16746250000t" region="region.after.center" style="style.default" xml:id="subtitle360">If I need a taxi, I'll find you.</p>
+<p begin="16860833333t" end="16873750000t" region="region.after.center" style="style.default" xml:id="subtitle361">See you around.</p>
+<p begin="17157500000t" end="17174166666t" region="region.after.center" style="style.default" xml:id="subtitle362">-Hey.<br/>-What?</p>
+<p begin="17175000000t" end="17187083333t" region="region.after.center" style="style.default" xml:id="subtitle363">Stop messing around.</p>
+<p begin="17194166666t" end="17207916666t" region="region.after.center" style="style.default" xml:id="subtitle364">What's wrong?</p>
+<p begin="17208750000t" end="17228750000t" region="region.after.center" style="style.default" xml:id="subtitle365">Something bad happened.<br/>Can you be more serious about it?</p>
+<p begin="17230000000t" end="17240416666t" region="region.after.center" style="style.default" xml:id="subtitle366">Am I not being serious?</p>
+<p begin="17241250000t" end="17258750000t" region="region.after.center" style="style.default" xml:id="subtitle367">-What happened?<br/>-Hey.</p>
+<p begin="17310416666t" end="17328750000t" region="region.after.center" style="style.default" xml:id="subtitle368">I shouldn't have<br/>let you involve me in this.</p>
+<p begin="17359583333t" end="17378333333t" region="region.after.center" style="style.default" xml:id="subtitle369">What do you mean?</p>
+<p begin="17379166666t" end="17388750000t" region="region.after.center" style="style.default" xml:id="subtitle370">What are you talking about?</p>
+<p begin="17408750000t" end="17434583333t" region="region.after.center" style="style.default" xml:id="subtitle371">Didn't you say you wanted to make<br/>extra cash? Didn't you say this is fun?</p>
+<p begin="17435416666t" end="17457500000t" region="region.after.center" style="style.default" xml:id="subtitle372">Hey, that time was different.</p>
+<p begin="17460416666t" end="17482083333t" region="region.after.center" style="style.default" xml:id="subtitle373">I have a son now.<br/>I don't want to go to jail!</p>
+<p begin="17484166666t" end="17497916666t" region="region.after.center" style="style.default" xml:id="subtitle374">Why are you raising your voice at me?</p>
+<p begin="17529166666t" end="17540833333t" region="region.after.center" style="style.default" xml:id="subtitle375">I've said this countless times.</p>
+<p begin="17543333333t" end="17560833333t" region="region.after.center" style="style.default" xml:id="subtitle376">We won't get caught, okay?</p>
+<p begin="17598333333t" end="17611250000t" region="region.after.center" style="style.default" xml:id="subtitle377">I'll talk to Chinaman myself.</p>
+<p begin="17612083333t" end="17622500000t" region="region.after.center" style="style.default" xml:id="subtitle378">There's no need!</p>
+<p begin="17682083333t" end="17697500000t" region="region.after.center" style="style.default" xml:id="subtitle379">You can just tell me if anything comes up.</p>
+<p begin="17759166666t" end="17769583333t" region="region.after.center" style="style.default" xml:id="subtitle380">Forget it.</p>
+<p begin="17796250000t" end="17812500000t" region="region.after.center" style="style.default" xml:id="subtitle381">-Do we have a problem?<br/>-Hey.</p>
+<p begin="17814583333t" end="17835416666t" region="region.after.center" style="style.default" xml:id="subtitle382">-What do you want to say?<br/>-What do you want now?</p>
+<p begin="17837083333t" end="17847500000t" region="region.after.center" style="style.default" xml:id="subtitle383">What...</p>
+<p begin="17862500000t" end="17872083333t" region="region.after.center" style="style.default" xml:id="subtitle384">Dad?</p>
+<p begin="17910000000t" end="17921250000t" region="region.after.center" style="style.default" xml:id="subtitle385">-I'm teaching your mom<br/>-Boy...</p>
+<p begin="17922083333t" end="17940416666t" region="region.after.center" style="style.default" xml:id="subtitle386">how to do kung fu.</p>
+<p begin="17959583333t" end="17973750000t" region="region.after.center" style="style.default" xml:id="subtitle387">Come on. Let's head to bed.</p>
+<p begin="18000000000t" end="18015000000t" region="region.after.center" style="style.default" xml:id="subtitle388">This conversation isn't over.</p>
+<p begin="18024583333t" end="18036250000t" region="region.after.center" style="style.default" xml:id="subtitle389">Yes, it is.</p>
+<p begin="18155833333t" end="18207500000t" region="region.before.center" style="style.default" xml:id="subtitle390">PLEASE COME IN</p>
+<p begin="18241666666t" end="18250416666t" region="region.after.center" style="style.default" xml:id="subtitle391">What happened to you?</p>
+<p begin="18251250000t" end="18272500000t" region="region.after.center" style="style.default" xml:id="subtitle392">My bookie threw me a Halloween party.</p>
+<p begin="18288333333t" end="18300416666t" region="region.after.center" style="style.default" xml:id="subtitle393">Dumbass.</p>
+<p begin="18316666666t" end="18325833333t" region="region.after.center" style="style.default" xml:id="subtitle394">Listen.</p>
+<p begin="18329166666t" end="18339583333t" region="region.after.center" style="style.default" xml:id="subtitle395">I'm in.</p>
+<p begin="18348750000t" end="18358750000t" region="region.after.center" style="style.default" xml:id="subtitle396">It's good that you join in.</p>
+<p begin="18359583333t" end="18377916666t" region="region.after.center" style="style.default" xml:id="subtitle397">If not, I wouldn't know<br/>how to spend all the money.</p>
+<p begin="18406666666t" end="18415416666t" region="region.after.center" style="style.default" xml:id="subtitle398">Is that all?</p>
+<p begin="18416250000t" end="18427083333t" region="region.after.center" style="style.default" xml:id="subtitle399">Just the two of us?</p>
+<p begin="18431666666t" end="18442916666t" region="region.after.center" style="style.default" xml:id="subtitle400">Just the two of us.</p>
+<p begin="18445416666t" end="18455416666t" region="region.after.center" style="style.default" xml:id="subtitle401">Are you sure?</p>
+<p begin="18465833333t" end="18477500000t" region="region.after.center" style="style.default" xml:id="subtitle402">Of course not.</p>
+<p begin="18478333333t" end="18492500000t" region="region.after.center" style="style.default" xml:id="subtitle403">Your mom said she's coming later.</p>
+<p begin="18532916666t" end="18551666666t" region="region.after.center" style="style.default" xml:id="subtitle404">Does she live alone?<br/>How do you know she's rich?</p>
+<p begin="18577916666t" end="18591250000t" region="region.after.center" style="style.default" xml:id="subtitle405">Does this look like a village?</p>
+<p begin="18639166666t" end="18654166666t" region="region.after.center" style="style.default" xml:id="subtitle406">Do you have more details?</p>
+<p begin="18711666666t" end="18723750000t" region="region.after.center" style="style.default" xml:id="subtitle407">Is this a name card?</p>
+<p begin="18724583333t" end="18737916666t" region="region.after.center" style="style.default" xml:id="subtitle408">It doesn't even have her phone number.</p>
+<p begin="18740416666t" end="18757916666t" region="region.after.center" style="style.default" xml:id="subtitle409">It has her office address on there.</p>
+<p begin="18758750000t" end="18780833333t" region="region.after.center" style="style.default" xml:id="subtitle410">I see, there's an office address.</p>
+<p begin="18781666666t" end="18804166666t" region="region.after.center" style="style.default" xml:id="subtitle411">Okay, I'll go buy a tent.</p>
+<p begin="18807083333t" end="18816666666t" region="region.after.center" style="style.default" xml:id="subtitle412">Why do you need a tent?</p>
+<p begin="18817500000t" end="18841666666t" region="region.after.center" style="style.default" xml:id="subtitle413">There's an office in front.<br/>So many people come in and out.</p>
+<p begin="18842500000t" end="18852916666t" region="region.after.center" style="style.default" xml:id="subtitle414">Do you dare to do it there?</p>
+<p begin="18856250000t" end="18869166666t" region="region.after.center" style="style.default" xml:id="subtitle415">Or you can just camp here.</p>
+<p begin="18870416666t" end="18892916666t" region="region.after.center" style="style.default" xml:id="subtitle416">Let's see how long it will take<br/>for her to come out.</p>
+<p begin="18895000000t" end="18906666666t" region="region.after.center" style="style.default" xml:id="subtitle417">Do you want to do this or not?</p>
+<p begin="18917916666t" end="18929166666t" region="region.after.center" style="style.default" xml:id="subtitle418">I want.</p>
+<p begin="18933333333t" end="18948750000t" region="region.after.center" style="style.default" xml:id="subtitle419">What car is she driving?</p>
+<p begin="18949583333t" end="18958333333t" region="region.after.center" style="style.default" xml:id="subtitle420">What color is it?</p>
+<p begin="18959166666t" end="18976250000t" region="region.after.center" style="style.default" xml:id="subtitle421">That's what we're here to find out.</p>
+<p begin="18977083333t" end="19006666666t" region="region.after.center" style="style.default" xml:id="subtitle422">That's why Chinaman<br/>only targets those landed houses.</p>
+<p begin="19007500000t" end="19034583333t" region="region.after.center" style="style.default" xml:id="subtitle423">"That's why Chinaman only targets<br/>those landed houses."</p>
+<p begin="19035833333t" end="19051250000t" region="region.after.center" style="style.default" xml:id="subtitle424">That is why we are still poor.</p>
+<p begin="19070416666t" end="19090000000t" region="region.after.center" style="style.default" xml:id="subtitle425">If you don't want to do this,<br/>you can just leave.</p>
+<p begin="19090833333t" end="19106250000t" region="region.after.center" style="style.default" xml:id="subtitle426">I know what I am doing.</p>
+<p begin="19133750000t" end="19154166666t" region="region.after.center" style="style.default" xml:id="subtitle427"><span style="style.default_1">How is it?<br/>Do you want to head to the office or not?</span></p>
+<p begin="19162083333t" end="19177916666t" region="region.after.center" style="style.default" xml:id="subtitle428"><span style="style.default_1">Did you bring the flyers<br/>and the sim cards?</span></p>
+<p begin="19178750000t" end="19192500000t" region="region.after.center" style="style.default" xml:id="subtitle429"><span style="style.default_1">In the glove compartment.</span></p>
+<p begin="19203750000t" end="19218333333t" region="region.after.center" style="style.default" xml:id="subtitle430"><span style="style.default_1">Chinaman better not find out about this.</span></p>
+<p begin="19220000000t" end="19231666666t" region="region.after.center" style="style.default" xml:id="subtitle431"><span style="style.default_1">He won't.</span></p>
+<p begin="19235416666t" end="19257083333t" region="region.after.center" style="style.default" xml:id="subtitle432"><span style="style.default_1">-Which unit does she live in?<br/>-D1209.</span></p>
+<p begin="19413333333t" end="19426666666t" region="region.after.center" style="style.default" xml:id="subtitle433">Didn't I tell you?</p>
+<p begin="19430416666t" end="19441250000t" region="region.after.center" style="style.default" xml:id="subtitle434">She's rich.</p>
+<p begin="19483750000t" end="19497916666t" region="region.after.center" style="style.default" xml:id="subtitle435">Can I get a little trust?</p>
+<p begin="19504166666t" end="19517500000t" region="region.after.center" style="style.default" xml:id="subtitle436">I know what I'm doing.</p>
+<p begin="19518333333t" end="19531250000t" region="region.after.center" style="style.default" xml:id="subtitle437">She's an easy target.</p>
+<p begin="19532083333t" end="19542500000t" region="region.after.center" style="style.default" xml:id="subtitle438">Okay?</p>
+<p begin="19564583333t" end="19582083333t" region="region.after.center" style="style.default" xml:id="subtitle439">I really hope it's that easy.</p>
+<p begin="20027916666t" end="20039583333t" region="region.after.center" style="style.default" xml:id="subtitle440">Reanne Chai.</p>
+<p begin="20042500000t" end="20070833333t" region="region.after.center" style="style.default" xml:id="subtitle441">You're currently living in<br/>an apartment, unit D1209.</p>
+<p begin="20080000000t" end="20100000000t" region="region.after.center" style="style.default" xml:id="subtitle442">How's it? Do you like those photos?</p>
+<p begin="20104583333t" end="20118333333t" region="region.after.center" style="style.default" xml:id="subtitle443"><span style="style.default_1">Don't be so nervous.</span></p>
+<p begin="20119166666t" end="20158750000t" region="region.after.center" style="style.default" xml:id="subtitle444"><span style="style.default_1">We're only going to do it once,<br/>so you better not hang up.</span></p>
+<p begin="20160000000t" end="20177916666t" region="region.after.center" style="style.default" xml:id="subtitle445">Or else, we will come and play with you.</p>
+<p begin="20193333333t" end="20203333333t" region="region.after.center" style="style.default" xml:id="subtitle446">Damn it.</p>
+<p begin="20249583333t" end="20274166666t" region="region.after.center" style="style.default" xml:id="subtitle447">Hey, don't do that again.</p>
+<p begin="20275000000t" end="20290833333t" region="region.after.center" style="style.default" xml:id="subtitle448">All we want is money.</p>
+<p begin="20296666666t" end="20309166666t" region="region.after.center" style="style.default" xml:id="subtitle449"><span style="style.default_1">You have that, right?</span></p>
+<p begin="20310833333t" end="20326250000t" region="region.after.center" style="style.default" xml:id="subtitle450"><span style="style.default_1">Remember not to go to the police.</span></p>
+<p begin="20327083333t" end="20354166666t" region="region.after.center" style="style.default" xml:id="subtitle451"><span style="style.default_1">Otherwise, we will come after<br/>your pretty nose.</span></p>
+<p begin="20356250000t" end="20382916666t" region="region.after.center" style="style.default" xml:id="subtitle452">The police will never<br/>be able to protect you.</p>
+<p begin="20386666666t" end="20406666666t" region="region.after.center" style="style.default" xml:id="subtitle453"><span style="style.default_1">Twenty thousand,<br/>I'll call you back shortly.</span></p>
+<p begin="20551250000t" end="20591250000t" region="region.after.center" style="style.default" xml:id="subtitle454">From the day we met,<br/>I've never taken this ring off my finger.</p>
+<p begin="20593333333t" end="20615833333t" region="region.after.center" style="style.default" xml:id="subtitle455">Our relationship is not love.</p>
+<p begin="20747083333t" end="20766250000t" region="region.after.center" style="style.default" xml:id="subtitle456">Marcus, I'm pregnant.</p>
+<p begin="20769583333t" end="20782083333t" region="region.after.center" style="style.default" xml:id="subtitle457">Get rid of it then.</p>
+<p begin="20976250000t" end="20986250000t" region="region.after.center" style="style.default" xml:id="subtitle458"><span style="style.default_1">How is it?</span></p>
+<p begin="20993750000t" end="21005416666t" region="region.after.center" style="style.default" xml:id="subtitle459"><span style="style.default_1">Twenty thousand?</span></p>
+<p begin="21015833333t" end="21048750000t" region="region.after.center" style="style.default" xml:id="subtitle460"><span style="style.default_1">If you leave me alone,<br/>I'll give you a hundred thousand.</span></p>
+<p begin="21055833333t" end="21077500000t" region="region.after.center" style="style.default" xml:id="subtitle461"><span style="style.default_1">What do you mean?</span></p>
+<p begin="21380416666t" end="21390000000t" region="region.after.center" style="style.default" xml:id="subtitle462">Where's the money?</p>
+<p begin="21392500000t" end="21401250000t" region="region.after.center" style="style.default" xml:id="subtitle463">Right here.</p>
+<p begin="21403333333t" end="21412916666t" region="region.after.center" style="style.default" xml:id="subtitle464">Give it.</p>
+<p begin="21413750000t" end="21425000000t" region="region.after.center" style="style.default" xml:id="subtitle465">What are you trying to do?</p>
+<p begin="21477916666t" end="21489166666t" region="region.after.center" style="style.default" xml:id="subtitle466">What are you trying to do?</p>
+<p begin="21495833333t" end="21525416666t" region="region.after.center" style="style.default" xml:id="subtitle467">I'll scream if you mess with me.</p>
+<p begin="21552916666t" end="21565000000t" region="region.after.center" style="style.default" xml:id="subtitle468">I only have ten thousand.</p>
+<p begin="21572500000t" end="21605833333t" region="region.after.center" style="style.default" xml:id="subtitle469">Bitch! You said you'd pay<br/>a hundred thousand, where is it?</p>
+<p begin="21613750000t" end="21626666666t" region="region.after.center" style="style.default" xml:id="subtitle470">I only have this much.</p>
+<p begin="21630416666t" end="21645000000t" region="region.after.center" style="style.default" xml:id="subtitle471">Are you playing a trick on us?</p>
+<p begin="21646666666t" end="21659166666t" region="region.after.center" style="style.default" xml:id="subtitle472">I'll kill you!</p>
+<p begin="21665000000t" end="21675833333t" region="region.after.center" style="style.default" xml:id="subtitle473">Damn it.</p>
+<p begin="21678333333t" end="21688750000t" region="region.after.center" style="style.default" xml:id="subtitle474">If you murder me,</p>
+<p begin="21695833333t" end="21712500000t" region="region.after.center" style="style.default" xml:id="subtitle475">do you think you'll get away with it?</p>
+<p begin="21721250000t" end="21736250000t" region="region.after.center" style="style.default" xml:id="subtitle476">Crazy bitch!</p>
+<p begin="21775416666t" end="21810416666t" region="region.after.center" style="style.default" xml:id="subtitle477">I can tell you how to get more money.</p>
+<p begin="21814583333t" end="21830416666t" region="region.after.center" style="style.default" xml:id="subtitle478">Don't you dare play tricks on us anymore!</p>
+<p begin="21834583333t" end="21857500000t" region="region.after.center" style="style.default" xml:id="subtitle479">Everything he owns comes from his wife.</p>
+<p begin="21861666666t" end="21885000000t" region="region.after.center" style="style.default" xml:id="subtitle480">If his wife finds out about me...</p>
+<p begin="21896250000t" end="21912500000t" region="region.after.center" style="style.default" xml:id="subtitle481">What do you think<br/>is going to happen to him?</p>
+<p begin="21925833333t" end="21939166666t" region="region.after.center" style="style.default" xml:id="subtitle482">Why should we trust you?</p>
+<p begin="21941666666t" end="21952916666t" region="region.after.center" style="style.default" xml:id="subtitle483">What's in it for you?</p>
+<p begin="21980833333t" end="21994166666t" region="region.after.center" style="style.default" xml:id="subtitle484">I just want the ring.</p>
+<p begin="22014583333t" end="22036250000t" region="region.after.center" style="style.default" xml:id="subtitle485">You can keep the rest.</p>
+<p begin="22040000000t" end="22052916666t" region="region.after.center" style="style.default" xml:id="subtitle486">Why should we help you?</p>
+<p begin="22054166666t" end="22065833333t" region="region.after.center" style="style.default" xml:id="subtitle487">It's personal.</p>
+<p begin="22069583333t" end="22082083333t" region="region.after.center" style="style.default" xml:id="subtitle488">Keep in touch.</p>
+<p begin="22101250000t" end="22116250000t" region="region.after.center" style="style.default" xml:id="subtitle489"><span style="style.default_1">I only have this much.</span></p>
+<p begin="22117500000t" end="22131666666t" region="region.after.center" style="style.default" xml:id="subtitle490"><span style="style.default_1">Are you playing a trick on us?</span></p>
+<p begin="22132500000t" end="22147083333t" region="region.after.center" style="style.default" xml:id="subtitle491"><span style="style.default_1">I'll kill you!</span></p>
+<p begin="22173750000t" end="22185833333t" region="region.after.center" style="style.default" xml:id="subtitle492">Smile.</p>
+<p begin="22266250000t" end="22279166666t" region="region.after.center" style="style.default" xml:id="subtitle493">You better give me that phone.</p>
+<p begin="22299583333t" end="22310833333t" region="region.after.center" style="style.default" xml:id="subtitle494">What if I don't?</p>
+<p begin="22517916666t" end="22535833333t" region="region.after.center" style="style.default" xml:id="subtitle495">Hey, where's your mom?</p>
+<p begin="22544583333t" end="22559166666t" region="region.after.center" style="style.default" xml:id="subtitle496">-Hey, Chinaman.<br/>-Hi.</p>
+<p begin="22565833333t" end="22579166666t" region="region.after.center" style="style.default" xml:id="subtitle497">You've become so heavy!</p>
+<p begin="22582500000t" end="22595000000t" region="region.after.center" style="style.default" xml:id="subtitle498">What did you eat today?</p>
+<p begin="22612083333t" end="22620416666t" region="region.after.center" style="style.default" xml:id="subtitle499">What did you eat?</p>
+<p begin="22621250000t" end="22632083333t" region="region.after.center" style="style.default" xml:id="subtitle500">-Chinaman.<br/>-What?</p>
+<p begin="22635000000t" end="22647916666t" region="region.after.center" style="style.default" xml:id="subtitle501">I want to quit.</p>
+<p begin="22656666666t" end="22666250000t" region="region.after.center" style="style.default" xml:id="subtitle502">Why?</p>
+<p begin="22677500000t" end="22693333333t" region="region.after.center" style="style.default" xml:id="subtitle503">That man really frightened me.</p>
+<p begin="22708333333t" end="22718333333t" region="region.after.center" style="style.default" xml:id="subtitle504">Who?</p>
+<p begin="22727500000t" end="22745000000t" region="region.after.center" style="style.default" xml:id="subtitle505">The guy who came asking questions<br/>at the airport.</p>
+<p begin="22753750000t" end="22767083333t" region="region.after.center" style="style.default" xml:id="subtitle506">The guy at the airport?</p>
+<p begin="22789583333t" end="22803333333t" region="region.after.center" style="style.default" xml:id="subtitle507">Didn't Ah Wai tell you?</p>
+<p begin="22812916666t" end="22822500000t" region="region.after.center" style="style.default" xml:id="subtitle508">No, he didn't.</p>
+<p begin="22840833333t" end="22851250000t" region="region.after.center" style="style.default" xml:id="subtitle509">Don't worry.</p>
+<p begin="22856666666t" end="22867083333t" region="region.after.center" style="style.default" xml:id="subtitle510">I'll look into this.</p>
+<p begin="22926250000t" end="22941666666t" region="region.after.center" style="style.default" xml:id="subtitle511">Boy, greet Uncle Ah Soon.</p>
+<p begin="22942500000t" end="22956250000t" region="region.after.center" style="style.default" xml:id="subtitle512">-Uncle Ah Soon.<br/>-Hey.</p>
+<p begin="22962083333t" end="22976250000t" region="region.after.center" style="style.default" xml:id="subtitle513">-Ah Soon...<br/>-What?</p>
+<p begin="22977083333t" end="22992500000t" region="region.after.center" style="style.default" xml:id="subtitle514">Why are there so many joss papers?</p>
+<p begin="23014583333t" end="23029166666t" region="region.after.center" style="style.default" xml:id="subtitle515">It's for my godfather.</p>
+<p begin="23047083333t" end="23080000000t" region="region.after.center" style="style.default" xml:id="subtitle516">When I was in jail,<br/>he always came to me in my dreams.</p>
+<p begin="23087083333t" end="23101666666t" region="region.after.center" style="style.default" xml:id="subtitle517">He wasn't too happy.</p>
+<p begin="23121250000t" end="23140000000t" region="region.after.center" style="style.default" xml:id="subtitle518">I didn't get a chance to pay my respects.</p>
+<p begin="23165000000t" end="23174583333t" region="region.after.center" style="style.default" xml:id="subtitle519">Get in the car.</p>
+<p begin="23214166666t" end="23234166666t" region="region.after.center" style="style.default" xml:id="subtitle520">Here comes the fish.</p>
+<p begin="23343750000t" end="23357500000t" region="region.after.center" style="style.default" xml:id="subtitle521">Come, let's eat.</p>
+<p begin="23358333333t" end="23367916666t" region="region.after.center" style="style.default" xml:id="subtitle522">Let's eat.</p>
+<p begin="23370000000t" end="23382500000t" region="region.after.center" style="style.default" xml:id="subtitle523">-Mom...<br/>-Godmother, let's eat.</p>
+<p begin="23383333333t" end="23393750000t" region="region.after.center" style="style.default" xml:id="subtitle524">-Mom, let's eat.<br/>-Let's eat.</p>
+<p begin="23394583333t" end="23407916666t" region="region.after.center" style="style.default" xml:id="subtitle525">-Mom, let's eat.<br/>-Let's eat.</p>
+<p begin="23412500000t" end="23431250000t" region="region.after.center" style="style.default" xml:id="subtitle526">Boy, what are you supposed to say?</p>
+<p begin="23432083333t" end="23445000000t" region="region.after.center" style="style.default" xml:id="subtitle527">Please eat, everybody.</p>
+<p begin="23450416666t" end="23460000000t" region="region.after.center" style="style.default" xml:id="subtitle528">Good boy.</p>
+<p begin="23462083333t" end="23471250000t" region="region.after.center" style="style.default" xml:id="subtitle529">Mom.</p>
+<p begin="23473750000t" end="23484583333t" region="region.after.center" style="style.default" xml:id="subtitle530">You're home late.</p>
+<p begin="23485833333t" end="23499583333t" region="region.after.center" style="style.default" xml:id="subtitle531">-I needed to get work done.<br/>-Let's eat.</p>
+<p begin="23500416666t" end="23509166666t" region="region.after.center" style="style.default" xml:id="subtitle532">Chinaman.</p>
+<p begin="23534166666t" end="23543750000t" region="region.after.center" style="style.default" xml:id="subtitle533">Pass me that.</p>
+<p begin="23558333333t" end="23575833333t" region="region.after.center" style="style.default" xml:id="subtitle534">-How's work?<br/>-Here you go.</p>
+<p begin="23580416666t" end="23592916666t" region="region.after.center" style="style.default" xml:id="subtitle535">How's the food?</p>
+<p begin="23596666666t" end="23609583333t" region="region.after.center" style="style.default" xml:id="subtitle536">Work is going well.</p>
+<p begin="23620000000t" end="23634166666t" region="region.after.center" style="style.default" xml:id="subtitle537">We're going to take a break.</p>
+<p begin="23642916666t" end="23657083333t" region="region.after.center" style="style.default" xml:id="subtitle538">I'm going to take you on vacation.</p>
+<p begin="23661666666t" end="23680000000t" region="region.after.center" style="style.default" xml:id="subtitle539">That would be nice.</p>
+<p begin="23763750000t" end="23775416666t" region="region.after.center" style="style.default" xml:id="subtitle540">Boy...</p>
+<p begin="23793750000t" end="23813750000t" region="region.after.center" style="style.default" xml:id="subtitle541">Here, try this.</p>
+<p begin="23830000000t" end="23838750000t" region="region.after.center" style="style.default" xml:id="subtitle542">Gwailo.</p>
+<p begin="23849166666t" end="23858333333t" region="region.after.center" style="style.default" xml:id="subtitle543">What happened?</p>
+<p begin="23880416666t" end="23904166666t" region="region.after.center" style="style.default" xml:id="subtitle544">I was drunk the other day<br/>and fell into the drain.</p>
+<p begin="23912083333t" end="23927500000t" region="region.after.center" style="style.default" xml:id="subtitle545">He must be looking at the girls.</p>
+<p begin="23931250000t" end="23942083333t" region="region.after.center" style="style.default" xml:id="subtitle546">Isn't that normal?</p>
+<p begin="23969166666t" end="23979583333t" region="region.after.center" style="style.default" xml:id="subtitle547">Slowly.</p>
+<p begin="24060000000t" end="24068750000t" region="region.after.center" style="style.default" xml:id="subtitle548">Let's put it down.</p>
+<p begin="24069583333t" end="24079166666t" region="region.after.center" style="style.default" xml:id="subtitle549">-Right here?<br/>-Yes.</p>
+<p begin="24084166666t" end="24096666666t" region="region.after.center" style="style.default" xml:id="subtitle550">-Down.<br/>-Okay.</p>
+<p begin="24104166666t" end="24113333333t" region="region.after.center" style="style.default" xml:id="subtitle551">Slowly.</p>
+<p begin="24138333333t" end="24155416666t" region="region.after.center" style="style.default" xml:id="subtitle552">Slowly.</p>
+<p begin="24157083333t" end="24166250000t" region="region.after.center" style="style.default" xml:id="subtitle553">All right.</p>
+<p begin="24191250000t" end="24212916666t" region="region.after.center" style="style.default" xml:id="subtitle554">It would be nice if dad is still around.</p>
+<p begin="24229583333t" end="24247500000t" region="region.after.center" style="style.default" xml:id="subtitle555">He loved you a lot, do you know that?</p>
+<p begin="24252083333t" end="24267083333t" region="region.after.center" style="style.default" xml:id="subtitle556">-Really?<br/>-Yes.</p>
+<p begin="24269166666t" end="24282500000t" region="region.after.center" style="style.default" xml:id="subtitle557">Did he nag a lot like you?</p>
+<p begin="24314583333t" end="24327500000t" region="region.after.center" style="style.default" xml:id="subtitle558">Still can't light the joss sticks?</p>
+<p begin="24434583333t" end="24450000000t" region="region.after.center" style="style.default" xml:id="subtitle559">Hey, we haven't lit the joss sticks.</p>
+<p begin="24454166666t" end="24475833333t" region="region.after.center" style="style.default" xml:id="subtitle560">It's the same.<br/>Just dump the joss sticks in later.</p>
+<p begin="24551666666t" end="24579583333t" region="region.after.center" style="style.default" xml:id="subtitle561">Why did you tell Mom<br/>that you want to take a break?</p>
+<p begin="24598333333t" end="24615000000t" region="region.after.center" style="style.default" xml:id="subtitle562">Someone is watching us.</p>
+<p begin="24620833333t" end="24635833333t" region="region.after.center" style="style.default" xml:id="subtitle563">We'll be laying low for a while.</p>
+<p begin="24646666666t" end="24660000000t" region="region.after.center" style="style.default" xml:id="subtitle564">How long will that be?</p>
+<p begin="24662500000t" end="24675416666t" region="region.after.center" style="style.default" xml:id="subtitle565">Very long.</p>
+<p begin="24688750000t" end="24702916666t" region="region.after.center" style="style.default" xml:id="subtitle566">How will we survive if we go on a break?</p>
+<p begin="24715833333t" end="24727916666t" region="region.after.center" style="style.default" xml:id="subtitle567">Just trust me.</p>
+<p begin="24731250000t" end="24740000000t" region="region.after.center" style="style.default" xml:id="subtitle568">Chinaman.</p>
+<p begin="24745833333t" end="24757500000t" region="region.after.center" style="style.default" xml:id="subtitle569">Chinaman, we'll head off first.</p>
+<p begin="24758333333t" end="24780833333t" region="region.after.center" style="style.default" xml:id="subtitle570">It's so clever of you.<br/>You bring my cap out.</p>
+<p begin="24785833333t" end="24796250000t" region="region.after.center" style="style.default" xml:id="subtitle571">We're heading out.</p>
+<p begin="24797500000t" end="24808333333t" region="region.after.center" style="style.default" xml:id="subtitle572">-Hey.<br/>-What?</p>
+<p begin="24813333333t" end="24824166666t" region="region.after.center" style="style.default" xml:id="subtitle573">Stay out of trouble.</p>
+<p begin="24877916666t" end="24889583333t" region="region.after.center" style="style.default" xml:id="subtitle574">Just trust me.</p>
+<p begin="24937500000t" end="24960416666t" region="region.after.center" style="style.default" xml:id="subtitle575">I hope they know what they are doing.</p>
+<p begin="24968750000t" end="25000416666t" region="region.after.center" style="style.default" xml:id="subtitle576">If not, these joss papers are for us.</p>
+<p begin="25080833333t" end="25097500000t" region="region.after.center" style="style.default" xml:id="subtitle577">Ah Soon, let me do it.</p>
+<p begin="25188750000t" end="25209166666t" region="region.after.center" style="style.default" xml:id="subtitle578">It looks like a Batman logo.</p>
+<p begin="25291250000t" end="25306666666t" region="region.after.center" style="style.default" xml:id="subtitle579">It's not a Batman's logo.</p>
+<p begin="25416666666t" end="25426250000t" region="region.after.center" style="style.default" xml:id="subtitle580">What are you doing here?</p>
+<p begin="25435833333t" end="25457500000t" region="region.after.center" style="style.default" xml:id="subtitle581">I've told you not to come here.</p>
+<p begin="25646250000t" end="25659583333t" region="region.after.center" style="style.default" xml:id="subtitle582">We are done.</p>
+<p begin="25668750000t" end="25685416666t" region="region.after.center" style="style.default" xml:id="subtitle583">I've made it very clear.</p>
+<p begin="25987500000t" end="26000000000t" region="region.after.center" style="style.default" xml:id="subtitle584">Did you take the photo?</p>
+<p begin="26192083333t" end="26210833333t" region="region.after.center" style="style.default" xml:id="subtitle585">HAPPY CRAB</p>
+<p begin="26375833333t" end="26387500000t" region="region.after.center" style="style.default" xml:id="subtitle586">How can I lose this?</p>
+<p begin="26412083333t" end="26431666666t" region="region.after.center" style="style.default" xml:id="subtitle587">Chinaman.</p>
+<p begin="26436250000t" end="26446250000t" region="region.after.center" style="style.default" xml:id="subtitle588">Hey.</p>
+<p begin="26452500000t" end="26466666666t" region="region.after.center" style="style.default" xml:id="subtitle589">Are you looking for a taxi?</p>
+<p begin="26467500000t" end="26480416666t" region="region.after.center" style="style.default" xml:id="subtitle590">I'm looking for someone.</p>
+<p begin="26487500000t" end="26500416666t" region="region.after.center" style="style.default" xml:id="subtitle591">Come on...</p>
+<p begin="26537916666t" end="26552916666t" region="region.after.center" style="style.default" xml:id="subtitle592">Has anyone seen this person?</p>
+<p begin="26584166666t" end="26595000000t" region="region.after.center" style="style.default" xml:id="subtitle593">How about you?</p>
+<p begin="26596666666t" end="26606666666t" region="region.after.center" style="style.default" xml:id="subtitle594">Can you recognize him?</p>
+<p begin="26607500000t" end="26617500000t" region="region.after.center" style="style.default" xml:id="subtitle595">I haven't seen him before.</p>
+<p begin="26722083333t" end="26737083333t" region="region.after.center" style="style.default" xml:id="subtitle596">I'm out.</p>
+<p begin="26810000000t" end="26821250000t" region="region.after.center" style="style.default" xml:id="subtitle597">Sir.</p>
+<p begin="26843750000t" end="26855000000t" region="region.after.center" style="style.default" xml:id="subtitle598">Can you recognize him?</p>
+<p begin="26855833333t" end="26865000000t" region="region.after.center" style="style.default" xml:id="subtitle599">No.</p>
+<p begin="26875416666t" end="26885416666t" region="region.after.center" style="style.default" xml:id="subtitle600">Thank you.</p>
+<p begin="26925000000t" end="26941666666t" region="region.after.center" style="style.default" xml:id="subtitle601">My phone is barred again.</p>
+<p begin="26942500000t" end="26951666666t" region="region.after.center" style="style.default" xml:id="subtitle602">Pay your bills then.</p>
+<p begin="26952500000t" end="26970000000t" region="region.after.center" style="style.default" xml:id="subtitle603">-I don't have money for this.<br/>-I'm leaving soon.</p>
+<p begin="26970833333t" end="26983750000t" region="region.after.center" style="style.default" xml:id="subtitle604">Do you want to grab a drink tonight?</p>
+<p begin="27000833333t" end="27010833333t" region="region.after.center" style="style.default" xml:id="subtitle605">Are you looking for a taxi?</p>
+<p begin="27012500000t" end="27026250000t" region="region.after.center" style="style.default" xml:id="subtitle606">Your cap is nice, sir.</p>
+<p begin="27031250000t" end="27039583333t" region="region.after.center" style="style.default" xml:id="subtitle607">It's not bad.</p>
+<p begin="27048750000t" end="27060833333t" region="region.after.center" style="style.default" xml:id="subtitle608">Have you seen this person?</p>
+<p begin="27073333333t" end="27082500000t" region="region.after.center" style="style.default" xml:id="subtitle609">No.</p>
+<p begin="27107500000t" end="27122083333t" region="region.after.center" style="style.default" xml:id="subtitle610">You look pretty similar.</p>
+<p begin="27147500000t" end="27159166666t" region="region.after.center" style="style.default" xml:id="subtitle611">Almost like twins!</p>
+<p begin="27164583333t" end="27173750000t" region="region.after.center" style="style.default" xml:id="subtitle612">Have you seen this man?</p>
+<p begin="27187083333t" end="27197083333t" region="region.after.center" style="style.default" xml:id="subtitle613">No.</p>
+<p begin="27222500000t" end="27243750000t" region="region.after.center" style="style.default" xml:id="subtitle614">It must be your ghostly double then.</p>
+<p begin="27264166666t" end="27284583333t" region="region.after.center" style="style.default" xml:id="subtitle615">-I need to work.<br/>-Go ahead, please.</p>
+<p begin="27502083333t" end="27512500000t" region="region.after.center" style="style.default" xml:id="subtitle616">Yes.</p>
+<p begin="27514166666t" end="27523750000t" region="region.after.center" style="style.default" xml:id="subtitle617">That's him.</p>
+<p begin="27564166666t" end="27580000000t" region="region.after.center" style="style.default" xml:id="subtitle618">His name is Kamal.</p>
+<p begin="27588333333t" end="27610833333t" region="region.after.center" style="style.default" xml:id="subtitle619">He was your dad's protégé.</p>
+<p begin="27623333333t" end="27635000000t" region="region.after.center" style="style.default" xml:id="subtitle620">Your dad really favored him.</p>
+<p begin="27638750000t" end="27682500000t" region="region.after.center" style="style.default" xml:id="subtitle621">He always thought this person<br/>would be his successor.</p>
+<p begin="27686250000t" end="27696250000t" region="region.after.center" style="style.default" xml:id="subtitle622">Why?</p>
+<p begin="27717500000t" end="27728333333t" region="region.after.center" style="style.default" xml:id="subtitle623">Because he's smart.</p>
+<p begin="27764583333t" end="27774583333t" region="region.after.center" style="style.default" xml:id="subtitle624">Hey.</p>
+<p begin="27778750000t" end="27794583333t" region="region.after.center" style="style.default" xml:id="subtitle625">No caps allowed inside.</p>
+<p begin="27950000000t" end="27972500000t" region="region.after.center" style="style.default" xml:id="subtitle626">-Come on!<br/>-Damn it, I lose again!</p>
+<p begin="27995833333t" end="28017916666t" region="region.after.center" style="style.default" xml:id="subtitle627">Hey, Cheryl.</p>
+<p begin="28020833333t" end="28039166666t" region="region.after.center" style="style.default" xml:id="subtitle628">What are you doing after work?</p>
+<p begin="28040000000t" end="28063750000t" region="region.after.center" style="style.default" xml:id="subtitle629">-Definitely not hanging out with you.<br/>-What?</p>
+<p begin="28066250000t" end="28082083333t" region="region.after.center" style="style.default" xml:id="subtitle630">Come on, don't be like that.</p>
+<p begin="28084583333t" end="28111666666t" region="region.after.center" style="style.default" xml:id="subtitle631">-I thought you were dead.<br/>-Touch wood!</p>
+<p begin="28112500000t" end="28133333333t" region="region.after.center" style="style.default" xml:id="subtitle632">This place is too much fun<br/>for me to die on.</p>
+<p begin="28136250000t" end="28157500000t" region="region.after.center" style="style.default" xml:id="subtitle633">Someone told us what happened.</p>
+<p begin="28167500000t" end="28182916666t" region="region.after.center" style="style.default" xml:id="subtitle634">Word travels fast.</p>
+<p begin="28185416666t" end="28209166666t" region="region.after.center" style="style.default" xml:id="subtitle635">I'll need a little help tonight.</p>
+<p begin="28210000000t" end="28229583333t" region="region.after.center" style="style.default" xml:id="subtitle636">Then I'll have to double the interest.</p>
+<p begin="28230416666t" end="28251666666t" region="region.after.center" style="style.default" xml:id="subtitle637">You tell this asshole<br/>that we have money to spend.</p>
+<p begin="28271250000t" end="28283333333t" region="region.after.center" style="style.default" xml:id="subtitle638">Watch your mouth.</p>
+<p begin="28298333333t" end="28309583333t" region="region.after.center" style="style.default" xml:id="subtitle639">Get me a bottle.</p>
+<p begin="28316250000t" end="28328750000t" region="region.after.center" style="style.default" xml:id="subtitle640">Write my name on it.</p>
+<p begin="28330000000t" end="28353333333t" region="region.after.center" style="style.default" xml:id="subtitle641">Your name will definitely<br/>be written on it.</p>
+<p begin="28442916666t" end="28454583333t" region="region.after.center" style="style.default" xml:id="subtitle642">Keep the money.</p>
+<p begin="28455416666t" end="28478750000t" region="region.after.center" style="style.default" xml:id="subtitle643">Come on, let's head in. This way.</p>
+<p begin="28496250000t" end="28506250000t" region="region.after.center" style="style.default" xml:id="subtitle644">Come on.</p>
+<p begin="28577083333t" end="28587916666t" region="region.after.center" style="style.default" xml:id="subtitle645">You lost.</p>
+<p begin="28791666666t" end="28810833333t" region="region.after.center" style="style.default" xml:id="subtitle646">My friend, he's on a hot streak today.</p>
+<p begin="28811666666t" end="28828333333t" region="region.after.center" style="style.default" xml:id="subtitle647">Come again next time, okay?</p>
+<p begin="28831250000t" end="28842500000t" region="region.after.center" style="style.default" xml:id="subtitle648">Little boy.</p>
+<p begin="28852083333t" end="28873333333t" region="region.after.center" style="style.default" xml:id="subtitle649">It seems like you ran out of chips.</p>
+<p begin="28877500000t" end="28893750000t" region="region.after.center" style="style.default" xml:id="subtitle650">Show me your cards, asshole!</p>
+<p begin="28960416666t" end="28975416666t" region="region.after.center" style="style.default" xml:id="subtitle651">My apologies.</p>
+<p begin="28986250000t" end="29018750000t" region="region.after.center" style="style.default" xml:id="subtitle652"><span style="style.default_1">Guests are here to visit my father...</span></p>
+<p begin="29043750000t" end="29062083333t" region="region.after.center" style="style.default" xml:id="subtitle653">Hey, little boy.</p>
+<p begin="29091250000t" end="29113333333t" region="region.after.center" style="style.default" xml:id="subtitle654">Here, use it to take a taxi.</p>
+<p begin="29158333333t" end="29211666666t" region="region.after.center" style="style.default" xml:id="subtitle655"><span style="style.default_1">Guests are here to visit my father<br/>But he's not around </span></p>
+<p begin="29212500000t" end="29268750000t" region="region.after.center" style="style.default" xml:id="subtitle656"><span style="style.default_1">I asked the guests to come in for a seat<br/>And served them with wine </span></p>
+<p begin="29320000000t" end="29335833333t" region="region.after.center" style="style.default" xml:id="subtitle657">You're really pouring<br/>a glass of wine for me?</p>
+<p begin="29601666666t" end="29610833333t" region="region.after.center" style="style.default" xml:id="subtitle658">Ah Soon.</p>
+<p begin="29621666666t" end="29632500000t" region="region.after.center" style="style.default" xml:id="subtitle659">This is for you.</p>
+<p begin="29663333333t" end="29674583333t" region="region.after.center" style="style.default" xml:id="subtitle660">What's this for?</p>
+<p begin="29679583333t" end="29693750000t" region="region.after.center" style="style.default" xml:id="subtitle661">It's for you. Take it.</p>
+<p begin="29798750000t" end="29817916666t" region="region.after.center" style="style.default" xml:id="subtitle662">You should come with us.</p>
+<p begin="29855416666t" end="29870416666t" region="region.after.center" style="style.default" xml:id="subtitle663">I'll pay you back.</p>
+<p begin="29883750000t" end="29899583333t" region="region.after.center" style="style.default" xml:id="subtitle664">I've quit drugs.</p>
+<p begin="29902500000t" end="29913750000t" region="region.after.center" style="style.default" xml:id="subtitle665">I don't do drugs anymore.</p>
+<p begin="29955416666t" end="29965833333t" region="region.after.center" style="style.default" xml:id="subtitle666">Let it go.</p>
+<p begin="29972083333t" end="29982916666t" region="region.after.center" style="style.default" xml:id="subtitle667">It's in the past anyway.</p>
+<p begin="30032500000t" end="30047500000t" region="region.after.center" style="style.default" xml:id="subtitle668">There's something I need to tell you.</p>
+<p begin="30048333333t" end="30061250000t" region="region.after.center" style="style.default" xml:id="subtitle669">It's about Ah Wai.</p>
+<p begin="30140416666t" end="30159583333t" region="region.after.center" style="style.default" xml:id="subtitle670">Sit down!</p>
+<p begin="30339583333t" end="30349166666t" region="region.after.center" style="style.default" xml:id="subtitle671">These two...</p>
+<p begin="30355833333t" end="30369583333t" region="region.after.center" style="style.default" xml:id="subtitle672">Are they your men?</p>
+<p begin="30424166666t" end="30437083333t" region="region.after.center" style="style.default" xml:id="subtitle673">If I'm not mistaken,</p>
+<p begin="30446250000t" end="30472916666t" region="region.after.center" style="style.default" xml:id="subtitle674">this is your younger brother.</p>
+<p begin="30575000000t" end="30586250000t" region="region.after.center" style="style.default" xml:id="subtitle675">What do you want?</p>
+<p begin="30711250000t" end="30727083333t" region="region.after.center" style="style.default" xml:id="subtitle676">What's the rush?</p>
+<p begin="30742500000t" end="30760416666t" region="region.after.center" style="style.default" xml:id="subtitle677">Give me some time to calculate.</p>
+<p begin="30785416666t" end="30810000000t" region="region.after.center" style="style.default" xml:id="subtitle678">How much was that bottle that he broke?</p>
+<p begin="30811250000t" end="30828333333t" region="region.after.center" style="style.default" xml:id="subtitle679">One thousand two hundred and forty-five.</p>
+<p begin="30836250000t" end="30848333333t" region="region.after.center" style="style.default" xml:id="subtitle680">Fucker!</p>
+<p begin="30889166666t" end="30902916666t" region="region.after.center" style="style.default" xml:id="subtitle681">As for the renovation fees,</p>
+<p begin="30909583333t" end="30918333333t" region="region.after.center" style="style.default" xml:id="subtitle682">it's fifty thousand.</p>
+<p begin="30924166666t" end="30950000000t" region="region.after.center" style="style.default" xml:id="subtitle683">Speaking of renovation,<br/>that's my biggest loss.</p>
+<p begin="30951666666t" end="30979583333t" region="region.after.center" style="style.default" xml:id="subtitle684">While it's under renovation,<br/>I can't do my business.</p>
+<p begin="31056666666t" end="31073333333t" region="region.after.center" style="style.default" xml:id="subtitle685">The guy they burned</p>
+<p begin="31080833333t" end="31110000000t" region="region.after.center" style="style.default" xml:id="subtitle686">was a very, very good customer of mine.</p>
+<p begin="31113333333t" end="31153750000t" region="region.after.center" style="style.default" xml:id="subtitle687">But anyway, that was before he died.</p>
+<p begin="31243333333t" end="31271250000t" region="region.after.center" style="style.default" xml:id="subtitle688">Getting rid of the body,<br/>it'll be five thousand.</p>
+<p begin="31451250000t" end="31500000000t" region="region.after.center" style="style.default" xml:id="subtitle689">That gives you a total of<br/>one hundred one thousand and forty-five.</p>
+<p begin="31500833333t" end="31545000000t" region="region.after.center" style="style.default" xml:id="subtitle690">Also, the two of them<br/>still owe me a sum of forty thousand.</p>
+<p begin="31607083333t" end="31622500000t" region="region.after.center" style="style.default" xml:id="subtitle691">I'll round it up for you.</p>
+<p begin="31632083333t" end="31642916666t" region="region.after.center" style="style.default" xml:id="subtitle692">Three hundred thousand.</p>
+<p begin="31697916666t" end="31715000000t" region="region.after.center" style="style.default" xml:id="subtitle693">That's a lot of money!</p>
+<p begin="31735416666t" end="31752500000t" region="region.after.center" style="style.default" xml:id="subtitle694">We don't have so much money here.</p>
+<p begin="31789166666t" end="31830833333t" region="region.after.center" style="style.default" xml:id="subtitle695">I can clearly see that you don't have<br/>so much money.</p>
+<p begin="31833333333t" end="31842916666t" region="region.after.center" style="style.default" xml:id="subtitle696">However,</p>
+<p begin="31852083333t" end="31894583333t" region="region.after.center" style="style.default" xml:id="subtitle697">certain things<br/>can't be seen with our naked eyes.</p>
+<p begin="31898333333t" end="31940000000t" region="region.after.center" style="style.default" xml:id="subtitle698">But if you listen, you'll hear a lot.</p>
+<p begin="31945000000t" end="31956666666t" region="region.after.center" style="style.default" xml:id="subtitle699">Do you want to hear it?</p>
+<p begin="31967500000t" end="31980000000t" region="region.after.center" style="style.default" xml:id="subtitle700">I'll let you listen.</p>
+<p begin="32062083333t" end="32088750000t" region="region.after.center" style="style.default" xml:id="subtitle701">We'll have a large sum<br/>of money coming in soon!</p>
+<p begin="32143750000t" end="32157083333t" region="region.after.center" style="style.default" xml:id="subtitle702">Did you hear that?</p>
+<p begin="32188333333t" end="32207500000t" region="region.after.center" style="style.default" xml:id="subtitle703">It looks like your brother<br/>doesn't know about this.</p>
+<p begin="32215416666t" end="32228333333t" region="region.after.center" style="style.default" xml:id="subtitle704">How could you not let</p>
+<p begin="32232083333t" end="32275000000t" region="region.after.center" style="style.default" xml:id="subtitle705">your brother know about this big plan<br/>that you had outside?</p>
+<p begin="32298333333t" end="32313750000t" region="region.after.center" style="style.default" xml:id="subtitle706">What a piece of crap.</p>
+<p begin="32378333333t" end="32390416666t" region="region.after.center" style="style.default" xml:id="subtitle707">I'll give you two days.</p>
+<p begin="32406250000t" end="32440833333t" region="region.after.center" style="style.default" xml:id="subtitle708">After that,<br/>I won't just be coming for money.</p>
+<p begin="32515416666t" end="32535000000t" region="region.after.center" style="style.default" xml:id="subtitle709">I think you should have<br/>a lot to talk about.</p>
+<p begin="32535833333t" end="32550000000t" region="region.after.center" style="style.default" xml:id="subtitle710">I don't want to bother you guys.</p>
+<p begin="32607916666t" end="32642083333t" region="region.after.center" style="style.default" xml:id="subtitle711">Your men really cost you a lot.</p>
+<p begin="32991666666t" end="33009583333t" region="region.after.center" style="style.default" xml:id="subtitle712">Do you know who the hell he is?</p>
+<p begin="33025416666t" end="33056250000t" region="region.after.center" style="style.default" xml:id="subtitle713">You've just thrown us into a cage<br/>with a monster.</p>
+<p begin="33129583333t" end="33140416666t" region="region.after.center" style="style.default" xml:id="subtitle714">What have you guys done?</p>
+<p begin="33177083333t" end="33190833333t" region="region.after.center" style="style.default" xml:id="subtitle715">The target has a lot of money.</p>
+<p begin="33201250000t" end="33222916666t" region="region.after.center" style="style.default" xml:id="subtitle716">He runs Trinity Jewellery.</p>
+<p begin="33232916666t" end="33256250000t" region="region.after.center" style="style.default" xml:id="subtitle717">Chinaman, we should have told you<br/>about this earlier.</p>
+<p begin="33257916666t" end="33268750000t" region="region.after.center" style="style.default" xml:id="subtitle718">What's the exact amount?</p>
+<p begin="33276666666t" end="33290416666t" region="region.after.center" style="style.default" xml:id="subtitle719">We don't know.</p>
+<p begin="33294166666t" end="33310416666t" region="region.after.center" style="style.default" xml:id="subtitle720">I'm the one who asked him to help me.</p>
+<p begin="33311250000t" end="33333750000t" region="region.after.center" style="style.default" xml:id="subtitle721">We are in this shit because of you!</p>
+<p begin="33334583333t" end="33345833333t" region="region.after.center" style="style.default" xml:id="subtitle722">It's because of me--</p>
+<p begin="33367500000t" end="33380833333t" region="region.after.center" style="style.default" xml:id="subtitle723">If it weren't for me--</p>
+<p begin="33399166666t" end="33413750000t" region="region.after.center" style="style.default" xml:id="subtitle724">Have you ever made 300 thousand?</p>
+<p begin="33415833333t" end="33426250000t" region="region.after.center" style="style.default" xml:id="subtitle725">Have you...</p>
+<p begin="33437083333t" end="33457083333t" region="region.after.center" style="style.default" xml:id="subtitle726">Keep talking!</p>
+<p begin="33722500000t" end="33737500000t" region="region.after.center" style="style.default" xml:id="subtitle727">That boss of Trinity...</p>
+<p begin="33751666666t" end="33763333333t" region="region.after.center" style="style.default" xml:id="subtitle728">What do you have on him?</p>
+<p begin="33825416666t" end="33852916666t" region="region.after.center" style="style.default" xml:id="subtitle729">The company belongs to his wife.</p>
+<p begin="33868333333t" end="33881666666t" region="region.after.center" style="style.default" xml:id="subtitle730">He's having an affair with a woman.</p>
+<p begin="33894166666t" end="33903750000t" region="region.after.center" style="style.default" xml:id="subtitle731">What else?</p>
+<p begin="33944166666t" end="33957083333t" region="region.after.center" style="style.default" xml:id="subtitle732">They run a diamond business.</p>
+<p begin="33957916666t" end="33973333333t" region="region.after.center" style="style.default" xml:id="subtitle733">We assume that he has a lot of money.</p>
+<p begin="33974166666t" end="33988333333t" region="region.after.center" style="style.default" xml:id="subtitle734">-Damn you, two stupid pricks!<br/>-Ah Soon!</p>
+<p begin="33989166666t" end="34003333333t" region="region.after.center" style="style.default" xml:id="subtitle735">-Don't do this!<br/>-Are you fucking idiots?</p>
+<p begin="34004583333t" end="34014583333t" region="region.after.center" style="style.default" xml:id="subtitle736">Stop it!</p>
+<p begin="34040416666t" end="34053750000t" region="region.after.center" style="style.default" xml:id="subtitle737">You need to calm down!</p>
+<p begin="34068750000t" end="34082083333t" region="region.after.center" style="style.default" xml:id="subtitle738">This is all because of you.</p>
+<p begin="34086666666t" end="34127916666t" region="region.after.center" style="style.default" xml:id="subtitle739">I told you that<br/>they'll eventually fuck us up.</p>
+<p begin="34149166666t" end="34173333333t" region="region.after.center" style="style.default" xml:id="subtitle740">I'm trying to figure out a way<br/>to fix this now.</p>
+<p begin="34178333333t" end="34196250000t" region="region.after.center" style="style.default" xml:id="subtitle741">Can you just calm down?</p>
+<p begin="34607500000t" end="34616666666t" region="region.after.center" style="style.default" xml:id="subtitle742">Sir.</p>
+<p begin="34627500000t" end="34644166666t" region="region.after.center" style="style.default" xml:id="subtitle743">The fire alarms went off<br/>at the club last night.</p>
+<p begin="34651250000t" end="34662083333t" region="region.after.center" style="style.default" xml:id="subtitle744">And?</p>
+<p begin="34665000000t" end="34689166666t" region="region.after.center" style="style.default" xml:id="subtitle745">Then it went quiet.<br/>No one reported on this.</p>
+<p begin="34742916666t" end="34753333333t" region="region.after.center" style="style.default" xml:id="subtitle746">Here it is, sir.</p>
+<p begin="34781666666t" end="34791250000t" region="region.after.center" style="style.default" xml:id="subtitle747">What do you have?</p>
+<p begin="34801250000t" end="34826250000t" region="region.after.center" style="style.default" xml:id="subtitle748">This car is registered<br/>under the name Kok Boon Seng.</p>
+<p begin="34832083333t" end="34850833333t" region="region.after.center" style="style.default" xml:id="subtitle749">This guy has been dead for 50 years.</p>
+<p begin="34897916666t" end="34907916666t" region="region.after.center" style="style.default" xml:id="subtitle750">Find out more.</p>
+<p begin="34921250000t" end="34935000000t" region="region.after.center" style="style.default" xml:id="subtitle751">Here's your drink.</p>
+<p begin="34938333333t" end="34947083333t" region="region.after.center" style="style.default" xml:id="subtitle752">Thank you.</p>
+<p begin="34968333333t" end="34984583333t" region="region.after.center" style="style.default" xml:id="subtitle753">This guy is definitely not working alone.</p>
+<p begin="34997916666t" end="35011666666t" region="region.after.center" style="style.default" xml:id="subtitle754">What should we do about his car, sir?</p>
+<p begin="35184166666t" end="35207500000t" region="region.after.center" style="style.default" xml:id="subtitle755">-<span style="style.default_1">I want five hundred thousand in cash.</span><br/>-Who are you?</p>
+<p begin="35208333333t" end="35232500000t" region="region.after.center" style="style.default" xml:id="subtitle756"><span style="style.default_1">If not, you will hear this every day.</span></p>
+<p begin="35318333333t" end="35344166666t" region="region.after.center" style="style.default" xml:id="subtitle757"><span style="style.default_1">Five hundred thousand in three hours.</span></p>
+<p begin="35346666666t" end="35360833333t" region="region.after.center" style="style.default" xml:id="subtitle758"><span style="style.default_1">I'll only say this once.</span></p>
+<p begin="35363750000t" end="35390416666t" region="region.after.center" style="style.default" xml:id="subtitle759"><span style="style.default_1">If I see anything I don't like,<br/>you'll be in deep shit.</span></p>
+<p begin="35399583333t" end="35414166666t" region="region.after.center" style="style.default" xml:id="subtitle760"><span style="style.default_1">You've reached...</span></p>
+<p begin="35455000000t" end="35467500000t" region="region.after.center" style="style.default" xml:id="subtitle761"><span style="style.default_1">Leave your message...</span></p>
+<p begin="35571666666t" end="35595416666t" region="region.after.center" style="style.default" xml:id="subtitle762">Ah Wai, are you listening?</p>
+<p begin="35601250000t" end="35611666666t" region="region.after.center" style="style.default" xml:id="subtitle763">I am.</p>
+<p begin="35740833333t" end="35771666666t" region="region.after.center" style="style.default" xml:id="subtitle764">Hey! When you get the money,<br/>come straight back.</p>
+<p begin="35777500000t" end="35787916666t" region="region.after.center" style="style.default" xml:id="subtitle765">Okay.</p>
+<p begin="35865000000t" end="35877083333t" region="region.after.center" style="style.default" xml:id="subtitle766">Help me hold this for a second.</p>
+<p begin="35934166666t" end="35951250000t" region="region.after.center" style="style.default" xml:id="subtitle767">The crazy bitch keeps calling me.</p>
+<p begin="35962500000t" end="35977500000t" region="region.after.center" style="style.default" xml:id="subtitle768">Yes, she's blowing up my phone too.</p>
+<p begin="35980833333t" end="35994166666t" region="region.after.center" style="style.default" xml:id="subtitle769">She's called a million times.</p>
+<p begin="36005000000t" end="36015416666t" region="region.after.center" style="style.default" xml:id="subtitle770">Just ignore her.</p>
+<p begin="36040416666t" end="36057500000t" region="region.after.center" style="style.default" xml:id="subtitle771">She's the least of our problems now.</p>
+<p begin="36076666666t" end="36095000000t" region="region.after.center" style="style.default" xml:id="subtitle772">She won't pull some crazy shit<br/>on us, right?</p>
+<p begin="36112083333t" end="36125416666t" region="region.after.center" style="style.default" xml:id="subtitle773">I take this for you, all right?</p>
+<p begin="36210000000t" end="36222500000t" region="region.after.center" style="style.default" xml:id="subtitle774">Are you all right?</p>
+<p begin="36258750000t" end="36277916666t" region="region.after.center" style="style.default" xml:id="subtitle775">I don't feel good about this.</p>
+<p begin="36305000000t" end="36317083333t" region="region.after.center" style="style.default" xml:id="subtitle776">Help me keep an eye on them.</p>
+<p begin="36749166666t" end="36760000000t" region="region.after.center" style="style.default" xml:id="subtitle777"><span style="style.default_1">Follow that taxi.</span></p>
+<p begin="36875833333t" end="36889583333t" region="region.after.center" style="style.default" xml:id="subtitle778"><span style="style.default_1">Stop playing with your ring.</span></p>
+<p begin="36905000000t" end="36918750000t" region="region.after.center" style="style.default" xml:id="subtitle779">Is all the cash in the bag?</p>
+<p begin="36930833333t" end="36939583333t" region="region.after.center" style="style.default" xml:id="subtitle780">Yes.</p>
+<p begin="36949166666t" end="36957916666t" region="region.after.center" style="style.default" xml:id="subtitle781">Bring it over.</p>
+<p begin="37039583333t" end="37069166666t" region="region.after.center" style="style.default" xml:id="subtitle782"><span style="style.default_1">Go to the motorbike<br/>and put the bag in the back.</span></p>
+<p begin="37149583333t" end="37175000000t" region="region.after.center" style="style.default" xml:id="subtitle783">Pass the withdrawal slip<br/>to the motorcyclist.</p>
+<p begin="37260833333t" end="37270833333t" region="region.after.center" style="style.default" xml:id="subtitle784"><span style="style.default_1">Wait a moment.</span></p>
+<p begin="37300833333t" end="37314166666t" region="region.after.center" style="style.default" xml:id="subtitle785">Go home and count the money.</p>
+<p begin="37315000000t" end="37333333333t" region="region.after.center" style="style.default" xml:id="subtitle786">If you have the correct amount,<br/>let Gwailo know.</p>
+<p begin="37344583333t" end="37362916666t" region="region.after.center" style="style.default" xml:id="subtitle787">I'll get my taxi<br/>and count the money there.</p>
+<p begin="37367083333t" end="37385000000t" region="region.after.center" style="style.default" xml:id="subtitle788">Are you crazy?<br/>Go home and count the money!</p>
+<p begin="37385833333t" end="37395416666t" region="region.after.center" style="style.default" xml:id="subtitle789">Do you hear me?</p>
+<p begin="37436666666t" end="37461250000t" region="region.after.center" style="style.default" xml:id="subtitle790"><span style="style.default_1">There is a suspicious activity involving<br/>the taxi gang.</span></p>
+<p begin="37462083333t" end="37483750000t" region="region.after.center" style="style.default" xml:id="subtitle791"><span style="style.default_1">We are awaiting<br/>further instructions. Over.</span></p>
+<p begin="37484583333t" end="37520000000t" region="region.after.center" style="style.default" xml:id="subtitle792">Tail the taxi. Keep your distance. Over.</p>
+<p begin="37521666666t" end="37536666666t" region="region.after.center" style="style.default" xml:id="subtitle793"><span style="style.default_1">Get in the taxi.</span></p>
+<p begin="37543333333t" end="37553333333t" region="region.after.center" style="style.default" xml:id="subtitle794">Why?</p>
+<p begin="37556250000t" end="37567083333t" region="region.after.center" style="style.default" xml:id="subtitle795">Get in the car.</p>
+<p begin="37572083333t" end="37606666666t" region="region.after.center" style="style.default" xml:id="subtitle796"><span style="style.default_1">Once we confirm that<br/>you're not fooling us, we'll let you go.</span></p>
+<p begin="37740833333t" end="37750833333t" region="region.after.center" style="style.default" xml:id="subtitle797">Get in the car.</p>
+<p begin="37827916666t" end="37844583333t" region="region.after.center" style="style.default" xml:id="subtitle798">Ah Soon, something is wrong.</p>
+<p begin="37868333333t" end="37882083333t" region="region.after.center" style="style.default" xml:id="subtitle799">Hey! What are you doing?</p>
+<p begin="37882916666t" end="37896250000t" region="region.after.center" style="style.default" xml:id="subtitle800">Are you seriously hijacking this taxi?</p>
+<p begin="37897083333t" end="37911250000t" region="region.after.center" style="style.default" xml:id="subtitle801">-Later--<br/>-Shut up!</p>
+<p begin="37915000000t" end="37926250000t" region="region.after.center" style="style.default" xml:id="subtitle802">Start driving.</p>
+<p begin="37932500000t" end="37945000000t" region="region.after.center" style="style.default" xml:id="subtitle803">Okay. Where are we going?</p>
+<p begin="37946250000t" end="37958750000t" region="region.after.center" style="style.default" xml:id="subtitle804">Start driving!</p>
+<p begin="37982500000t" end="37993333333t" region="region.after.center" style="style.default" xml:id="subtitle805"><span style="style.default_1">This is crazy.</span></p>
+<p begin="38133333333t" end="38161666666t" region="region.after.center" style="style.default" xml:id="subtitle806">You are ruining our plan.</p>
+<p begin="38165000000t" end="38177916666t" region="region.after.center" style="style.default" xml:id="subtitle807">Do you really think that</p>
+<p begin="38178750000t" end="38210000000t" region="region.after.center" style="style.default" xml:id="subtitle808">I'll trust you to get me what I want?</p>
+<p begin="38212500000t" end="38237500000t" region="region.after.center" style="style.default" xml:id="subtitle809">What? You're in this together?</p>
+<p begin="38247500000t" end="38266250000t" region="region.after.center" style="style.default" xml:id="subtitle810">Hand over the ring!</p>
+<p begin="38352500000t" end="38362083333t" region="region.after.center" style="style.default" xml:id="subtitle811">Hey!</p>
+<p begin="38452500000t" end="38480416666t" region="region.after.center" style="style.default" xml:id="subtitle812"><span style="style.default_1">Multiple shots fired at 21E, Section 2.</span></p>
+<p begin="38481250000t" end="38500833333t" region="region.after.center" style="style.default" xml:id="subtitle813">Sit down...</p>
+<p begin="38506250000t" end="38523750000t" region="region.after.center" style="style.default" xml:id="subtitle814">The game is just getting started.</p>
+<p begin="38524583333t" end="38535833333t" region="region.after.center" style="style.default" xml:id="subtitle815">Let's sit down.</p>
+<p begin="38536666666t" end="38561250000t" region="region.after.center" style="style.default" xml:id="subtitle816">We have set the bait.<br/>Just wait for the fish to bite.</p>
+<p begin="38764583333t" end="38774583333t" region="region.after.center" style="style.default" xml:id="subtitle817">Run!</p>
+<p begin="39885000000t" end="39906250000t" region="region.after.center" style="style.default" xml:id="subtitle818"><span style="style.default_1">Ah Wai?</span></p>
+<p begin="39912083333t" end="39928750000t" region="region.after.center" style="style.default" xml:id="subtitle819">Ah Wai, can you hear me?</p>
+<p begin="40151666666t" end="40165000000t" region="region.after.center" style="style.default" xml:id="subtitle820">Can you please step out, sir?</p>
+<p begin="40396666666t" end="40412083333t" region="region.after.center" style="style.default" xml:id="subtitle821">Did I do anything wrong?</p>
+<p begin="40412916666t" end="40422500000t" region="region.after.center" style="style.default" xml:id="subtitle822">I don't know.</p>
+<p begin="40427916666t" end="40438750000t" region="region.after.center" style="style.default" xml:id="subtitle823">Did you do anything wrong?</p>
+<p begin="40456250000t" end="40468333333t" region="region.after.center" style="style.default" xml:id="subtitle824">I just parked my car here.</p>
+<p begin="40487500000t" end="40507500000t" region="region.after.center" style="style.default" xml:id="subtitle825">You look familiar.</p>
+<p begin="40513333333t" end="40527916666t" region="region.after.center" style="style.default" xml:id="subtitle826">Have we met before?</p>
+<p begin="40542916666t" end="40551666666t" region="region.after.center" style="style.default" xml:id="subtitle827">No.</p>
+<p begin="40552500000t" end="40561666666t" region="region.after.center" style="style.default" xml:id="subtitle828">Really?</p>
+<p begin="40602500000t" end="40634166666t" region="region.after.center" style="style.default" xml:id="subtitle829">Have you ever sent food to my house?</p>
+<p begin="40641250000t" end="40650000000t" region="region.after.center" style="style.default" xml:id="subtitle830">No.</p>
+<p begin="40652500000t" end="40661250000t" region="region.after.center" style="style.default" xml:id="subtitle831">Didn't you?</p>
+<p begin="40665000000t" end="40675833333t" region="region.after.center" style="style.default" xml:id="subtitle832">Can I have your identity card?</p>
+<p begin="40684166666t" end="40693333333t" region="region.after.center" style="style.default" xml:id="subtitle833">No?</p>
+<p begin="40796250000t" end="40807083333t" region="region.after.center" style="style.default" xml:id="subtitle834">You're Kok Boon Seng?</p>
+<p begin="40829166666t" end="40857500000t" region="region.after.center" style="style.default" xml:id="subtitle835">It's good that I could put a face<br/>to the name.</p>
+<p begin="40876250000t" end="40885000000t" region="region.after.center" style="style.default" xml:id="subtitle836">Okay, Kok.</p>
+<p begin="40887916666t" end="40900000000t" region="region.after.center" style="style.default" xml:id="subtitle837">I want to ask you a question.</p>
+<p begin="40921666666t" end="40932500000t" region="region.after.center" style="style.default" xml:id="subtitle838">You look...</p>
+<p begin="40944583333t" end="40973333333t" region="region.after.center" style="style.default" xml:id="subtitle839">very young for a guy<br/>who has been dead for 50 years.</p>
+<p begin="40982083333t" end="40992916666t" region="region.after.center" style="style.default" xml:id="subtitle840">What's your secret?</p>
+<p begin="41420833333t" end="41437500000t" region="region.after.center" style="style.default" xml:id="subtitle841">What happened?</p>
+<p begin="41469583333t" end="41479166666t" region="region.after.center" style="style.default" xml:id="subtitle842">What?</p>
+<p begin="41487083333t" end="41497500000t" region="region.after.center" style="style.default" xml:id="subtitle843">Do you mean that crazy bitch?</p>
+<p begin="41505833333t" end="41517500000t" region="region.after.center" style="style.default" xml:id="subtitle844">She came out of nowhere.</p>
+<p begin="41527083333t" end="41543750000t" region="region.after.center" style="style.default" xml:id="subtitle845">How did she get there?</p>
+<p begin="41556250000t" end="41570416666t" region="region.after.center" style="style.default" xml:id="subtitle846">How the hell would I know?</p>
+<p begin="41574166666t" end="41592083333t" region="region.after.center" style="style.default" xml:id="subtitle847">She must have followed the rich guy.</p>
+<p begin="41642916666t" end="41655000000t" region="region.after.center" style="style.default" xml:id="subtitle848">Let me go!</p>
+<p begin="41747083333t" end="41766250000t" region="region.after.center" style="style.default" xml:id="subtitle849">It seems you both knew each other.</p>
+<p begin="41784166666t" end="41797500000t" region="region.after.center" style="style.default" xml:id="subtitle850">I'll ask one more time.</p>
+<p begin="41805416666t" end="41828333333t" region="region.after.center" style="style.default" xml:id="subtitle851">Why was she there?</p>
+<p begin="41851666666t" end="41875833333t" region="region.after.center" style="style.default" xml:id="subtitle852">I really don't know!</p>
+<p begin="41974583333t" end="41991250000t" region="region.after.center" style="style.default" xml:id="subtitle853">Ah Soon...</p>
+<p begin="41995416666t" end="42035000000t" region="region.after.center" style="style.default" xml:id="subtitle854">I saw you chatting with her<br/>outside the bank.</p>
+<p begin="42067500000t" end="42082083333t" region="region.after.center" style="style.default" xml:id="subtitle855">Are you sure...</p>
+<p begin="42098333333t" end="42115000000t" region="region.after.center" style="style.default" xml:id="subtitle856">you want to keep lying to me?</p>
+<p begin="42151250000t" end="42167500000t" region="region.after.center" style="style.default" xml:id="subtitle857">Okay...</p>
+<p begin="42168333333t" end="42201666666t" region="region.after.center" style="style.default" xml:id="subtitle858">I'll tell you everything.</p>
+<p begin="42203333333t" end="42233333333t" region="region.after.center" style="style.default" xml:id="subtitle859">At first, Ah Wai and I targeted her.</p>
+<p begin="42235416666t" end="42248750000t" region="region.after.center" style="style.default" xml:id="subtitle860">But she didn't have any money.</p>
+<p begin="42250416666t" end="42274583333t" region="region.after.center" style="style.default" xml:id="subtitle861">That guy dumped her, and she gets nothing.</p>
+<p begin="42276666666t" end="42287500000t" region="region.after.center" style="style.default" xml:id="subtitle862">All she wanted was his ring.</p>
+<p begin="42291666666t" end="42316666666t" region="region.after.center" style="style.default" xml:id="subtitle863">She wanted revenge! That's all!</p>
+<p begin="42331250000t" end="42378750000t" region="region.after.center" style="style.default" xml:id="subtitle864">How would I know that you didn't<br/>cut a deal with her to get more money?</p>
+<p begin="42387500000t" end="42423750000t" region="region.after.center" style="style.default" xml:id="subtitle865">Maybe you even<br/>plan to keep the money for yourself.</p>
+<p begin="42427916666t" end="42460000000t" region="region.after.center" style="style.default" xml:id="subtitle866">I didn't do it!</p>
+<p begin="42473333333t" end="42490833333t" region="region.after.center" style="style.default" xml:id="subtitle867">Ah Soon! Let go of him!</p>
+<p begin="42499166666t" end="42509583333t" region="region.after.center" style="style.default" xml:id="subtitle868">Let go of him!</p>
+<p begin="42510416666t" end="42522083333t" region="region.after.center" style="style.default" xml:id="subtitle869">Let go!</p>
+<p begin="42525416666t" end="42536250000t" region="region.after.center" style="style.default" xml:id="subtitle870">Let him go!</p>
+<p begin="42732916666t" end="42779166666t" region="region.after.center" style="style.default" xml:id="subtitle871">Ah Wai and the money<br/>are both in his hands.</p>
+<p begin="42831666666t" end="42842500000t" region="region.after.center" style="style.default" xml:id="subtitle872">Who?</p>
+<p begin="42870000000t" end="42879166666t" region="region.after.center" style="style.default" xml:id="subtitle873">Kamal.</p>
+<p begin="43122083333t" end="43140833333t" region="region.after.center" style="style.default" xml:id="subtitle874">"Lau Kok Wai."</p>
+<p begin="43168333333t" end="43180000000t" region="region.after.center" style="style.default" xml:id="subtitle875">Your record is not good.</p>
+<p begin="43192500000t" end="43212083333t" region="region.after.center" style="style.default" xml:id="subtitle876">We know about your wife.</p>
+<p begin="43217500000t" end="43239583333t" region="region.after.center" style="style.default" xml:id="subtitle877">Michelle Cheong Xue Ni.</p>
+<p begin="43322500000t" end="43334166666t" region="region.after.center" style="style.default" xml:id="subtitle878">Do you recognize this man?</p>
+<p begin="43442916666t" end="43451250000t" region="region.after.center" style="style.default" xml:id="subtitle879">What about this?</p>
+<p begin="43475833333t" end="43488333333t" region="region.after.center" style="style.default" xml:id="subtitle880">It's the same person, isn't it?</p>
+<p begin="43495833333t" end="43507083333t" region="region.after.center" style="style.default" xml:id="subtitle881">Do you recognize him now?</p>
+<p begin="43548333333t" end="43558750000t" region="region.after.center" style="style.default" xml:id="subtitle882">Do you recognize him?</p>
+<p begin="43577083333t" end="43585416666t" region="region.after.center" style="style.default" xml:id="subtitle883">Look.</p>
+<p begin="43588333333t" end="43598333333t" region="region.after.center" style="style.default" xml:id="subtitle884">Look at the pictures.</p>
+<p begin="43726250000t" end="43757916666t" region="region.after.center" style="style.default" xml:id="subtitle885">We know you're not<br/>the one who calls the shots.</p>
+<p begin="43772500000t" end="43791666666t" region="region.after.center" style="style.default" xml:id="subtitle886">You don't look like one.</p>
+<p begin="43825833333t" end="43854583333t" region="region.after.center" style="style.default" xml:id="subtitle887">Why don't you give us all the details?</p>
+<p begin="43877083333t" end="43888750000t" region="region.after.center" style="style.default" xml:id="subtitle888">Give me the names.</p>
+<p begin="43908333333t" end="43922916666t" region="region.after.center" style="style.default" xml:id="subtitle889">Give me the addresses.</p>
+<p begin="43953333333t" end="43974583333t" region="region.after.center" style="style.default" xml:id="subtitle890">You help us,</p>
+<p begin="43978333333t" end="44008750000t" region="region.after.center" style="style.default" xml:id="subtitle891">and we might be able to return the favor.</p>
+<p begin="44051666666t" end="44065833333t" region="region.after.center" style="style.default" xml:id="subtitle892">Go to hell.</p>
+<p begin="44067500000t" end="44082083333t" region="region.after.center" style="style.default" xml:id="subtitle893">Figure it out yourself.</p>
+<p begin="44278750000t" end="44290416666t" region="region.after.center" style="style.default" xml:id="subtitle894">You...</p>
+<p begin="44308750000t" end="44325000000t" region="region.after.center" style="style.default" xml:id="subtitle895">Haven't you heard the saying,</p>
+<p begin="44340000000t" end="44368750000t" region="region.after.center" style="style.default" xml:id="subtitle896">"Keep things simple"?</p>
+<p begin="44384166666t" end="44393333333t" region="region.after.center" style="style.default" xml:id="subtitle897">Get up.</p>
+<p begin="44399166666t" end="44410416666t" region="region.after.center" style="style.default" xml:id="subtitle898">Get up.</p>
+<p begin="44413333333t" end="44424166666t" region="region.after.center" style="style.default" xml:id="subtitle899">Good.</p>
+<p begin="44590833333t" end="44601666666t" region="region.after.center" style="style.default" xml:id="subtitle900">Have a seat.</p>
+<p begin="44603333333t" end="44615000000t" region="region.after.center" style="style.default" xml:id="subtitle901">Go to hell.</p>
+<p begin="44639583333t" end="44651666666t" region="region.after.center" style="style.default" xml:id="subtitle902">Have a seat.</p>
+<p begin="44652500000t" end="44662916666t" region="region.after.center" style="style.default" xml:id="subtitle903">Go to hell.</p>
+<p begin="44790833333t" end="44819583333t" region="region.after.center" style="style.default" xml:id="subtitle904">A little bit more...</p>
+<p begin="44876250000t" end="44889166666t" region="region.after.center" style="style.default" xml:id="subtitle905">All right?</p>
+<p begin="44901250000t" end="44919583333t" region="region.after.center" style="style.default" xml:id="subtitle906">Just a little bit more...</p>
+<p begin="44920416666t" end="44934166666t" region="region.after.center" style="style.default" xml:id="subtitle907">Go to hell!</p>
+<p begin="44935000000t" end="44955833333t" region="region.after.center" style="style.default" xml:id="subtitle908">Go to hell, you police!</p>
+<p begin="45077083333t" end="45089583333t" region="region.after.center" style="style.default" xml:id="subtitle909">Look at me.</p>
+<p begin="45129583333t" end="45155000000t" region="region.after.center" style="style.default" xml:id="subtitle910">Look at me.</p>
+<p begin="45202916666t" end="45232083333t" region="region.after.center" style="style.default" xml:id="subtitle911">Look at me.</p>
+<p begin="45244166666t" end="45263333333t" region="region.after.center" style="style.default" xml:id="subtitle912">Remember this face.</p>
+<p begin="45346250000t" end="45373750000t" region="region.after.center" style="style.default" xml:id="subtitle913">My brother! Talk to my brother!</p>
+<p begin="45374583333t" end="45386250000t" region="region.after.center" style="style.default" xml:id="subtitle914">What did you say?</p>
+<p begin="45468333333t" end="45502083333t" region="region.after.center" style="style.default" xml:id="subtitle915">Ah Wai got caught,<br/>and we owe people a lot of money.</p>
+<p begin="45512500000t" end="45539583333t" region="region.after.center" style="style.default" xml:id="subtitle916">No matter what we do,<br/>we are screwed this time.</p>
+<p begin="45733750000t" end="45743333333t" region="region.after.center" style="style.default" xml:id="subtitle917">Who's this?</p>
+<p begin="45747916666t" end="45763333333t" region="region.after.center" style="style.default" xml:id="subtitle918">You can call me Chinaman.</p>
+<p begin="45798750000t" end="45818750000t" region="region.after.center" style="style.default" xml:id="subtitle919">Great! Straight to the point.</p>
+<p begin="45823750000t" end="45833333333t" region="region.after.center" style="style.default" xml:id="subtitle920">Chinaman.</p>
+<p begin="45845000000t" end="45861250000t" region="region.after.center" style="style.default" xml:id="subtitle921">This is Inspector Kamal.</p>
+<p begin="45870833333t" end="45890000000t" region="region.after.center" style="style.default" xml:id="subtitle922">You can call me K.</p>
+<p begin="45912916666t" end="45921666666t" region="region.after.center" style="style.default" xml:id="subtitle923">Yes?</p>
+<p begin="45940833333t" end="45964166666t" region="region.after.center" style="style.default" xml:id="subtitle924">What's inside the bag with me now?</p>
+<p begin="45966250000t" end="45982083333t" region="region.after.center" style="style.default" xml:id="subtitle925">Five hundred thousand.</p>
+<p begin="46045833333t" end="46060833333t" region="region.after.center" style="style.default" xml:id="subtitle926">Just by listening to your voice,</p>
+<p begin="46061666666t" end="46080416666t" region="region.after.center" style="style.default" xml:id="subtitle927">it sounds like you're...</p>
+<p begin="46087083333t" end="46096666666t" region="region.after.center" style="style.default" xml:id="subtitle928">a gentleman.</p>
+<p begin="46098750000t" end="46115416666t" region="region.after.center" style="style.default" xml:id="subtitle929">Yes. I'm a gentleman.</p>
+<p begin="46130416666t" end="46152083333t" region="region.after.center" style="style.default" xml:id="subtitle930">A gentleman doesn't lie.</p>
+<p begin="46157916666t" end="46170000000t" region="region.after.center" style="style.default" xml:id="subtitle931">I'm not lying.</p>
+<p begin="46193750000t" end="46211666666t" region="region.after.center" style="style.default" xml:id="subtitle932">The thing is,<br/>as compared to the withdrawal slip,</p>
+<p begin="46227083333t" end="46247916666t" region="region.after.center" style="style.default" xml:id="subtitle933">only half the amount is in the bag.</p>
+<p begin="46255000000t" end="46292083333t" region="region.after.center" style="style.default" xml:id="subtitle934"><span style="style.default_1">I've got a feeling<br/>that the other half is with you.</span></p>
+<p begin="46301250000t" end="46325000000t" region="region.after.center" style="style.default" xml:id="subtitle935">The cash and my brother.</p>
+<p begin="46330833333t" end="46347916666t" region="region.after.center" style="style.default" xml:id="subtitle936">Take it, they're yours.</p>
+<p begin="46495000000t" end="46512916666t" region="region.after.center" style="style.default" xml:id="subtitle937">Hey! That's enough!</p>
+<p begin="46532500000t" end="46553750000t" region="region.after.center" style="style.default" xml:id="subtitle938">Enough! Stop it!</p>
+<p begin="46600000000t" end="46649166666t" region="region.after.center" style="style.default" xml:id="subtitle939">I think it's time to take that ride.</p>
+<p begin="46660000000t" end="46694583333t" region="region.after.center" style="style.default" xml:id="subtitle940">You set the time and place.</p>
+<p begin="46700416666t" end="46714166666t" region="region.after.center" style="style.default" xml:id="subtitle941">I'll wait for your call.</p>
+<p begin="46733750000t" end="46746666666t" region="region.after.center" style="style.default" xml:id="subtitle942">Don't forget.</p>
+<p begin="46747916666t" end="46761250000t" region="region.after.center" style="style.default" xml:id="subtitle943">Bring the money with you.</p>
+<p begin="46790000000t" end="46800416666t" region="region.after.center" style="style.default" xml:id="subtitle944">What did he say?</p>
+<p begin="46804166666t" end="46819583333t" region="region.after.center" style="style.default" xml:id="subtitle945">Marcus tricked us.</p>
+<p begin="46827916666t" end="46853750000t" region="region.after.center" style="style.default" xml:id="subtitle946">He split the money in half.</p>
+<p begin="46921666666t" end="46944583333t" region="region.after.center" style="style.default" xml:id="subtitle947">Jared isn't going to let this slide.</p>
+<p begin="46950416666t" end="46968750000t" region="region.after.center" style="style.default" xml:id="subtitle948">Now, there's this asshole, Kamal.</p>
+<p begin="46970833333t" end="46989583333t" region="region.after.center" style="style.default" xml:id="subtitle949">Why don't we find a place to hide first?</p>
+<p begin="47006666666t" end="47025000000t" region="region.after.center" style="style.default" xml:id="subtitle950">We have the mafia and the police after us.</p>
+<p begin="47038750000t" end="47067916666t" region="region.after.center" style="style.default" xml:id="subtitle951">If we don't settle this,<br/>there will be no place to hide.</p>
+<p begin="47136666666t" end="47146666666t" region="region.after.center" style="style.default" xml:id="subtitle952">Do you have a plan?</p>
+<p begin="47194583333t" end="47206666666t" region="region.after.center" style="style.default" xml:id="subtitle953">Do we still have the joss papers?</p>
+<p begin="47264583333t" end="47274583333t" region="region.after.center" style="style.default" xml:id="subtitle954">Gwailo.</p>
+<p begin="47281250000t" end="47300000000t" region="region.after.center" style="style.default" xml:id="subtitle955">Find me a Hi8 camera.</p>
+<p begin="47306250000t" end="47332083333t" region="region.after.center" style="style.default" xml:id="subtitle956">Ah Soon, meet me at the pond.</p>
+<p begin="47350833333t" end="47361666666t" region="region.after.center" style="style.default" xml:id="subtitle957">It's not safe here.</p>
+<p begin="47380416666t" end="47389583333t" region="region.after.center" style="style.default" xml:id="subtitle958">Get down to work.</p>
+<p begin="47593333333t" end="47609166666t" region="region.after.center" style="style.default" xml:id="subtitle959">Where's New Zealand?</p>
+<p begin="47615000000t" end="47632500000t" region="region.after.center" style="style.default" xml:id="subtitle960">It's far from here.</p>
+<p begin="47633333333t" end="47667500000t" region="region.after.center" style="style.default" xml:id="subtitle961">The water is blue there.<br/>We can fish all the time.</p>
+<p begin="47670416666t" end="47686666666t" region="region.after.center" style="style.default" xml:id="subtitle962">What can we do there?</p>
+<p begin="47699166666t" end="47735833333t" region="region.after.center" style="style.default" xml:id="subtitle963">I'll drive a taxi,<br/>and you will go to school.</p>
+<p begin="47741250000t" end="47768750000t" region="region.after.center" style="style.default" xml:id="subtitle964">It'll be a happy life for us.</p>
+<p begin="47827083333t" end="47837083333t" region="region.after.center" style="style.default" xml:id="subtitle965">Chinaman.</p>
+<p begin="48022916666t" end="48038750000t" region="region.after.center" style="style.default" xml:id="subtitle966">This Hi8 camera was very hard to find.</p>
+<p begin="48039583333t" end="48051666666t" region="region.after.center" style="style.default" xml:id="subtitle967">It should be in a museum.</p>
+<p begin="48380416666t" end="48390416666t" region="region.after.center" style="style.default" xml:id="subtitle968">Hello.</p>
+<p begin="48392916666t" end="48410416666t" region="region.after.center" style="style.default" xml:id="subtitle969">We have prepared the money.</p>
+<p begin="48535833333t" end="48558333333t" region="region.after.center" style="style.default" xml:id="subtitle970">Everyone has their secrets.</p>
+<p begin="48559166666t" end="48571250000t" region="region.after.center" style="style.default" xml:id="subtitle971"><span style="style.default_1">Just admit it!</span></p>
+<p begin="48572083333t" end="48582500000t" region="region.after.center" style="style.default" xml:id="subtitle972"><span style="style.default_1">Why won't you admit it?</span></p>
+<p begin="48583333333t" end="48597916666t" region="region.after.center" style="style.default" xml:id="subtitle973"><span style="style.default_1">Just admit it!</span></p>
+<p begin="48826250000t" end="48838750000t" region="region.after.center" style="style.default" xml:id="subtitle974">-Chinaman.<br/>-What?</p>
+<p begin="48849166666t" end="48857916666t" region="region.after.center" style="style.default" xml:id="subtitle975">I think we--</p>
+<p begin="49029583333t" end="49039583333t" region="region.after.center" style="style.default" xml:id="subtitle976">Chinaman.</p>
+<p begin="49291250000t" end="49315000000t" region="region.after.center" style="style.default" xml:id="subtitle977">My apologies, I'm thirsty.</p>
+<p begin="49377500000t" end="49404583333t" region="region.after.center" style="style.default" xml:id="subtitle978">Looks like you're missing<br/>another Chihuahua of yours.</p>
+<p begin="49412500000t" end="49421666666t" region="region.after.center" style="style.default" xml:id="subtitle979">Where did he go?</p>
+<p begin="49447500000t" end="49463750000t" region="region.after.center" style="style.default" xml:id="subtitle980">Where's your boyfriend?</p>
+<p begin="49464583333t" end="49477083333t" region="region.after.center" style="style.default" xml:id="subtitle981">At your mom's house.</p>
+<p begin="49477916666t" end="49492500000t" region="region.after.center" style="style.default" xml:id="subtitle982">Having fun with your mom.</p>
+<p begin="49559166666t" end="49591250000t" region="region.after.center" style="style.default" xml:id="subtitle983">This boy has an acid tongue!</p>
+<p begin="49629166666t" end="49650416666t" region="region.after.center" style="style.default" xml:id="subtitle984">He's too ugly. I don't like him.</p>
+<p begin="49658333333t" end="49670416666t" region="region.after.center" style="style.default" xml:id="subtitle985">You don't like me?</p>
+<p begin="49690000000t" end="49702916666t" region="region.after.center" style="style.default" xml:id="subtitle986">But you also owe me an apology.</p>
+<p begin="49725000000t" end="49736666666t" region="region.after.center" style="style.default" xml:id="subtitle987">For your ugly face.</p>
+<p begin="49737500000t" end="49757083333t" region="region.after.center" style="style.default" xml:id="subtitle988">I don't like your face either.</p>
+<p begin="49874583333t" end="49893333333t" region="region.after.center" style="style.default" xml:id="subtitle989">This handsome fucker here</p>
+<p begin="49894166666t" end="49913333333t" region="region.after.center" style="style.default" xml:id="subtitle990">really has a way with words.</p>
+<p begin="49915833333t" end="49930416666t" region="region.after.center" style="style.default" xml:id="subtitle991">He's so humorous.</p>
+<p begin="50046250000t" end="50056666666t" region="region.after.center" style="style.default" xml:id="subtitle992">Where's my money?</p>
+<p begin="50185416666t" end="50216250000t" region="region.after.center" style="style.default" xml:id="subtitle993">I want this handsome fucker<br/>to bring it to me.</p>
+<p begin="50387916666t" end="50407916666t" region="region.after.center" style="style.default" xml:id="subtitle994">Come to papa.</p>
+<p begin="50482083333t" end="50496666666t" region="region.after.center" style="style.default" xml:id="subtitle995">It feels a little light.</p>
+<p begin="50552083333t" end="50567083333t" region="region.after.center" style="style.default" xml:id="subtitle996">Do you mind if I open it?</p>
+<p begin="50567916666t" end="50583333333t" region="region.after.center" style="style.default" xml:id="subtitle997">-Open it up then!<br/>-Don't!</p>
+<p begin="50622500000t" end="50635000000t" region="region.after.center" style="style.default" xml:id="subtitle998">Put the gun down.</p>
+<p begin="50697500000t" end="50735833333t" region="region.after.center" style="style.default" xml:id="subtitle999">-You really are a handsome fucker.<br/>-You keep talking, and I'll kill you!</p>
+<p begin="50738750000t" end="50749583333t" region="region.after.center" style="style.default" xml:id="subtitle1000">Really?</p>
+<p begin="50752916666t" end="50778333333t" region="region.after.center" style="style.default" xml:id="subtitle1001">-Let me check if you have bullets?<br/>-Gwailo, put the gun down!</p>
+<p begin="50779166666t" end="50796666666t" region="region.after.center" style="style.default" xml:id="subtitle1002">If I kill him,<br/>we'll get rid of all our problems,</p>
+<p begin="50797500000t" end="50815833333t" region="region.after.center" style="style.default" xml:id="subtitle1003">-Chinaman!<br/>-That wasn't the plan! Put the gun down!</p>
+<p begin="50830416666t" end="50843750000t" region="region.after.center" style="style.default" xml:id="subtitle1004">-Stand right there!<br/>-Don't move!</p>
+<p begin="50871666666t" end="50882500000t" region="region.after.center" style="style.default" xml:id="subtitle1005">Handsome fucker!</p>
+<p begin="50921250000t" end="50943333333t" region="region.after.center" style="style.default" xml:id="subtitle1006">I told you, you're a handsome fucker.</p>
+<p begin="50982916666t" end="50991666666t" region="region.after.center" style="style.default" xml:id="subtitle1007">Police.</p>
+<p begin="50992500000t" end="51001666666t" region="region.after.center" style="style.default" xml:id="subtitle1008">Jared.</p>
+<p begin="51007500000t" end="51019166666t" region="region.after.center" style="style.default" xml:id="subtitle1009">Bring him away first.</p>
+<p begin="51020833333t" end="51030833333t" region="region.after.center" style="style.default" xml:id="subtitle1010">Hey!</p>
+<p begin="51031666666t" end="51044583333t" region="region.after.center" style="style.default" xml:id="subtitle1011">Police...</p>
+<p begin="51079166666t" end="51092083333t" region="region.after.center" style="style.default" xml:id="subtitle1012">This is getting exciting,</p>
+<p begin="51094583333t" end="51109166666t" region="region.after.center" style="style.default" xml:id="subtitle1013">Even the police are here.</p>
+<p begin="51252500000t" end="51263750000t" region="region.after.center" style="style.default" xml:id="subtitle1014">What's going on here?</p>
+<p begin="51264583333t" end="51285833333t" region="region.after.center" style="style.default" xml:id="subtitle1015">Just surveying the area.<br/>We just bought this piece of land.</p>
+<p begin="51287500000t" end="51315416666t" region="region.after.center" style="style.default" xml:id="subtitle1016">We have received complaints<br/>about nuisance in the area.</p>
+<p begin="51317916666t" end="51335833333t" region="region.after.center" style="style.default" xml:id="subtitle1017">That's not true.<br/>We are not looking for trouble.</p>
+<p begin="51337916666t" end="51353750000t" region="region.after.center" style="style.default" xml:id="subtitle1018">Look, everything is okay.</p>
+<p begin="51397500000t" end="51407083333t" region="region.after.center" style="style.default" xml:id="subtitle1019">Hakim.</p>
+<p begin="51414583333t" end="51425416666t" region="region.after.center" style="style.default" xml:id="subtitle1020">Identity card, please.</p>
+<p begin="51426250000t" end="51437083333t" region="region.after.center" style="style.default" xml:id="subtitle1021">Identity card?</p>
+<p begin="51571666666t" end="51582083333t" region="region.after.center" style="style.default" xml:id="subtitle1022">Hakim.</p>
+<p begin="51795833333t" end="51822500000t" region="region.after.center" style="style.default" xml:id="subtitle1023">Ah Soon. Hang in there.</p>
+<p begin="51827500000t" end="51840416666t" region="region.after.center" style="style.default" xml:id="subtitle1024">Let's get up.</p>
+<p begin="51897083333t" end="51913333333t" region="region.after.center" style="style.default" xml:id="subtitle1025">Come on. Get in the car first.</p>
+<p begin="51914166666t" end="51925000000t" region="region.after.center" style="style.default" xml:id="subtitle1026">Be careful of your head!</p>
+<p begin="51927083333t" end="51943333333t" region="region.after.center" style="style.default" xml:id="subtitle1027">Your head...</p>
+<p begin="51951250000t" end="51965416666t" region="region.after.center" style="style.default" xml:id="subtitle1028">Is that fucker dead?</p>
+<p begin="51972916666t" end="51991666666t" region="region.after.center" style="style.default" xml:id="subtitle1029">Stop talking so much!</p>
+<p begin="52007083333t" end="52016250000t" region="region.after.center" style="style.default" xml:id="subtitle1030">Give me a cigarette.</p>
+<p begin="52017083333t" end="52036666666t" region="region.after.center" style="style.default" xml:id="subtitle1031">-What? Cigarette?<br/>-Give me a cigarette...</p>
+<p begin="52088750000t" end="52104583333t" region="region.after.center" style="style.default" xml:id="subtitle1032">I'll kill all those bastards.</p>
+<p begin="52111250000t" end="52120416666t" region="region.after.center" style="style.default" xml:id="subtitle1033">Here.</p>
+<p begin="52311250000t" end="52320000000t" region="region.after.center" style="style.default" xml:id="subtitle1034">Ah Soon!</p>
+<p begin="53017083333t" end="53034166666t" region="region.after.center" style="style.default" xml:id="subtitle1035">Chinaman.</p>
+<p begin="53038333333t" end="53056666666t" region="region.after.center" style="style.default" xml:id="subtitle1036">Where's my money?</p>
+<p begin="53063750000t" end="53078333333t" region="region.after.center" style="style.default" xml:id="subtitle1037"><span style="style.default_1">You let go of my brother first.</span></p>
+<p begin="53089583333t" end="53103333333t" region="region.after.center" style="style.default" xml:id="subtitle1038"><span style="style.default_1">I'll give you a bonus.</span></p>
+<p begin="53128333333t" end="53140833333t" region="region.after.center" style="style.default" xml:id="subtitle1039">Sure.</p>
+<p begin="53143750000t" end="53158333333t" region="region.after.center" style="style.default" xml:id="subtitle1040">How about you come to the station?</p>
+<p begin="53160000000t" end="53170833333t" region="region.after.center" style="style.default" xml:id="subtitle1041"><span style="style.default_1">No.</span></p>
+<p begin="53178333333t" end="53189166666t" region="region.after.center" style="style.default" xml:id="subtitle1042"><span style="style.default_1">I set the place.</span></p>
+<p begin="53224583333t" end="53234583333t" region="region.after.center" style="style.default" xml:id="subtitle1043">Where?</p>
+<p begin="53571250000t" end="53585416666t" region="region.after.center" style="style.default" xml:id="subtitle1044">Does he want to meet here?</p>
+<p begin="53717500000t" end="53731250000t" region="region.after.center" style="style.default" xml:id="subtitle1045">Hello, Chinaman.</p>
+<p begin="53735000000t" end="53745000000t" region="region.after.center" style="style.default" xml:id="subtitle1046">Where are you?</p>
+<p begin="53990833333t" end="54020833333t" region="region.after.center" style="style.default" xml:id="subtitle1047">What crazy game are you playing, Chinaman?</p>
+<p begin="54075833333t" end="54096250000t" region="region.after.center" style="style.default" xml:id="subtitle1048">I can offer you more than just cash.</p>
+<p begin="54156666666t" end="54172083333t" region="region.after.center" style="style.default" xml:id="subtitle1049">You said you're a gentleman.</p>
+<p begin="54184166666t" end="54203750000t" region="region.after.center" style="style.default" xml:id="subtitle1050">You're too confident, my friend.</p>
+<p begin="54204583333t" end="54215000000t" region="region.after.center" style="style.default" xml:id="subtitle1051">I'll give you five minutes.</p>
+<p begin="54226666666t" end="54245416666t" region="region.after.center" style="style.default" xml:id="subtitle1052">This belongs to my dad.</p>
+<p begin="54313750000t" end="54333333333t" region="region.after.center" style="style.default" xml:id="subtitle1053"><span style="style.default_1">Why won't you admit it?</span></p>
+<p begin="54334166666t" end="54348750000t" region="region.after.center" style="style.default" xml:id="subtitle1054"><span style="style.default_1">Just admit it!</span></p>
+<p begin="54628333333t" end="54641666666t" region="region.after.center" style="style.default" xml:id="subtitle1055">What have you done?</p>
+<p begin="54649166666t" end="54665833333t" region="region.after.center" style="style.default" xml:id="subtitle1056"><span style="style.default_1">I'll take care of this mess.</span></p>
+<p begin="54668333333t" end="54678750000t" region="region.after.center" style="style.default" xml:id="subtitle1057"><span style="style.default_1">Go.</span></p>
+<p begin="54687500000t" end="54715000000t" region="region.after.center" style="style.default" xml:id="subtitle1058"><span style="style.default_1">Go clean yourself. Go!</span></p>
+<p begin="54745416666t" end="54759583333t" region="region.after.center" style="style.default" xml:id="subtitle1059">Let us go.</p>
+<p begin="54763333333t" end="54795000000t" region="region.after.center" style="style.default" xml:id="subtitle1060">I'll keep this as a secret<br/>until the day I die.</p>
+<p begin="54882500000t" end="54897916666t" region="region.after.center" style="style.default" xml:id="subtitle1061">I can't let you go.</p>
+<p begin="54929166666t" end="54945833333t" region="region.after.center" style="style.default" xml:id="subtitle1062">I'll give you 12 hours.</p>
+<p begin="54967916666t" end="54985000000t" region="region.after.center" style="style.default" xml:id="subtitle1063">After that, I'll come after all of you.</p>
+<p begin="55032500000t" end="55057083333t" region="region.after.center" style="style.default" xml:id="subtitle1064">Your negotiation skills,<br/>that's from your dad.</p>
+<p begin="55094583333t" end="55112083333t" region="region.after.center" style="style.default" xml:id="subtitle1065">How did you know I was going<br/>to let you walk free?</p>
+<p begin="55137083333t" end="55147083333t" region="region.after.center" style="style.default" xml:id="subtitle1066">I didn't.</p>
+<p begin="55151666666t" end="55182083333t" region="region.after.center" style="style.default" xml:id="subtitle1067">I just know that you're a gentleman.</p>
+<p begin="55745833333t" end="55758333333t" region="region.after.center" style="style.default" xml:id="subtitle1068">Mom!</p>
+<p begin="55763750000t" end="55787500000t" region="region.after.center" style="style.default" xml:id="subtitle1069">Hurry up, let's pack the things.</p>
+<p begin="55793333333t" end="55806666666t" region="region.after.center" style="style.default" xml:id="subtitle1070">-Now?<br/>-Yes.</p>
+<p begin="55809166666t" end="55837500000t" region="region.after.center" style="style.default" xml:id="subtitle1071">-Where are we going?<br/>-The vacation we talked about.</p>
+<p begin="55838333333t" end="55847916666t" region="region.after.center" style="style.default" xml:id="subtitle1072">Come, let's go.</p>
+<p begin="55848750000t" end="55857916666t" region="region.after.center" style="style.default" xml:id="subtitle1073">Where's Ah Wai?</p>
+<p begin="55861250000t" end="55890833333t" region="region.after.center" style="style.default" xml:id="subtitle1074">Ah Wai will catch up with us later.</p>
+<p begin="55894166666t" end="55907500000t" region="region.after.center" style="style.default" xml:id="subtitle1075">Mom, we don't have much time.</p>
+<p begin="55918750000t" end="55930833333t" region="region.after.center" style="style.default" xml:id="subtitle1076">Don't lie to me.</p>
+<p begin="55954166666t" end="55971250000t" region="region.after.center" style="style.default" xml:id="subtitle1077">The taxi heist on the news, was that you?</p>
+<p begin="56009583333t" end="56020416666t" region="region.after.center" style="style.default" xml:id="subtitle1078">Where's Ah Wai?</p>
+<p begin="56056250000t" end="56068750000t" region="region.after.center" style="style.default" xml:id="subtitle1079">Didn't you look after him?</p>
+<p begin="56844166666t" end="56852916666t" region="region.after.center" style="style.default" xml:id="subtitle1080">Chinaman?</p>
+<p begin="56855833333t" end="56865000000t" region="region.after.center" style="style.default" xml:id="subtitle1081">Hello.</p>
+<p begin="56871666666t" end="56889166666t" region="region.after.center" style="style.default" xml:id="subtitle1082">All right, I'll meet you there.</p>
+<p begin="57351250000t" end="57398750000t" region="region.after.center" style="style.default" xml:id="subtitle1083">MEMORIAL ALTAR</p>
+<p begin="57712500000t" end="57725416666t" region="region.after.center" style="style.default" xml:id="subtitle1084">Here comes the fish.</p>
+<p begin="57792916666t" end="57807500000t" region="region.after.center" style="style.default" xml:id="subtitle1085">We're going to take a break.</p>
+<p begin="57814583333t" end="57827500000t" region="region.after.center" style="style.default" xml:id="subtitle1086">I'm going to take you on vacation.</p>
+<p begin="57942500000t" end="57954166666t" region="region.after.center" style="style.default" xml:id="subtitle1087">Ah Wai.</p>
+<p begin="57960000000t" end="57974166666t" region="region.after.center" style="style.default" xml:id="subtitle1088"><span style="style.default_1">You're on your own now.</span></p>
+<p begin="57977916666t" end="58000833333t" region="region.after.center" style="style.default" xml:id="subtitle1089"><span style="style.default_1">Take care of yourself, okay?</span></p>
+<p begin="60036666666t" end="60057916666t" region="region.after.center" style="style.default" xml:id="subtitle1090">Subtitle translation by<br/>Kalina Cheng Lee Sze, Nur Amanda Chua</p>
+</div>
+</body>
+</tt>

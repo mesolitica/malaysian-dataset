@@ -2222,7 +2222,7 @@ Total size: 47.6 MB
 
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
-Total size: 10.7 MB
+Total size: 11.4 MB
 
 ## Suggestion
 
