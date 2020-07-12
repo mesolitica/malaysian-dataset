@@ -954,7 +954,7 @@ Unigram and Bigram collected from news, structure,
 
 #### [MSMARCO](document-ranking/msmarco)
 
-Total size: 857.2 MB
+Total size: 1.2 GB
 
 ## [Dumping](dumping)
 
