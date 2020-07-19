@@ -134,6 +134,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Opus](#opus)
     * [Parliament](#parliament-1)
     * [Local Movies Subtitles](#local-movies-subtitles)
+    * [English News](#english-news)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -2223,6 +2224,12 @@ Total size: 47.6 MB
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
 Total size: 11.4 MB
+
+#### [English News](translation/english-news)
+
+English to Malay.
+
+Total size: 172.6 MB
 
 ## Suggestion
 
