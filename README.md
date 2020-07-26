@@ -92,6 +92,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [30k News](#30k-news)
     * [Articles](#articles)
   * [Normalization](#normalization)
+    * [IIUM](#iium)
     * [Normalize](#normalize)
     * [Stemmer](#stemmer)
   * [Optical Character Recognition](#optical-character-recognition)
@@ -111,7 +112,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
   * [Speech](#speech)
-    * [IIUM](#iium)
+    * [IIUM](#iium-1)
     * [Tolong sebut](#tolong-sebut)
     * [Wikipedia](#wikipedia)
     * [Manglish](#manglish)
@@ -1956,9 +1957,13 @@ Total size: 3.1 MB
 
 ## [Normalization](normalization)
 
+#### [IIUM](normalization/iium)
+
+Total size: 174 KB
+
 #### [Normalize](normalization/normalize)
 
-Total size: 2.6 MB
+Total size: 1.0 MB
 
 #### [Stemmer](normalization/stemmer)
 
@@ -2229,7 +2234,7 @@ Total size: 11.4 MB
 
 English to Malay.
 
-Total size: 1.2 GB
+Total size: 1.6 GB
 
 ## Suggestion
 
