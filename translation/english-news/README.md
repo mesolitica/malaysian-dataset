@@ -11,3 +11,4 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/
 7. translation/english-news/dataset-600000.json.translate
 8. translation/english-news/dataset-700000.json.translate
 9. translation/english-news/dataset-800000.json.translate
+10. translation/english-news/texts.json.translate
