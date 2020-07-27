@@ -77,7 +77,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Karangan sekolah](#karangan-sekolah)
     * [Wikipedia](#wikipedia-1)
     * [Instagram](#instagram)
-    * [Twitter](#twitter-1)
+    * [Twitter](#twitter)
     * [Public news](#public-news)
     * [Parliament](#parliament)
     * [Singlish text](#singlish-text)
@@ -93,6 +93,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Articles](#articles)
   * [Normalization](#normalization)
     * [IIUM](#iium)
+    * [Twitter](#twitter-1)
     * [Normalize](#normalize)
     * [Stemmer](#stemmer)
   * [Optical Character Recognition](#optical-character-recognition)
@@ -107,7 +108,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Natural Questions](#Natural-Questions)
   * [Sentiment](#sentiment-1)
     * [Local News](#local-news)
-    * [Twitter](#twitter)
+    * [Twitter](#twitter-2)
     * [Translated Twitter](#Translated-Twitter)
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
@@ -1959,7 +1960,11 @@ Total size: 3.1 MB
 
 #### [IIUM](normalization/iium)
 
-Total size: 174 KB
+Total size: 313 KB
+
+#### [Twitter](normalization/twitter)
+
+Total size: 19 KB
 
 #### [Normalize](normalization/normalize)
 
