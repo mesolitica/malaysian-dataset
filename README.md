@@ -83,6 +83,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Singlish text](#singlish-text)
     * [Singapore news](#singapore-news)
     * [Subtitle](#subtitle)
+    * [Common-crawl](#common-crawl)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -1017,7 +1018,7 @@ Total index size: 25.6 MB
 
 Total website size: ~7.0 GB
 
-**Please contact me personally to get entire data related**.
+Total text extracted size: 1.7 GB
 
 ## [Lexicon](lexicon)
 
