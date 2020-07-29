@@ -1961,11 +1961,11 @@ Total size: 3.1 MB
 
 #### [IIUM](normalization/iium)
 
-Total size: 313 KB
+Total size: 314 KB
 
 #### [Twitter](normalization/twitter)
 
-Total size: 19 KB
+Total size: 73 KB
 
 #### [Normalize](normalization/normalize)
 
