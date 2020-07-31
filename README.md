@@ -2240,7 +2240,7 @@ Total size: 11.4 MB
 
 English to Malay.
 
-Total size: 2.0 GB
+Total size: 2.5 GB
 
 ## Suggestion
 
