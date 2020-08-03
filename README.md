@@ -92,6 +92,10 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Crawled News](#crawled-news)
     * [30k News](#30k-news)
     * [Articles](#articles)
+  * [Natural Language Query](#natural-language-query)
+    * [SPIDER](#spider)
+    * [COSQL](#cosql)
+    * [SPARC](#sparc)
   * [Normalization](#normalization)
     * [IIUM](#iium)
     * [Twitter](#twitter-1)
@@ -1956,6 +1960,80 @@ Total size: 3.1 MB
 3. Pembelajaran
 4. Pendidikan
 5. Sekolah
+
+## [Natural Language Query](nlq)
+
+#### [SPIDER](nlq/spider)
+
+Total size: 99.4 MB
+
+```text
+{'db_id': 'concert_singer',
+ 'query': 'SELECT count(*) FROM singer',
+ 'query_toks': ['SELECT', 'count', '(', '*', ')', 'FROM', 'singer'],
+ 'query_toks_no_value': ['select', 'count', '(', '*', ')', 'from', 'singer'],
+ 'question': 'How many singers do we have?',
+ 'question_toks': ['How', 'many', 'singers', 'do', 'we', 'have', '?'],
+ 'sql': {'except': None,
+  'from': {'conds': [], 'table_units': [['table_unit', 1]]},
+  'groupBy': [],
+  'having': [],
+  'intersect': None,
+  'limit': None,
+  'orderBy': [],
+  'select': [False, [[3, [0, [0, 0, False], None]]]],
+  'union': None,
+  'where': []},
+ 'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
+```
+
+#### [COSQL](nlq/cosql)
+
+Total size: 105.5 MB
+
+```text
+{'db_id': 'concert_singer',
+ 'query': 'SELECT count(*) FROM singer',
+ 'query_toks': ['SELECT', 'count', '(', '*', ')', 'FROM', 'singer'],
+ 'query_toks_no_value': ['select', 'count', '(', '*', ')', 'from', 'singer'],
+ 'question': 'How many singers do we have?',
+ 'question_toks': ['How', 'many', 'singers', 'do', 'we', 'have', '?'],
+ 'sql': {'except': None,
+  'from': {'conds': [], 'table_units': [['table_unit', 1]]},
+  'groupBy': [],
+  'having': [],
+  'intersect': None,
+  'limit': None,
+  'orderBy': [],
+  'select': [False, [[3, [0, [0, 0, False], None]]]],
+  'union': None,
+  'where': []},
+ 'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
+```
+
+#### [SPARC](nlq/sparc)
+
+Total size: 100.3 MB
+
+```text
+{'db_id': 'concert_singer',
+ 'query': 'SELECT count(*) FROM singer',
+ 'query_toks': ['SELECT', 'count', '(', '*', ')', 'FROM', 'singer'],
+ 'query_toks_no_value': ['select', 'count', '(', '*', ')', 'from', 'singer'],
+ 'question': 'How many singers do we have?',
+ 'question_toks': ['How', 'many', 'singers', 'do', 'we', 'have', '?'],
+ 'sql': {'except': None,
+  'from': {'conds': [], 'table_units': [['table_unit', 1]]},
+  'groupBy': [],
+  'having': [],
+  'intersect': None,
+  'limit': None,
+  'orderBy': [],
+  'select': [False, [[3, [0, [0, 0, False], None]]]],
+  'union': None,
+  'where': []},
+ 'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
+```
 
 ## [Normalization](normalization)
 
