@@ -107,6 +107,9 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Paraphrase](#paraphrase)
     * [General](#general)
     * [Funpedia](#funpedia)
+  * [Parsing](#parsing)
+    * [constituency](#constituency)
+    * [dependency](#dependency)
   * [Question-Answer](#question-answer)
     * [General](#general)
     * [SQUAD](#squad)
@@ -128,7 +131,6 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Multinews](#multinews)
     * [Semisupervised](#semisupervised)
   * [Tagging](#tagging)
-    * [Dependency](#dependency)
     * [Part-of-Speech](#part-of-speech)
     * [Entities](#entities-json)
   * [Text-similarity](#text-similarity)
@@ -2084,6 +2086,18 @@ Total size: 31.0 MB
 
 Total size: 68.8 MB
 
+## [Parsing](parsing)
+
+#### [Constituency](parsing/constituency)
+
+Total size: 681 KB
+
+Thanks to [KETHU](https://github.com/ialfina/kethu) for open-sourced Indonesia Treebank dataset, Malaya use it to transfer knowledge.
+
+#### [Dependency](parsing/dependency)
+
+Total size: 24.1 MB
+
 ## [Question-Answer](question-answer)
 
 #### [General](question-answer/general)
@@ -2226,10 +2240,6 @@ Abstractive output from T5-base-bahasa summarized 100k local news.
 Total size: 300 MB
 
 ## [Tagging](tagging)
-
-#### [Dependency](tagging/dependency)
-
-Total size: 24.1 MB
 
 #### [Part-of-Speech](tagging/part-of-speech)
 
