@@ -1,6 +1,6 @@
 ## how-to
 
-- Download dataset from here, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/language-detection/train-test.json
+- Download dataset from here, https://f000.backblazeb2.com/file/malay-dataset/language-detection/train-test.json
 
 Splitted 80% to train and 20% to test.
 
@@ -13,7 +13,7 @@ Labels,
 5. manglish
 6. others
 
-- Download dataset from here, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/language-detection/sublanguages.json
+- Download dataset from here, https://f000.backblazeb2.com/file/malay-dataset/language-detection/sublanguages.json
 
 Labels,
 
