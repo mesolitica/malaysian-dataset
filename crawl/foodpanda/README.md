@@ -28,7 +28,9 @@ Available restaurants for each cities.
    'link': '/chain/ck3sy/viapre-italian-restaurant-kl'},
 ```
 
-3. [foodpanda-foods.json](https://huseinhouse-data.s3-ap-southeast-1.amazonaws.com/foodpanda-foods.json),
+3. [foodpanda-foods-old.json](https://f000.backblazeb2.com/file/malay-dataset/crawler/foodpanda/foodpanda-foods-old.json),
+
+Total size is 98.7 MB.
 
 Available foods for each restaurants.
 
@@ -54,3 +56,13 @@ Available foods for each restaurants.
      'is_alcoholic_item': False,
      'product_variations': [{'id':
 ```
+
+Last update on 24th November 2019.
+
+4. [foodpanda-foods.json](https://f000.backblazeb2.com/file/malay-dataset/crawler/foodpanda/foodpanda-foods.json),
+
+Total size is 382.1 MB.
+
+Available foods for each restaurants. 
+
+Last update on 15th August 2020.

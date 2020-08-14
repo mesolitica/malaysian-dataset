@@ -800,11 +800,11 @@ Total size: 2 MB
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
-Crawled up to 4697 restaurants registered in https://www.foodpanda.my/.
+Crawled up to 9547 restaurants registered in https://www.foodpanda.my/.
 
-Contain location, restaurant name, star rating, characteristics, delivery methods and food descriptions.
+Contain location, restaurant name, star rating, characteristics, delivery methods, food descriptions and so much more.
 
-Total size: 94.1 MB
+Total size: 482.4 MB
 
 #### [Klook](crawl/klook)
 
@@ -2090,7 +2090,7 @@ Total size: 68.8 MB
 
 #### [Constituency](parsing/constituency)
 
-Total size: 681 KB
+Total size: 3.5 MB
 
 Thanks to [KETHU](https://github.com/ialfina/kethu) for open-sourced Indonesia Treebank dataset, Malaya use it to transfer knowledge.
 
