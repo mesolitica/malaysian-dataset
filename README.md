@@ -84,6 +84,10 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Singapore news](#singapore-news)
     * [Subtitle](#subtitle)
     * [Common-crawl](#common-crawl)
+  * [Keyphrase](#keyphrase)
+    * [kdd](#kdd)
+    * [WWW](#www)
+    * [OpenKP](#openkp)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -1025,6 +1029,20 @@ Total index size: 25.6 MB
 Total website size: ~7.0 GB
 
 Total text extracted size: 1.7 GB
+
+## [Keyphrase](keyphrase)
+
+#### [kdd](keyphrase/kdd)
+
+Total size: 3 MB
+
+#### [WWW](keyphrase/www)
+
+Total size: 2.7 MB
+
+#### [OpenKP](keyphrase/openkp)
+
+Total size: 574.7 MB
 
 ## [Lexicon](lexicon)
 
