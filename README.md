@@ -26,9 +26,17 @@ This repository to store corpus for [Malaya](https://github.com/huseinzol05/Mala
 
 ## License
 
-Malay-Dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License, **only applied on specific datasets**.
+Malay-Dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+Only data tagged using this <img src="https://img.shields.io/badge/creative--common-green.svg"> is protected under this license, so feel free to use it for commercial purposes after certain extended permission.
+
+## Non-commercial Usage
+
+A lot of data here semisupervised / translated / tagged / decoded using third party software, example, Google Translate, Google Speech, so to avoid any future complication, it is better not use this data for commercial purposes but allow for certain research purposes.
+
+Only data tagged using this <img src="https://img.shields.io/badge/third--party-red.svg"> is protected under these parties.
 
 ## Acknowledgement
 
@@ -158,13 +166,25 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 
 Total size: 275.0 MB
 
+Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/wizard_of_wikipedia
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [ConvAI2](chatbot/convai2)
 
 Total size: 127.9 MB
 
+Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai_chitchat
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Blended Skill Talk](chatbot/blended-skill-talk)
 
 Total size: 31.2 MB
+
+Reference: https://github.com/facebookresearch/ParlAI/blob/master/parlai/tasks/blended_skill_talk/build.py
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Corpus](corpus)
 
@@ -174,6 +194,10 @@ Total size: 246 KB
 
 1. constituency
 2. national
+
+Reference: https://www.kaggle.com/crowdflower/political-social-media-posts
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Translated Emotion](corpus/emotion/translate)
 
@@ -186,6 +210,8 @@ Total size: 7.2 MB
 5. Sadness
 6. Surprise
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Twitter Emotion](corpus/emotion/lexicon)
 
 Total size: 27.4 MB
@@ -197,6 +223,8 @@ Total size: 27.4 MB
 5. Sadness, 26468 rows
 6. Surprise, 13107 rows
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Gender](corpus/gender)
 
 Total size: 2.2 MB
@@ -206,6 +234,10 @@ Total size: 2.2 MB
 3. Female
 4. Brand
 
+Reference: https://www.kaggle.com/crowdflower/twitter-user-gender-classification
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Insincere question](corpus/insincere-question)
 
 Total size: 60.4 MB
@@ -213,12 +245,20 @@ Total size: 60.4 MB
 1. Negative
 2. Positive
 
+Reference: https://www.kaggle.com/c/quora-insincere-questions-classification
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Irony](corpus/irony)
 
 Total size: 465 KB
 
 1. Positive
 2. Negative
+
+Reference: https://www.kaggle.com/rtatman/ironic-corpus
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Language-detection](corpus/language-detection)
 
@@ -243,11 +283,15 @@ sublanguages,
 10. perak
 11. sabah
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Malaysia-entities](corpus/malaysia-entities)
 
 Social media texts related to Malaysia entities.
 
 Total size: 190.1 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 <details><summary>Complete list (210 entities)</summary>
 
@@ -469,6 +513,8 @@ Total size: 190.1 MB
 Social media texts related to Malaysia topics.
 
 Total size: 322.4 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 <details><summary>Complete list (249 topics)</summary>
 
@@ -731,12 +777,20 @@ Total size: 1.78 MB
 1. Positive
 2. Negative
 
+Reference: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Subjectivity](corpus/subjectivity)
 
 Total size: 1.4 MB
 
 1. Positive
 2. Negative
+
+Reference: https://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader.categorized_sents
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Toxicity-small](corpus/toxicity-small)
 
@@ -750,6 +804,10 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 4. threat
 5. insult
 6. identity hate
+
+Reference: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Toxicity-large](corpus/toxicity-large)
 
@@ -789,12 +847,20 @@ Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic
 30. malay
 31. chinese
 
+Reference: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+But label 14, 29, 30, 31 under <img src="https://img.shields.io/badge/creative--common-green.svg"> .
+
 #### [Political landscape](corpus/political-landscape)
 
 Total size: 2 MB
 
 1. Kerajaan (BN)
 2. Pembangkang (PAS, DAP, PKR)
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Crawl](crawl)
 
@@ -810,6 +876,8 @@ Contain location, restaurant name, star rating, characteristics, delivery method
 
 Total size: 482.4 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Klook](crawl/klook)
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.klook.com/policy/**
@@ -818,6 +886,8 @@ Crawled up to 200 interesting locations from MY and SG klook.
 
 Total size: 10.3 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [IIUM-Confession](crawl/iium-confession)
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
@@ -825,6 +895,8 @@ Total size: 10.3 MB
 Crawled up to 20k confession posts.
 
 Total size: 75.1 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Wattpad](crawl/wattpad)
 
@@ -844,6 +916,8 @@ Crawled up to 7k fiction stories.
 
 Total size: 97 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Academia PDF](crawl/pdf)
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
@@ -859,6 +933,8 @@ Crawled up to 224 pdfs related to,
 7. idealogi
 
 Total size: 50 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [ticket2u](crawl/ticket2u)
 
@@ -910,6 +986,8 @@ Contains 4282 events in Malaysia from 2017,
   'status': 'expired'}}
 ```
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Iproperty](crawl/iproperty)
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.iproperty.com.my/terms-of-use/**
@@ -917,6 +995,8 @@ Contains 4282 events in Malaysia from 2017,
 crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
 
 Total size: 1329 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Dictionary](dictionary)
 
@@ -926,19 +1006,33 @@ Total size: 1329 MB
 
 Total size: 1.1 MB
 
-Originally posted by Facebook, https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
+Reference: https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [200k English-Malay](dictionary/200k-english-malay)
 
 Total size: 6.9 MB
 
+Reference: Google Translate
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [90k synonym](dictionary/synonym)
 
-Total size: 4.7 MB    
+Total size: 4.7 MB
+
+Reference: Google Translate
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Dictionary, 24550 unique words](dictionary/dictionary)
 
 Total size: 428 KB
+
+Reference: https://github.com/fakhrullah/MalayLanguage
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Dialect](dictionary/dialect)
 
@@ -955,6 +1049,8 @@ Glossaries for,
 
 Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Ngrams](dictionary/ngram)
 
 Total size: 92 MB
@@ -964,17 +1060,25 @@ Unigram and Bigram collected from news, structure,
 {'saya': 1000}
 ```
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 ## [Document Ranking](document-ranking)
 
 #### [MSMARCO](document-ranking/msmarco)
 
 Total size: 1.5 GB
 
+Reference: https://microsoft.github.io/msmarco/
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 ## [Dumping](dumping)
 
 #### [Karangan sekolah](dumping/karangan-sekolah)
 
 Total size: 221 KB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### Wikipedia
 
@@ -984,21 +1088,31 @@ Total size: 255.1 MB, 1303844 sentences, [download link](https://huseinhouse-sto
 
 **RAW**, Total size: 243.2 MB, 1748387 sentences, [download link](https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/wikidump1-raw.json)
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### Instagram
 
 Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Twitter](dumping/twitter)
 
 Total size: 3764.7 MB
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### Public news
 
 Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### Parliament
 
 Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### Singlish text
 
@@ -1010,15 +1124,21 @@ Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-stor
 
 Contributed by [brytjy](https://github.com/brytjy).
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### Singapore news
 
 Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
 
 Contributed by [brytjy](https://github.com/brytjy).
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Subtitle](dumping/subtitle)
 
 Total size: 1.5 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Common-crawl](dumping/common-crawl)
 
@@ -1030,19 +1150,33 @@ Total website size: ~7.0 GB
 
 Total text extracted size: 1.7 GB
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 ## [Keyphrase](keyphrase)
 
 #### [kdd](keyphrase/kdd)
 
 Total size: 3 MB
 
+Reference: https://github.com/boudinfl/ake-datasets
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [WWW](keyphrase/www)
 
 Total size: 2.7 MB
 
+Reference: https://github.com/boudinfl/ake-datasets
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [OpenKP](keyphrase/openkp)
 
 Total size: 574.7 MB
+
+Reference: https://github.com/microsoft/OpenKP
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Lexicon](lexicon)
 
@@ -1054,11 +1188,15 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 {'negative': ['str1','str2'], 'positive': ['str3','str4']}
 ```
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [emotion](lexicon/emotion.json)
 
 ```python
 {'anger': ['str1'], 'fear': ['str2'], 'joy': ['str3'], 'love': ['str4'], 'sadness': ['str5'], 'surprise': ['str6']}
 ```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [News](news)
 
@@ -1069,7 +1207,9 @@ Total size: 122.2 MB
 1. Negative
 2. Positive
 
-Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data)
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data), <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [30k News](news/news-30k)
 
@@ -1102,9 +1242,13 @@ strings = [
 ]
 ```
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Crawled News](news/news-new)
 
 Total size: 622.2 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 <details><summary>Complete list (860 news)</summary>
 
@@ -1981,6 +2125,8 @@ Total size: 3.1 MB
 4. Pendidikan
 5. Sekolah
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 ## [Natural Language Query](nlq)
 
 #### [SPIDER](nlq/spider)
@@ -2007,6 +2153,10 @@ Total size: 99.4 MB
  'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
 ```
 
+Reference: https://github.com/taoyds/spider
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [COSQL](nlq/cosql)
 
 Total size: 105.5 MB
@@ -2030,6 +2180,10 @@ Total size: 105.5 MB
   'where': []},
  'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
 ```
+
+Reference: https://yale-lily.github.io/cosql
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [SPARC](nlq/sparc)
 
@@ -2055,19 +2209,29 @@ Total size: 100.3 MB
  'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
 ```
 
+Reference: https://yale-lily.github.io/sparc
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 ## [Normalization](normalization)
 
 #### [IIUM](normalization/iium)
 
 Total size: 314 KB
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Twitter](normalization/twitter)
 
 Total size: 73 KB
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Normalize](normalization/normalize)
 
 Total size: 1.0 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Stemmer](normalization/stemmer)
 
@@ -2075,6 +2239,8 @@ Total size: 6.5 MB
 
 1. News stemming
 2. Wikipedia stemming
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Optical Character Recognition](ocr)
 
@@ -2086,6 +2252,8 @@ Dataset is simple, malay label can get from the name [idola.png](ocr/idola.png).
 
 ![alt text](ocr/idola.png)
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### Malay handwriting (Satisfy-Regular)
 
 Total size: 194.4 MB
@@ -2094,15 +2262,23 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png
 
 ![alt text](ocr/syarif.png)
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 ## [Paraphrase](paraphrase)
 
 #### [General](paraphrase/general)
 
 Total size: 31.0 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Funpedia](paraphrase/funpedia)
 
 Total size: 68.8 MB
+
+Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/funpedia
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Parsing](parsing)
 
@@ -2110,11 +2286,21 @@ Total size: 68.8 MB
 
 Total size: 3.5 MB
 
-Thanks to [KETHU](https://github.com/ialfina/kethu) for open-sourced Indonesia Treebank dataset, Malaya use it to transfer knowledge.
+Reference: https://github.com/ialfina/kethu
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Dependency](parsing/dependency)
 
 Total size: 24.1 MB
+
+Reference: https://github.com/UniversalDependencies/UD_Indonesian-GSD
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Question-Answer](question-answer)
 
@@ -2134,6 +2320,8 @@ Total size: 2.5 MB
 23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
 ```
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [SQUAD](question-answer/squad)
 
 Total size: 129.1MB
@@ -2144,11 +2332,15 @@ Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.
 
 Allow to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Natural Questions](question-answer/natural-questions)
 
 Total size: 8MB
 
-Originally from [Natural Questions](https://ai.google.com/research/NaturalQuestions/).
+Reference: https://ai.google.com/research/NaturalQuestions/
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Sentiment](sentiment)
 
@@ -2159,6 +2351,8 @@ Total size: 496 KB
 1. Positive
 2. Negative
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Twitter](sentiment/semi-supervised/twitter)
 
 Total size: 519.4 MB
@@ -2166,12 +2360,16 @@ Total size: 519.4 MB
 1. Positive, 1085719 sentences
 2. Negative, 3463771 sentences
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Translated Twitter](sentiment/translate/twitter-sentiment)
 
 Total size: 50.6 MB
 
 1. Positive
 2. Negative
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Translated Multidomain](sentiment/translate/multidomain-sentiment)
 
@@ -2181,12 +2379,16 @@ Total size: 159 KB
 2. IMDB review, Positive and Negative
 3. Yelp review, Positive and Negative
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Translated Polarity](sentiment/translate/polarity)
 
 Total size: 1.3 MB
 
 1. Positive
 2. Negative
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Speech](speech)
 
@@ -2201,6 +2403,8 @@ Total size: 838.4 MB
 1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
 2. voices by [Shafiqah Idayu](https://www.facebook.com/shafiqah.ayu)
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Tolong sebut](speech/sebut-perkataan)
 
 Read random words from malay dictionary started with 'tolong sebut <word>'.
@@ -2213,6 +2417,8 @@ Total size: 276 MB
 2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/)
 3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/)
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Wikipedia](speech/wikipedia)
 
 Read texts from wikipedia.
@@ -2223,11 +2429,15 @@ Total size: 1.08 GB
 
 1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Manglish](speech/manglish)
 
 Read texts from random manglish texts. Publicly contributed.
 
 Total size: 1.9 GB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Summarization](summarization)
 
@@ -2239,11 +2449,15 @@ Originally from [Question Answering Corpus](https://github.com/deepmind/rc-data)
 
 Total size: 453 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Gigawords](summarization/gigawords)
 
 Consist of long texts and summary of it.
 
 Total size: 450 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Multinews](summarization/multinews)
 
@@ -2251,11 +2465,15 @@ Consist of long news and summary of it.
 
 Total size: 680 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Semisupervised](summarization/semisupervised)
 
 Abstractive output from T5-base-bahasa summarized 100k local news.
 
 Total size: 300 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Tagging](tagging)
 
@@ -2279,7 +2497,11 @@ Total size: 3.1 MB
 14. VERB - Verb, kata kerja
 15. X - Other
 
-Thanks to [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD) for open-sourced Indonesia POS dataset, Malaya use it to transfer knowledge.
+Reference: https://github.com/UniversalDependencies/UD_Indonesian-GSD
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Entities, JSON](tagging/entities)
 
@@ -2294,7 +2516,11 @@ Total size: 3.1 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
-Thanks to [indonesia-ner](https://github.com/yusufsyaifudin/indonesia-ner) for open-sourced Indonesia entity dataset, Malaya use it to transfer knowledge.
+Reference: https://github.com/yusufsyaifudin/indonesia-ner
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Text similarity](text-similarity)
 
@@ -2304,15 +2530,21 @@ Originally from [First Quora Dataset Release: Question Pairs](https://data.quora
 
 Total size: 60.8 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [SNLI](text-similarity/snli)
 
 Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
 
 Total size: 55 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [MNLI](text-similarity/mnli)
 
 Total size: 92.5 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Translation](translation)
 
@@ -2322,9 +2554,13 @@ Malay to English.
 
 Total size: 562 KB
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Malay-English](translation/malay-english)
 
 Total size: 935.3 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Opus](translation/opus)
 
@@ -2332,21 +2568,29 @@ Parsed from http://opus.nlpl.eu/, ms (Malay) -> en (English)
 
 Total size: 262.6 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Parliament](translation/parliament)
 
 Parsed from Malaysia parliament text, and translate to English.
 
 Total size: 47.6 MB
 
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
 Total size: 11.4 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [English News](translation/english-news)
 
 English to Malay.
 
 Total size: 2.5 GB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## Suggestion
 
