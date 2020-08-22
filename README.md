@@ -137,6 +137,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Tolong sebut](#tolong-sebut)
     * [Wikipedia](#wikipedia)
     * [Manglish](#manglish)
+    * [Youtube](#youtube)
+    * [Podcast](#podcast)
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
@@ -2436,6 +2438,22 @@ Total size: 1.08 GB
 Read texts from random manglish texts. Publicly contributed.
 
 Total size: 1.9 GB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Youtube](speech/youtube)
+
+Semi-supervised using Google Speech on bahasa youtube videos.
+
+Total size: 48.1 GB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Podcast](speech/podcast)
+
+Semi-supervised using Google Speech on https://www.aiskacang.com.my/
+
+Total size: 112 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
