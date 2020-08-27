@@ -2445,7 +2445,7 @@ Total size: 1.9 GB
 
 Semi-supervised using Google Speech on bahasa youtube videos.
 
-Total size: 48.1 GB
+Total size: 83.2 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
