@@ -139,7 +139,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Wikipedia](#wikipedia)
     * [Manglish](#manglish)
     * [Youtube](#youtube)
-    * [Podcast](#podcast)
+    * [Aiskacang](#aiskacang)
+    * [Buah Mulut](#buah-mulut)
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
@@ -2456,11 +2457,19 @@ Total size: 83.2 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [Podcast](speech/podcast)
+#### [Aiskacang](speech/aiskacang)
 
 Semi-supervised using Google Speech on https://www.aiskacang.com.my/
 
 Total size: 112 GB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Buah Mulut](speech/buat-mulut)
+
+Semi-supervised using Google Speech on https://soundcloud.com/buahmulutpodcast
+
+Total size: 101 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
