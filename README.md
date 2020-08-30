@@ -119,6 +119,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Paraphrase](#paraphrase)
     * [General](#general)
     * [Funpedia](#funpedia)
+    * [Semisupervised Academia](#semisupervised-academia)
   * [Parsing](#parsing)
     * [constituency](#constituency)
     * [dependency](#dependency)
@@ -2281,6 +2282,12 @@ Total size: 68.8 MB
 Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/funpedia
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Semisupervised Academia](paraphrase/semisupervised-academia)
+
+Total size: 73.7 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Parsing](parsing)
 
