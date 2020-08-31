@@ -1086,19 +1086,19 @@ Total size: 221 KB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### Wikipedia
+#### [Wikipedia](dumping/wikipedia)
 
-Total size: 240.2 MB, 1663373 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-6-july-2019.json).
+Total size: 240.2 MB, 1663373 sentences.
 
-Total size: 255.1 MB, 1303844 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-wiki-20-july-2019.json).
+Total size: 255.1 MB, 1303844 sentences.
 
-**RAW**, Total size: 243.2 MB, 1748387 sentences, [download link](https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/wikidump1-raw.json)
+**RAW**, Total size: 243.2 MB, 1748387 sentences.
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### Instagram
+#### [Instagram](dumping/instagram)
 
-Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
+Total size: 418.2 MB, 695571 sentences.
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1108,33 +1108,33 @@ Total size: 3764.7 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### Public news
+#### [Public news](dumping/public-news)
 
-Total size: 57.7 MB, 399251 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-news-6-july-2019.json).
-
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### Parliament
-
-Total size: 46.7 MB, 252095 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-parliament-7-july-2019.json).
+Total size: 57.7 MB, 399251 sentences.
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### Singlish text
+#### [Parliament](dumping/parliament)
+
+Total size: 46.7 MB, 252095 sentences.
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Singlish text](dumping/singlish-text)
 
 Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
 
 Random crawled from different singaporean websites and blogs.
 
-Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/singlish.txt).
+Total size: 1.2 GB, 19870766 sentences.
 
 Contributed by [brytjy](https://github.com/brytjy).
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### Singapore news
+#### [Singapore news](dumping/singapore-news)
 
-Total size: 213.1 MB, 1760382 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/sg-news.txt).
+Total size: 213.1 MB, 1760382 sentences.
 
 Contributed by [brytjy](https://github.com/brytjy).
 
