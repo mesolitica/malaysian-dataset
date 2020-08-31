@@ -120,6 +120,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [General](#general)
     * [Funpedia](#funpedia)
     * [Semisupervised Academia](#semisupervised-academia)
+    * [Semisupervised News](#semisupervised-news)
+    * [Semisupervised Wikipedia](#semisupervised-wikipedia)
   * [Parsing](#parsing)
     * [constituency](#constituency)
     * [dependency](#dependency)
@@ -2287,6 +2289,18 @@ Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/f
 #### [Semisupervised Academia](paraphrase/semisupervised-academia)
 
 Total size: 73.7 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Semisupervised News](paraphrase/semisupervised-news)
+
+Total size: 311.3 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Semisupervised Wikipedia](paraphrase/semisupervised-wikipedia)
+
+Total size: 233.4 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
