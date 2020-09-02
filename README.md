@@ -2467,7 +2467,7 @@ Total size: 1.9 GB
 
 Semi-supervised using Google Speech on bahasa youtube videos.
 
-Total size: 83.2 GB
+Total size: 88.5 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2475,7 +2475,7 @@ Total size: 83.2 GB
 
 Semi-supervised using Google Speech on https://www.aiskacang.com.my/
 
-Total size: 112 GB
+Total size: 132.4 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2483,7 +2483,7 @@ Total size: 112 GB
 
 Semi-supervised using Google Speech on https://soundcloud.com/buahmulutpodcast
 
-Total size: 101 GB
+Total size: 176.5 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 

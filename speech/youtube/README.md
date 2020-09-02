@@ -19,3 +19,5 @@ Transcribed by Google Speech by using keywords,
 4. LEKLUUU! PODCAST
 
 Download at https://f000.backblazeb2.com/file/malay-dataset/speech/youtube-part2.tar.gz
+
+Download compressed at https://f000.backblazeb2.com/file/malay-dataset/speech/podcast.tar.gz
