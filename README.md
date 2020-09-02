@@ -96,6 +96,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [kdd](#kdd)
     * [WWW](#www)
     * [OpenKP](#openkp)
+    * [KPTimes](#kptimes)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -1181,6 +1182,14 @@ Reference: https://github.com/boudinfl/ake-datasets
 Total size: 1197 MB
 
 Reference: https://github.com/microsoft/OpenKP
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [KPTimes](keyphrase/kptimes)
+
+Total size: 253.3 MB
+
+Reference: https://github.com/ygorg/KPTimes
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
