@@ -1178,7 +1178,7 @@ Reference: https://github.com/boudinfl/ake-datasets
 
 #### [OpenKP](keyphrase/openkp)
 
-Total size: 574.7 MB
+Total size: 1197 MB
 
 Reference: https://github.com/microsoft/OpenKP
 
