@@ -1187,7 +1187,7 @@ Reference: https://github.com/microsoft/OpenKP
 
 #### [KPTimes](keyphrase/kptimes)
 
-Total size: 253.3 MB
+Total size: 1013.2 MB
 
 Reference: https://github.com/ygorg/KPTimes
 
