@@ -105,6 +105,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Crawled News](#crawled-news)
     * [30k News](#30k-news)
     * [Articles](#articles)
+    * [Headline](#headline)
   * [Natural Language Query](#natural-language-query)
     * [SPIDER](#spider)
     * [COSQL](#cosql)
@@ -2139,6 +2140,12 @@ Total size: 3.1 MB
 3. Pembelajaran
 4. Pendidikan
 5. Sekolah
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Headline](news/headline)
+
+Total size: 555.6 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
