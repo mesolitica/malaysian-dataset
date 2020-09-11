@@ -150,6 +150,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Gigawords](#gigawords)
     * [Multinews](#multinews)
     * [Semisupervised](#semisupervised)
+    * [Sentiment](#sentiment-2)
   * [Tagging](#tagging)
     * [Part-of-Speech](#part-of-speech)
     * [Entities](#entities-json)
@@ -2536,6 +2537,12 @@ Total size: 680 MB
 Abstractive output from T5-base-bahasa summarized 100k local news.
 
 Total size: 300 MB
+
+#### [Sentiment](summarization/sentiment)
+
+Sentiment labels for [cnn-news](https://github.com/huseinzol05/Malay-Dataset#cnn-news), [multinews](https://github.com/huseinzol05/Malay-Dataset#multinews), and [semisupervised](https://github.com/huseinzol05/Malay-Dataset#semisupervised).
+
+Total size: 1.7 GB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
