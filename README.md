@@ -64,6 +64,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Subjectivity](#subjectivity)
     * [Toxicity-small](#toxicity-small)
     * [Toxicity-large](#toxicity-large)
+    * [NSFW](#nsfw)
   * [Crawl](#crawl)
     * [Foodpanda](#foodpanda)
     * [Klook](#klook)
@@ -871,6 +872,16 @@ Total size: 2 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
+#### [NSFW](corpus/nsfw)
+
+Total size: 85.9 MB
+
+1. Sex, 1383577 texts
+2. Gambling, 256168 texts
+3. negative, [dumping/common-crawl](#common-crawl)
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 ## [Crawl](crawl)
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
@@ -1155,9 +1166,9 @@ List of `mse` language websites only.
 
 Total index size: 25.6 MB
 
-Total website size: ~7.0 GB
+Total website size: 9.6 GB
 
-Total text extracted size: 1.7 GB
+Total cleaned (removed NSFW) text extracted size: 2.93 GB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
