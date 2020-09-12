@@ -942,17 +942,7 @@ Total size: 97 MB
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
 
-Crawled up to 224 pdfs related to,
-
-1. melayu
-2. sejarah
-3. etnik
-4. bahasa
-5. politik
-6. makanan
-7. idealogi
-
-Total size: 50 MB
+Total size: 4.0 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
