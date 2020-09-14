@@ -7,6 +7,7 @@ Old version.
 
 ## how-to
 
-New version, 12-09-2020.
 
-1. Download PDF at https://f000.backblazeb2.com/file/malay-dataset/crawler/academia/academia.edu.zip
+1. 12-09-2020, https://f000.backblazeb2.com/file/malay-dataset/crawler/academia/academia.edu.zip
+
+2. 15-09-2020, https://f000.backblazeb2.com/file/malay-dataset/crawler/academia/academia.edu-v2.zip

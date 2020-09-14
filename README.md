@@ -942,7 +942,7 @@ Total size: 97 MB
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
 
-Total size: 4.0 GB
+Total size: 7.9 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
