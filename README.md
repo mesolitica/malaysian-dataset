@@ -143,9 +143,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Tolong sebut](#tolong-sebut)
     * [Wikipedia](#wikipedia)
     * [Manglish](#manglish)
-    * [Youtube](#youtube)
-    * [Aiskacang](#aiskacang)
-    * [Buah Mulut](#buah-mulut)
+    * [Malay Videos](#malay-videos)
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
@@ -2597,27 +2595,13 @@ Total size: 1.9 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [Youtube](speech/youtube)
+#### [Malay Videos](speech/malay-videos)
 
-Semi-supervised using Google Speech on bahasa youtube videos.
+Semi-supervised using Google Speech on malay youtube videos.
 
-Total size: 88.5 GB
+16k sample rate, atleast 90% voice activity, 93 hours.
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Aiskacang](speech/aiskacang)
-
-Semi-supervised using Google Speech on https://www.aiskacang.com.my/
-
-Total size: 132.4 GB
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Buah Mulut](speech/buat-mulut)
-
-Semi-supervised using Google Speech on https://soundcloud.com/buahmulutpodcast
-
-Total size: 176.5 GB
+Total size: 11 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2651,7 +2635,7 @@ Total size: 680 MB
 
 #### [Semisupervised](summarization/semisupervised)
 
-Abstractive output from T5-base-bahasa summarized 100k local news.
+Abstractive output from T5-base-bahasa summarized 100k local news. Included clean version.
 
 Total size: 300 MB
 
