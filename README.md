@@ -144,6 +144,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Wikipedia](#wikipedia)
     * [Manglish](#manglish)
     * [Malay Videos](#malay-videos)
+    * [Manglish Videos](#manglish-videos)
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
@@ -2569,9 +2570,9 @@ Total size: 276 MB
 
 **Voices contributed by**,
 
-1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
-2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/)
-3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/)
+1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/).
+2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/).
+3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/).
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -2602,6 +2603,14 @@ Semi-supervised using Google Speech on malay youtube videos.
 16k sample rate, atleast 90% voice activity, 93 hours.
 
 Total size: 11 GB
+
+#### [Manglish Videos](speech/manglish-videos)
+
+Semi-supervised using Google Speech on manglish youtube videos.
+
+16k sample rate, atleast 90% voice activity, 107 hours.
+
+Total size: 12.6 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
