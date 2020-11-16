@@ -2547,11 +2547,11 @@ Total size: 1.3 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-## [Speech](speech)
+## [Speech](https://github.com/huseinzol05/malaya-speech/tree/master/data)
 
-#### [IIUM](speech/iium)
+#### [IIUM](https://github.com/huseinzol05/malaya-speech/tree/master/data/iium)
 
-Read texts from IIUM confession.
+Read texts from IIUM confession, ~2.4 hours.
 
 Total size: 838.4 MB
 
@@ -2562,7 +2562,7 @@ Total size: 838.4 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Tolong sebut](speech/sebut-perkataan)
+#### [Tolong sebut](https://github.com/huseinzol05/malaya-speech/tree/master/data/sebut-perkataan)
 
 Read random words from malay dictionary started with 'tolong sebut <word>'.
 
@@ -2576,9 +2576,9 @@ Total size: 276 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Wikipedia](speech/wikipedia)
+#### [Wikipedia](https://github.com/huseinzol05/malaya-speech/tree/master/data/wikipedia)
 
-Read texts from wikipedia.
+Read texts from wikipedia, ~3.4 hours.
 
 Total size: 1.08 GB
 
@@ -2588,7 +2588,7 @@ Total size: 1.08 GB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Manglish](speech/manglish)
+#### [Manglish](https://github.com/huseinzol05/malaya-speech/tree/master/data/manglish)
 
 Read texts from random manglish texts. Publicly contributed.
 
@@ -2596,7 +2596,7 @@ Total size: 1.9 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [Malay Videos](speech/malay-videos)
+#### [Malay Videos](https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-malay)
 
 Semi-supervised using Google Speech on malay youtube videos.
 
@@ -2604,7 +2604,7 @@ Semi-supervised using Google Speech on malay youtube videos.
 
 Total size: 11 GB
 
-#### [Manglish Videos](speech/manglish-videos)
+#### [Manglish Videos](https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-manglish)
 
 Semi-supervised using Google Speech on manglish youtube videos.
 
