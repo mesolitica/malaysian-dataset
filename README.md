@@ -94,6 +94,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Singapore news](#singapore-news)
     * [Subtitle](#subtitle)
     * [Common-crawl](#common-crawl)
+    * [Clean](#clean)
   * [Keyphrase](#keyphrase)
     * [kdd](#kdd)
     * [WWW](#www)
@@ -1167,6 +1168,12 @@ Total website size: 9.6 GB
 Total cleaned (removed NSFW) text extracted size: 2.93 GB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Clean](dumping/clean)
+
+Gathered all dumping texts and applied cleaning and filteration.
+
+Total size: 12.3 GB
 
 ## [Keyphrase](keyphrase)
 
