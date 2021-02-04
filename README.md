@@ -2787,6 +2787,14 @@ Total size: 2.5 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
+#### [Long text](translation/long-text)
+
+Malay to English. Focused on long text translation.
+
+Total size: 301.5 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 ## Suggestion
 
 1. Feel free to contact me to request new dataset.
