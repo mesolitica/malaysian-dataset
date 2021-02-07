@@ -1,6 +1,14 @@
 ## how-to
 
-prefix, https://f000.backblazeb2.com/file/malay-dataset/
+prefix, https://f000.backblazeb2.com/file/malay-dataset/translation/long-text/
 
-1. translation/long-text/long-text-0.json.translated.json
-2. translation/long-text/long-text-100000.json.translated.json
+1. long-text-0.json.translated.json
+2. long-text-100000.json.translated.json
+3. long-text-1000000.json.translated.json
+4. long-text-200000.json.translated.json
+5. long-text-300000.json.translated.json
+6. long-text-400000.json.translated.json
+7. long-text-500000.json.translated.json
+8. long-text-600000.json.translated.json
+9. long-text-700000.json.translated.json
+10. long-text-800000.json.translated.json

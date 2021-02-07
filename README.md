@@ -2791,7 +2791,7 @@ Total size: 2.5 GB
 
 Malay to English. Focused on long text translation.
 
-Total size: 301.5 MB
+Total size: 1.2 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
