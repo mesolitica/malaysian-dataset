@@ -12,3 +12,5 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/translation/long-text/
 8. long-text-600000.json.translated.json
 9. long-text-700000.json.translated.json
 10. long-text-800000.json.translated.json
+11. long-text-900000.json.translated.json
+12. long-text-1100000.json.translated.json
