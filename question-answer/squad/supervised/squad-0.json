@@ -1,0 +1,570 @@
+[
+    {
+        "context": "Penduduk Amerika ini menubuhkan pijakan tetap di kawasan itu dan mengabaikan pegawai Sepanyol. Para peneroka British yang juga terus membenci pemerintahan Sepanyol, menyebabkan pemberontakan pada tahun 1810 dan penubuhan sembilan puluh hari dari apa yang dipanggil Bebas dan Bebas Republik Florida Barat pada 23 September. Selepas mesyuarat bermula pada bulan Jun, pemberontak mengalahkan pasukan garisan Sepanyol di Baton Rouge (sekarang di Louisiana), dan membentangkan bendera republik baru: satu bintang putih di lapangan biru. Bendera ini kemudiannya dikenali sebagai \"Bonnie Blue Flag\".",
+        "qa": [
+            {
+                "question": "Apa yang menyebabkan pemberontakan pada 1810",
+                "answer": "pemerintahan Sepanyol",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa pemberontakan yang membawa kepada",
+                "answer": "yang dipanggil Bebas dan Bebas Republik Florida Barat pada 23 September",
+                "impossible": false,
+                "answer_start": 250
+            },
+            {
+                "question": "Apa yang dikenali sebagai Bonnie Blue Flag",
+                "answer": "satu bintang putih di lapangan biru",
+                "impossible": false,
+                "answer_start": 495
+            },
+            {
+                "question": "Apa yang ditumbangkan pemberontak semasa pemberontakan",
+                "answer": "garisan Sepanyol di Baton Rouge",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Orang Amerika keturunan Inggeris dan Amerika keturunan Scots-Irish mula bergerak ke utara Florida dari hutan belukar Georgia dan South Carolina. Walaupun secara teknikal tidak dibenarkan oleh pihak berkuasa Sepanyol, orang Sepanyol tidak pernah dapat secara berkesan mengepung kawasan sempadan dan peneroka dari Amerika Syarikat akan terus berpindah ke Florida tanpa diperiksa. Pendatang-pendatang ini, bercampur dengan pendatang British yang sudah ada yang tinggal di Florida sejak zaman British, akan menjadi pendahulu penduduk yang dikenali sebagai Florida Crackers.",
+        "qa": [
+            {
+                "question": "Di mana asal Inggeris dan Scotch Irish pindah ke Florida dari",
+                "answer": "keturunan Inggeris dan Amerika keturunan Scots-Irish mula bergerak ke utara Florida dari hutan belukar Georgia dan South Carolina",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Penduduk Backwoods Florida Utara dikenali sebagai",
+                "answer": "Florida Crackers",
+                "impossible": false,
+                "answer_start": 552
+            }
+        ]
+    },
+    {
+        "context": "Pada 1763, Sepanyol mendagangkan Florida ke Kerajaan Great Britain untuk mengawal Havana, Cuba, yang telah ditawan oleh British semasa Perang Tujuh Tahun. Ia adalah sebahagian daripada pengembangan besar wilayah British berikutan kemenangan negara dalam Perang Tujuh Tahun. Hampir keseluruhan penduduk Sepanyol meninggalkan, mengambil sebahagian besar penduduk pribumi yang tinggal ke Cuba. British tidak lama lagi membina Jalan Raja menghubungkan St. Augustine ke Georgia. Jalan melintasi Sungai St. Johns di titik yang sempit, yang Seminole menamakan Wacca Pilatka dan British bernama \"Cow Ford\", kedua-dua nama kononnya mencerminkan fakta bahawa lembu dibawa ke seberang sungai di sana.",
+        "qa": [
+            {
+                "question": "Apa yang dilakukan perdagangan Sepanyol Florida untuk",
+                "answer": "Pada 1763, Sepanyol mendagangkan Florida ke Kerajaan Great Britain untuk mengawal Havana, Cuba",
+                "impossible": false,
+                "answer_start": 0
+            },
+            {
+                "question": "Siapa yang mengambil Sepanyol dari Florida ke Cuba",
+                "answer": "Hampir keseluruhan penduduk Sepanyol meninggalkan, mengambil sebahagian besar penduduk pribumi yang tinggal ke Cuba",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Jalan apa yang dilakukan British?",
+                "answer": "Jalan Raja menghubungkan St. Augustine ke Georgia",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "\"Pada Mei 1539, Conquistador Hernando de Soto menyusuri pantai Florida, mencari sebuah pelabuhan yang mendalam ke darat. Dia menyifatkan melihat dinding tebal hutan mangrove merah merebak batu selepas batu, ada yang mencapai setinggi 70 kaki (21 m), dengan berkait rapat dan menaikkan akar yang membuat pendaratan sukar. Tidak lama lagi, 'banyak perokok' muncul 'di sepanjang pantai', yang melonjak ke langit, apabila Nenek moyang asli Seminole melihat pendatang baru dan menyebarkan penggera dengan kebakaran isyarat \". Orang Sepanyol memperkenalkan agama Kristian, lembu, kuda, kambing biri-biri, bahasa Sepanyol, dan banyak lagi ke Florida. [Kutipan penuh diperlukan] Kedua penempatan Sepanyol dan Perancis di Florida, dengan pelbagai kejayaan. Pada tahun 1559, Don Trist\u00e1n de Luna y Arellano menubuhkan sebuah jajahan di Pensacola pada masa kini, salah satu penempatan Eropah pertama di benua Amerika Syarikat, tetapi ia ditinggalkan oleh 1561.",
+        "qa": [
+            {
+                "question": "Apa konkistador mendarat di Florida pada 1539",
+                "answer": "Hernando de Soto",
+                "impossible": false,
+                "answer_start": 29
+            },
+            {
+                "question": "Siapa yang menubuhkan penempatan awal di Florida",
+                "answer": "Kedua penempatan Sepanyol dan Perancis di Florida",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "yang menubuhkan 1 dari penempatan pertama kami di Florida",
+                "answer": "Don Trist\u00e1n de Luna y Arellano",
+                "impossible": false,
+                "answer_start": 765
+            },
+            {
+                "question": "Orang-orang yang ditemui oleh peneroka awal Florida",
+                "answer": "Nenek moyang asli Seminole",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang dilakukan peneroka Sepanyol ke Florida",
+                "answer": "agama Kristian, lembu, kuda, kambing biri-biri, bahasa Sepanyol, dan banyak lagi",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Semenanjung antara Teluk Mexico, Lautan Atlantik, dan Selat Florida, ia mempunyai garis pantai terpanjang di Amerika Syarikat bersebelahan, kira-kira 1,350 batu (2,170 km), dan merupakan satu-satunya negeri yang bersempadan dengan kedua-dua Teluk Mexico dan Lautan Atlantik. Kebanyakan negeri berada di atau berhampiran paras laut dan dicirikan oleh tanah sedimen. Iklim berbeza dari subtropika di utara ke tropika di selatan. Buaya Amerika, buaya Amerika, panther Florida, dan manatee boleh didapati di Taman Negara Everglades.",
+        "qa": [
+            {
+                "question": "Apa yang Pantai terpanjang terpanjang di AS",
+                "answer": "ia mempunyai garis pantai terpanjang di Amerika Syarikat bersebelahan, kira-kira 1,350 batu",
+                "impossible": false,
+                "answer_start": 69
+            },
+            {
+                "question": "Tahap apa yang kebanyakan tanah di florida",
+                "answer": "Kebanyakan negeri berada di atau berhampiran paras laut",
+                "impossible": false,
+                "answer_start": 275
+            },
+            {
+                "question": "Apakah iklim florida",
+                "answer": "Iklim berbeza dari subtropika di utara ke tropika di selatan",
+                "impossible": false,
+                "answer_start": 365
+            },
+            {
+                "question": "Beberapa haiwan dan reptilia yang berasal dari Florida",
+                "answer": "Buaya Amerika, buaya Amerika, panther Florida, dan manatee",
+                "impossible": false,
+                "answer_start": 427
+            },
+            {
+                "question": "Nama Taman Negara di Florida",
+                "answer": "Taman Negara Everglades",
+                "impossible": false,
+                "answer_start": 504
+            }
+        ]
+    },
+    {
+        "context": "Florida telah menjadi beban kepada Sepanyol, yang tidak mampu menghantar peneroka atau garnisun. Oleh itu, Madrid memutuskan untuk menyerahkan wilayah itu ke Amerika Syarikat melalui Perjanjian Adams-Onis, yang berlaku pada tahun 1821. Presiden James Monroe telah diberi kuasa pada 3 Mac 1821 untuk mengambil alih Florida Timur dan Florida Barat untuk Amerika Syarikat dan menyediakan tadbir urus awal. Andrew Jackson berkhidmat sebagai gabenor tentera wilayah yang baru diperoleh, tetapi hanya untuk tempoh yang singkat. Pada 30 Mac, 1822, Amerika Syarikat menggabungkan Florida Timur dan sebahagian Florida Barat ke Wilayah Florida.",
+        "qa": [
+            {
+                "question": "Mengapa Madrid menyerahkan wilayah tersebut ke AS",
+                "answer": "Florida telah menjadi beban kepada Sepanyol, yang tidak mampu menghantar peneroka atau garnisun",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa nama perjanjian yang menyerahkan florida ke AS",
+                "answer": "Perjanjian Adams-Onis, yang berlaku pada tahun 1821",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang mana presiden telah diberi kawalan Florida",
+                "answer": "Presiden James Monroe telah diberi kuasa pada 3 Mac 1821 untuk mengambil alih Florida Timur dan Florida Barat untuk Amerika Syarikat dan menyediakan tadbir urus awal",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bilakah Florida dan West Merge",
+                "answer": "Pada 30 Mac, 1822, Amerika Syarikat menggabungkan Florida Timur dan sebahagian Florida Barat ke Wilayah Florida",
+                "impossible": false,
+                "answer_start": 522
+            }
+        ]
+    },
+    {
+        "context": "Florida i / fl\u0252r\u026ad\u0259 / (Bahasa Sepanyol untuk \"tanah bunga\") adalah sebuah negeri yang terletak di rantau tenggara Amerika Syarikat. Negara ini bersempadan dengan barat oleh Teluk Mexico, di sebelah utara oleh Alabama dan Georgia, di timur oleh Lautan Atlantik, dan di selatan oleh Selat Florida dan negara berdaulat Cuba. Florida adalah 22 yang paling luas, yang paling ramai orang ke-3, dan yang paling padat penduduk ke-8 di Amerika Syarikat. Jacksonville adalah bandar yang paling ramai penduduk di Florida, dan bandar terbesar di kawasan yang bersempadan dengan Amerika Syarikat. Kawasan metropolitan Miami adalah kawasan metropolitan kelapan terbesar di Amerika Syarikat. Tallahassee adalah ibu negara.",
+        "qa": [
+            {
+                "question": "Apa negeri-negeri bersempadan Florida",
+                "answer": "barat oleh Teluk Mexico, di sebelah utara oleh Alabama dan Georgia, di timur oleh Lautan Atlantik, dan di selatan oleh Selat Florida dan negara berdaulat Cuba",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa itu ibu kota Florida",
+                "answer": "Tallahassee adalah ibu negara",
+                "impossible": false,
+                "answer_start": 677
+            },
+            {
+                "question": "Di mana Florida berada di kedudukan penduduk AS",
+                "answer": "yang paling ramai orang ke-3",
+                "impossible": false,
+                "answer_start": 358
+            },
+            {
+                "question": "Apa bandar yang paling ramai di Florida",
+                "answer": "Jacksonville",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Seminole Indians yang berpusat di Florida Timur mula menyerang penempatan Georgia, dan menawarkan haven untuk budak pelarian. Tentera Amerika Syarikat mengetuai serangan yang semakin kerap ke wilayah Sepanyol, termasuk kempen 1817-1818 terhadap kaum India Seminole oleh Andrew Jackson yang dikenali sebagai Perang Semenle Pertama. Amerika Syarikat kini berkesan mengawal Florida Timur. Kawalan diperlukan oleh Setiausaha Negara John Quincy Adams kerana Florida telah menjadi \"terbuka kepada penghunian setiap musuh, bertamadun atau ganas, Amerika Syarikat, dan tidak berkhidmat sebagai tujuan duniawi selain sebagai jawatan kegusaran kepada mereka. \".",
+        "qa": [
+            {
+                "question": "Di manakah serbuan Seminole India",
+                "answer": "Seminole Indians yang berpusat di Florida Timur mula menyerang penempatan Georgia",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa yang India menawarkan syurga kepada",
+                "answer": "budak pelarian",
+                "impossible": false,
+                "answer_start": 110
+            },
+            {
+                "question": "Apa Incursion pertama yang diketuai oleh Jackson yang dikenali sekarang",
+                "answer": "Perang Semenle Pertama",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Kenapa presiden Amerika Syarikat mengatakan Pembunuhan Florida adalah mustahak",
+                "answer": "orida telah menjadi \"terbuka kepada penghunian setiap musuh, bertamadun atau ganas",
+                "impossible": false,
+                "answer_start": 455
+            }
+        ]
+    },
+    {
+        "context": "Akibat inisiatif-inisiatif ini, timur laut Florida berkembang dengan ekonomi dengan cara yang tidak pernah dilakukan di bawah pemerintahan Sepanyol. Selain itu, gabenor British diarahkan untuk memanggil perhimpunan agung secepat mungkin untuk membuat undang-undang untuk Floridas dan pada masa yang sama mereka, dengan nasihat majlis, untuk menubuhkan mahkamah. Ini akan menjadi pengenalan pertama kebanyakan sistem undang-undang yang berasal dari Inggeris yang Florida masih mempunyai hari ini termasuk perbicaraan oleh juri, habeas corpus dan kerajaan berasaskan daerah. Baik Florida Timur mahupun West Florida akan menghantar mana-mana wakil ke Philadelphia untuk merangka Deklarasi Kemerdekaan. Florida akan kekal sebagai kubu kuat Loyalist untuk tempoh Revolusi Amerika.",
+        "qa": [
+            {
+                "question": "Sistem undang-undang apa yang diperkenalkan oleh British di Florida",
+                "answer": "gabenor British diarahkan untuk memanggil perhimpunan agung",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Adakah Florida menghantar Wakil ke Philadelphia untuk Deklarasi Kemerdekaan",
+                "answer": "Baik Florida Timur mahupun West Florida akan menghantar mana-mana wakil ke Philadelphia untuk merangka Deklarasi Kemerdekaan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa yang telah bersama Florida semasa revolusi",
+                "answer": "Florida akan kekal sebagai kubu kuat Loyalist untuk tempoh Revolusi Amerika.",
+                "impossible": false,
+                "answer_start": 699
+            },
+            {
+                "question": "Apa sistem undang-undang yang masih digunakan oleh florida",
+                "answer": "sistem undang-undang yang berasal dari Inggeris yang Florida masih mempunyai hari ini termasuk perbicaraan oleh juri, habeas corpus dan kerajaan berasaskan daerah",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "British membahagikan Florida ke dua koloni British East Florida dan British West Florida. Kerajaan British memberi geran tanah kepada pegawai dan tentera yang berperang dalam Perang Perancis dan India untuk menggalakkan penyelesaian. Untuk mendorong peneroka untuk berpindah ke dua laporan koloni baru mengenai kekayaan alam Florida diterbitkan di England. Sejumlah besar kolonis British yang \"bertenaga dan berprestasi baik\" berpindah ke Florida, kebanyakannya berasal dari South Carolina, Georgia dan England walaupun terdapat juga kumpulan peneroka yang datang dari koloni Bermuda. Ini akan menjadi penduduk berbahasa Inggeris yang pertama tetap dalam apa yang sekarang adalah Duval County, Baker County, St. Johns County dan Nassau County. British membina jalan awam yang baik dan memperkenalkan penanaman tebu, indigo dan buah-buahan serta eksport kayu.",
+        "qa": [
+            {
+                "question": "Apa nama 2 jajahan British di Florida",
+                "answer": "British East Florida dan British West Florida",
+                "impossible": false,
+                "answer_start": 43
+            },
+            {
+                "question": "Siapa yang diberikan geran tanah Florida",
+                "answer": "pegawai dan tentera yang berperang dalam Perang Perancis dan India untuk menggalakkan penyelesaian",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di mana banyak penjajah British datang ke florida dari",
+                "answer": "berasal dari South Carolina, Georgia dan England walaupun terdapat juga kumpulan peneroka yang datang dari koloni Bermuda",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Koloni Tetap pertama di Florida Kini dikenali sebagai",
+                "answer": "Duval County, Baker County, St. Johns County dan Nassau County",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang ditanam oleh Kolonat",
+                "answer": "penanaman tebu, indigo dan buah-buahan serta eksport kayu",
+                "impossible": false,
+                "answer_start": 800
+            }
+        ]
+    },
+    {
+        "context": "Nama samaran Florida ialah \"Negeri Sunshine\", tetapi cuaca yang teruk adalah kejadian biasa di negeri ini. Florida Tengah dikenali sebagai ibu kota Amerika Syarikat, kerana ia mengalami serangan kilat daripada tempat lain di negara ini. Florida mempunyai salah satu tahap pemendakan purata tertinggi di mana-mana negeri, sebahagian besarnya kerana ribut petir petang sering berlaku di kebanyakan negeri dari akhir musim bunga sehingga musim gugur awal. Sebelah timur negara itu termasuk Orlando dan Jacksonville menerima antara 2,400 dan 2,800 jam cahaya matahari setiap tahun. Selebihnya negeri, termasuk Miami, menerima antara 2,800 dan 3,200 jam setiap tahun.",
+        "qa": [
+            {
+                "question": "Apa nama panggilan Florida",
+                "answer": "Negeri Sunshine",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Jam matahari tahunan di florida",
+                "answer": "2,400 dan 2,800 jam cahaya matahari setiap tahun. Selebihnya negeri, termasuk Miami, menerima antara 2,800 dan 3,200 jam setiap tahun",
+                "impossible": false,
+                "answer_start": 528
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 2010, 6.9% daripada penduduk (1,269,765) menganggap diri mereka sebagai keturunan Amerika (tanpa mengira kaum atau etnik). Kebanyakannya adalah keturunan Inggeris atau Scotch-Irish; Walau bagaimanapun, keluarga mereka telah tinggal di negeri ini sekian lama, bahawa mereka memilih untuk mengenal pasti sebagai keturunan \"Amerika\" atau tidak tahu keturunan mereka. Pada 1980 banci Amerika Syarikat kumpulan keturunan terbesar yang dilaporkan di Florida adalah bahasa Inggeris dengan 2,232,514 orang Floridians yang mendakwa mereka berasal dari bahasa Inggeris atau kebanyakannya keturunan Inggeris Amerika. Sebahagian daripada keturunan mereka kembali kepada tiga belas koloni asli.",
+        "qa": [
+            {
+                "question": "Sebanyak peratus penduduk menganggap diri mereka Amerika",
+                "answer": "6.9% daripada penduduk (1,269,765) menganggap diri mereka sebagai keturunan Amerika",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Pada tahun 1980 banci kumpulan keturunan terbesar di Florida adalah",
+                "answer": "kumpulan keturunan terbesar yang dilaporkan di Florida adalah bahasa Inggeris dengan 2,232,514 orang Floridians yang mendakwa mereka berasal dari bahasa Inggeris atau kebanyakannya keturunan Inggeris Amerika",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Seberapa jauh kembali melakukan beberapa Ancestry go",
+                "answer": "tiga belas koloni asli",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Badai mengancam setiap tahun semasa musim badai 1 Jun hingga 30 November, terutamanya dari bulan Ogos hingga Oktober. Florida adalah negeri paling rawan taufan, dengan air subtropika atau tropika di pantai yang panjang. Daripada kategori 4 atau ribut yang lebih tinggi yang menyerang Amerika Syarikat, 83% telah memukul Florida atau Texas. Dari 1851 hingga 2006, Florida telah dilanda 114 taufan, 37 daripadanya kategori utama 3 dan ke atas. Ia adalah jarang berlaku untuk musim badai untuk lulus tanpa apa-apa kesan di negeri ini dengan sekurang-kurangnya ribut tropika. [Rujukan?] Apa yang mengancam setiap tahun ke Florida || Badai menimbulkan ancaman teruk",
+        "qa": [
+            {
+                "question": "Sebanyak peratus badai kategori 4 melanda Florida",
+                "answer": "kategori 4 atau ribut yang lebih tinggi yang menyerang Amerika Syarikat, 83% telah memukul Florida atau Texas",
+                "impossible": false,
+                "answer_start": 229
+            },
+            {
+                "question": "Berapa banyak ribut melanda Florida dari 1851 hingga 2006",
+                "answer": "114 taufan",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Sistem gua bawah air, sinkhole dan mata air yang diperluaskan dapat dilihat di seluruh negeri dan membekalkan kebanyakan air yang digunakan oleh penduduk. Batu kapur diikat dengan tanah berpasir yang didepositkan sebagai pantai kuno selama berjuta-juta tahun ketika paras laut global naik dan turun. Semasa tempoh glasier terakhir, paras laut yang rendah dan iklim kering mendedahkan semen yang lebih luas, sebahagian besarnya savana. Everglades, sungai yang sangat luas dan perlahan mengalir di hujung selatan Semenanjung. Kerosakan tuntutan kerosakan pada hartanah di negara ini melebihi $ 2 bilion dari tahun 2006 hingga 2010.",
+        "qa": [
+            {
+                "question": "Apa yang terdapat di Florida",
+                "answer": "Sistem gua bawah air, sinkhole dan mata air",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa tempoh glasier terakhir menyediakan",
+                "answer": "paras laut yang rendah dan iklim kering mendedahkan semen yang lebih luas, sebahagian besarnya savana",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang Everglades",
+                "answer": "sungai yang sangat luas dan perlahan mengalir di hujung selatan Semenanjung",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa banyak kerosakan lubang tenggelam yang Florida menderita baru-baru ini",
+                "answer": "kerosakan pada hartanah di negara ini melebihi $ 2 bilion dari tahun 2006 hingga 2010",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Menjelang awal 1800an, penyingkiran India adalah isu penting di seluruh kawasan A.S. tenggara dan juga di Florida. Pada tahun 1830, Kongres A.S. meluluskan Akta Penghapusan India dan apabila penyelesaian meningkat, tekanan meningkat kepada kerajaan Amerika Syarikat untuk menghapuskan kaum India dari Florida. Seminoles melepaskan orang kulit hitam yang dikenali sebagai Seminol Hitam, dan pertembungan antara kulit putih dan India berkembang dengan kemasukan peneroka baru. Pada tahun 1832, Perjanjian Pendayatan Payne berjanji untuk Seminoles di barat Sungai Mississippi jika mereka bersetuju untuk meninggalkan Florida. Banyak Seminole yang ditinggalkan pada masa ini.",
+        "qa": [
+            {
+                "question": "Apa masalah pada awal tahun 1800",
+                "answer": "penyingkiran India adalah isu penting",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang berlaku pada kongres pada tahun 1830",
+                "answer": "Pada tahun 1830, Kongres A.S. meluluskan Akta Penghapusan India",
+                "impossible": false,
+                "answer_start": 115
+            },
+            {
+                "question": "Siapa yang membuat pelabuhan Seminoles",
+                "answer": "orang kulit hitam yang dikenali sebagai Seminol Hitam",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa nama perjanjian 1832",
+                "answer": "Perjanjian Pendayatan Payne",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "What did Paynes Landing promiss",
+                "answer": "Seminoles di barat Sungai Mississippi jika mereka bersetuju untuk meninggalkan Florida. Banyak Seminole yang ditinggalkan pada masa ini",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Biro Banci Amerika Syarikat menganggarkan penduduk Florida adalah 20,271,272 pada 1 Julai 2015, peningkatan 7.82% sejak Banci Amerika Syarikat 2010. Penduduk Florida dalam banci 2010 ialah 18.801.310. Florida adalah negara yang paling cepat ketujuh berkembang di A.S. dalam tempoh 12 bulan yang berakhir pada 1 Julai 2012. Pada tahun 2010, pusat penduduk Florida terletak di antara Fort Meade dan Frostproof. Pusat populasi telah bergerak kurang dari 5 km (8 km) ke timur dan kira-kira 1 km (1.6 km) ke utara antara tahun 1980 dan 2010 dan telah berlokasi di Polk County sejak banci tahun 1960. Penduduk melebihi 19.7 juta menjelang bulan Disember 2014, melampaui populasi negara New York untuk kali pertama.",
+        "qa": [
+            {
+                "question": "Apakah populasi Florida",
+                "answer": "Biro Banci Amerika Syarikat menganggarkan penduduk Florida adalah 20,271,272 pada 1 Julai 2015",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Dimana peringkat florida dalam pertumbuhan penduduk",
+                "answer": "Florida adalah negara yang paling cepat ketujuh berkembang di A.S",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang menjadi pusat populasi Florida",
+                "answer": "Polk County sejak banci tahun 1960",
+                "impossible": false,
+                "answer_start": 559
+            },
+            {
+                "question": "Apa negeri Florida telah lulus dalam populasi baru-baru ini",
+                "answer": "melampaui populasi negara New York",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Iklim Florida agak marah oleh fakta bahawa tidak ada bahagian dari negara ini jauh dari lautan. Utara Tasik Okeechobee, iklim lazimnya adalah subtropik lembap (K\u00f6ppen: Cfa), manakala kawasan selatan tasik (termasuk Florida Keys) mempunyai iklim tropika yang benar (K\u00f6ppen: Aw). Purata suhu tinggi pada akhir bulan Julai adalah terutamanya di Fahrenheit 90s (32-34 \u00b0 C). Purata suhu rendah untuk pertengahan hingga pertengahan Januari berkisar dari 40-an Fahrenheit (4-7 \u00b0 C) di utara Florida hingga ke atas 60 \u00b0 F (16 \u00b0 C) dari Miami di selatan. Dengan purata suhu harian 70.7 \u00b0 F (21.5 \u00b0 C), ia adalah keadaan terpanas di negara ini.",
+        "qa": [
+            {
+                "question": "Apa yang mengganggu iklim Florida",
+                "answer": "fakta bahawa tidak ada bahagian dari negara ini jauh dari lautan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang membahagikan Florida dua iklim",
+                "answer": "Utara Tasik Okeechobee",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apakah suhu purata Florida pada akhir bulan Julai",
+                "answer": "Purata suhu tinggi pada akhir bulan Julai adalah terutamanya di Fahrenheit 90s",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Rendah di purata Florida",
+                "answer": "pertengahan hingga pertengahan Januari berkisar dari 40-an Fahrenheit (4-7 \u00b0 C) di utara Florida hingga ke atas 60 \u00b0 F (16 \u00b0 C) dari Miami di selatan",
+                "impossible": false,
+                "answer_start": 414
+            },
+            {
+                "question": "Purata suhu harian di Miami",
+                "answer": "purata suhu harian 70.7 \u00b0 F (21.5 \u00b0 C), ia adalah keadaan terpanas di negara ini",
+                "impossible": false,
+                "answer_start": 546
+            }
+        ]
+    },
+    {
+        "context": "Florida adalah antara tiga negeri yang mempunyai undang-undang pelanggaran hakikat yang paling berat. Florida memerlukan penjenayah untuk menyelesaikan hukuman, pembebasan dan / atau percubaan, dan kemudian tujuh tahun kemudian, untuk memohon secara individu untuk pemulihan hak mengundi. Seperti dalam aspek lain sistem keadilan jenayah, undang-undang ini mempunyai kesan yang tidak seimbang untuk minoriti. Akibatnya, menurut Brent Staples, berdasarkan data dari Projek Penghukuman, kesan undang-undang Florida adalah seperti yang pada 2014 \"[m] bijih daripada satu sepuluh Floridians - dan hampir satu daripada empat orang Floridian Afrika-Amerika - ditutup daripada pemilihan kerana sabitan felony. \"",
+        "qa": [
+            {
+                "question": "Seberapa teruk undang-undang Florida disenfranchisement",
+                "answer": "Florida adalah antara tiga negeri yang mempunyai undang-undang pelanggaran hakikat yang paling berat.",
+                "impossible": false,
+                "answer_start": 0
+            },
+            {
+                "question": "Apa yang diperlukan undang-undang untuk penjenayah",
+                "answer": "enjenayah untuk menyelesaikan hukuman, pembebasan dan / atau percubaan, dan kemudian tujuh tahun kemudian, untuk memohon secara individu untuk pemulihan hak mengundi",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa yang undang-undang ini paling berkesan",
+                "answer": "undang-undang ini mempunyai kesan yang tidak seimbang untuk minoriti",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bagaimana ia mempengaruhi pilihan raya",
+                "answer": "satu daripada empat orang Floridian Afrika-Amerika - ditutup daripada pemilihan kerana sabitan felony",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 2010, orang-orang keturunan Eropah (bukan bukan putih) menyumbang 57.9% penduduk Florida. Daripada 57.9%, kumpulan terbesar ialah 12.0% Bahasa Jerman (2,212,391), 10.7% Bahasa Ireland (1,979,058), 8.8% Bahasa Inggeris (1,629,832), 6.6% Bahasa Itali (1,215,242), 2.8% Bahasa Poland (511,229) 504,641). Putih Amerika dari semua latar belakang Eropah hadir di semua kawasan di negeri ini. Pada tahun 1970, putih bukan-Hispanik hampir 80% penduduk Florida. Mereka yang berasal dari bahasa Inggeris dan Ireland hadir dalam jumlah besar di semua kawasan bandar / pinggir bandar di seluruh negeri. Sesetengah Floridian putih asli, terutama mereka yang telah turun dari keluarga Florida lama, boleh merujuk kepada diri mereka sebagai \"keropok Florida\"; yang lain melihat istilah itu sebagai penghinaan. Seperti orang kulit putih di kebanyakan negara Selatan yang lain, mereka turun terutamanya dari peneroka Inggeris dan Scots-Irish, serta beberapa peneroka Amerika Syarikat yang lain.",
+        "qa": [
+            {
+                "question": "Pada tahun 2010 apakah peratusan Florida adalah putih / bukan Hispanik",
+                "answer": "orang-orang keturunan Eropah (bukan bukan putih) menyumbang 57.9% penduduk Florida",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa peratus daripada florida adalah putih Bukan Hispanik pada tahun 1970",
+                "answer": "Pada tahun 1970, putih bukan-Hispanik hampir 80% penduduk Florida",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang banyak keluarga floridian jangka panjang putih mengenal pasti dengan",
+                "answer": "keluarga Florida lama, boleh merujuk kepada diri mereka sebagai \"keropok Florida\"",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Kebanyakan pendatang Florida putih turun dari",
+                "answer": "terutamanya dari peneroka Inggeris dan Scots-Irish, serta beberapa peneroka Amerika Syarikat yang lain",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang orang asli Floridians menyebut diri mereka?",
+                "answer": "<>> Pendatang Perancis terdiri daripada kebanyakan wilayah di Amerika Syarikat? Berapa ramai orang keturunan Ireland di Florida pada tahun 2009? ||",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 2010, keturunan keturunan keturunan Hispanik atau Latin menyumbang 22.5% (4,223,806) penduduk Florida. Daripada 22.5%, kumpulan terbesar adalah 6.5% (1,213,438) Cuba, 4.5% (847,550) Puerto Rico, 3.3% (629,718) Mexico, dan 1.6% (300,414) orang Colombia. Penduduk Hispanik Florida termasuk komuniti besar orang Cuba di Miami dan Tampa, Puerto Ricans di Orlando dan Tampa, dan pekerja asing Mexico / Tengah Amerika. Masyarakat Hispanik terus berkembang lebih mewah dan mudah alih. Sehingga 2011, 57.0% kanak-kanak Florida di bawah umur 1 dimiliki oleh kumpulan minoriti. Florida mempunyai populasi Hispanik yang besar dan pelbagai, dengan Kuba dan Puerto Ricans menjadi kumpulan terbesar di negeri ini. Hampir 80% orang Cuba yang tinggal di Florida, terutama Florida Selatan di mana terdapat masyarakat Cuba yang lama dan mewah. Florida mempunyai penduduk Puerto Rico yang kedua terbesar selepas New York, serta yang paling pesat berkembang di negara ini. Puerto Ricans lebih meluas di seluruh negeri, walaupun kepekatan yang paling berat berada di kawasan Orlando Florida Tengah.",
+        "qa": [
+            {
+                "question": "Berapa peratus penduduk Florida pada tahun 2010 adalah Hispanik",
+                "answer": "keturunan Hispanik atau Latin menyumbang 22.5% (4,223,806) penduduk Florida",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Asal Apa yang menjadikan kebanyakan Hispanik di Florida",
+                "answer": "Daripada 22.5%, kumpulan terbesar adalah 6.5% (1,213,438) Cuba",
+                "impossible": false,
+                "answer_start": 114
+            },
+            {
+                "question": "Berapa peratus penduduk Amerika Cuba tinggal di Florida",
+                "answer": "Hampir 80% orang Cuba yang tinggal di Florida, terutama Florida Selatan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa peratusan Puerto Ricans di Florida",
+                "answer": "Florida mempunyai penduduk Puerto Rico yang kedua terbesar selepas New York, serta yang paling pesat berkembang di negara ini",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    }
+]

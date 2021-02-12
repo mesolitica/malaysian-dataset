@@ -1,0 +1,642 @@
+[
+    {
+        "context": "Tahun itu, Ratu memulakan Jelajah Kerja, lawatan pertama yang memaparkan pemain keyboard Spike Edney sebagai pemuzik langsung. Tur ini menampilkan sembilan tarikh terjual pada bulan Oktober di Bophuthatswana, Afrika Selatan, di arena di Sun City. Apabila kembali ke England, mereka menjadi subjek kemarahan, setelah bermain di Afrika Selatan semasa ketinggian apartheid dan melanggar usaha penjualan di seluruh dunia dan boikot budaya PBB. Band ini bertindak balas kepada pengkritik dengan menyatakan bahawa mereka bermain muzik untuk peminat di Afrika Selatan, dan mereka juga menegaskan bahawa konsert itu dimainkan sebelum penonton bersepadu. Queen menyumbang ke sekolah untuk orang pekak dan buta sebagai isyarat dermawan tetapi didenda oleh Kesatuan Pemuzik British dan ditempatkan pada artis-artis yang disenarai hitam oleh PBB.",
+        "qa": [
+            {
+                "question": "Yang lawatan Queen mana yang pertama mempamerkan Spike Edney?",
+                "answer": "Spike Edney",
+                "impossible": false,
+                "answer_start": 89
+            },
+            {
+                "question": "Queen Spike Edney memainkan instrumen apa?",
+                "answer": "pemain keyboard",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa yang didenda Queen kerana menderma ke sekolah untuk orang pekak dan buta?",
+                "answer": "Kesatuan Pemuzik British",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di mana Ratu bermain semasa ketinggian Apartheid?",
+                "answer": "Afrika Selatan",
+                "impossible": false,
+                "answer_start": 209
+            }
+        ]
+    },
+    {
+        "context": "Selepas peminat melihat penampilan Mercury semakin sedih pada tahun 1988, khabar angin mula menyebarkan bahawa Merkuri mengalami AIDS. Mercury tegas menafikannya, mendesak dia hanya \"letih\" dan terlalu sibuk untuk menyediakan temuduga. Band ini memutuskan untuk terus membuat album, bermula dengan The Miracle pada tahun 1989 dan meneruskan dengan Innuendo pada tahun 1991. Walaupun kesihatannya semakin merosot, penyanyi utama terus menyumbang. Untuk dua album terakhir yang dibuat semasa Mercury masih hidup, band ini mengiktiraf semua lagu kepada Ratu, bukannya ahli kumpulan tertentu, membebaskan mereka dari konflik dalaman dan perbezaan. Pada tahun 1990, Queen menamatkan kontrak mereka dengan Capitol dan menandatangani dengan Disney's Hollywood Records, yang sejak itu kekal sebagai pemilik katalog muzik kumpulan di Amerika Syarikat dan Kanada. Pada tahun yang sama, Mercury membuat penampilan terakhirnya ketika dia menyertai rehat Queen untuk mengumpul Anugerah Brit untuk Sumbangan Cemerlang kepada Muzik British.",
+        "qa": [
+            {
+                "question": "Bilakah Ratu menamatkan kontrak mereka dengan Capitol?",
+                "answer": "1990",
+                "impossible": false,
+                "answer_start": 655
+            },
+            {
+                "question": "Selepas meninggalkan Capitol, siapa yang menandatangani Ratu?",
+                "answer": "Disney's Hollywood Records",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa tahun penampilan umum Freddie Mercury dengan Queen?",
+                "answer": "1990",
+                "impossible": false,
+                "answer_start": 655
+            },
+            {
+                "question": "Album Queen mana yang dikeluarkan pada tahun 1991?",
+                "answer": "Innuendo",
+                "impossible": false,
+                "answer_start": 348
+            }
+        ]
+    },
+    {
+        "context": "Innuendo dibebaskan pada awal tahun 1991 dengan nombor eponymous nombor 1 UK dan single charting lain termasuk, \"The Show Must Go On\". Merkuri semakin sakit dan hampir tidak dapat berjalan ketika band itu mencatat \"The Show Must Go On\" pada tahun 1990. Oleh kerana itu, May mempunyai kebimbangan mengenai apakah dia secara fizikal mampu menyanyi. Mengingati prestasi Mercury yang berjaya menyatakan: \"dia masuk dan membunuhnya, benar-benar menghidu vokal itu\". Selebihnya band itu bersedia untuk merakam apabila Mercury merasakan dapat masuk ke studio, selama satu atau dua jam pada satu masa. Boleh dikatakan mengenai Mercury: \"Dia hanya terus berkata. 'Tuliskan lebih banyak lagi. Tulis barangan saya. Saya mahu hanya menyanyi dan melakukannya dan apabila saya pergi, anda boleh menyelesaikannya. \"Dia tidak mempunyai ketakutan, benar-benar.\" Penyusunan hits terbesar kedua band itu, Greatest Hits II, diikuti pada Oktober 1991, yang merupakan kelapan terbaik - jualan album sepanjang masa di UK dan telah menjual 16 juta kopi di seluruh dunia.",
+        "qa": [
+            {
+                "question": "Apa salah satu daripada Queen Innuendo yang dicatatkan di UK?",
+                "answer": "The Show Must Go On",
+                "impossible": false,
+                "answer_start": 113
+            },
+            {
+                "question": "Apa nama kompilasi hits terbesar kedua Queen?",
+                "answer": "Greatest Hits II",
+                "impossible": false,
+                "answer_start": 886
+            },
+            {
+                "question": "Album Queen mana album terlaris kelapan di UK sepanjang masa?",
+                "answer": "Greatest Hits II",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Ahli band yang mana Queen sangat sakit pada tahun 1991?",
+                "answer": "Mercury",
+                "impossible": false,
+                "answer_start": 367
+            },
+            {
+                "question": "Queen's Greatest Hits II telah menjual berapa banyak salinan di seluruh dunia?",
+                "answer": "16 juta",
+                "impossible": false,
+                "answer_start": 1016
+            }
+        ]
+    },
+    {
+        "context": "Pada 23 November 1991, dalam kenyataan yang dibuat di atas kematiannya, Mercury mengesahkan bahawa dia mempunyai AIDS. Dalam tempoh 24 jam dari kenyataan itu, dia meninggal akibat radang paru-paru bronkus, yang dibawa sebagai komplikasi AIDS. Perkhidmatan pengebumiannya pada 27 November di Kensal Green, London Barat adalah swasta, dan diadakan sesuai dengan kepercayaan agama Zoroastrian keluarganya. \"Bohemian Rhapsody\" dilancarkan semula sebagai satu-satunya selepas kematian Mercury, dengan \"Ini Hari-hari Kehidupan Kita\" sebagai double A-side. Video muzik untuk \"Ini Adalah Hari-hari Kehidupan Kita\" mengandungi adegan terakhir Mercury di hadapan kamera. Single ini menjadi nombor satu di UK, yang tinggal di sana selama lima minggu - satu-satunya rakaman untuk mendahului carta Krismas dua kali dan satu-satunya menjadi nombor satu dalam empat tahun yang berbeza (1975, 1976, 1991, dan 1992). Hasil awal dari satu - sekitar \u00a3 1,000,000 - disumbangkan kepada Terrence Higgins Trust.",
+        "qa": [
+            {
+                "question": "Bilakah pengakuan kematian Freddie Mercury dibuat?",
+                "answer": "23 November 1991",
+                "impossible": false,
+                "answer_start": 5
+            },
+            {
+                "question": "Apa penyakit yang didedahkan oleh Freddie Mercury yang dia ada?",
+                "answer": "AIDS",
+                "impossible": false,
+                "answer_start": 113
+            },
+            {
+                "question": "Apakah kematian Freddie Mercury?",
+                "answer": "radang paru-paru bronkus, yang dibawa sebagai komplikasi AIDS",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di mana pemakaman Freddie Mercury diadakan?",
+                "answer": "Kensal Green, London Barat",
+                "impossible": false,
+                "answer_start": 291
+            },
+            {
+                "question": "Video muzik mana yang mengandungi rakaman terakhir Freddie Mercury?",
+                "answer": "Ini Hari-hari Kehidupan Kita",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada musim panas tahun 1986, Queen mengadakan lawatan terakhir mereka dengan Freddie Mercury. Pelancongan yang dijual untuk menyokong A Kind of Magic, sekali lagi mereka mengupah Spike Edney, yang mengarahkannya menjadi ahli kelima tidak rasmi. Kemuncaknya Magic Tour adalah di Stadium Wembley di London dan menghasilkan album double live, Queen at Wembley, dikeluarkan pada CD dan sebagai konsert DVD secara langsung, yang telah lima kali platinum di Amerika Syarikat dan empat kali platinum di UK. Queen tidak dapat menempah Wembley untuk malam ketiga, tetapi mereka bermain di Knebworth Park. Pertunjukan itu dijual dalam masa dua jam dan lebih daripada 120,000 peminat membungkus taman itu untuk apa yang dilakukan oleh pertunjukan langsung Ratu dengan Mercury. Ratu memulakan lawatan di Stadium R\u00e5sunda di Stockholm, Sweden, dan semasa lawatan, band ini mengadakan konsert di Slane Castle, Ireland, di hadapan penonton 95,000, yang memecahkan rekod kehadiran tempat. Band ini juga bermain di sebalik Tirai Besi ketika mereka tampil ke 80.000 orang di N\u00e9pstadion di Budapest, di mana salah satu konsert rock terbesar yang pernah diadakan di Eropah Timur. Lebih daripada satu juta orang melihat Ratu dalam pelancongan-400,000 di United Kingdom sahaja, satu rekod pada masa itu.",
+        "qa": [
+            {
+                "question": "Lawatan terakhir Queen dengan Freddie Mercury adalah tahun berapa?",
+                "answer": "1986",
+                "impossible": false,
+                "answer_start": 23
+            },
+            {
+                "question": "Apa nama lawatan terakhir Queen dengan Freddie Mercury?",
+                "answer": "A Kind of Magic",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa banyak peminat melihat Ratu di taman Knebworth?",
+                "answer": "120,000",
+                "impossible": false,
+                "answer_start": 657
+            },
+            {
+                "question": "Berapa ramai peminat melihat Ratu di Nepstadion di Budapest?",
+                "answer": "80.000",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa ramai peminat melihat Queen di istana Slane?",
+                "answer": "95,000",
+                "impossible": false,
+                "answer_start": 924
+            }
+        ]
+    },
+    {
+        "context": "Pada akhir tahun 2004, May dan Taylor mengumumkan bahawa mereka akan menyatukan semula dan kembali melawat pada tahun 2005 dengan Paul Rodgers (pengasas dan bekas penyanyi utama Free and Bad Company). Laman web Brian May juga menyatakan bahawa Rodgers akan \"dipaparkan dengan\" Ratu sebagai \"Ratu + Paul Rodgers\", tidak menggantikan Merkurius. John Deacon yang bersara tidak akan mengambil bahagian. Pada bulan November 2004, Ratu merupakan salah satu daripada perdana muktamad ke Hall of Fame Music UK, dan majlis anugerah itu adalah acara pertama di mana Rodgers menyertai May dan Taylor sebagai vokalis.",
+        "qa": [
+            {
+                "question": "Paul Rodgers menyertai Ratu dalam tahun berapa?",
+                "answer": "2005",
+                "impossible": false,
+                "answer_start": 118
+            },
+            {
+                "question": "Paul Rodgers pernah menjadi penyanyi utama apa dua band?",
+                "answer": "Free and Bad Company",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang mana ahli penganjur yang bersara tidak menyertai reuni?",
+                "answer": "John Deacon",
+                "impossible": false,
+                "answer_start": 343
+            },
+            {
+                "question": "Pada tahun berapa adalah Ratu yang dilantik di Hall of Fame UK?",
+                "answer": "2004",
+                "impossible": false,
+                "answer_start": 17
+            }
+        ]
+    },
+    {
+        "context": "Pada 20 April 1992, Konsert Freddie Mercury Tribute telah diadakan di Stadium Wembley London kepada orang ramai yang berjumlah 72,000 orang. Pelakon, termasuk Def Leppard, Robert Plant, Guns N 'Roses, Elton John, David Bowie, George Michael, Annie Lennox, Seal, Extreme, dan Metallica melakukan pelbagai lagu Queen bersama-sama dengan tiga anggota Ratu yang tersisa (dan Spike Edney.) konsert disenaraikan dalam Buku Rekod Guinness sebagai \"Konsert manfaat bintang rock terbesar\", kerana ia telah disiarkan ke lebih 1.2 bilion penonton di seluruh dunia, dan menaikkan lebih daripada \u00a3 20,000,000 untuk badan amal AIDS.",
+        "qa": [
+            {
+                "question": "Bilakah konsert Freddie Mercury Tribute diadakan?",
+                "answer": "20 April 1992",
+                "impossible": false,
+                "answer_start": 5
+            },
+            {
+                "question": "Di mana Konsert Freddie Mercury Tribute diadakan?",
+                "answer": "Stadium Wembley London",
+                "impossible": false,
+                "answer_start": 70
+            },
+            {
+                "question": "Berapa ramai yang menghadiri Konsert Tribute Mercury Mercury?",
+                "answer": "72,000",
+                "impossible": false,
+                "answer_start": 127
+            },
+            {
+                "question": "Band yang manakah dia konsert manfaat terbesar dalam sejarah?",
+                "answer": "Queen",
+                "impossible": false,
+                "answer_start": 309
+            },
+            {
+                "question": "Berapa ramai penonton yang menarik konsert manfaat bintang rock terbesar?",
+                "answer": "1.2 bilion penonton di seluruh dunia",
+                "impossible": false,
+                "answer_start": 516
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1997, Queen kembali ke studio untuk merakam \"No-One tetapi You (Only the Good Die Young)\", lagu yang didedikasikan untuk Mercury dan semua yang mati terlalu lama. Ia dikeluarkan sebagai trek bonus pada album kompilasi Queen Rocks pada tahun itu. Pada bulan Januari 1997, Queen melakukan \"The Show Must Go On\" hidup bersama Elton John dan Ballet B\u00e9jart di Paris pada malam Mercury diingati, dan ia menandakan penampilan terakhir dan penampilan umum John Deacon, yang memilih untuk bersara. Konsert Paris adalah kali kedua Queen telah bermain secara langsung sejak kematian Mercury, mendorong Elton John menggesa mereka untuk melakukan lagi.",
+        "qa": [
+            {
+                "question": "Dalam tahun apakah Queen melepaskan No-One tetapi Anda",
+                "answer": "1997",
+                "impossible": false,
+                "answer_start": 11
+            },
+            {
+                "question": "Siapa Yang Tidak Ada Tetapi Anda berdedikasi?",
+                "answer": "Mercury",
+                "impossible": false,
+                "answer_start": 132
+            },
+            {
+                "question": "Komposisi mana yang dilancarkan Queen pada tahun 1997?",
+                "answer": "Queen Rocks",
+                "impossible": false,
+                "answer_start": 229
+            },
+            {
+                "question": "Siapa yang tampil secara langsung dengan Ratu di The Show Must Go On pada tahun 1997?",
+                "answer": "Elton John dan Ballet B\u00e9jart",
+                "impossible": false,
+                "answer_start": 334
+            },
+            {
+                "question": "Yang mana ahli Queen yang bersara pada tahun 1997?",
+                "answer": "John Deacon",
+                "impossible": false,
+                "answer_start": 459
+            }
+        ]
+    },
+    {
+        "context": "Pada 20 Mei 2009, May dan Taylor mempersembahkan \"We Are the Champions\" hidup pada musim pertandingan American Idol dengan pemenang Kris Allen dan runner-up Adam Lambert menyediakan duet vokal. Pada pertengahan 2009, selepas perpecahan Queen + Paul Rodgers, laman web Ratu dalam talian mengumumkan kompilasi hits terhebat yang baru bernama Absolute Greatest. Album ini dikeluarkan pada 16 November dan memuncak pada nombor 3 dalam Carta UK rasmi. Album ini mengandungi 20 hits terbesar Ratu yang merangkumi seluruh kerjaya mereka dan dibebaskan dalam empat format berbeza: cakera tunggal, cakera berganda (dengan ulasan), cakera berganda dengan buku ciri, dan rekod vinil. Sebelum pembebasannya, pertandingan telah dijalankan oleh Ratu dalam talian untuk meneka senarai lagu sebagai promosi untuk album tersebut.",
+        "qa": [
+            {
+                "question": "Pada 20 Mei 2009 yang dilakukan oleh anggota Ratu Kami adalah Juara American Idol?",
+                "answer": "May dan Taylor",
+                "impossible": false,
+                "answer_start": 18
+            },
+            {
+                "question": "Apakah nama Raksasa terkumpul Queen yang dibebaskan selepas perpecahan dari Paul Rodgers?",
+                "answer": "Absolute Greatest",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang mana dua peserta idola Amerika melakukan duet dengan Queen on American Idol?",
+                "answer": "pemenang Kris Allen dan runner-up Adam Lambert",
+                "impossible": false,
+                "answer_start": 123
+            },
+            {
+                "question": "Hari apa pada tahun 2009 adalah Terbesar Ratu Terbesar?",
+                "answer": "16 November",
+                "impossible": false,
+                "answer_start": 386
+            }
+        ]
+    },
+    {
+        "context": "Brian May dan Roger Taylor bersama-sama di beberapa majlis anugerah dan konsert amal, berkongsi vokal dengan penyanyi pelbagai tetamu. Pada masa ini, mereka dibebankan sebagai Queen + diikuti oleh nama penyanyi tamu. Pada tahun 1998, kedua-duanya muncul di konsert manfaat Luciano Pavarotti dengan May melakukan \"Terlalu Banyak Cinta Akan Membunuh Anda\" dengan Pavarotti, kemudian bermain \"Radio Ga Ga\", \"We Will Rock You\", dan \"Kami Adakah Juara\" dengan Zucchero. Mereka sekali lagi menghadiri dan tampil di konsert manfaat Pavarotti di Modena, Itali pada bulan Mei 2003. Beberapa penyanyi tetamu mencatatkan versi baru lagu Queen di bawah nama Queen +, seperti Robbie Williams yang menyediakan vokal untuk \"We Are the Champions\" untuk soundtrack A Knight's Tale (2001).",
+        "qa": [
+            {
+                "question": "Yang mana dua orang anggota Ratu berkumpul di beberapa konsert amal?",
+                "answer": "Brian May dan Roger Taylor",
+                "impossible": false,
+                "answer_start": 0
+            },
+            {
+                "question": "Siapa yang tampil dengan Brian May pada tahun 1998 di konsert manfaat?",
+                "answer": "Pavarotti",
+                "impossible": false,
+                "answer_start": 281
+            },
+            {
+                "question": "Dimana Ratu bermain di 2003 dengan penyanyi opera yang terkenal?",
+                "answer": "Modena, Itali",
+                "impossible": false,
+                "answer_start": 538
+            },
+            {
+                "question": "Artis mana yang memberi vokal untuk lagu Queen yang terdapat di soundtrack untuk Kisah Seorang Ksatria?",
+                "answer": "Robbie Williams",
+                "impossible": false,
+                "answer_start": 663
+            }
+        ]
+    },
+    {
+        "context": "Antara tahun 2005 dan 2006, Queen + Paul Rodgers memulakan lawatan dunia, yang kali pertama Ratu melawat sejak lawatan terakhir mereka dengan Freddie Mercury pada tahun 1986. Drummer band Roger Taylor mengulas; \"Kami tidak pernah fikir kami akan melawat lagi, Paul [Rodgers] secara kebetulan datang dan kami seolah-olah mempunyai kimia. Paul adalah penyanyi yang hebat, dia tidak cuba menjadi Freddie.\" Yang pertama adalah di Eropah, yang kedua di Jepun, dan yang ketiga di Amerika Syarikat pada tahun 2006. Ratu menerima VH1 Rock Honors yang pertama di Mandalay Bay Events Center di Las Vegas, Nevada, pada 25 Mei 2006. The Foo Fighters memberi penghormatan kepada band dalam melakukan \"Tie Your Mother Down\" untuk membuka upacara sebelum bergabung di panggung oleh May, Taylor, dan Paul Rodgers, yang memainkan pemilihan hits Queen.",
+        "qa": [
+            {
+                "question": "Antara tahun berapa Ratu dan Paul Rodgers mula-mula memulakan lawatan dunia?",
+                "answer": "Antara tahun 2005 dan 2006",
+                "impossible": false,
+                "answer_start": 0
+            },
+            {
+                "question": "Di mana lawatan pertama pertengahan tahun 2000 Queen dengan Paul Rodgers?",
+                "answer": "Eropah",
+                "impossible": false,
+                "answer_start": 426
+            },
+            {
+                "question": "Apakah nama drummer Queen itu?",
+                "answer": "Roger Taylor",
+                "impossible": false,
+                "answer_start": 188
+            },
+            {
+                "question": "Di manakah Ratu menerima VH1 Rock Honors yang pertama?",
+                "answer": "Mandalay Bay Events Center di Las Vegas",
+                "impossible": false,
+                "answer_start": 554
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1999, album Greatest Hits III telah dikeluarkan. Antara ciri ini, antara lain, \"Queen + Wyclef Jean\" pada versi rap \"Satu Lagi Menggigit Debu\". Versi live \"Somebody to Love\" oleh George Michael dan versi live \"The Show Must Go On\" dengan Elton John juga dipaparkan dalam album. Pada masa ini, jumlah jualan rekod Queen yang besar menjadikan mereka artis jualan terbaik kedua di UK sepanjang masa, di belakang Beatles. Pada tahun 2002, Queen telah dianugerahi bintang 2,207 di Hollywood Walk of Fame, yang terletak di 6358 Hollywood Blvd. Pada 29 November 2003, May dan Taylor tampil di Concert 46664 yang dianjurkan oleh Nelson Mandela di Stadium Green Point, Cape Town, untuk meningkatkan kesedaran mengenai penyebaran HIV / AIDS di Afrika Selatan. May dan Taylor meluangkan masa di rumah Mandela, membincangkan bagaimana masalah Afrika mungkin didekati, dan dua tahun kemudian band itu dijadikan duta untuk 46664 penyebabnya.",
+        "qa": [
+            {
+                "question": "Tahun apa lagu album ketiga terbesar Ratu dibebaskan?",
+                "answer": "1999",
+                "impossible": false,
+                "answer_start": 11
+            },
+            {
+                "question": "Siapa yang membuat versi rap Satu lagi gigitan Debu?",
+                "answer": "Wyclef Jean",
+                "impossible": false,
+                "answer_start": 99
+            },
+            {
+                "question": "Versi Hidup Seseorang untuk Cinta memaparkan artis apa?",
+                "answer": "George Michael",
+                "impossible": false,
+                "answer_start": 190
+            },
+            {
+                "question": "Seniman mana yang disiarkan pada versi langsung Queen Show The Must Go On?",
+                "answer": "Elton John",
+                "impossible": false,
+                "answer_start": 249
+            },
+            {
+                "question": "Pada tahun 2003 Ratu mempersembahkan apa yang dihoskan oleh Nelson Mandela?",
+                "answer": "Concert 46664",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada 30 Oktober 2009, Mei menulis surat fanclub di laman webnya yang menyatakan bahawa Ratu tidak mempunyai niat untuk menjelajah pada tahun 2010 tetapi terdapat kemungkinan prestasi. Dia dipetik sebagai berkata, \"Perdebatan terbesar, bagaimanapun, adalah tentang ketika kita akan bermain bersama sebagai Ratu. Pada masa ini, walaupun banyak khabar angin yang ada di sana, kami tidak mempunyai rancangan untuk melawat pada tahun 2010. Walau bagaimanapun, berita gembira adalah bahawa Roger dan saya mempunyai persefahaman bersama yang lebih dekat pada zaman ini-secara persendirian dan profesional ... dan semua idea dipertimbangkan dengan teliti. Muzik tidak pernah jauh dari kita Seperti yang saya tulis, ada yang penting Prestasi yang ditawarkan di Amerika Syarikat, dan tetap akan diputuskan sama ada kita akan menghadapi cabaran ini. Setiap hari, pintu kelihatan terbuka, dan setiap hari, kita berinteraksi, mungkin lebih daripada sebelumnya, dengan dunia di luar Ia adalah masa peralihan yang menarik dalam muzik Rock dan dalam 'The Business'. Memang baik pulsa masih berdegup \". Pada 15 November 2009, May dan Taylor melakukan \"Bohemian Rhapsody\" secara langsung di rancangan TV British The X Factor bersama para finalis.",
+        "qa": [
+            {
+                "question": "Ahli mana Ratu menulis surat kepada peminat pada tahun 2009 mengenai lawatan untuk tahun 2010?",
+                "answer": "Mei",
+                "impossible": false,
+                "answer_start": 22
+            },
+            {
+                "question": "Apa tarikh May dan Taylor of Queen melakukan Bohemian Rhapsody pada X-Factor?",
+                "answer": "15 November 2009",
+                "impossible": false,
+                "answer_start": 1091
+            },
+            {
+                "question": "Pada tahun 2009, apakah nama pertama bekas ahli Ratu, Brian May memberitahu peminat dia mempunyai pemahaman yang lebih baik?",
+                "answer": "Roger",
+                "impossible": false,
+                "answer_start": 484
+            },
+            {
+                "question": "Negara manakah yang membuat tawaran kepada Queen untuk satu prestasi pada tahun 2010?",
+                "answer": "Amerika Syarikat",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Album terakhir Queen yang memaparkan Mercury, berjudul Made in Heaven, akhirnya dibebaskan pada tahun 1995, empat tahun selepas kematiannya. Menampilkan trek seperti \"Terlalu Banyak Cinta Akan Membunuh Anda\" dan \"Syurga untuk Semua Orang\", ia dibina dari rakaman terakhir Mercury pada tahun 1991, bahan yang tersisa dari album studio mereka yang sebelumnya dan bahan semula kerja dari May, Taylor, dan solo Mercury album. Album ini juga menampilkan lagu \"Mother Love\", rakaman vokal terakhir Mercury yang dibuat sebelum kematiannya, yang mana ia selesai menggunakan mesin drum, di mana Mei, Taylor dan Deacon kemudian menambah trek instrumental. Setelah melengkapkan ayat terakhir, Mercury telah memberitahu band \"dia tidak merasa hebat\" dan menyatakan, \"Saya akan menyelesaikannya apabila saya kembali, kali seterusnya\"; Walau bagaimanapun, dia tidak pernah membuatnya kembali ke studio, jadi Mei kemudian merekodkan ayat terakhir lagu itu. Kedua-dua peringkat rakaman, sebelum dan selepas kematian Merkuri, telah selesai di studio band di Montreux, Switzerland. Album itu mencapai No 1 di carta UK sejurus selepas pembebasannya, dan telah menjual 20 juta kopi di seluruh dunia. Pada 25 November 1996, sebuah patung Mercury telah diumumkan di Montreux yang menghadap ke Tasik Geneva, hampir lima tahun hingga hari sejak kematiannya.",
+        "qa": [
+            {
+                "question": "Apakah album akhir Queen yang memaparkan vokal Mercury yang disusun dari rakaman terdahulu yang dipanggil?",
+                "answer": "Syurga untuk Semua Orang",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa banyak salinan di seluruh dunia yang telah dijual di album Queen 1995?",
+                "answer": "20 juta",
+                "impossible": false,
+                "answer_start": 1149
+            },
+            {
+                "question": "Pada tahun apakah patung yang didedikasikan untuk Freddie Mercury yang dilancarkan di Montreux?",
+                "answer": "1996",
+                "impossible": false,
+                "answer_start": 1197
+            },
+            {
+                "question": "Di mana studio Queen terletak di Switzerland?",
+                "answer": "Montreux",
+                "impossible": false,
+                "answer_start": 1041
+            }
+        ]
+    },
+    {
+        "context": "Pada 15 Ogos 2006, Brian May mengesahkan melalui laman web dan kelab peminatnya bahawa Queen + Paul Rodgers akan mula menghasilkan album studio pertama mereka bermula pada bulan Oktober, untuk dirakamkan di \"lokasi rahsia\". Permaisuri + Paul Rodgers tampil di Pesta Ulang Tahun Nelson Mandela ke-90 yang diadakan di Hyde Park, London pada 27 Jun 2008, untuk memperingati ulang tahun ke-99 Mandela, dan sekali lagi menggalakkan kesedaran mengenai pandemik HIV / AIDS. Album Queen + Paul Rodgers yang pertama, berjudul The Cosmos Rocks, telah dikeluarkan di Eropah pada 12 September 2008 dan di Amerika Syarikat pada 28 Oktober 2008. Berikutan pelepasan album, band ini sekali lagi mengadakan lawatan ke Eropah melalui pembukaan Kharkiv's Freedom Square di hadapan 350,000 peminat Ukraine. Konsert Kharkiv kemudian dikeluarkan pada DVD. Tur ini kemudiannya berpindah ke Rusia, dan band itu melakukan dua acara yang dijual di Moscow Arena. Setelah melengkapkan leg pertama lawatan Eropah yang luas, yang menyaksikan kumpulan itu memainkan 15 tarikh terjual habis di sembilan negara, lawatan UK yang dijual dalam masa 90 minit akan dijual dan termasuk tiga tarikh London, yang pertama di mana adalah The O2 pada 13 Oktober. Lawatan terakhir berlangsung di Amerika Selatan, dan termasuk konser yang dijual di Estadio Jos\u00e9 Amalfitani, Buenos Aires.",
+        "qa": [
+            {
+                "question": "Band yang mana yang dilakukan pada hari jadi 90 Nelson Mandela?",
+                "answer": "Queen + Paul Rodgers",
+                "impossible": false,
+                "answer_start": 87
+            },
+            {
+                "question": "Bilakah Queen + Paul Rodgers melepaskan album debut mereka?",
+                "answer": "2008",
+                "impossible": false,
+                "answer_start": 346
+            },
+            {
+                "question": "Apakah nama album debut Queen + Paul Rodgers?",
+                "answer": "The Cosmos Rocks",
+                "impossible": false,
+                "answer_start": 517
+            },
+            {
+                "question": "Berapa ramai orang di konsert Queen + Paul Rodgers pada tahun 2008 di Kharkiv?",
+                "answer": "350,000",
+                "impossible": false,
+                "answer_start": 763
+            },
+            {
+                "question": "Pada tahun 2008 apakah penyakit yang dilakukan oleh Queen melaksanakan konsert manfaat?",
+                "answer": "HIV / AIDS",
+                "impossible": false,
+                "answer_start": 455
+            }
+        ]
+    },
+    {
+        "context": "Ratu menubuhkan muzik yang menarik inspirasi dari pelbagai genre muzik, sering dengan sikap lidah-pipi. Genre yang telah dikaitkan dengannya termasuklah rock progresif, batu simfoni, batu seni, glam batu, batu keras, logam berat, rock pop, dan rock psychedelic. Ratu juga menulis lagu-lagu yang diilhamkan oleh pelbagai gaya muzik yang biasanya tidak dikaitkan dengan kumpulan rock, seperti opera, dewan muzik, muzik rakyat, injil, ragtime, dan tarian / disko. Beberapa lagu Queen telah ditulis dengan penyertaan penonton dalam fikiran, seperti \"We Will Rock You\" dan \"We Are the Champions\". Begitu juga, \"Radio Ga Ga\" menjadi kegemaran hidup kerana ia akan mempunyai \"orang ramai bertepuk tangan seperti mereka di perhimpunan Nuremberg\".",
+        "qa": [
+            {
+                "question": "Yang mana lagu Queen yang terinspirasi penonton bertepuk tangan?",
+                "answer": "Radio Ga Ga",
+                "impossible": false,
+                "answer_start": 606
+            },
+            {
+                "question": "Yang mana dua lagu Ratu ditulis dengan penyertaan khalayak?",
+                "answer": "\"We Will Rock You\" dan \"We Are the Champions\"",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apakah jenis logam yang telah dikaitkan dengan Ratu?",
+                "answer": "logam berat",
+                "impossible": false,
+                "answer_start": 217
+            },
+            {
+                "question": "Apa gaya 70-an muzik pop yang dikaitkan dengan Queen?",
+                "answer": "tarian / disko",
+                "impossible": false,
+                "answer_start": 445
+            }
+        ]
+    },
+    {
+        "context": "Pada 7 Mei 2010, May dan Taylor mengumumkan bahawa mereka telah meninggalkan label rekod mereka, EMI, selepas hampir 40 tahun. Pada 20 Ogos 2010, pengurus Queen Jim Beach mengeluarkan Surat Berita yang menyatakan bahawa kumpulan itu telah menandatangani kontrak baru dengan Universal Music. Semasa wawancara untuk Hardtalk di BBC pada 22 September, Mei mengesahkan bahawa perjanjian baru band itu adalah dengan Island Records, anak syarikat Universal Music Group. Untuk pertama kalinya sejak akhir 1980-an, katalog Queen akan mempunyai pengedar yang sama di seluruh dunia, sebagai label Amerika Utara-label Hollywood yang saat ini diagihkan oleh Universal (untuk satu masa pada akhir 1980-an, Queen adalah pada Capitol Records milik EMI di Amerika Syarikat).",
+        "qa": [
+            {
+                "question": "Apakah label rekod apakah May dan Taylor meninggalkan pada tahun 2010?",
+                "answer": "EMI",
+                "impossible": false,
+                "answer_start": 97
+            },
+            {
+                "question": "Apakah label yang dimahukan oleh Queen pada bulan Ogos 2010?",
+                "answer": "Universal Music",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Program apa yang ditemuramah Ratu pada 22 September 2010?",
+                "answer": "Hardtalk",
+                "impossible": false,
+                "answer_start": 314
+            },
+            {
+                "question": "Pulau rekod adalah anak syarikat kumpulan apa?",
+                "answer": "Universal Music Group",
+                "impossible": false,
+                "answer_start": 441
+            }
+        ]
+    },
+    {
+        "context": "Pada 20 September 2013, Queen + Adam Lambert tampil di Festival Muzik iHeartRadio di MGM Grand Hotel & Casino di Las Vegas. Pada 6 Mac 2014, band ini mengumumkan pada Good Morning America bahawa Queen + Adam Lambert akan melawat Amerika Utara pada musim panas 2014. Band ini juga akan melawat Australia dan New Zealand pada bulan Ogos / September 2014. Dalam temu bual dengan Rolling Stone, May dan Taylor mengatakan bahawa walaupun lawatan dengan Lambert adalah perkara yang terhad, mereka terbuka kepadanya menjadi ahli rasmi, dan memotong bahan baru dengannya.",
+        "qa": [
+            {
+                "question": "Bilakah Queen + Adam Lambert tampil di Festival Muzik iHeartRadio?",
+                "answer": "20 September 2013",
+                "impossible": false,
+                "answer_start": 5
+            },
+            {
+                "question": "Di mana Festival Muzik iHeartRadio diadakan pada tahun 2013?",
+                "answer": "MGM Grand Hotel & Casino di Las Vegas",
+                "impossible": false,
+                "answer_start": 85
+            },
+            {
+                "question": "Pada apa rancangan yang Queen mengumumkan mereka akan melawat dengan Adam Lambert?",
+                "answer": "Good Morning America",
+                "impossible": false,
+                "answer_start": 167
+            },
+            {
+                "question": "Bilakah lawatan Queen pertama dengan Adam Lambert dijadualkan?",
+                "answer": "musim panas 2014",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa ahli Ratu mengatakan bahawa mereka terbuka untuk membuat ahli tetap kumpulan pada 2014?",
+                "answer": "Lambert",
+                "impossible": false,
+                "answer_start": 37
+            }
+        ]
+    },
+    {
+        "context": "Band ini telah mengeluarkan sejumlah lapan belas nombor satu album, lapan belas nombor satu perseorangan, dan sepuluh nombor satu DVD di seluruh dunia, menjadikannya salah satu artis muzik terlaris di dunia. Queen telah menjual lebih daripada 150 juta rekod, dengan beberapa anggaran lebih daripada 300 juta rekod di seluruh dunia, termasuk 34.5 juta album di Amerika Syarikat pada tahun 2004. Dilampirkan ke Rock and Roll Hall of Fame pada tahun 2001, band ini adalah satu-satunya kumpulan di mana setiap ahli telah menyusun lebih daripada satu carta tunggal tunggal, dan keempat-empat ahli telah dimasukkan ke dalam Hall of Fame Songwriters pada tahun 2003. Pada tahun 2009, \"We Will Rock You\" dan \"We Are the Champions\" telah diangkut ke Dewan Grammy Kemasyhuran, dan yang terakhir telah dipilih sebagai lagu kegemaran dunia dalam pungutan muzik global.",
+        "qa": [
+            {
+                "question": "Berapa banyak nombor satu album yang telah dibebaskan oleh Queen?",
+                "answer": "lapan belas",
+                "impossible": false,
+                "answer_start": 37
+            },
+            {
+                "question": "Berapa banyak nombor satu perseorangan yang dilepaskan oleh Queen?",
+                "answer": "lapan belas",
+                "impossible": false,
+                "answer_start": 37
+            },
+            {
+                "question": "Berapa banyak nombor satu DVD yang telah dirilis Queen?",
+                "answer": "sepuluh",
+                "impossible": false,
+                "answer_start": 110
+            },
+            {
+                "question": "Berapa banyak album yang telah Queen dijual di seluruh dunia?",
+                "answer": "lebih daripada 150 juta rekod",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bilakah Ratu dirasuk ke Hall of Fame?",
+                "answer": "2001",
+                "impossible": false,
+                "answer_start": 447
+            }
+        ]
+    },
+    {
+        "context": "Queen meraih pengaruh artistik dari aksi rock British pada tahun 1960-an dan awal 1970-an, seperti Beatles, Kinks, Cream, Led Zeppelin, Pink Floyd, Siapa, Black Sabbath, Slade, Deep Purple, David Bowie, Genesis dan Yes, dalam Selain gitaris Amerika Jimi Hendrix, dengan Mercury juga diilhami oleh penyanyi Injil Aretha Franklin. Boleh merujuk kepada The Beatles sebagai \"bible kami dengan cara mereka menggunakan studio dan mereka melukis gambar dan penggunaan nada harmonis yang indah ini.\" Pada permulaannya pada awal 1970-an, muzik Queen telah dicirikan sebagai \"Led Zeppelin bertemu Ya\" kerana gabungan \"ekstrem gitar akustik / elektrik dan epik lagu multi-bahagian terinspirasi fantasi\".",
+        "qa": [
+            {
+                "question": "Yang gitaris mana yang diilhamkan oleh Ratu?",
+                "answer": "Jimi Hendrix",
+                "impossible": false,
+                "answer_start": 249
+            },
+            {
+                "question": "Apa yang dikatakan oleh penyanyi Injil Freddie Mercury sebagai inspirasi?",
+                "answer": "Aretha Franklin",
+                "impossible": false,
+                "answer_start": 312
+            },
+            {
+                "question": "Ratu Queen telah digambarkan sebagai campuran Led Zeppelin dan apa band lain?",
+                "answer": "Ya",
+                "impossible": false,
+                "answer_start": 587
+            },
+            {
+                "question": "Kewarganegaraan apakah kumpulan rock yang mempengaruhi Ratu?",
+                "answer": "British",
+                "impossible": false,
+                "answer_start": 46
+            },
+            {
+                "question": "Band apa yang dinamakan selepas kenderaan terapung mempengaruhi Ratu?",
+                "answer": "Led Zeppelin",
+                "impossible": false,
+                "answer_start": 122
+            }
+        ]
+    }
+]

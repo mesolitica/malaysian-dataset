@@ -1,0 +1,594 @@
+[
+    {
+        "context": "Pada tahun 1963, remaja Brian May dan bapanya membuat rekaan gitarnya Red Special, yang sengaja direka untuk maklum balas. Percubaan Sonic digambarkan dengan banyak lagu-lagu Queen. Ciri khas muzik Queen adalah harmoni suara yang biasanya terdiri daripada suara May, Mercury, dan Taylor yang paling banyak didengar di album studio A Night di Opera dan A Day di Races. Beberapa kerja asas untuk pembangunan bunyi ini boleh dikaitkan dengan bekas pengeluarnya, Roy Thomas Baker, dan juruteranya, Mike Stone. Selain keharmonian suara, Ratu juga terkenal dengan suara pelbagai suara untuk meniru bunyi paduan suara besar melalui overdub. Sebagai contoh, menurut Brian May, terdapat lebih daripada 180 saluran suara dalam \"Bohemian Rhapsody\". Struktur vokal band telah dibandingkan dengan Boys Beach, tetapi Mei menyatakan bahawa mereka tidak \"banyak pengaruh\".",
+        "qa": [
+            {
+                "question": "Apakah nama gitar tanda tangan Brian May?",
+                "answer": "Red Special",
+                "impossible": false,
+                "answer_start": 70
+            },
+            {
+                "question": "Tahun apa gitar tanda tangan Brian May dibuat?",
+                "answer": "1963",
+                "impossible": false,
+                "answer_start": 11
+            },
+            {
+                "question": "Pengeluar mana yang mempengaruhi bunyi umpan berat Queen?",
+                "answer": "Roy Thomas Baker",
+                "impossible": false,
+                "answer_start": 459
+            },
+            {
+                "question": "Apa jurutera yang membantu dengan suapan berat suara Queen?",
+                "answer": "Mike Stone",
+                "impossible": false,
+                "answer_start": 494
+            },
+            {
+                "question": "Berapa banyak saluran suara dalam Queen's Bohemian Rhapsody?",
+                "answer": "lebih 180 tahun",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 2002, Ratu \"Bohemian Rhapsody\" telah dipilih sebagai \"lagu kegemaran UK sepanjang masa\" dalam tinjauan yang dilakukan oleh Rekod Dunia Rekod Singa Dunia Guinness. Pada tahun 2004, lagu itu telah dimasukkan ke dalam Hall of Fame Grammy. Ramai ulama menganggap muzik \"Bohemian Rhapsody\" memecah-belahkan video muzik, dan mengecilkannya dengan mempopulerkan media. Ahli sejarah Rock Paul Fowles menyatakan lagu itu \"dikreditkan secara meluas sebagai lagu hit global pertama yang mana video yang disertakan menjadi pusat strategi pemasaran\". Ia telah dipuji sebagai melancarkan umur MTV. Dikenang untuk rock stadium mereka, pada tahun 2005 tinjauan industri menduduki peringkat prestasi Queen di Live Aid pada tahun 1985 sebagai aksi langsung terbaik dalam sejarah. Pada tahun 2007, mereka juga mengundi kumpulan British terbesar dalam sejarah oleh pendengar BBC Radio 2.",
+        "qa": [
+            {
+                "question": "Lagu apa yang dipilih sebagai lagu kegemaran UK sepanjang zaman pada tahun 2002?",
+                "answer": "Bohemian Rhapsody",
+                "impossible": false,
+                "answer_start": 23
+            },
+            {
+                "question": "Apa lagu Queen yang diarahkan ke Dewan Kemasyhuran Grammy pada tahun 2004?",
+                "answer": "Bohemian Rhapsody",
+                "impossible": false,
+                "answer_start": 23
+            },
+            {
+                "question": "Video Queen mana yang dikreditkan dengan melancarkan umur video MTV?",
+                "answer": "Bohemian Rhapsody",
+                "impossible": false,
+                "answer_start": 23
+            },
+            {
+                "question": "Satu tinjauan pendapat 2005 menyatakan bahawa prestasi band di Live Aid adalah yang terbaik?",
+                "answer": "Ratu",
+                "impossible": false,
+                "answer_start": 17
+            }
+        ]
+    },
+    {
+        "context": "Pada bulan Mei 2011, vokalis Jane Addiction, Perry Farrell menyatakan bahawa Queen sedang mengejar bekas bassis bekas dan kini Chris Chaney untuk menyertai kumpulan itu. Farrell menyatakan: \"Saya perlu menjaga Chris jauh dari Ratu, yang mahu dia dan mereka tidak akan mendapatkannya melainkan jika kita tidak melakukan apa-apa, maka mereka boleh memilikinya.\" Pada bulan yang sama, Paul Rodgers menyatakan dia boleh melawat dengan Ratu lagi dalam masa terdekat. Pada Anugerah Penyiaran Muzik, Incorporated (BMI) 2011 yang diadakan di London pada 4 Oktober, Queen menerima Anugerah Ikon BMI sebagai pengiktirafan untuk kejayaan mereka di Amerika Syarikat. Pada Anugerah Muzik MTV Eropah 2011 pada 6 November, Queen menerima Anugerah Ikon Global, yang Katy Perry dikemukakan kepada Brian May. Ratu menutup majlis anugerah, dengan Adam Lambert pada vokal, melakukan \"The Show Must Go On\", \"We Will Rock You\" dan \"We Are the Champions\". Kerjasama itu mendapat sambutan positif daripada para peminat dan pengkritik, yang menghasilkan spekulasi mengenai projek masa depan bersama.",
+        "qa": [
+            {
+                "question": "Artis mana yang menyampaikan Anugerah Ikon Global kepada Ratu pada tahun 2011?",
+                "answer": "Katy Perry",
+                "impossible": false,
+                "answer_start": 750
+            },
+            {
+                "question": "Artis mana yang dilakukan dengan Ratu pada Anugerah Muzik MTV Europe 2011?",
+                "answer": "Adam Lambert",
+                "impossible": false,
+                "answer_start": 828
+            },
+            {
+                "question": "Di manakah anugerah BMI yang diadakan pada tahun 2011?",
+                "answer": "London",
+                "impossible": false,
+                "answer_start": 534
+            },
+            {
+                "question": "Band apa yang bimbang Queen akan mencuri bassis persembahan langsung mereka?",
+                "answer": "Jane Addiction",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Ratu telah diiktiraf sebagai telah membuat sumbangan penting kepada genre seperti batu keras, dan logam berat, antara lain. Oleh itu, band ini telah dinobatkan sebagai pengaruh oleh banyak pemuzik lain. Selain itu, seperti muzik mereka, band dan artis yang mendakwa dipengaruhi oleh Ratu dan telah menyatakan kekaguman untuk mereka adalah pelbagai, yang meliputi generasi, negara, dan genre yang berbeza, termasuk logam berat: Judas Priest, Iron Maiden, Metallica, Dream Theater , Trivium, Megadeth, Anthrax, Slipknot dan Rage Against the Machine; Batu keras: Guns N 'Roses, Def Leppard, Van Halen, M\u00f6tley Cr\u00fce, Steve Vai, Cult, Darkness, Preachers Street Manic, Kid Rockand Foo Fighters; rock alternative: Nirvana, Radiohead, Trent Reznor, Muse, Franz Ferdinand, Red Hot Chili Peppers, Ketagihan Jane, Faith No More, Melvins, Flaming Bibs, Yeah Yeah Yeahs dan The Smashing Pumpkins; pop rock: Meat Loaf, The Killers, My Chemical Romance, Fall Out Boy and Panic! Di Disco; dan pop: Michael Jackson, George Michael, Robbie Williams, Adele, Lady Gaga dan Katy Perry.",
+        "qa": [
+            {
+                "question": "Yang mana Raja Pop dipengaruhi oleh Ratu?",
+                "answer": "Michael Jackson",
+                "impossible": false,
+                "answer_start": 982
+            },
+            {
+                "question": "Beberapa kumpulan dari mana jenis logam dipengaruhi oleh Ratu?",
+                "answer": "logam berat",
+                "impossible": false,
+                "answer_start": 98
+            },
+            {
+                "question": "Kumpulan ini dinamakan sempena haiwan terinspirasi oleh Ratu?",
+                "answer": "Def Leppard",
+                "impossible": false,
+                "answer_start": 575
+            },
+            {
+                "question": "Kumpulan ini dengan bunga dalam nama mereka dipengaruhi oleh Ratu?",
+                "answer": "Guns N 'Roses",
+                "impossible": false,
+                "answer_start": 560
+            }
+        ]
+    },
+    {
+        "context": "Pada 25 dan 26 April, May dan Taylor muncul di siri kesebelas American Idol di Nokia Theatre, Los Angeles, mengadakan medley Queen dengan enam finalis pada pertunjukan pertama, dan hari berikutnya melakukan \"Somebody to Love\" dengan Band 'Queen Extravaganza'. Permaisuri dijadualkan untuk mengetuai Sonisphere di Knebworth pada 7 Julai 2012 dengan Adam Lambert sebelum festival itu dibatalkan. Konsert akhir Queen dengan Freddie Mercury berada di Knebworth pada tahun 1986. Brian May berkomentar, \"Ini satu cabaran yang baik untuk kami, dan saya yakin Adam akan bertemu dengan persetujuan Freddie.\" Ratu menyatakan kekecewaan pada pembatalan itu dan mengeluarkan kenyataan yang bermaksud mereka mencari tempat lain. Ia kemudian diumumkan bahawa Queen + Adam Lambert akan memainkan dua pertunjukan di Hammersmith Apollo, London pada 11 dan 12 Julai 2012. Kedua-dua pertunjukan dijual dalam masa 24 jam dari tiket yang akan dijual terbuka. Tarikh London yang ketiga dijadualkan pada 14 Julai. Pada 30 Jun, Queen + Lambert ditayangkan di Kiev, Ukraine pada konsert bersama Elton John untuk Elena Pinchuk ANTIAIDS Foundation. Queen juga tampil dengan Lambert pada 3 Julai 2012 di Stadium Olimpik Moscow, dan pada 7 Julai 2012 di Stadium Perbandaran di Wroclaw, Poland.",
+        "qa": [
+            {
+                "question": "Yang mana ahli Ratu muncul di American Idol pada akhir tahun 2000an?",
+                "answer": "May dan Taylor",
+                "impossible": false,
+                "answer_start": 22
+            },
+            {
+                "question": "Di mana konsert terakhir Queen dengan Freddie Mercury diadakan pada tahun 1986?",
+                "answer": "Knebworth",
+                "impossible": false,
+                "answer_start": 313
+            },
+            {
+                "question": "Queen dan Adam Lambert memainkan dua pertunjukan di mana pada bulan Julai 2012?",
+                "answer": "Hammersmith Apollo, London",
+                "impossible": false,
+                "answer_start": 800
+            },
+            {
+                "question": "Elena Pinchuk mempunyai jenis asas apa?",
+                "answer": "ANTIAIDS Foundation",
+                "impossible": false,
+                "answer_start": 1101
+            },
+            {
+                "question": "Di manakah Queen tampil dengan Adam Lambert pada 3 Julai 2012?",
+                "answer": "Stadium Olimpik Moscow",
+                "impossible": false,
+                "answer_start": 1176
+            }
+        ]
+    },
+    {
+        "context": "Pengeluaran London asal dijadualkan ditutup pada hari Sabtu, 7 Oktober 2006, di Teater Dominion, tetapi disebabkan permintaan awam, pertunjukan berlari hingga Mei 2014. Kami Will Rock You telah menjadi muzik larian yang paling lama yang pernah berlari di London utama ini teater, memotong pemegang rekod sebelumnya, muzik Grease. Brian May menyatakan pada tahun 2008 bahawa mereka sedang mempertimbangkan menulis sekuel muzik. Musical tersebut melawat sekitar UK pada tahun 2009, bermain di Teater Manchester Palace, Sunderland Empire, Birmingham Hippodrome, Bristol Hippodrome, dan Edinburgh Playhouse.",
+        "qa": [
+            {
+                "question": "Bilakah pengeluaran Queen of London dijadualkan berakhir pada tahun 2006?",
+                "answer": "Sabtu, 7 Oktober",
+                "impossible": false,
+                "answer_start": 54
+            },
+            {
+                "question": "Di mana pengeluaran Ratu 2006 London diadakan?",
+                "answer": "Teater Dominion",
+                "impossible": false,
+                "answer_start": 80
+            },
+            {
+                "question": "Bilakah pengeluaran Queen's 2006 London sebenarnya berakhir?",
+                "answer": "Mei 2014",
+                "impossible": false,
+                "answer_start": 159
+            },
+            {
+                "question": "Apa rancangan larian yang paling lama di Teater Dominion?",
+                "answer": "Kami Will Rock You",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa rancangan terpanjang kedua di Teater Dominion?",
+                "answer": "Grease",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Queen telah dipaparkan beberapa kali dalam francais Guitar Hero: penutup \"Killer Queen\" dalam Guitar Hero yang asal, \"We Are the Champions\", \"Girls Bottom Fat\", dan Paul Rodgers kolaborasi \"C-lebrity\" dalam lagu trek untuk Guitar Hero World Tour, \"Under Pressure\" dengan David Bowie dalam Guitar Hero 5, \"I Want It All\" dalam Guitar Hero: Van Halen, \"Stone Cold Crazy\" dalam Guitar Hero: Metallica, dan \"Bohemian Rhapsody\" in Hero Gitar: Warriors of Rock. Pada 13 Oktober 2009, Brian May mendedahkan terdapat \"ceramah\" yang berlaku \"di belakang tabir\" mengenai permainan Queen Rock Band yang berdedikasi.",
+        "qa": [
+            {
+                "question": "Permainan video muzik mana yang menampilkan banyak lagu Queen?",
+                "answer": "Hero Gitar",
+                "impossible": false,
+                "answer_start": 426
+            },
+            {
+                "question": "Siapa yang bekerjasama dengan Freddie Mercury pada lagu Under Pressure?",
+                "answer": "David Bowie",
+                "impossible": false,
+                "answer_start": 271
+            },
+            {
+                "question": "Yang mana ahli Queen membincangkan kemungkinan permainan video Queen Rock Band?",
+                "answer": "Brian May",
+                "impossible": false,
+                "answer_start": 478
+            },
+            {
+                "question": "Apa band Heavy Metal mempunyai permainan video di mana Queen dipaparkan?",
+                "answer": "Metallica",
+                "impossible": false,
+                "answer_start": 388
+            }
+        ]
+    },
+    {
+        "context": "Beberapa filem telah memaparkan lagu mereka yang dilakukan oleh artis lain. Satu versi \"Somebody to Love\" oleh Anne Hathaway adalah dalam filem 2004 Ella Enchanted. Pada tahun 2006, Brittany Murphy juga merakamkan sampul lagu yang sama untuk filem Happy Feet tahun 2006. Pada tahun 2001, versi \"The Show Must Go On\" telah dilakukan oleh Jim Broadbent dan Nicole Kidman dalam filem musikal Moulin Rouge !. Filem 2001 A Knight's Tale mempunyai versi \"We Are the Champions\" yang dilakukan oleh Robbie Williams dan Queen; filem itu juga mempunyai \"We Will Rock You\" yang dimainkan oleh penonton zaman pertengahan.",
+        "qa": [
+            {
+                "question": "ho menyanyikan versi Queen's Som Love to Love pada Ella Enchanted tahun 2004?",
+                "answer": "Anne Hathaway",
+                "impossible": false,
+                "answer_start": 111
+            },
+            {
+                "question": "Pelakon manakah yang merekodkan lagu Queen untuk Happy Feet 2006?",
+                "answer": "Brittany Murphy",
+                "impossible": false,
+                "answer_start": 182
+            },
+            {
+                "question": "Filem mana yang memaparkan sampul Queen's Show Must Go On?",
+                "answer": "Moulin Rouge",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Filem manakah yang mempunyai Robbie Williams yang memakai sampul Queen We Are the Champions?",
+                "answer": "A Knight's Tale",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada musim gugur tahun 2009, Glee menampilkan persembahan choir sekolah tinggi fiksyen \"Somebody to Love\" sebagai prestasi kedua mereka dalam episod \"The Rhodes Not Taken\". Persembahan itu disertakan pada CD soundtrack Volume 1 pertunjukan. Pada bulan Jun 2010, paduan suara itu dilakukan \"Satu lagi Menggigit Debu\" dalam episod \"Funk\". Episod minggu berikutnya, \"Journey to Regionals\", memaparkan paduan suara rombongan yang melakukan \"Bohemian Rhapsody\" secara keseluruhannya. Lagu itu dipaparkan pada EP episod. Pada bulan Mei 2012, paduan suara itu dilakukan \"We Are the Champions\" dalam episod \"Nationals\", dan ciri-ciri lagu dalam Album Graduation.",
+        "qa": [
+            {
+                "question": "Lagu Queen mana yang dipaparkan pada musim gugur tahun 2009 di Glee",
+                "answer": "Somebody to Love",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa lagu Queen yang menyaksikan persembahan koir Glee pada bulan Jun 2010?",
+                "answer": "Satu lagi Menggigit Debu",
+                "impossible": false,
+                "answer_start": 290
+            },
+            {
+                "question": "Apa lagu Queen yang dilakukan pada episod Mei 2012 Glee?",
+                "answer": "We Are the Champions",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa lagu Queen yang dipaparkan di Album Graduation Glee?",
+                "answer": "We Are the Champions",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Queen menyumbang muzik secara langsung kepada filem-filem Flash Gordon (1980), dengan \"Flash\" sebagai lagu tema, dan Highlander (filem 1986 asli), dengan \"A Kind of Magic\", \"One Year of Love\" Live Forever \",\" Hammer to Fall \", dan tema\" Princes of the Universe \", yang juga digunakan sebagai tema siri Highlander TV (1992-1998). Di Amerika Syarikat, \"Bohemian Rhapsody\" dilancarkan semula sebagai single pada tahun 1992 selepas muncul dalam filem komedi Wayne's World. Single kemudian mencapai nombor dua di Billboard Hot 100 (dengan \"The Show Must Go On\" sebagai trek pertama pada single) dan membantu menghidupkan semula populariti band di Amerika Utara.",
+        "qa": [
+            {
+                "question": "Di mana filem 1980 mengandungi sumbangan lagu dari Ratu?",
+                "answer": "Flash Gordon",
+                "impossible": false,
+                "answer_start": 58
+            },
+            {
+                "question": "Filem 1986 mana yang mengandungi lagu tema Queen?",
+                "answer": "Highlander",
+                "impossible": false,
+                "answer_start": 117
+            },
+            {
+                "question": "Dalam tahun apakah Bohemian Rhapsody dibebaskan semula di AS?",
+                "answer": "1992",
+                "impossible": false,
+                "answer_start": 317
+            },
+            {
+                "question": "Seberapa tinggi carta 1992 Bohemian Rhapsody?",
+                "answer": "dua",
+                "impossible": false,
+                "answer_start": 501
+            }
+        ]
+    },
+    {
+        "context": "Di bawah pengawasan May dan Taylor, banyak projek pemulihan telah dilakukan yang melibatkan katalog audio dan video Queen yang panjang. Rilis DVD konsert Wembley 1986 mereka (bertajuk Live at Wembley Stadium), 1982 konsert Milton Keynes (Queen on Fire - Live at the Bowl), dan dua Video Video Terbesar (Volum 1 dan 2, merangkumi tahun 1970-an dan 1980-an) telah melihat muzik band berubah menjadi 5.1 dan bunyi surround DTS. Setakat ini, hanya dua daripada album band, A Night di Opera dan The Game, telah digabungkan sepenuhnya ke dalam rangkaian pelbagai resolusi tinggi di DVD-Audio. Malam di Opera dilancarkan semula dengan beberapa campuran 5.1 yang telah disemak semula dan video yang disertakan pada tahun 2005 untuk ulang tahun ke-30 peluncuran asal album (CD + DVD-Video set). Pada 2007, edisi Blu-ray edisi Queen sebelum ini yang dikeluarkan, Queen Rock Montreal & Live Aid, dikeluarkan, menandakan projek pertama mereka dalam 1080p HD.",
+        "qa": [
+            {
+                "question": "Queen's Live di Wembley Stadium DVD merangkumi tahun apa?",
+                "answer": "1986",
+                "impossible": false,
+                "answer_start": 162
+            },
+            {
+                "question": "Queen on Fire termasuk konsert 1982 ini?",
+                "answer": "Milton Keynes",
+                "impossible": false,
+                "answer_start": 223
+            },
+            {
+                "question": "Ketika Ratu A Night di Opera dikeluarkan semula?",
+                "answer": "2005",
+                "impossible": false,
+                "answer_start": 713
+            },
+            {
+                "question": "Bilakah Queen Bluray pertama dibebaskan?",
+                "answer": "2007",
+                "impossible": false,
+                "answer_start": 791
+            },
+            {
+                "question": "Ahli band mana yang terlibat dalam pemulihan projek-projek sebelum Ratu?",
+                "answer": "Mei dan Taylor",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada 11 April 2006, Brian May dan Roger Taylor muncul di pertunjukan nyanyian American American television show. Setiap peserta perlu menyanyikan lagu Queen pada minggu itu. Lagu-lagu yang muncul di acara tersebut termasuk \"Bohemian Rhapsody\", \"Girls Under the Fat\", \"The Show Must Go On\", \"Who Wants to Live Forever\", dan \"Innuendo\". Brian May kemudian mengkritik persembahan untuk menyunting adegan tertentu, salah satunya membuat masa kumpulan dengan peserta Ace Young kelihatan negatif, walaupun ia sebaliknya. Taylor dan May sekali lagi muncul di final musim 8 musim Amerika Idol pada Mei 2009, yang menampilkan \"We Are the Champions\" dengan finalis Adam Lambert dan Kris Allen. Pada 15 November 2009, Brian May dan Roger Taylor muncul di pertunjukan nyanyian pertandingan televisyen X Factor di UK.",
+        "qa": [
+            {
+                "question": "Pada tarikh apa pada tahun 2006 apakah May dan Taylor of Queen muncul di American Idol?",
+                "answer": "11 April",
+                "impossible": false,
+                "answer_start": 5
+            },
+            {
+                "question": "Apa bulan dan tahun adalah musim terakhir American Idol?",
+                "answer": "Mei 2009",
+                "impossible": false,
+                "answer_start": 590
+            },
+            {
+                "question": "Siapa yang 8 musim finalis pada American Idol?",
+                "answer": "Adam Lambert dan Kris Allen",
+                "impossible": false,
+                "answer_start": 655
+            },
+            {
+                "question": "Pada tarikh apakah Queen dan May muncul di Queen X?",
+                "answer": "15 November 2009",
+                "impossible": false,
+                "answer_start": 689
+            }
+        ]
+    },
+    {
+        "context": "Ratu adalah salah satu band yang paling terkenal, menurut Nick Weymouth, yang menguruskan laman web rasmi band itu. Satu tinjauan tahun 2001 mendapati kewujudan 12,225 tapak web yang didedikasikan untuk kegebuan Queen, jumlah tertinggi bagi mana-mana band. Rekaman Bootleg telah menyumbang kepada populariti band di negara-negara tertentu di mana muzik Barat ditapis, seperti Iran. Dalam satu projek yang dipanggil Ratu: The Bootlegs Top 100, banyak daripada ini telah disediakan secara rasmi untuk memuat turun untuk bayaran nominal dari laman web Queen, dengan keuntungan yang akan ke Mercury Phoenix Trust. Rolling Stone menduduki tempat Queen di nombor 52 dalam senarai \"100 Artis Terbesar Sepanjang Masa\", sambil menduduki Mercury penyanyi ke-18 terbesar, dan Mei gitaris terbesar kedua puluh enam. Ratu dinamakan ke-13 pada senarai artis 100 Hard Rock VH1, dan pada tahun 2010 menduduki tempat ke-17 pada senarai 100 Seniman Terbesar VH1. Pada tahun 2012, pembaca Gigwise menamakan Queen sebagai band terbaik dalam 60 tahun yang lalu.",
+        "qa": [
+            {
+                "question": "Berapa banyak tapak raksasa Permaisuri ditemui pada tahun 2001?",
+                "answer": "12,225",
+                "impossible": false,
+                "answer_start": 161
+            },
+            {
+                "question": "Di manakah kedudukan Queen di Rolling Stone 100 Artis Terbesar di All Time pada tahun 2001?",
+                "answer": "nombor 52",
+                "impossible": false,
+                "answer_start": 650
+            },
+            {
+                "question": "Pada tahun 2010 VH1 menduduki Ratu berapa bilangan artis Artis Terbesar mereka?",
+                "answer": "ke-17",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Negara apakah laman web yang popular untuk kokain Ratu kerana ia dilarang?",
+                "answer": "Iran",
+                "impossible": false,
+                "answer_start": 376
+            }
+        ]
+    },
+    {
+        "context": "Pada bulan September 2010, Brian May mengumumkan dalam wawancara BBC bahawa Sacha Baron Cohen adalah untuk memainkan Mercury dalam filem dengan nama yang sama. Masa mengulas dengan kelulusan keupayaan menyanyi dan persamaan visual kepada Mercury. Walau bagaimanapun, pada bulan Julai 2013, Baron Cohen jatuh dari peranan kerana \"perbezaan kreatif\" antara beliau dan anggota band yang masih hidup. Pada bulan Disember 2013, ia diumumkan bahawa Ben Whishaw, yang paling terkenal kerana bermain Q dalam filem James Bond Skyfall, telah dipilih untuk menggantikan Cohen dalam peranan Mercury. Gambar gerakan itu ditulis oleh Peter Morgan, yang telah dicalonkan untuk Oscar untuk rancangannya The Queen and Frost / Nixon. Filem ini, yang dihasilkan bersama oleh TriBeCa Productions Robert De Niro, akan memberi tumpuan kepada tahun-tahun pembentukan Queen dan tempoh yang membawa kepada prestasi yang diraikan pada konsert 1985 Live Aid.",
+        "qa": [
+            {
+                "question": "Siapakah yang pada mulanya dipilih untuk memainkan Freddie Mercury dalam filem yang memakai namanya?",
+                "answer": "Sacha Baron Cohen",
+                "impossible": false,
+                "answer_start": 76
+            },
+            {
+                "question": "Siapa pengganti bermain Freddie Mercury dalam filem dengan nama yang sama?",
+                "answer": "Ben Whishaw",
+                "impossible": false,
+                "answer_start": 443
+            },
+            {
+                "question": "Siapa yang menulis filem Freddie Mercury?",
+                "answer": "Peter Morgan",
+                "impossible": false,
+                "answer_start": 620
+            },
+            {
+                "question": "Pelakon mana yang menghasilkan filem Freddie Mercury?",
+                "answer": "Robert De Niro",
+                "impossible": false,
+                "answer_start": 776
+            },
+            {
+                "question": "Pada tahun apakah Ratu melakukan Live Aid?",
+                "answer": "1985",
+                "impossible": false,
+                "answer_start": 917
+            }
+        ]
+    },
+    {
+        "context": "Kerajaan presbyterian adalah oleh majlis-majlis (dikenali sebagai mahkamah). Penatua yang mengajar dan berkuasa ditahbiskan dan berkumpul di dewan paling rendah yang dikenali sebagai sesi atau konsistori yang bertanggungjawab untuk disiplin, memupuk, dan misi jemaah tempatan. Mengajar para penatua (pastor) mempunyai tanggungjawab untuk mengajar, menyembah, dan melaksanakan sakramen. Pastor dipanggil oleh jemaah individu. Sidang jemaah mengeluarkan panggilan untuk perkhidmatan pastor, tetapi panggilan ini mesti disahkan oleh presbyter setempat.",
+        "qa": [
+            {
+                "question": "Apakah kerajaan Presbyterian dikenali sebagai?",
+                "answer": "majlis-majlis (dikenali sebagai mahkamah)",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apakah tanggungjawab para pastor yang lebih tua?",
+                "answer": "mengajar, menyembah, dan melaksanakan sakramen",
+                "impossible": false,
+                "answer_start": 338
+            },
+            {
+                "question": "Apabila jemaah mengeluarkan panggilan untuk pelayanan oleh pastor, yang harus mengesahkannya?",
+                "answer": "misi jemaah tempatan",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Presbyterianisme adalah sejarah tradisi pengakuan. Ini mempunyai dua implikasi. Yang jelas adalah bahawa gereja-gereja yang mengaku percaya iman mereka dalam bentuk \"pengakuan iman,\" yang mempunyai tahap status yang berwibawa. Walau bagaimanapun, ini adalah berdasarkan titik yang lebih halus: Di dalam gereja-gereja yang mengaku, teologi bukan semata-mata perkara individu. Walaupun individu digalakkan memahami Kitab Suci, dan mungkin mencabar pemahaman institusi semasa, teologi dijalankan oleh masyarakat secara keseluruhan. Ia adalah pemahaman masyarakat tentang teologi yang dinyatakan dalam pengakuan.",
+        "qa": [
+            {
+                "question": "Presbyterianisme berdasarkan jenis tradisi ini, apa itu?",
+                "answer": "tradisi pengakuan",
+                "impossible": false,
+                "answer_start": 32
+            },
+            {
+                "question": "gereja-gereja Confessional menyatakan bentuk pengakuan ini, apa yang dinamakannya?",
+                "answer": "pengakuan iman",
+                "impossible": false,
+                "answer_start": 166
+            },
+            {
+                "question": "Apa yang bukan satu-satunya perkara secara individu dalam gereja pengakuan?",
+                "answer": "teologi",
+                "impossible": false,
+                "answer_start": 331
+            },
+            {
+                "question": "Bagaimana teologi dijalankan di gereja pengakuan?",
+                "answer": "oleh masyarakat secara keseluruhan",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Presbyterians sangat penting dalam pendidikan dan pembelajaran sepanjang hayat. Kajian berterusan kitab suci, tulisan-tulisan teologi, dan pemahaman dan penafsiran doktrin gereja diartikan dalam beberapa pernyataan iman dan katekisme yang secara formal diadopsi oleh berbagai cabang gereja, yang sering disebut sebagai \"taraf bawahan\". Secara amnya dianggap bahawa titik pembelajaran sedemikian adalah untuk membolehkan seseorang untuk mengamalkan iman seseorang; sesetengah Presbyterian secara amnya memperlihatkan iman mereka dalam tindakan serta kata-kata, dengan kemurahan hati, perhotelan, serta mengisytiharkan Injil Kristus.",
+        "qa": [
+            {
+                "question": "Apa yang dimaksudkan oleh Presbyterian?",
+                "answer": "pendidikan dan pembelajaran sepanjang hayat",
+                "impossible": false,
+                "answer_start": 35
+            },
+            {
+                "question": "Apa kajian mereka terdiri daripada?",
+                "answer": "kitab suci, tulisan-tulisan teologi, dan pemahaman dan penafsiran doktrin gereja",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bagaimana presbyterian mempamerkan iman mereka?",
+                "answer": "dengan kemurahan hati, perhotelan, serta mengisytiharkan Injil Kristus.",
+                "impossible": false,
+                "answer_start": 560
+            }
+        ]
+    },
+    {
+        "context": "Sesetengah tradisi Presbyterian hanya menggunakan Westminster Confession of Faith sebagai piawai doktrin yang mengajar para penatua untuk melanggan, berbeza dengan katekismus yang lebih besar dan lebih pendek, yang diluluskan untuk kegunaan dalam pengajaran. Banyak denominasi Presbyterian, terutamanya di Amerika Utara, telah mengadopsi semua Piawai Westminster sebagai piawai doktrin mereka yang bertentangan dengan Alkitab. Dokumen-dokumen ini adalah Calvinistik dalam orientasi doktrin mereka. Gereja Presbyterian di Kanada mengekalkan Westminster Confession of Faith dalam bentuk asalnya, sementara mengakui tempoh sejarah di mana ia ditulis harus dipahami apabila dibaca.",
+        "qa": [
+            {
+                "question": "Apakah tradisi yang dilakukan oleh beberapa gereja Presbyterian hanya sebagai standard doktrin mereka?",
+                "answer": "Westminster Confession of Faith",
+                "impossible": false,
+                "answer_start": 50
+            },
+            {
+                "question": "Banyak jemaat Presbyterian di Amerika telah mengadopsi doktrin ini sebagai standard mereka, apa itu?",
+                "answer": "Piawai Westminster",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Gereja Presbyterian di Kanada telah mengekalkan Doktrin dalam bentuk aslinya?",
+                "answer": "Westminster Confession of Faith",
+                "impossible": false,
+                "answer_start": 50
+            }
+        ]
+    },
+    {
+        "context": "Penatua yang berkuasa biasanya orang awam (dan perempuan dalam beberapa denominasi) yang dipilih oleh jemaat dan ditahbiskan untuk berkhidmat dengan para penatua yang mengajar, dengan tanggungjawab untuk memelihara dan memimpin jemaat. Seringkali, terutamanya dalam jemaat yang lebih besar, para penatua mewakilkan praktikal bangunan, kewangan, dan kuliah sementara kepada orang yang memerlukan dalam sidang jemaah ke kumpulan pegawai yang berbeda (kadang-kadang dipanggil diakon, yang ditahbiskan dalam beberapa denominasi). Kumpulan ini mungkin dikenali sebagai \"Dewan Deacon\", \"Lembaga Deacon\" \"Diaconate\", atau \"Mahkamah Deakons\". Ini kadang-kadang dikenali sebagai \"presbyter\" kepada jemaat penuh.",
+        "qa": [
+            {
+                "question": "Siapa yang memilih orang tua yang berkuasa?",
+                "answer": "jemaat",
+                "impossible": false,
+                "answer_start": 102
+            },
+            {
+                "question": "Dalam jemaat yang sangat besar, apa yang ditugaskan para penatua?",
+                "answer": "praktikal bangunan, kewangan, dan kuliah sementara",
+                "impossible": false,
+                "answer_start": 315
+            },
+            {
+                "question": "Ada sekumpulan pegawai di jemaat, nama-nama lain yang mereka kenal?",
+                "answer": "Diaconate",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Di atas sesi terdapat presbyter, yang mempunyai tanggungjawab kawasan. Ini terdiri daripada penatua penatua dan penatua yang berkuasa dari masing-masing jemaat konstituen. Presbyter menghantar wakil ke perhimpunan serantau atau kebangsaan yang lebih luas, yang umumnya dikenali sebagai Perhimpunan Agung, walaupun terdapat tahap pertengahan dari suatu sinode kadang-kadang wujud. Skema sidang jemaah / presbiter / synod / jeneral ini berdasarkan pada struktur sejarah jemaat Presbyterian yang lebih besar, seperti Gereja Scotland atau Gereja Presbyterian (U.S.A.); sesetengah mayat, seperti Gereja Presbyterian di Amerika dan Gereja Presbyterian di Ireland, melangkau salah satu langkah antara jemaah dan Perhimpunan Agung, dan biasanya langkah yang dilangkau adalah Synod. Jemaat Scotland kini telah menghapuskan Synod. [Rujukan?]",
+        "qa": [
+            {
+                "question": "Kumpulan mana dari jemaat Presbyterian dalam pangkat adalah di atas sesi?",
+                "answer": "presbyter",
+                "impossible": false,
+                "answer_start": 22
+            },
+            {
+                "question": "Apa tanggungjawab begitu Presbyterian?",
+                "answer": "tanggungjawab kawasan",
+                "impossible": false,
+                "answer_start": 48
+            },
+            {
+                "question": "Apakah bidang tanggungjawab yang dibentuk?",
+                "answer": "terdiri daripada penatua penatua dan penatua yang berkuasa",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di gereja Presbyterian Amerika dan Ireland, langkah mana yang umumnya dilangkau?",
+                "answer": "Synod",
+                "impossible": false,
+                "answer_start": 767
+            },
+            {
+                "question": "Langkah mana yang telah dimansuhkan baru-baru ini oleh Scotland?",
+                "answer": "Synod",
+                "impossible": false,
+                "answer_start": 767
+            }
+        ]
+    }
+]

@@ -1,0 +1,594 @@
+[
+    {
+        "context": "Dalam pilihan raya 2000 yang dipertandingkan, kerajaan memainkan peranan penting. Daripada lebih daripada 5.8 juta undi untuk kedua-dua pesaing utama Bush dan Al Gore, kira-kira 500 undi memisahkan kedua calon untuk undian pemilihan Florida semua yang menentukan bahawa kemenangan pemilihan Bush. Undang-undang diskriminasi felon Florida lebih teruk daripada negara-negara Eropah atau negara-negara Amerika yang lain. Kajian 2002 dalam Kajian Sosiologi Amerika membuat kesimpulan bahawa \"jika 827,000 penjahat yang disenfranchised negeri telah mengundi pada kadar yang sama seperti Floridians yang lain, calon Demokrat Al Gore akan memenangi Florida-dan presiden-oleh lebih daripada 80,000 undi.\"",
+        "qa": [
+            {
+                "question": "Apa yang berlaku dalam pilihan raya 2000",
+                "answer": "Daripada lebih daripada 5.8 juta undi untuk kedua-dua pesaing utama Bush dan Al Gore, kira-kira 500 undi memisahkan kedua calon",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Seberapa teruk undang-undang Disenfranchisement Florida",
+                "answer": "Undang-undang diskriminasi felon Florida lebih teruk daripada negara-negara Eropah atau negara-negara Amerika yang lain",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa maksudnya dalam pilihan raya 2000",
+                "answer": "jika 827,000 penjahat yang disenfranchised negeri telah mengundi pada kadar yang sama seperti Floridians yang lain, calon Demokrat Al Gore akan memenangi Florida-dan presiden-oleh lebih daripada 80,000 undi.",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Reaksi selepas Banci Amerika Syarikat 2010 memberi dua lagi kerusi di Dewan Rakyat. Pengubahsuaian badan perundangan, yang diumumkan pada tahun 2012, dengan cepat dicabar di mahkamah, dengan alasan bahawa ia telah memberi manfaat secara adil kepada kepentingan Republikan. Pada tahun 2015, Mahkamah Agung Florida memutuskan rayuan bahawa daerah kongres harus direkodkan semula kerana pelanggaran perundangan mengenai Perubahan Daerah Adil kepada perlembagaan negara yang diluluskan pada tahun 2010; ia menerima peta baru pada awal Disember 2015.",
+        "qa": [
+            {
+                "question": "Apa yang telah dilantik semula untuk florida",
+                "answer": "Reaksi selepas Banci Amerika Syarikat 2010 memberi dua lagi kerusi di Dewan Rakyat",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang dicabar pada tahun 2012",
+                "answer": "Pengubahsuaian badan perundangan, yang diumumkan pada tahun 2012, dengan cepat dicabar di mahkamah, dengan alasan bahawa ia telah memberi manfaat secara adil kepada kepentingan Republikan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bagaimana keputusan Mahkamah Agung Florida mengenai cabaran",
+                "answer": "Mahkamah Agung Florida memutuskan rayuan bahawa daerah kongres harus direkodkan semula kerana pelanggaran perundangan mengenai Perubahan Daerah Adil",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang berlaku untuk peta kongres Florida pada tahun 2015",
+                "answer": "ia menerima peta baru pada awal Disember 2015.",
+                "impossible": false,
+                "answer_start": 499
+            }
+        ]
+    },
+    {
+        "context": "Kawasan koridor I-4 yang berkembang pesat, yang mengalir melalui Florida Tengah dan menghubungkan bandar-bandar Daytona Beach, Orlando, dan Tampa / St. Petersburg, telah memecahbelahkan pengundi Republikan dan Demokrat yang cukup. Kawasan ini sering dilihat sebagai titik penggabungan bahagian utara negeri yang konservatif dan bahagian utara liberal, menjadikannya kawasan swing terbesar di negeri ini. Sejak akhir abad ke-20, keputusan mengundi di kawasan ini, yang mengandungi 40% pengundi Florida, sering menentukan siapa yang akan memenangi negeri Florida dalam pilihan raya presiden.",
+        "qa": [
+            {
+                "question": "Apa yang membentuk politik dari kawasan florida yang paling pesat berkembang",
+                "answer": "Daytona Beach, Orlando, dan Tampa / St. Petersburg, telah memecahbelahkan pengundi Republikan dan Demokrat yang cukup",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Kawasan itu dilihat sebagai politik apa pun",
+                "answer": "Kawasan ini sering dilihat sebagai titik penggabungan bahagian utara negeri yang konservatif dan bahagian utara liberal",
+                "impossible": false,
+                "answer_start": 231
+            },
+            {
+                "question": "Undian di kawasan ini sejak akhir abad ke-20 memutuskan apa",
+                "answer": "keputusan mengundi di kawasan ini, yang mengandungi 40% pengundi Florida, sering menentukan siapa yang akan memenangi negeri Florida dalam pilihan raya presiden",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Produk Domestik Kasar (KDNK) Florida pada tahun 2010 adalah $ 748 bilion. KDNKnya adalah ekonomi keempat terbesar di Amerika Syarikat. Pada tahun 2010, ia menjadi pengeksport barangan perdagangan keempat terbesar. Penyumbang utama kepada output kasar negeri pada 2007 ialah perkhidmatan am, perkhidmatan kewangan, perdagangan, pengangkutan dan kemudahan awam, pembuatan dan pembinaan masing-masing. Pada 2010-11, bajet negeri ialah $ 70.5 bilion, yang telah mencecah $ 73.8 bilion pada 2006-07. Ketua Majalah Eksekutif Florida adalah \"Negeri Terbaik untuk Perniagaan\" ketiga pada tahun 2011.",
+        "qa": [
+            {
+                "question": "Apa itu GDP Florida pada tahun 2010",
+                "answer": "Produk Domestik Kasar (KDNK) Florida pada tahun 2010 adalah $ 748 bilion",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di mana kedudukan Florida PDB",
+                "answer": "KDNKnya adalah ekonomi keempat terbesar di Amerika Syarikat",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa beberapa penyumbang utama menyatakan output",
+                "answer": "perkhidmatan am, perkhidmatan kewangan, perdagangan, pengangkutan dan kemudahan awam, pembuatan dan pembinaan masing-masing",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang dinamakan Florida pada 2011",
+                "answer": "Ketua Majalah Eksekutif Florida adalah \"Negeri Terbaik untuk Perniagaan\" ketiga pada tahun 2011.",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Dari tahun 1952 hingga 1964, kebanyakan pengundi berdaftar Demokrat, tetapi negara itu mengundi calon presiden pada setiap pilihan raya kecuali pada tahun 1964. Pada tahun berikutnya, Kongres meluluskan dan Presiden Lyndon B. Johnson menandatangani Akta Hak Vokasional 1965, menyediakan pengawasan amalan negeri dan penguatkuasaan hak mengundi perlembagaan untuk warga Amerika Afrika dan minoriti lain untuk menghalang diskriminasi dan penyalahgunaan yang telah dikecualikan kebanyakannya selama beberapa dekad dari proses politik.",
+        "qa": [
+            {
+                "question": "Demografi pemilih florida pada tahun 1950-an",
+                "answer": "Dari tahun 1952 hingga 1964, kebanyakan pengundi berdaftar Demokrat, tetapi negara itu mengundi calon presiden pada setiap pilihan raya kecuali pada tahun 1964",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "apakah tindakan hak mengundi menyediakan",
+                "answer": "Akta Hak Vokasional 1965, menyediakan pengawasan amalan negeri dan penguatkuasaan hak mengundi perlembagaan untuk warga Amerika Afrika dan minoriti lain",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "presiden apa yang menandatangani akta hak mengundi",
+                "answer": "Presiden Lyndon B. Johnson menandatangani Akta Hak Vokasional 1965",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1998, pengundi Demokratik menguasai kawasan negeri ini dengan peratusan minoriti kaum minoriti dan pemula putih yang ditransplantasikan dari timur laut Amerika Syarikat, yang dikenali sebagai \"snowbirds\". Florida Selatan dan kawasan metropolitan Miami dikuasai oleh kaum minoriti kaum dan kaum liberal putih. Oleh kerana itu, kawasan ini secara konsisten mengundi sebagai salah satu kawasan paling demokratik negara. Kawasan Daytona Beach adalah serupa dengan demografi dan bandar Orlando mempunyai penduduk Hispanik yang besar, yang sering menyukai Demokrat. Republikan, kebanyakannya terdiri daripada konservatif putih, telah menguasai sebahagian besar seluruh Florida, terutamanya di kawasan yang lebih pedalaman dan pinggir bandar. Ini adalah ciri asas pemilihnya di sepanjang Deep South.",
+        "qa": [
+            {
+                "question": "Apa yang dilakukan pengundi demokrat pada 1998",
+                "answer": "Pada tahun 1998, pengundi Demokratik menguasai kawasan negeri ini dengan peratusan minoriti kaum minoriti dan pemula putih yang ditransplantasikan dari timur laut Amerika Syarikat",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa jenis burung salju",
+                "answer": "pemula putih yang ditransplantasikan dari timur laut Amerika Syarikat, yang dikenali sebagai \"snowbirds\"",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Parti mana yang menguasai Florida Selatan dan Miami",
+                "answer": "Florida Selatan dan kawasan metropolitan Miami dikuasai oleh kaum minoriti kaum dan kaum liberal putih",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa perlumbaan di Orlando yang memihak kepada republikans?",
+                "answer": "<|> Demokrat putih membentuk bahagian mana dari florida? ||",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Mahkamah memerintah pada tahun 2014, selepas kesaksian yang panjang, sekurang-kurangnya dua daerah perlu direkodkan semula kerana pengambilan gerrymandering. Selepas ini rayuan, pada Julai 2015, Mahkamah Agung Florida memutuskan bahawa penggubal undang-undang telah mengikuti proses haram dan tidak berperlembagaan yang terlalu dipengaruhi oleh koperasi parti, dan memutuskan bahawa sekurang-kurangnya lapan daerah perlu direkodkan semula. Pada 2 Disember 2015, majoriti 5-2 Mahkamah menerima peta baru daerah kongres, beberapa di antaranya telah ditarik oleh pencabar. Keputusan mereka mengesahkan peta yang sebelum ini diluluskan oleh Hakim Leon County, Terry Lewis, yang telah mengawasi perbicaraan asal. Ia terutamanya membuat perubahan di Florida Selatan. Terdapat kemungkinan terdapat cabaran tambahan untuk peta dan daerah.",
+        "qa": [
+            {
+                "question": "Mengapa kedua-dua daerah perlu direkod semula pada 2014",
+                "answer": "sekurang-kurangnya dua daerah perlu direkodkan semula kerana pengambilan gerrymandering",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa banyak yang diperintah diganti semula pada 2015",
+                "answer": "penggubal undang-undang telah mengikuti proses haram dan tidak berperlembagaan yang terlalu dipengaruhi oleh koperasi parti, dan memutuskan bahawa sekurang-kurangnya lapan daerah perlu direkodkan semula",
+                "impossible": false,
+                "answer_start": 236
+            },
+            {
+                "question": "Apakah undi pengadilan di peta kongres baru pada 2015",
+                "answer": "majoriti 5-2 Mahkamah menerima peta baru daerah kongres",
+                "impossible": false,
+                "answer_start": 462
+            },
+            {
+                "question": "Adakah terdapat lagi perubahan yang datang ke peta",
+                "answer": "Terdapat kemungkinan terdapat cabaran tambahan untuk peta dan daerah.",
+                "impossible": false,
+                "answer_start": 761
+            }
+        ]
+    },
+    {
+        "context": "Era pasca-Rekonstruksi pertama Republik yang dipilih ke Kongres dari Florida adalah William C. Cramer pada tahun 1954 dari Pinellas County di Pantai Teluk, di mana perubahan demografi sedang berlangsung. Dalam tempoh ini, orang-orang Afrika Afrika masih lagi diskriminasi oleh perlembagaan negara dan amalan diskriminasi; pada abad ke-19 mereka telah membentuk kebanyakan Parti Republikan. Cramer membina Parti Republikan yang berlainan di Florida, menarik konservatif dan transplantasi putih dari negeri utara dan barat laut. Pada tahun 1966 Claude R. Kirk, Jr dipilih sebagai Gabenor Republikan selepas Penyusunan Semula pertama, dalam pilihan raya yang kecewa. Pada tahun 1968 Edward J. Gurney, juga konservatif putih, telah dipilih sebagai Senator AS Republikan selepas penstrukturan semula negeri itu. Pada tahun 1970 Demokrat mengambil gubernur dan kerusi Senat AS terbuka, dan mengekalkan dominasi selama bertahun-tahun.",
+        "qa": [
+            {
+                "question": "Republik republik pasca-rekonstruksi pertama yang dipilih untuk florida",
+                "answer": "William C. Cramer pada tahun 1954 dari Pinellas County",
+                "impossible": false,
+                "answer_start": 84
+            },
+            {
+                "question": "Apa itu Cramer dikreditkan untuk",
+                "answer": "Cramer membina Parti Republikan yang berlainan di Florida, menarik konservatif dan transplantasi putih dari negeri utara dan barat laut",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa yang Claude R Kirk",
+                "answer": "1966 Claude R. Kirk, Jr dipilih sebagai Gabenor Republikan selepas Penyusunan Semula pertama, dalam pilihan raya yang kecewa",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Dari tahun 1930-an hingga sebahagian besar tahun 1960-an, Florida pada dasarnya adalah satu-satu negara yang dikuasai oleh konservatif putih Partai Demokrat, yang bersama-sama dengan Demokrat lain di Selatan Solid, menjalankan kawalan yang besar di Kongres. Mereka memperoleh wang persekutuan dari program kebangsaan; seperti negeri-negeri selatan yang lain, penduduk Florida telah menerima lebih banyak wang persekutuan berbanding membayar cukai: negara itu adalah penerima manfaat bersih. Sejak tahun 1970-an, majoriti pengundi putih konservatif di negeri ini sebahagian besarnya berpindah dari Demokrat ke Parti Republikan. Ia terus menyokong calon presiden Republik melalui abad ke-20, kecuali pada tahun 1976 dan 1996, ketika calon Demokrat berasal dari Selatan. Mereka mempunyai \"kemewahan mengundi untuk calon presiden yang berjanji untuk memotong cukai dan menghentikan pengembangan kerajaan sambil mengetahui bahawa delegasi kongres mereka akan terus melindungi perbelanjaan persekutuan.\"",
+        "qa": [
+            {
+                "question": "Pihak mana yang menguasai politik florida dari 1930 hingga 1960",
+                "answer": "Dari tahun 1930-an hingga sebahagian besar tahun 1960-an, Florida pada dasarnya adalah satu-satu negara yang dikuasai oleh konservatif putih Partai Demokrat",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Adakah Florida mendapat manfaat dari cukai",
+                "answer": "penduduk Florida telah menerima lebih banyak wang persekutuan berbanding membayar cukai: negara itu adalah penerima manfaat bersih",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa parti parti politik menguasai Florida sekarang",
+                "answer": "Sejak tahun 1970-an, majoriti pengundi putih konservatif di negeri ini sebahagian besarnya berpindah dari Demokrat ke Parti Republikan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bagaimana pemilihan Florida dalam pemilihan presiden",
+                "answer": "terus menyokong calon presiden Republik melalui abad ke-20, kecuali pada tahun 1976 dan 1996, ketika calon Demokrat berasal dari Selatan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa calon-calon ini yang Florida menyokong ikrar",
+                "answer": "kemewahan mengundi untuk calon presiden yang berjanji untuk memotong cukai dan menghentikan pengembangan kerajaan sambil mengetahui bahawa delegasi kongres mereka akan terus melindungi perbelanjaan persekutuan",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 2010, orang-orang keturunan Afrika menyumbang 16.0% penduduk Florida, termasuk Afrika Amerika. Daripada 16.0%, 4.0% (741,879) adalah India Barat atau Afro-Caribbean Amerika. Pada awal 1900-an, orang kulit hitam terdiri hampir separuh daripada penduduk negeri ini. Sebagai tindak balas kepada pemisahan, pengisytiharan francais dan kemurungan pertanian, ramai orang Afrika Amerika berpindah dari Florida ke bandar-bandar utara di Great Migration, dalam gelombang dari tahun 1910 hingga 1940, dan sekali lagi bermula pada tahun 1940-an kemudian. Mereka berpindah pekerjaan, pendidikan yang lebih baik untuk anak-anak mereka dan peluang untuk mengundi dan mengambil bahagian dalam masyarakat. Menjelang tahun 1960, perkadaran orang Afrika Afrika di negeri ini telah menurun kepada 18%. Sebilangan besar putih utara dipindahkan ke negeri ini. [Rujukan?] Hari ini, kepekatan besar penduduk hitam boleh didapati di utara dan tengah Florida. Selain daripada kulit hitam yang berasal dari budak Afrika yang dibawa ke selatan AS, terdapat juga sejumlah besar kulit putih India Barat, Afrika baru, dan asal-usul imigran Afro-Latino, terutama di daerah Miami / South Florida. Pada tahun 2010, Florida mempunyai peratusan tertinggi India Barat di Amerika Syarikat, dengan 2.0% (378,926) daripada keturunan Haiti, dan 1.3% (236,950) Jamaica. Semua negara Caribbean yang lain (bukan Hispanik) berada di bawah 0.1% penduduk Florida.",
+        "qa": [
+            {
+                "question": "Berapa peratus daripada Florida adalah amerika Afrika pada tahun 2010",
+                "answer": "Pada tahun 2010, orang-orang keturunan Afrika menyumbang 16.0% penduduk Florida",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "berapa peratus daripada florida adalah hitam pada awal 1900-an",
+                "answer": "Pada awal 1900-an, orang kulit hitam terdiri hampir separuh daripada penduduk negeri ini",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang banyak bermigrasi hitam dari florida",
+                "answer": "tindak balas kepada pemisahan, pengisytiharan francais dan kemurungan pertanian, ramai orang Afrika Amerika berpindah dari Florida ke bandar-bandar utara di Great Migration",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Dimana penduduk Afrika di florida mempunyai akar leluhur",
+                "answer": "budak Afrika yang dibawa ke selatan AS, terdapat juga sejumlah besar kulit putih India Barat, Afrika baru, dan asal-usul imigran Afro-Latino, terutama di daerah Miami / South Florida",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "NASCAR (beribu pejabat di Daytona Beach) memulakan ketiga-tiga siri perlumbaan kereta utama di Florida di Daytona International Speedway pada bulan Februari, yang menampilkan Daytona 500, dan menamatkan ketiga Siri pada November di Homestead-Miami Speedway. Daytona juga mempunyai hujung perlumbaan Coke Zero 400 NASCAR pada Hari Kemerdekaan pada bulan Julai. 24 Jam Daytona adalah salah satu perlumbaan auto yang paling berprestij di dunia. Grand Prix St Petersburg dan Grand Prix of Miami turut mengadakan perlumbaan IndyCar.",
+        "qa": [
+            {
+                "question": "Apa yang beribu pejabat di Daytona",
+                "answer": "NASCAR (beribu pejabat di Daytona Beach) memulakan ketiga-tiga siri perlumbaan kereta utama di Florida di Daytona International Speedway pada bulan Februari",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Nama bangsa lain di florida",
+                "answer": "Daytona juga mempunyai hujung perlumbaan Coke Zero 400 NASCAR pada Hari Kemerdekaan pada bulan Julai",
+                "impossible": false,
+                "answer_start": 258
+            },
+            {
+                "question": "Apa 24 jam Daytona",
+                "answer": "24 Jam Daytona adalah salah satu perlumbaan auto yang paling berprestij di dunia",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa ciri St Pete untuk perlumbaan",
+                "answer": "Grand Prix St Petersburg",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada akhir suku tahun ketiga pada tahun 2008, Florida mempunyai kadar kenaikkan gadai janji tertinggi di negara ini, dengan 7.8% daripada gadai janji bermasalah sekurang-kurangnya 60 hari. Senarai pasar perumahan negara tahun 2009 yang sukar dilanda kemalangan hartanah termasuk nombor yang tidak seimbang di Florida. Ledakan bangunan awal abad ke-21 meninggalkan Florida dengan 300,000 rumah kosong pada tahun 2009, menurut angka negeri. Pada tahun 2009, Biro Banci AS menganggarkan bahawa Floridians menghabiskan purata 49.1% daripada pendapatan peribadi pada kos yang berkaitan dengan perumahan, yang ketiga tertinggi di negara ini.",
+        "qa": [
+            {
+                "question": "Apakah kadar kenaikkan gadai janji pada tahun 2008",
+                "answer": "Florida mempunyai kadar kenaikkan gadai janji tertinggi di negara ini, dengan 7.8% daripada gadai janji bermasalah sekurang-kurangnya 60 hari",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Berapa banyak rumah kosong di Florida pada tahun 2009",
+                "answer": "300,000 rumah kosong pada tahun 2009",
+                "impossible": false,
+                "answer_start": 379
+            },
+            {
+                "question": "Sebanyak peratus pendapatan peribadi dibelanjakan untuk Perumahan di florida",
+                "answer": "Floridians menghabiskan purata 49.1% daripada pendapatan peribadi pada kos yang berkaitan dengan perumahan",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di mana perbelanjaan perumahan kedudukan secara nasional",
+                "answer": "ketiga tertinggi di negara ini",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Sesetengah bahagian negara mempunyai ciri-ciri gaya seni bina termasuk kebangkitan Sepanyol, Florida vernakular, dan Gaya Kebangkitan Mediterranean. Ia mempunyai koleksi terbesar Art Deco dan bangunan Metropolitan Moderne di Amerika Syarikat dan seluruh dunia, yang kebanyakannya terletak di kawasan metropolitan Miami, terutama Daerah Art Deco Miami Beach, dibina sebagai bandar menjadi destinasi peranginan. Reka bentuk seni bina yang unik yang hanya terdapat di Florida adalah pasca Perang Dunia II Miami Modern, yang dapat dilihat di kawasan seperti Daerah Bersejarah MiMo Miami.",
+        "qa": [
+            {
+                "question": "Apa gaya arkitek di Florida",
+                "answer": "gaya seni bina termasuk kebangkitan Sepanyol, Florida vernakular, dan Gaya Kebangkitan Mediterranean",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa Florida mempunyai koleksi terbesar",
+                "answer": "koleksi terbesar Art Deco dan bangunan Metropolitan Moderne di Amerika Syarikat dan seluruh dunia, yang kebanyakannya terletak di kawasan metropolitan Miami",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Bilakah kawasan art deco Miami boom",
+                "answer": "Daerah Art Deco Miami Beach, dibina sebagai bandar menjadi destinasi peranginan",
+                "impossible": false,
+                "answer_start": 329
+            },
+            {
+                "question": "Apa yang lain Seni Bina Unik bermula di Miami selepas perang dunia 2",
+                "answer": "Miami Modern, yang dapat dilihat di kawasan seperti Daerah Bersejarah MiMo Miami",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Selepas peristiwa DAS di Hurricane Andrew pada tahun 1992, negeri Florida mula melabur dalam pembangunan ekonomi melalui Pejabat Perdagangan, Pelancongan, dan Pembangunan Ekonomi. Gabenor Jeb Bush menyedari bahawa peristiwa aliran sungai seperti Andrew memberi kesan negatif kepada industri pelancongan utama Florida. Pejabat ini diarahkan untuk menyasarkan Perubatan / Bio-Sains antara lain. Tiga tahun kemudian, Institut Penyelidikan Scripps (TSRI) mengumumkan telah memilih Florida untuk perkembangan terbaru. Pada tahun 2003, TSRI mengumumkan rancangan untuk menubuhkan pusat sains utama di Palm Beach, kemudahan 364,000 kaki persegi (33,800 m2) pada 100 hektar (40 ha), yang TSRI merancang untuk menduduki pada tahun 2006.",
+        "qa": [
+            {
+                "question": "Apa yang menyebabkan Taufan Andrew menyebabkan Florida do",
+                "answer": "negeri Florida mula melabur dalam pembangunan ekonomi melalui Pejabat Perdagangan, Pelancongan, dan Pembangunan Ekonomi",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang Govenor Bush Menyadari",
+                "answer": "bahawa peristiwa aliran sungai seperti Andrew memberi kesan negatif kepada industri pelancongan utama Florida",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Industri apa yang disasarkan",
+                "answer": "Perubatan / Bio-Sains",
+                "impossible": false,
+                "answer_start": 358
+            },
+            {
+                "question": "Siapa yang memilih memperluaskan perbadanan mereka di Florida",
+                "answer": "Institut Penyelidikan Scripps (TSRI) mengumumkan telah memilih Florida untuk perkembangan terbaru",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Florida dihidangkan oleh Amtrak, yang beroperasi dengan pelbagai laluan di seluruh, menghubungkan bandar terbesar di negeri ini ke titik utara di Amerika Syarikat dan Kanada. Stesen kereta api Amtrak yang paling sibuk di Florida pada tahun 2011 ialah: Sanford (259,944), Orlando (179,142), Stesen Tampa Union (140,785), Miami (94,556), dan Jacksonville (74,733). Sanford, di Greater Orlando, adalah terminal selatan Kereta Api yang berasal dari Lorton, Virginia, selatan Washington, DC. Sehingga tahun 2005, Orlando juga merupakan terminal timur Sunset Limited, yang mengembara di selatan Amerika Syarikat melalui New Orleans, Houston, dan San Antonio ke terminal barat Los Angeles. Florida dihidangkan oleh dua kereta Amtrak tambahan (Silver Star dan Meteor Perak), yang beroperasi di antara New York City dan Miami. Stesen Sentral Miami, transit pesat bandar, kereta api komuter, kereta api antar bandar, dan bas bas, sedang dalam pembinaan.",
+        "qa": [
+            {
+                "question": "Jalur kereta api apa yang menghubungkan florida ke Utara",
+                "answer": "Amtrak, yang beroperasi dengan pelbagai laluan di seluruh, menghubungkan bandar terbesar di negeri ini ke titik utara di Amerika Syarikat dan Kanada",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di manakah kereta Auto berasal",
+                "answer": "Kereta Api yang berasal dari Lorton, Virginia, selatan Washington, DC",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Siapa perkhidmatan terhad matahari terbenam",
+                "answer": "Sunset Limited, yang mengembara di selatan Amerika Syarikat melalui New Orleans, Houston, dan San Antonio ke terminal barat Los Angeles",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Dua lagi kereta api ramtrak yang berkhidmat di Florida",
+                "answer": "Amtrak tambahan (Silver Star dan Meteor Perak), yang beroperasi di antara New York City dan Miami",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Ketika menghadiri Ealing Art College, Tim Staffell berteman dengan Farrokh Bulsara, seorang pelajar yang menganggap nama Inggeris Freddie. Bulsara merasakan bahawa dia dan band itu mempunyai rasa yang sama dan tidak lama lagi menjadi penggemar Smile. Pada penghujung 1970, selepas Staffell pergi menyertai kumpulan Humpy Bong, ahli Smile yang tersisa, digalakkan oleh Bulsara, mengubah nama mereka menjadi \"Ratu\" dan terus bekerja bersama. Apabila ditanya mengenai nama itu, Bulsara menjelaskan, \"Saya fikir nama Queen itu hanya nama, tetapi ia sangat jelas jelas, dan kedengarannya indah, nama yang kuat, sangat universal dan dengan serta-merta. dan terbuka kepada pelbagai tafsiran. Saya pasti mengetahui konotasi gay, tetapi itu hanya satu aspek. \"",
+        "qa": [
+            {
+                "question": "Tim Staffell meninggalkan Smile band dalam tahun berapa?",
+                "answer": "1970",
+                "impossible": false,
+                "answer_start": 267
+            },
+            {
+                "question": "Band apa yang dilakukan oleh Tim Staffell selepas meninggalkan Smile?",
+                "answer": "Humpy Bong",
+                "impossible": false,
+                "answer_start": 315
+            },
+            {
+                "question": "Apa nama kolej Tim Staffell menghadiri ketika dia bertemu dengan Farrokh Bulsara?",
+                "answer": "Ealing Art College",
+                "impossible": false,
+                "answer_start": 18
+            },
+            {
+                "question": "Dalam apa tahun Smile menukar nama mereka kepada Ratu?",
+                "answer": "1970",
+                "impossible": false,
+                "answer_start": 267
+            },
+            {
+                "question": "Apakah nama pertama bahasa Inggeris Farrokh Bulsara diadopsi?",
+                "answer": "Freddie",
+                "impossible": false,
+                "answer_start": 130
+            }
+        ]
+    },
+    {
+        "context": "Setelah menghadiri kolej seni, Mercury juga merancang logo Queen, yang dipanggil permaisuri Queen, sejurus sebelum melepaskan album pertama band. Logo itu menggabungkan tanda-tanda zodiak keempat-empat ahli: dua singa untuk Leo (Deacon dan Taylor), ketam untuk Cancer (Mei), dan dua peri untuk Virgo (Mercury). Singa memeluk huruf Q bergaya, kepiting terletak di atas surat dengan nyala api naik di atasnya, dan peri masing-masing berlindung di bawah singa. Terdapat juga mahkota di dalam Q dan logo keseluruhannya dibayangi oleh phoenix yang sangat besar. Seluruh simbolnya mempunyai persamaan lulus dengan mantap diraja United Kingdom, terutama dengan penyokong singa. Logo asal, seperti yang terdapat pada bahagian belakang penutup album pertama, adalah lukisan garis mudah tetapi versi warna yang lebih rumit digunakan pada lengan kemudian.",
+        "qa": [
+            {
+                "question": "Siapa yang merancang logo Queen?",
+                "answer": "Mercury",
+                "impossible": false,
+                "answer_start": 31
+            },
+            {
+                "question": "Apakah tanda zodiak Freddie Mercury?",
+                "answer": "Virgo",
+                "impossible": false,
+                "answer_start": 294
+            },
+            {
+                "question": "Tanda zodiak mana yang dilakukan Deacon dan Taylor?",
+                "answer": "Leo",
+                "impossible": false,
+                "answer_start": 224
+            },
+            {
+                "question": "Apakah tanda zodiak Brian May?",
+                "answer": "Kanser",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Logo Ratu awal menyerupai lapisan tangan negara mana?",
+                "answer": "United Kingdom",
+                "impossible": false,
+                "answer_start": 622
+            }
+        ]
+    },
+    {
+        "context": "Band ini mempunyai beberapa pemain bass sepanjang tempoh ini yang tidak sesuai dengan kimia band. Tidak sampai Februari 1971 mereka menetap di John Deacon dan mula berlatih untuk album pertama mereka. Mereka mencatatkan empat lagu mereka sendiri, \"Liar\", \"Keep Yourself Alive\", \"The Night Comes Down\" dan \"Jesus\", untuk pita demo; tiada syarikat rekod yang berminat. Ia juga sekitar masa ini Freddie menukar nama keluarganya menjadi \"Mercury\", yang diilhamkan oleh \"Mother Mercury\", lagu apa yang telah mereka lakukan kepada saya dalam lagu \"My Fairy King\". Pada 2 Julai 1971, Queen memainkan pertunjukan pertamanya dalam rangkaian klasik Mercury, May, Taylor dan Deacon di kolej Surrey di luar London.",
+        "qa": [
+            {
+                "question": "John Deacon memainkan instrumen apa?",
+                "answer": "bass",
+                "impossible": false,
+                "answer_start": 35
+            },
+            {
+                "question": "Dalam tahun apakah John Deacon menyertai Ratu?",
+                "answer": "1971",
+                "impossible": false,
+                "answer_start": 120
+            },
+            {
+                "question": "Apakah Freddie dari Queen menukar nama terakhirnya?",
+                "answer": "Mercury",
+                "impossible": false,
+                "answer_start": 434
+            },
+            {
+                "question": "Apa lagu yang mengilhami Freddie dari nama keluarga Queen?",
+                "answer": "My Fairy King",
+                "impossible": false,
+                "answer_start": 542
+            },
+            {
+                "question": "Pada tarikh apakah Queen memainkan pertunjukan pertama mereka?",
+                "answer": "2 Julai 1971",
+                "impossible": false,
+                "answer_start": 563
+            }
+        ]
+    },
+    {
+        "context": "Pada bulan Julai 1973, Queen akhirnya di bawah perjanjian Trident / EMI mengeluarkan album debut eponim mereka, satu usaha yang dipengaruhi oleh logam berat dan rock progresif pada hari itu. Album itu diterima dengan baik oleh pengkritik; Gordon Fletcher Rolling Stone berkata \"album debut mereka hebat\", dan Daily Herald Chicago menyebutnya sebagai \"debut di atas purata\". Ia menarik sedikit perhatian arus perdana, dan single \"Keep Yourself Alive\", komposisi Brian May, dijual dengan buruk. Secara retrospektif, \"Keep Yourself Alive\" dipetik sebagai kemuncak album, dan pada tahun 2008 Rolling Stone menduduki tangga ke-31 dalam \"100 Gitar Terbesar Sepanjang Masa\", menggambarkannya sebagai \"satu-satunya riff album keseluruhan yang penuh dengan satu lagu \". Album ini disahkan emas di UK dan Amerika Syarikat.",
+        "qa": [
+            {
+                "question": "Dalam tahun berapa lagu pertama Queen dibebaskan?",
+                "answer": "1973",
+                "impossible": false,
+                "answer_start": 17
+            },
+            {
+                "question": "Apa nama album pertama Queen?",
+                "answer": "Ratu",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apakah single utama dari album pertama Queen?",
+                "answer": "Keep Yourself Alive",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang lagu Queen mana kedudukan sebagai lagu gitar terbesar ke-31 dalam artikel Rolling Stone 1998?",
+                "answer": "Keep Yourself Alive",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Pengkritik mana yang debut hebat Queen?",
+                "answer": "Gordon Fletcher",
+                "impossible": false,
+                "answer_start": 239
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1972, Queen memasuki perbincangan dengan Trident Studios selepas dilihat di De La Lane Studios oleh John Anthony dan selepas perbincangan ditawarkan perjanjian pengurusan oleh Norman Sheffield di bawah Neptune Productions, anak syarikat Trident untuk menguruskan band tersebut dan membolehkan mereka menggunakan kemudahan itu di Trident untuk merekodkan bahan baru sementara mencari pengurusan label rekod untuk menandatangani Ratu. Ini sesuai dengan kedua-dua belah pihak pada masa Trident berkembang menjadi pengurusan dan Ratu di bawah perjanjian itu dapat memanfaatkan kemudahan rakaman berteknologi tinggi yang dikongsi oleh band pada masa seperti Beatles dan Elton John untuk menghasilkan bahan baru. Walau bagaimanapun, Trident mendapati sukar untuk mencari label untuk sebuah band yang mengandungi nama dengan konotasi sedemikian pada awal 1970-an.",
+        "qa": [
+            {
+                "question": "Siapa yang menawarkan perjanjian pengurusan Queen pada tahun 1972?",
+                "answer": "Norman Sheffield",
+                "impossible": false,
+                "answer_start": 187
+            },
+            {
+                "question": "Penyanyi mana yang menggunakan studio Trident sebagai tambahan kepada Ratu dan The Beatles?",
+                "answer": "Elton John",
+                "impossible": false,
+                "answer_start": 676
+            },
+            {
+                "question": "Apa nama anak syarikat Trident?",
+                "answer": "Neptune Productions",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di manakah Ratu melihat sebelum memasuki perbincangan dengan Trident?",
+                "answer": "De La Lane Studios",
+                "impossible": false,
+                "answer_start": 87
+            },
+            {
+                "question": "Pada tahun apa adakah Queen memasuki perbincangan dengan studio Trident?",
+                "answer": "1972",
+                "impossible": false,
+                "answer_start": 11
+            }
+        ]
+    }
+]

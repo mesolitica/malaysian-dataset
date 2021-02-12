@@ -1,0 +1,660 @@
+[
+    {
+        "context": "Pada tahun 1975, band itu pergi untuk lawatan dunia dengan setiap ahli dalam pakaian yang dibuat oleh Zandra Rhodes dan disertai dengan lampu dan kesan. Mereka melawat Amerika Syarikat sebagai pemain utama, dan bermain di Kanada untuk kali pertama. Pada bulan September, selepas perpisahan dengan Trident, kumpulan itu merundingkan diri mereka daripada kontrak Trident Studios mereka dan mencari pengurusan baru. Salah satu pilihan yang mereka anggap merupakan tawaran dari pengurus Led Zeppelin, Peter Grant. Grant mahu mereka menandatangani dengan syarikat pengeluaran Led Zeppelin sendiri, Swan Song Records. Band ini mendapati kontrak itu tidak boleh diterima dan sebaliknya dihubungi pengurus Elton John, John Reid, yang menerima jawatan itu.",
+        "qa": [
+            {
+                "question": "Siapa yang membuat kostum untuk lawatan Queen 1975?",
+                "answer": "Zandra Rhodes",
+                "impossible": false,
+                "answer_start": 102
+            },
+            {
+                "question": "Apa negara yang pernah dimainkan oleh Ratu untuk pertama kalinya pada tahun 1975?",
+                "answer": "Kanada",
+                "impossible": false,
+                "answer_start": 222
+            },
+            {
+                "question": "Queen telah berpecah pahit dengan apa syarikat pengurusan pada tahun 1975?",
+                "answer": "Trident Studios",
+                "impossible": false,
+                "answer_start": 361
+            },
+            {
+                "question": "Apa pengurus Led Zeppelin cuba menandatangani Ratu?",
+                "answer": "Peter Grant",
+                "impossible": false,
+                "answer_start": 497
+            },
+            {
+                "question": "Siapa yang Queen akhirnya menandatangani kontrak selepas menolak kontrak rekod Song Swan?",
+                "answer": "John Reid",
+                "impossible": false,
+                "answer_start": 710
+            }
+        ]
+    },
+    {
+        "context": "Selepas pendirian enam jam di Teater Uris New York pada Mei 1974, Brian May runtuh dan didiagnosis menderita hepatitis. Semasa memulihkan semula, Mei pada awalnya tidak hadir apabila band itu mula bekerja pada album ketiga mereka, tetapi dia kembali di pertengahan proses rakaman. Dikeluarkan pada tahun 1974, Sheer Heart Attack mencapai nombor dua di United Kingdom, dijual dengan baik di seluruh Eropah, dan pergi emas di Amerika Syarikat. Ia memberikan pengalaman sebenar pertama mereka kepada kejayaan antarabangsa, dan merupakan kejutan di kedua-dua belah Atlantik. Album ini bereksperimen dengan pelbagai genre muzik, termasuk dewan muzik Inggeris, logam berat, balada, ragtime, dan Caribbean. Pada ketika ini, Queen mula beralih dari kecenderungan progresif dua siaran pertama mereka ke dalam gaya yang lebih mesra radio dan berorientasikan lagu. Sheer Heart Attack memperkenalkan corak bunyi dan melodi baru yang akan disempurnakan pada album mereka yang seterusnya, A Night at the Opera.",
+        "qa": [
+            {
+                "question": "Apa yang telah didiagnosis oleh Brian May selepas runtuh pada tahun 1974?",
+                "answer": "hepatitis",
+                "impossible": false,
+                "answer_start": 109
+            },
+            {
+                "question": "Apakah nama album ketiga Queen itu?",
+                "answer": "Sheer Heart Attack",
+                "impossible": false,
+                "answer_start": 310
+            },
+            {
+                "question": "Apa album Queen yang dibebaskan selepas Sheer Heart Attack?",
+                "answer": "A Night at the Opera",
+                "impossible": false,
+                "answer_start": 975
+            },
+            {
+                "question": "Queen's Sheer Heart Attack mencapai angka apa di carta United Kingdom?",
+                "answer": "dua",
+                "impossible": false,
+                "answer_start": 345
+            },
+            {
+                "question": "Apa nama tempat di mana Brian May runtuh?",
+                "answer": "Teater Uris New York",
+                "impossible": false,
+                "answer_start": 30
+            }
+        ]
+    },
+    {
+        "context": "\"Queen Killer\" dari Sheer Heart Attack mencapai angka dua pada carta British, dan menjadi hit Amerika pertama mereka, mencecah nombor 12 di Billboard Hot 100. Ia menggabungkan kem, vaudeville, dan dewan muzik British dengan kebajikan gitar May. Satu lagi single album, \"Now I Here Here\", komposisi rock keras yang lebih tradisional, adalah sebelas hit di Britain, manakala rocker \"Stone Cold Crazy\" yang berkelajuan tinggi yang menampilkan riff uptempo May adalah pendahulunya untuk mempercepatkan logam. Dalam tahun-tahun kebelakangan ini, album itu telah mendapat penghargaan daripada penerbitan muzik: Pada tahun 2006, Classic Rock menduduki tempat nombor 28 dalam \"The 100 Greatest British Albums Album Ever\", dan pada tahun 2007, Mojo menduduki tempat No.88 dalam \"The 100 Records That Changed dunia\". Ia juga merupakan yang kedua daripada tiga album Queen yang mempunyai ciri dalam buku 1001 Album Anda Harus Dengarkan Sebelum Anda Die.",
+        "qa": [
+            {
+                "question": "Lagu mana yang pernah dilanda Amerika Syarikat pertama Ratu?",
+                "answer": "Queen Killer",
+                "impossible": false,
+                "answer_start": 1
+            },
+            {
+                "question": "Queen's song Sekarang saya berada di sini apa nombor di carta British?",
+                "answer": "sebelas",
+                "impossible": false,
+                "answer_start": 340
+            },
+            {
+                "question": "Apa lagu Queen yang dikenali sebagai lagu logam laju awal?",
+                "answer": "Stone Cold Crazy",
+                "impossible": false,
+                "answer_start": 381
+            },
+            {
+                "question": "Apa gaya muzik yang ditemui bersama dengan kem dan vaudeville pada lagu Queen Killer?",
+                "answer": "Dewan Muzik Inggeris",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Killer Queen mencapai nombor apa di Billboard Hot 100?",
+                "answer": "12",
+                "impossible": false,
+                "answer_start": 134
+            }
+        ]
+    },
+    {
+        "context": "LP kedua kumpulan, Queen II, dibebaskan pada tahun 1974, dan menampilkan imej ikon rock band Mick Rock pada penutup. Imej ini akan digunakan sebagai asas untuk pengeluaran video muzik \"Bohemian Rhapsody\" 1975. Album itu mencapai angka lima pada carta album British dan menjadi album Queen pertama untuk carta di UK. Pemimpin Freddie Mercury yang bertajuk \"Seven Seas of Rhye\" menduduki tempat ke-10 di UK, memberikan band hit pertama mereka. Album ini adalah bukti nyata yang pertama kepada bunyi berlapis khas band ini, dan mempunyai petikan-petikan instrumental yang panjang yang kompleks, lirik bertemakan fantasi, dan kehebatan muzik. Selain daripada lagu tunggalnya, album itu turut menyertakan lagu \"The March of the Black Queen\", epik enam minit yang tidak mempunyai paduan suara. The Daily Vault menerangkan nombor sebagai \"menacing\". Reaksi kritikal bercampur; Winnipeg Free Press, sambil memuji album debut band itu, menggambarkan Queen II sebagai \"monstrosity yang terlalu banyak dihasilkan\". Allmusic telah menyifatkan album itu sebagai kegemaran di kalangan peminat tegar band, dan ia adalah yang pertama daripada tiga album Queen yang mempunyai ciri dalam buku 1001 Album Anda Harus Dengarkan Sebelum Anda Die.",
+        "qa": [
+            {
+                "question": "Apakah nama LP kedua Ratu?",
+                "answer": "Queen II",
+                "impossible": false,
+                "answer_start": 19
+            },
+            {
+                "question": "Apa tahun kedua album Queen dikeluarkan?",
+                "answer": "1974",
+                "impossible": false,
+                "answer_start": 51
+            },
+            {
+                "question": "Siapa yang merancang penutup album kedua Queen?",
+                "answer": "Mick Rock",
+                "impossible": false,
+                "answer_start": 93
+            },
+            {
+                "question": "Siapa yang menulis lagu Seven Seas of Rhye?",
+                "answer": "Freddie Mercury",
+                "impossible": false,
+                "answer_start": 325
+            },
+            {
+                "question": "Berapa lama lagu March of the Black Queen?",
+                "answer": "enam minit",
+                "impossible": false,
+                "answer_start": 742
+            }
+        ]
+    },
+    {
+        "context": "Sebelum membentuk Ratu, Brian May dan Roger Taylor telah bermain bersama dalam sebuah band bernama Smile. Freddie Mercury (kemudian dikenali dengan nama kelahirannya Farrokh \"Freddie\" Bulsara) adalah penggemar Smile dan menggalakkan mereka untuk bereksperimen dengan teknik yang lebih rumit dan rakaman. Mercury menyertai kumpulan itu pada tahun 1970, mencadangkan \"Queen\" sebagai nama band baru, dan mengadopsi nama panggungnya yang biasa. John Deacon telah direkrut sebelum merekodkan album debut eponim mereka pada tahun 1973. Ratu mula-mula muncul di UK dengan album kedua mereka, Queen II, pada tahun 1974, tetapi ia adalah pembebasan Sheer Heart Attack pada tahun itu dan A Night di Opera di 1975 yang membawa mereka kejayaan antarabangsa. Ia memaparkan \"Bohemian Rhapsody\", yang kekal di nombor satu di UK selama sembilan minggu dan mempopularkan video muzik. Album 1977 mereka, News of the World, mengandungi \"We Will Rock You\" dan \"We Are the Champions\", yang telah menjadi lagu di acara sukan. Pada awal 1980-an, Queen adalah salah satu band rock stadium terbesar di dunia. Prestasi mereka pada Live Aid tahun 1985 adalah di antara yang paling terkenal dalam sejarah rock oleh pelbagai penerbitan muzik, dengan pencapaian industri 2005 ranking itu yang terbaik. Pada tahun 1991, Mercury meninggal dunia akibat bronkopneumonia, komplikasi AIDS, dan Deacon bersara pada tahun 1997. Sejak itu, May dan Taylor kadang-kadang tampil bersama, termasuk Paul Rodgers (2004-09) dan Adam Lambert (sejak tahun 2011). Pada November 2014, Queen mengeluarkan album baru, Queen Forever, yang menampilkan vokal dari Mercury lewat.",
+        "qa": [
+            {
+                "question": "Apakah nama band Brian May dan Roger Taylor sebelum Ratu?",
+                "answer": "Smile",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apakah nama panggung yang diadopsi oleh Farrokh Bulsara?",
+                "answer": "Freddie Mercury",
+                "impossible": false,
+                "answer_start": 106
+            },
+            {
+                "question": "Apakah nama Queen album yang dikeluarkan pada tahun 2014?",
+                "answer": "Queen Forever",
+                "impossible": false,
+                "answer_start": 1566
+            },
+            {
+                "question": "Apa nama album Queen 1977?",
+                "answer": "Berita Dunia",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Pada tahun apakah Freddie Mercury mati?",
+                "answer": "1991",
+                "impossible": false,
+                "answer_start": 1283
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1978, band ini mengeluarkan Jazz, yang mencapai nombor dua di UK dan nombor enam di Billboard 200 di Amerika Syarikat. Album itu termasuk single hit \"Girls Bottom Bottom\" dan \"Race Bicycle\" pada rekod berganda. Queen menyewa Stadium Wimbledon untuk satu hari untuk menembak video itu, dengan 65 model wanita telanjang yang diupah untuk menaiki perlumbaan basikal bogel. Ulasan album dalam beberapa tahun kebelakangan ini telah lebih baik. Satu lagi lagu penting dari Jazz, \"Do not Stop Me Now\", memberikan satu lagi contoh harmoni suara vokal band.",
+        "qa": [
+            {
+                "question": "Dalam tahun apakah Queen melepaskan album Jazz?",
+                "answer": "1978",
+                "impossible": false,
+                "answer_start": 11
+            },
+            {
+                "question": "Berapakah bilangan Jazz Queen di carta UK?",
+                "answer": "dua",
+                "impossible": false,
+                "answer_start": 66
+            },
+            {
+                "question": "bilangan apa yang dicapai Jazz Queen di Billboard 200?",
+                "answer": "enam",
+                "impossible": false,
+                "answer_start": 87
+            },
+            {
+                "question": "Apa dua gelaran singgah dari album Jazz Queen?",
+                "answer": "\"Girls Bottom Bottom\" dan \"Race Bicycle\"",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Queen menyewa tempat untuk video muzik pada tahun 1978?",
+                "answer": "Stadium Wimbledon",
+                "impossible": false,
+                "answer_start": 236
+            }
+        ]
+    },
+    {
+        "context": "The album studio keenam band News of the World dikeluarkan pada tahun 1977, yang telah empat kali platinum di Amerika Syarikat, dan dua kali di UK. Album ini mengandungi banyak lagu-lagu yang disesuaikan untuk persembahan secara langsung, termasuk dua lagu lagu rock yang paling dikenali, \"We Will Rock You\" dan ballad rock \"We Are the Champions\", yang kedua-duanya menjadi anthem sukan antarabangsa yang kekal, dan yang kedua nombor empat di AS. Permaisuri memulakan Berita Jelajah Dunia pada Oktober 1977, dan Robert Hilburn dari Los Angeles Times menyeru lawatan konsert ini \"pertunjukan yang paling hebat dipamerkan dan dibarisi dengan halus\".",
+        "qa": [
+            {
+                "question": "Album keenam Queen telah dikeluarkan dalam tahun berapa?",
+                "answer": "1977",
+                "impossible": false,
+                "answer_start": 70
+            },
+            {
+                "question": "Berapa kali platinum melakukan Berita Ratu Dunia?",
+                "answer": "empat",
+                "impossible": false,
+                "answer_start": 87
+            },
+            {
+                "question": "Berita Ratu Dunia yang mengandungi dua lagu rock?",
+                "answer": "\"We Will Rock You\" dan ballad rock \"We Are the Champions\"",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Ratu News of the World Tour berlangsung di tahun apa?",
+                "answer": "1977",
+                "impossible": false,
+                "answer_start": 70
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1976, Queen memainkan salah satu pertunjukan mereka yang paling terkenal, konsert percuma di Hyde Park, London. Satu konsert yang dianjurkan oleh usahawan Richard Branson, ia menetapkan rekod kehadiran dengan 150,000 orang mengesahkan penonton. Pada 1 Disember 1976, Ratu adalah tetamu yang ditujukan pada program awal malam ini di London, tetapi mereka keluar pada minit terakhir, yang menyaksikan penggantian mereka lewat pada pameran itu, EMI melabelkan Sex Pistols, memberikan wawancara seminal mereka. Semasa A Day di Tour Races pada tahun 1977, Queen mempamerkan pameran yang dijual di Madison Square Garden, New York, pada bulan Februari, dan Earls Court, London, pada bulan Jun.",
+        "qa": [
+            {
+                "question": "Di mana Ratu menjadi tuan rumah konsert percuma pada tahun 1976?",
+                "answer": "Hyde Park, London",
+                "impossible": false,
+                "answer_start": 104
+            },
+            {
+                "question": "Siapa yang menganjurkan konsert percuma oleh Queen pada tahun 1976?",
+                "answer": "Richard Branson",
+                "impossible": false,
+                "answer_start": 166
+            },
+            {
+                "question": "Berapa ramai orang yang membantu Queen menetapkan rekod kehadiran 1976?",
+                "answer": "150,000",
+                "impossible": false,
+                "answer_start": 220
+            },
+            {
+                "question": "Tempat mana AS yang Queen menjual pada tahun 1977?",
+                "answer": "Madison Square Garden",
+                "impossible": false,
+                "answer_start": 603
+            },
+            {
+                "question": "Tempat British yang mana Queen menjual pada tahun 1977?",
+                "answer": "Earls Court",
+                "impossible": false,
+                "answer_start": 661
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1978, Ratu melawat Amerika Syarikat dan Kanada, dan menghabiskan banyak lawatan 1979 di Eropah dan Jepun. Mereka melancarkan album live pertama mereka, Live Killers, pada tahun 1979; ia pergi platinum dua kali di Amerika Syarikat. Queen juga mengeluarkan single \"Crazy Little Thing Called Love\" yang sangat berjaya, sebuah lagu terinspirasi rockabilly yang dilakukan dalam gaya Elvis Presley. Lagu itu menjadikan 10 teratas di banyak negara, mendahului Carta ARIA Australia selama tujuh minggu berturut-turut, dan merupakan nombor pertama single band di Amerika Syarikat di mana ia mengungguli Billboard Hot 100 selama empat minggu. Setelah menulis lagu pada gitar dan memainkan irama pada rekod, Mercury memainkan gitar irama sambil menayangkan lagu secara langsung, yang merupakan kali pertama dia pernah bermain gitar secara konsert. Pada bulan Disember 1979, Queen memainkan malam pembukaan di Konsert untuk Rakyat Kampuchea di London, setelah menerima permintaan oleh penganjur acara itu, Paul McCartney.",
+        "qa": [
+            {
+                "question": "Siapa yang menganjurkan Konsert untuk Rakyat Kampuchea?",
+                "answer": "Paul McCartney",
+                "impossible": false,
+                "answer_start": 1005
+            },
+            {
+                "question": "Dalam tahun apakah Queen Killer Live dibebaskan?",
+                "answer": "1979",
+                "impossible": false,
+                "answer_start": 91
+            },
+            {
+                "question": "Berapa kali platinum melakukan Killer Live Queen di AS?",
+                "answer": "dua kali",
+                "impossible": false,
+                "answer_start": 212
+            },
+            {
+                "question": "Ratu Crazy Little Thing Called Love adalah seorang ode penyanyi mana?",
+                "answer": "Elvis Presley",
+                "impossible": false,
+                "answer_start": 389
+            },
+            {
+                "question": "Pada tahun apakah Ratu memainkan Konsert untuk Rakyat Kampuchea?",
+                "answer": "1979",
+                "impossible": false,
+                "answer_start": 91
+            }
+        ]
+    },
+    {
+        "context": "Menjelang tahun 1976, Queen kembali ke studio rakaman A Day di Races, yang sering dianggap sebagai album sekuel A Night di Opera. Ia sekali lagi meminjam nama filem Marx Brothers, dan penutupnya sama dengan A Night di Opera, variasi di Queen Crest yang sama. Yang paling dikenali oleh Marx Brothers, Groucho Marx, menjemput Ratu untuk melawatnya di rumahnya di Los Angeles pada Mac 1977; di sana band itu mengucapkan terima kasih kepada beliau secara peribadi, dan melakukan \"39\" cappella. Secara Muzikal, A Day at the Races oleh kedua-dua peminat dan kritikan 'standard usaha yang kuat, mencapai nombor satu di UK dan Jepun, dan nombor lima di Amerika Syarikat. Lagu utama dalam album itu ialah \"Somebody to Love\", sebuah lagu yang diilhami oleh Injil di mana Mercury, May, dan Taylor mengamati suara mereka untuk mencipta paduan suara 100 suara. Lagu itu pergi ke nombor dua di UK, dan nombor tiga belas di Amerika Syarikat. Album itu turut menampilkan salah satu lagu terbitan band, \"Tie Your Mother Down\", yang menjadi pokok pertunjukan langsung mereka.",
+        "qa": [
+            {
+                "question": "Apa album Queen dikeluarkan pada tahun 1976?",
+                "answer": "A Day at the Races",
+                "impossible": false,
+                "answer_start": 506
+            },
+            {
+                "question": "Apa kejayaan besar dari album Queen 1976?",
+                "answer": "Somebody to Love",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang lagu Queen Riang adalah kegemaran di persembahan langsung?",
+                "answer": "Tie Your Mother Down",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang komedi yang menjemput Ratu untuk melawatnya pada tahun 1977?",
+                "answer": "Groucho Marx",
+                "impossible": false,
+                "answer_start": 300
+            },
+            {
+                "question": "Yang ahli Ratu berlapis suara mereka pada Seseorang untuk Cinta?",
+                "answer": "Mercury, May, dan Taylor",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Pada tahun 1982, band ini mengeluarkan album Hot Space, yang berlepas dari bunyi beruniform tujuh puluhan, kali ini menjadi campuran rock, pop rock, dance, funk, dan R & B. Kebanyakan album itu dirakam di Munich semasa tempoh paling bergelora dalam sejarah kumpulan itu, dan Taylor dan May mengeluh bunyi baru, dengan kedua-duanya sangat kritikal terhadap pengaruh pengurus peribadi Mercury Paul Prenter mengenai penyanyi itu. Mei juga mencemaskan Prenter, yang merupakan pengurus Mercury dari awal 1980-an hingga 1984, kerana menyangkal kepentingan stesen radio, seperti rangkaian AS, dan hubungan penting mereka antara artis dan masyarakat, dan untuk menafikan mereka akses kepada Mercury. Band ini berhenti melawat Amerika Utara selepas Tour Space Hot mereka, kerana kejayaan mereka telah berkurang, walaupun mereka akan tampil di televisyen Amerika untuk satu-satunya masa dalam perdana musim kelapan Sabtu Malam Live. Queen meninggalkan Elektra Records, label mereka di Amerika Syarikat, Kanada, Jepun, Australia, dan New Zealand, dan menandatangani EMI / Capitol Records.",
+        "qa": [
+            {
+                "question": "Apa album yang dilancarkan Queen pada tahun 1982?",
+                "answer": "Hot Space",
+                "impossible": false,
+                "answer_start": 45
+            },
+            {
+                "question": "Di manakah Ratu mencatatkan album 1982 mereka?",
+                "answer": "Munich",
+                "impossible": false,
+                "answer_start": 205
+            },
+            {
+                "question": "Apa nama pengurus peribadi Freddie Mercury?",
+                "answer": "Paul Prenter",
+                "impossible": false,
+                "answer_start": 391
+            },
+            {
+                "question": "Queen meninggalkan apa label sebelum mendaftar dengan EMI?",
+                "answer": "Elektra Records",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Di mana musim Sabtu Malam Live dilakukan oleh Queen?",
+                "answer": "musim kelapan",
+                "impossible": false,
+                "answer_start": 891
+            }
+        ]
+    },
+    {
+        "context": "Pada bulan Februari 1981, Queen mengembara ke Amerika Selatan sebagai sebahagian daripada The Game Tour, dan menjadi band rock utama pertama yang bermain di stadium Amerika Latin. Tur termasuk lima pertunjukan di Argentina, salah satu daripadanya menarik penonton konsert tunggal terbesar dalam sejarah Argentina dengan penonton sebanyak 300,000 di Buenos Aires dan dua konsert di Stadium Morumbi di S\u00e3o Paulo, Brazil, di mana mereka bermain untuk penonton lebih daripada 131,000 orang pada malam pertama (kemudian penonton berbayar terbesar untuk satu band di mana sahaja di dunia) dan lebih daripada 120,000 orang pada malam berikutnya. Pada bulan Oktober tahun yang sama, Ratu mempersembahkan lebih daripada 150,000 peminat pada 9 Oktober di Monterrey (Estadio Universitario) dan 17 dan 18 di Puebla (Estadio Zaragoza), Mexico. Pada 24 dan 25 November, Queen bermain dua malam di Forum Montreal, Quebec, Kanada. Salah satu persembahan Mercury yang paling penting dalam trek akhir The Game, \"Save Me\", berlaku di Montreal, dan konsert itu dirakamkan dalam album live, Queen Rock Montreal.",
+        "qa": [
+            {
+                "question": "Band apa band pertama yang bermain di stadium Amerika Latin?",
+                "answer": "Queen",
+                "impossible": false,
+                "answer_start": 26
+            },
+            {
+                "question": "The Game Tour dari band Queen termasuk berapa banyak pertunjukan di Argentina?",
+                "answer": "lima",
+                "impossible": false,
+                "answer_start": 193
+            },
+            {
+                "question": "Seberapa besar penonton rekod Queen di Argentina?",
+                "answer": "300,000",
+                "impossible": false,
+                "answer_start": 338
+            },
+            {
+                "question": "Apa trek terakhir di Queen's The Game?",
+                "answer": "Save Me",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apa yang telah terjual tempat bermain Queen di Kanada?",
+                "answer": "Forum Montreal",
+                "impossible": false,
+                "answer_start": 883
+            }
+        ]
+    },
+    {
+        "context": "Pada akhir 1975, Queen mencatatkan dan mengeluarkan A Night di Opera, mengambil namanya dari filem Marx Brothers yang popular. Pada masa itu, ia adalah album paling mahal yang pernah dihasilkan. Seperti pendahulunya, album ini mempunyai gaya muzik yang pelbagai dan percubaan dengan bunyi stereo. Dalam \"Lagu Nabi\", epik lapan minit, bahagian tengah adalah kanun, dengan frasa mudah berlapis untuk mewujudkan suara penuh suara. The Mercury yang menulis balada, \"Love of My Life\", menampilkan harmoni suara harpa dan overdubbed. Album ini sangat berjaya di Britain, dan berlipat ganda platinum di Amerika Syarikat. Orang awam Britain mengundi album terhebat ke-13 sepanjang masa dalam polling Channel 4 2004. Ia juga menduduki tempat teratas dalam pemilihan antarabangsa; dalam penggubalan Guinness di seluruh dunia, ia telah mengundi ke-19 sepanjang masa, sementara tinjauan pendapat ABC menyaksikan orang awam Australia mengundi ke-28 terbesar sepanjang masa. Malam di Opera sering muncul dalam senarai \"album paling hebat\" yang mencerminkan pendapat pengkritik. Di antara pencapaian lain, ia menduduki tempat ke-16 dalam \"The 50 Best British Albums Ever\" pada tahun 2004, dan nombor 11 dalam \"The 100 Greatest Albums of All Rolling Stone\" yang dimainkan dalam edisi Mexico mereka pada tahun 2004. Ia juga diletakkan di No. 230 di majalah Rolling Stone \"The 500 Album Terbesar Sepanjang Masa\" pada tahun 2003. Malam di Opera adalah album Queen ketiga dan terakhir yang akan dipaparkan di dalam buku 1001 Albums You Must Hear Before You Die.",
+        "qa": [
+            {
+                "question": "Album Queen mana yang dikeluarkan pada tahun 1975?",
+                "answer": "A Night di Opera",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Queen's 1975 album mengambil nama itu dari filem yang mana komedi bertindak?",
+                "answer": "Marx Brothers",
+                "impossible": false,
+                "answer_start": 99
+            },
+            {
+                "question": "Berapa lama lagu Ratu Nabi?",
+                "answer": "lapan minit",
+                "impossible": false,
+                "answer_start": 321
+            },
+            {
+                "question": "Mana watak Ratu yang menampilkan kecapi harpa dan overdubbed?",
+                "answer": "Love of My Life",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Ratu memulakan kerjaya tahun 1980-an dengan The Game. Ia menampilkan single \"Crazy Little Thing Called Love\" dan \"Another One Bites the Dust\", keduanya mencapai nombor satu di Amerika Syarikat. Selepas menghadiri konsert Queen di Los Angeles, Michael Jackson mencadangkan ke belakang pentas Merkuri bahawa \"Satu lagi Menggigit Debu\" dibebaskan sebagai satu, dan pada bulan Oktober 1980 ia menghabiskan masa tiga minggu di nombor satu. Album itu mengungguli Billboard 200 selama lima minggu, dan menjual lebih dari empat juta kopi di Amerika Syarikat. Ia juga merupakan penampilan pertama penerbit dalam album Queen. Sejak itu, album mereka menampilkan \"Tidak Sintesis!\" nota lengan. Nota itu dianggap secara meluas untuk mencerminkan pendirian anti-sintetik, pro- \"keras\" oleh band, tetapi kemudiannya diturunkan oleh produser Roy Thomas Baker sebagai percubaan untuk menjelaskan bahawa solos berlapis-lapis album itu dibuat dengan gitar, bukan synths, sebagai rekod eksekutif syarikat terus menganggap pada masa itu. Pada bulan September 1980, Queen memperlihatkan tiga acara yang dijual di Madison Square Garden. Pada tahun 1980, Queen juga mengeluarkan soundtrack yang mereka rakamkan untuk Flash Gordon. Pada Anugerah Muzik Amerika 1981 pada bulan Januari, \"One Another Bites the Dust\" memenangi anugerah untuk Pop / Rock Single Kegemaran, dan Queen dicalonkan untuk Band Pop / Rock Kegemaran, Duo, atau Kumpulan.",
+        "qa": [
+            {
+                "question": "Ratu melakukan beberapa rancangan untuk dijual di tempat AS?",
+                "answer": "Madison Square Garden",
+                "impossible": false,
+                "answer_start": 1092
+            },
+            {
+                "question": "Queen mencatatkan soundtrack kepada apa yang menunjukkan?",
+                "answer": "Flash Gordon",
+                "impossible": false,
+                "answer_start": 1194
+            },
+            {
+                "question": "Apa lagu Queen memenangi anugerah untuk single terbaik Pop / Rock?",
+                "answer": "One Another Bites the Dust",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Yang artis muzik yang mencadangkan Ratu melepaskan Satu lagi Menggigit Debu sebagai satu?",
+                "answer": "Michael Jackson",
+                "impossible": false,
+                "answer_start": 243
+            },
+            {
+                "question": "Album Queen mana yang bermula pada tahun 1980-an?",
+                "answer": "Permainan",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Album itu juga memaparkan lagu \"Bohemian Rhapsody\", yang merupakan nombor satu di UK selama sembilan minggu. Rakan dan penasihat dekat Mercury, DJ Capital Capital DJ Kenny Everett, memainkan peranan penting dalam memberikan pendedahan tunggal. Ia adalah single ketiga terlaris sepanjang zaman di UK, dilangkau hanya oleh Band Aid yang \"Adakah Mereka Tahu Itu Krismas?\" dan Elton John \"Lilin dalam Angin 1997\", dan merupakan satu-satunya komersial yang paling laris di UK. Ia juga mencecah angka sembilan di Amerika Syarikat (pelepasan semula 1992 mencapai nombor dua di Billboard Hot 100 selama lima minggu). Ia adalah satu-satunya yang pernah menjual satu juta salinan pada dua kesempatan berasingan, dan menjadi nombor satu Krismas dua kali di UK, satu-satunya yang pernah berbuat demikian. \"Bohemian Rhapsody\" telah diundi beberapa kali lagu paling hebat sepanjang masa. Band ini memutuskan untuk membuat video untuk membantu dengan Trilion tunggal dan upah, anak syarikat bekas syarikat pengurusan Trident Studios, menggunakan teknologi baru untuk membuat video; hasilnya dianggap sebagai video muzik \"benar\" pertama yang pernah dihasilkan, dan mempopulerkan media. Lagu pertama album \"Death on Two Legs\" dikatakan ditulis oleh Mercury mengenai Norman Sheffield dan bekas pengurusan di Trident yang membantu membuat video begitu popular. Walaupun band-band lain, termasuk Beatles, telah membuat filem promosi pendek atau video lagu-lagu sebelum ini, secara amnya, mereka secara khusus dibuat untuk ditayangkan pada rancangan televisyen tertentu. Mengenai kesan \"Bohemian Rhapsody\", Rolling Stone menyatakan: \"Pengaruhnya tidak dapat dilebih-lebihkan, secara praktikal mencipta video muzik tujuh tahun sebelum MTV pergi ke udara.\" Single kedua dari album, \"You're My Best Friend\", lagu kedua yang dikarang oleh John Deacon, dan single pertamanya, memuncak pada angka enam belas di Amerika Syarikat dan menjadi hit Sepuluh di seluruh dunia. A Night band di Opera Tour bermula pada bulan November 1975, dan meliputi Eropah, Amerika Syarikat, Jepun, dan Australia.",
+        "qa": [
+            {
+                "question": "Lagu Queen mana yang nombor satu di carta UK selama sembilan minggu?",
+                "answer": "Bohemian Rhapsody",
+                "impossible": false,
+                "answer_start": 32
+            },
+            {
+                "question": "Apakah ketiga jualan terbaik sepanjang masa di UK?",
+                "answer": "Bohemian Rhapsody",
+                "impossible": false,
+                "answer_start": 32
+            },
+            {
+                "question": "Apa single Queen menjual satu juta salinan pada dua kesempatan berasingan?",
+                "answer": "Bohemian Rhapsody",
+                "impossible": false,
+                "answer_start": 32
+            },
+            {
+                "question": "Dalam tahun apakah Queen A Night di Tour Opera bermula?",
+                "answer": "1975",
+                "impossible": false,
+                "answer_start": 1998
+            },
+            {
+                "question": "Lawatan Queen 1975 termasuk Eropah dan ketiga negara?",
+                "answer": "Amerika Syarikat, Jepun, dan Australia",
+                "impossible": false,
+                "answer_start": 2025
+            }
+        ]
+    },
+    {
+        "context": "Populariti Queen dirangsang di Amerika Utara apabila \"Bohemian Rhapsody\" dipaparkan di dalam filem komedi 1992 Wayne's World. Penyertaannya membantu lagu mencapai nombor dua di Billboard Hot 100 selama lima minggu pada tahun 1992 (ia kekal di Hot 100 selama lebih dari 40 minggu), dan memenangi band Anugerah MTV pada 1992 MTV Video Music Awards. Album kompilasi Classic Queen juga mencapai nombor empat di Billboard 200, dan disahkan tiga kali platinum di Amerika Syarikat. Rakaman Dunia Wayne digunakan untuk membuat video muzik baru untuk \"Bohemian Rhapsody\", yang mana kumpulan dan pengurusannya gembira.",
+        "qa": [
+            {
+                "question": "Filem mana yang memaparkan Rhapsody Ratu Bohemia?",
+                "answer": "Wayne's World",
+                "impossible": false,
+                "answer_start": 111
+            },
+            {
+                "question": "Tahun berapa Ratu mendapat dorongan dalam jualan Amerika Utara kerana dipaparkan dalam filem?",
+                "answer": "1992",
+                "impossible": false,
+                "answer_start": 106
+            },
+            {
+                "question": "Dalam tahun apakah Queen memenangi anugerah MTV?",
+                "answer": "1992",
+                "impossible": false,
+                "answer_start": 106
+            },
+            {
+                "question": "Berapa tinggi carta album Queen Classic di Billboard 200?",
+                "answer": "empat",
+                "impossible": false,
+                "answer_start": 398
+            },
+            {
+                "question": "Berapa kali platinum melakukan Classic Queen pergi di AS?",
+                "answer": "tiga kali",
+                "impossible": false,
+                "answer_start": 435
+            }
+        ]
+    },
+    {
+        "context": "Di Live Aid, yang diadakan di Wembley pada 13 Julai 1985, di hadapan penonton TV terbesar sebanyak 1.9 bilion, Queen melakukan beberapa hits terbesar mereka, di mana penonton stadium yang terjual sebanyak 72,000 orang bertepuk tangan, menyanyi, dan bergoyang bersamaan. Penganjur pameran, Bob Geldof dan Midge Ure, pemuzik lain seperti Elton John, Cliff Richard dan Dave Grohl, dan wartawan muzik menulis untuk BBC, CNN, Rolling Stone, MTV, The Telegraph antara lain, menyatakan bahawa Ratu mencuri persembahan. Satu tinjauan industri pada tahun 2005 menduduki kedudukan prestasi batu terbesar sepanjang masa. Nota Mercury yang kuat dan berterusan semasa bahagian cappella dikenali sebagai \"The Note Heard Round the World\".",
+        "qa": [
+            {
+                "question": "Apa tarikh adalah Live Aid?",
+                "answer": "13 Julai 1985",
+                "impossible": false,
+                "answer_start": 43
+            },
+            {
+                "question": "Di mana bantuan Live diadakan?",
+                "answer": "Wembley",
+                "impossible": false,
+                "answer_start": 30
+            },
+            {
+                "question": "Seberapa besar penonton TV Live Aid?",
+                "answer": "1.9 bilion",
+                "impossible": false,
+                "answer_start": 99
+            },
+            {
+                "question": "Berapa lama penonton stadium Live Aid?",
+                "answer": "72,000",
+                "impossible": false,
+                "answer_start": 205
+            },
+            {
+                "question": "Siapa yang menganjurkan Bantuan Langsung?",
+                "answer": "Bob Geldof dan Midge Ure",
+                "impossible": false,
+                "answer_start": 289
+            }
+        ]
+    },
+    {
+        "context": "Selepas bekerja pada pelbagai projek solo pada tahun 1988 (termasuk kerjasama Mercury dengan Montserrat Caball\u00e9, Barcelona), band ini mengeluarkan The Miracle pada tahun 1989. Album itu meneruskan arah A Kind of Magic, dengan menggunakan bunyi pop-rock bercampur dengan beberapa nombor berat . Ia memancarkan rekod Eropah \"I Want It All\", \"Breakthru\", \"The Invisible Man\", \"Scandal\", dan \"The Miracle\". The Miracle juga memulakan perubahan arah falsafah lagu lagu Queen. Sejak awal band, hampir semua lagu telah ditulis dan dikreditkan kepada seorang ahli tunggal, dengan ahli-ahli lain menambah sedikit. Dengan The Miracle, penulisan lagu band ini menjadi lebih kolaboratif, dan mereka berikrar untuk mengkredit produk akhir hanya kepada Queen sebagai satu kumpulan.",
+        "qa": [
+            {
+                "question": "Siapa yang Freddie Mercury bekerjasama pada tahun 1988?",
+                "answer": "Montserrat Caball\u00e9, Barcelona",
+                "impossible": false,
+                "answer_start": 93
+            },
+            {
+                "question": "Bilakah Queen melepaskan The Miracle?",
+                "answer": "1989",
+                "impossible": false,
+                "answer_start": 170
+            },
+            {
+                "question": "Album Queen mana yang mempunyai kredit menulis lebih banyak?",
+                "answer": "The Miracle",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Semasa ditemuramah untuk majalah Mojo, band ini berkata penglihatan paling luar biasa di Live Aid adalah untuk melihat penonton bertepuk tangan dengan \"Radio Ga Ga\". Brian May menyatakan: \"Saya tidak pernah melihat apa-apa seperti itu dalam hidup saya dan ia tidak dikira sama ada Kami memahami peminat kami dan bermain untuk mereka tetapi itu adalah salah satu kemalangan yang pelik kerana video (muzik). berfikir 'oh great, mereka telah mengambilnya' dan kemudian saya fikir 'ini bukan penonton Ratu'. Ini adalah khalayak umum yang telah membeli tiket sebelum mereka tahu kami ada tagihan. Bagaimana mereka tahu? Tidak ada yang memberitahu mereka untuk melakukannya. \"",
+        "qa": [
+            {
+                "question": "Penonton di Live Aid bertepuk tangan ke apa yang Song Queen?",
+                "answer": "Radio Ga Ga",
+                "impossible": false,
+                "answer_start": 152
+            },
+            {
+                "question": "Majalah mana yang ditemuramah Brian May mengenai Bantuan Langsung?",
+                "answer": "Brian May",
+                "impossible": false,
+                "answer_start": 166
+            },
+            {
+                "question": "Apa medium yang membantu peminat Ratu membiasakan lagu mereka sebelum Live Aid?",
+                "answer": "video (muzik)",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    },
+    {
+        "context": "Band ini, yang kini telah direvitalisasi oleh respon kepada Live Aid - yang \"ditembak di tangan\" Roger Taylor memanggilnya, - dan kenaikan dalam jualan rekod, berakhir pada 1985 dengan melepaskan \"One Vision\" tunggal, yang ketiga kali selepas \"Stone Cold Crazy\" dan \"Under Pressure (dengan David Bowie)\" bahawa kesemua empat band menerima kredit menulis untuk satu lagu. Juga, satu set kotak terhad edisi yang mengandungi semua album Queen hingga kini telah dikeluarkan di bawah tajuk The Complete Works. Pakej ini merangkumi bahan yang belum dirilis sebelumnya, terutamanya Queen single bukan album Krismas 1984, berjudul \"Terima Tuhan Ia Krismas\".",
+        "qa": [
+            {
+                "question": "Apa tahun yang dikeluarkan oleh Queen's One Vision?",
+                "answer": "1985",
+                "impossible": false,
+                "answer_start": 173
+            },
+            {
+                "question": "Berapa ramai ahli kumpulan menulis Satu Visi Ratu?",
+                "answer": "empat",
+                "impossible": false,
+                "answer_start": 319
+            },
+            {
+                "question": "Apakah pertengahan tahun 1980-an ditetapkan oleh Queen boxed set?",
+                "answer": "The Complete Works",
+                "impossible": true,
+                "answer_start": -1
+            },
+            {
+                "question": "Apakah lagu Queen Christmas 1984 yang dipanggil?",
+                "answer": "Terima Tuhan Ia Krismas",
+                "impossible": true,
+                "answer_start": -1
+            }
+        ]
+    }
+]

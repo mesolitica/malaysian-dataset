@@ -56,3 +56,7 @@ d = [
 ## GPE-Guidelines
 
 https://www.ling.upenn.edu/courses/Fall_2009/ling001/GPE_Guidelines.pdf
+
+## Download translated Ontonotes
+
+https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/translated-ontonotes5.json

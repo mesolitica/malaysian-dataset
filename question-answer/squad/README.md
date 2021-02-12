@@ -17,3 +17,7 @@
 4. train part4, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-300-400.json
 5. train part5, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-400-.json
 6. dev, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-dev-v2.0-bahasa.json
+
+## Supervised
+
+We will share supervised answers from human in [supervised](supervised).
