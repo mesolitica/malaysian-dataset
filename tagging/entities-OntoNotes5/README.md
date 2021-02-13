@@ -60,3 +60,9 @@ https://www.ling.upenn.edu/courses/Fall_2009/ling001/GPE_Guidelines.pdf
 ## Download translated Ontonotes
 
 https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/translated-ontonotes5.json
+
+## Processed Ontonotes
+
+train set, https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/processed-train-ontonotes5.json
+
+test set, https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/processed-test-ontonotes5.json
