@@ -66,3 +66,22 @@ https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/translated-on
 train set, https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/processed-train-ontonotes5.json
 
 test set, https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/processed-test-ontonotes5.json
+
+## Augmented
+
+Prefix, https://f000.backblazeb2.com/file/malay-dataset/tagging/ontonotes5/
+
+1. augmentation-address-ontonotes5.json
+2. augmentation-event-ontonotes5.json
+3. augmentation-fac-ontonotes5.json
+4. augmentation-gpe-ontonotes5.json
+5. augmentation-language-ontonotes5.json
+6. augmentation-law-ontonotes5.json
+7. augmentation-loc-ontonotes5.json
+8. augmentation-norp-ontonotes5.json
+9. augmentation-org-ontonotes5.json
+10. augmentation-person-ontonotes5.json
+11. augmentation-product-ontonotes5.json
+12. augmentation-work-of-art-ontonotes5.json
+
+Train test set, ontonotes5-train-test.json
