@@ -51,3 +51,7 @@ bahasa, 213.4MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter
 english, 142.2MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/2020-05-31-twitter-dump-en.json
 
 bahasa, 386.6MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/2020-05-31-twitter-dump-in.json
+
+9. 2021-03-06 - 2021-04-21
+
+bahasa, 533MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/compiled-2021-03-06-twitter.tar

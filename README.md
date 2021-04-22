@@ -102,6 +102,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [WWW](#www)
     * [OpenKP](#openkp)
     * [KPTimes](#kptimes)
+    * [Twitter Bahasa](#twitter-bahasa)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -1117,7 +1118,7 @@ Total size: 418.2 MB, 695571 sentences.
 
 #### [Twitter](dumping/twitter)
 
-Total size: 3764.7 MB
+Total size: 4297.7 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1210,6 +1211,12 @@ Total size: 4.3 GB
 Reference: https://github.com/ygorg/KPTimes
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [twitter bahasa](keyphrase/twitter-bahasa)
+
+Total size: 1580 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Lexicon](lexicon)
 
