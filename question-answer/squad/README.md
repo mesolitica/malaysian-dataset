@@ -1,23 +1,17 @@
 ## how-to
 
-### v1.1
+**Thanks to [The Translate-Align-Retrieve (TAR) method for synthetic QA corpora generation](https://github.com/ccasimiro88/TranslateAlignRetrieve) for steps to translate SQUAD dataset**.
 
-1. train part1, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v1.1-bahasa-0-100.json
-2. train part2, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v1.1-bahasa-100-200.json
-3. train part3, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v1.1-bahasa-200-300.json
-4. train part4, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v1.1-bahasa-300-400.json
-5. train part5, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v1.1-bahasa-400-.json
-6. dev, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-dev-v1.1-bahasa.json
+1. Download alignment dataset from [Malay-Dataset/alignment](https://github.com/huseinzol05/Malay-Dataset/tree/master/alignment).
 
-### v2.0
+2. Run notebooks.
 
-1. train part1, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-0-100.json
-2. train part2, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-100-200.json
-3. train part3, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-200-300.json
-4. train part4, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-300-400.json
-5. train part5, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-train-v2.0-bahasa-400-.json
-6. dev, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/translated-dev-v2.0-bahasa.json
+## download
 
-## Supervised
+1. ms-train-1.1.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-train-1.1.json
 
-We will share supervised answers from human in [supervised](supervised).
+2. ms-dev-1.1.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-dev-1.1.json
+
+3. ms-train-2.0.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-train-2.0.json
+
+4. ms-dev-2.0.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-dev-2.0.json
