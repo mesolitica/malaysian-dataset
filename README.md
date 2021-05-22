@@ -143,13 +143,6 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Translated Twitter](#Translated-Twitter)
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
-  * [Speech](#speech)
-    * [IIUM](#iium-1)
-    * [Tolong sebut](#tolong-sebut)
-    * [Wikipedia](#wikipedia)
-    * [Manglish](#manglish)
-    * [Malay Videos](#malay-videos)
-    * [Manglish Videos](#manglish-videos)
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
@@ -1514,7 +1507,7 @@ Total size: 12.3 GB
 
 Total size: 3 MB
 
-Reference: https://github.com/boudinfl/ake-datasets
+Originally from https://github.com/boudinfl/ake-datasets
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1522,7 +1515,7 @@ Reference: https://github.com/boudinfl/ake-datasets
 
 Total size: 2.7 MB
 
-Reference: https://github.com/boudinfl/ake-datasets
+Originally from https://github.com/boudinfl/ake-datasets
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1530,7 +1523,27 @@ Reference: https://github.com/boudinfl/ake-datasets
 
 Total size: 1197 MB
 
-Reference: https://github.com/microsoft/OpenKP
+```bibtex
+article{DBLP:journals/corr/NguyenRSGTMD16,
+  author    = {Tri Nguyen and
+               Mir Rosenberg and
+               Xia Song and
+               Jianfeng Gao and
+               Saurabh Tiwary and
+               Rangan Majumder and
+               Li Deng},
+  title     = {{MS} {MARCO:} {A} Human Generated MAchine Reading COmprehension Dataset},
+  journal   = {CoRR},
+  volume    = {abs/1611.09268},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1611.09268},
+  archivePrefix = {arXiv},
+  eprint    = {1611.09268},
+  timestamp = {Mon, 13 Aug 2018 16:49:03 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/NguyenRSGTMD16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1538,13 +1551,32 @@ Reference: https://github.com/microsoft/OpenKP
 
 Total size: 4.3 GB
 
-Reference: https://github.com/ygorg/KPTimes
+```bibtex
+@inproceedings{gallina2019kptimes,
+  title={KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents},
+  author={Gallina, Ygor and Boudin, Florian and Daille, B{\'e}atrice},
+  booktitle={Proceedings of the 12th International Conference on Natural Language Generation},
+  pages={130--135},
+  year={2019}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [twitter bahasa](keyphrase/twitter-bahasa)
 
 Total size: 1580 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Extract Keywords from Twitter using Lexicon,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/keyphrase/twitter-bahasa}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1558,12 +1590,34 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 {'negative': ['str1','str2'], 'positive': ['str3','str4']}
 ```
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Unsupervised Sentiment Lexicon,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/lexicon}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [emotion](lexicon/emotion.json)
 
 ```python
 {'anger': ['str1'], 'fear': ['str2'], 'joy': ['str3'], 'love': ['str4'], 'sadness': ['str5'], 'surprise': ['str6']}
+```
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Unsupervised Emotion Lexicon,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/lexicon}}
+}
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
@@ -1617,6 +1671,17 @@ strings = [
 #### [Crawled News](news/news-new)
 
 Total size: 1.2 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/news/news-new}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -2617,6 +2682,17 @@ Total size: 3.1 MB
 
 Total size: 555.6 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News Headline,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/news/headline}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Natural Language Query](nlq)
@@ -2645,7 +2721,16 @@ Total size: 99.4 MB
  'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
 ```
 
-Reference: https://github.com/taoyds/spider
+```bibtex
+@inproceedings{Yu&al.18c,
+  title     = {Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task},
+  author    = {Tao Yu and Rui Zhang and Kai Yang and Michihiro Yasunaga and Dongxu Wang and Zifan Li and James Ma and Irene Li and Qingning Yao and Shanelle Roman and Zilin Zhang and Dragomir Radev}
+  booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  address   = "Brussels, Belgium",
+  publisher = "Association for Computational Linguistics",
+  year      = 2018
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2673,7 +2758,45 @@ Total size: 105.5 MB
  'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
 ```
 
-Reference: https://yale-lily.github.io/cosql
+```bibtex
+@article{DBLP:journals/corr/abs-1909-05378,
+  author    = {Tao Yu and
+               Rui Zhang and
+               Heyang Er and
+               Suyi Li and
+               Eric Xue and
+               Bo Pang and
+               Xi Victoria Lin and
+               Yi Chern Tan and
+               Tianze Shi and
+               Zihan Li and
+               Youxuan Jiang and
+               Michihiro Yasunaga and
+               Sungrok Shim and
+               Tao Chen and
+               Alexander R. Fabbri and
+               Zifan Li and
+               Luyao Chen and
+               Yuwen Zhang and
+               Shreya Dixit and
+               Vincent Zhang and
+               Caiming Xiong and
+               Richard Socher and
+               Walter S. Lasecki and
+               Dragomir R. Radev},
+  title     = {CoSQL: {A} Conversational Text-to-SQL Challenge Towards Cross-Domain
+               Natural Language Interfaces to Databases},
+  journal   = {CoRR},
+  volume    = {abs/1909.05378},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1909.05378},
+  archivePrefix = {arXiv},
+  eprint    = {1909.05378},
+  timestamp = {Wed, 12 May 2021 16:44:19 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1909-05378.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2701,7 +2824,39 @@ Total size: 100.3 MB
  'question_bahasa': 'Berapa banyak penyanyi yang kita ada?'}
 ```
 
-Reference: https://yale-lily.github.io/sparc
+```bibtex
+@article{DBLP:journals/corr/abs-1906-02285,
+  author    = {Tao Yu and
+               Rui Zhang and
+               Michihiro Yasunaga and
+               Yi Chern Tan and
+               Xi Victoria Lin and
+               Suyi Li and
+               Heyang Er and
+               Irene Li and
+               Bo Pang and
+               Tao Chen and
+               Emily Ji and
+               Shreya Dixit and
+               David Proctor and
+               Sungrok Shim and
+               Jonathan Kraft and
+               Vincent Zhang and
+               Caiming Xiong and
+               Richard Socher and
+               Dragomir R. Radev},
+  title     = {SParC: Cross-Domain Semantic Parsing in Context},
+  journal   = {CoRR},
+  volume    = {abs/1906.02285},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.02285},
+  archivePrefix = {arXiv},
+  eprint    = {1906.02285},
+  timestamp = {Wed, 12 May 2021 16:44:19 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1906-02285.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2732,6 +2887,17 @@ Total size: 6.5 MB
 1. News stemming
 2. Wikipedia stemming
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Stemming and Lemmatization Dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/normalization/stemmer}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Optical Character Recognition](ocr)
@@ -2744,6 +2910,17 @@ Dataset is simple, malay label can get from the name [idola.png](ocr/idola.png).
 
 ![alt text](ocr/idola.png)
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay-to-Jawi Dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/normalization/stemmer}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### Malay handwriting (Satisfy-Regular)
@@ -2753,6 +2930,17 @@ Total size: 194.4 MB
 Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png).
 
 ![alt text](ocr/syarif.png)
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Generated Handwriting Dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/ocr/handwriting}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -2909,73 +3097,6 @@ Total size: 1.3 MB
 
 1. Positive
 2. Negative
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-## [Speech](https://github.com/huseinzol05/malaya-speech/tree/master/data)
-
-#### [IIUM](https://github.com/huseinzol05/malaya-speech/tree/master/data/iium)
-
-Read texts from IIUM confession, ~2.4 hours.
-
-Total size: 838.4 MB
-
-**Voices contributed by**,
-
-1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
-2. voices by [Shafiqah Idayu](https://www.facebook.com/shafiqah.ayu)
-
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Tolong sebut](https://github.com/huseinzol05/malaya-speech/tree/master/data/sebut-perkataan)
-
-Read random words from malay dictionary started with 'tolong sebut <word>'.
-
-Total size: 276 MB
-
-**Voices contributed by**,
-
-1. `sebut-perkataan-man` voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/).
-2. `tolong-sebut` voices by [Khalil Nooh](https://www.linkedin.com/in/khalilnooh/).
-3. `sebut-perkataan-woman` voices by [Mas Aisyah Ahmad](https://www.linkedin.com/in/mas-aisyah-ahmad-b46508a9/).
-
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Wikipedia](https://github.com/huseinzol05/malaya-speech/tree/master/data/wikipedia)
-
-Read texts from wikipedia, ~3.4 hours.
-
-Total size: 1.08 GB
-
-**Voices contributed by**,
-
-1. voices by [Husein Zolkepli](https://www.linkedin.com/in/husein-zolkepli/)
-
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Manglish](https://github.com/huseinzol05/malaya-speech/tree/master/data/manglish)
-
-Read texts from random manglish texts. Publicly contributed.
-
-Total size: 1.9 GB
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Malay Videos](https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-malay)
-
-Semi-supervised using Google Speech on malay youtube videos.
-
-16k sample rate, atleast 90% voice activity, 93 hours.
-
-Total size: 11 GB
-
-#### [Manglish Videos](https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-manglish)
-
-Semi-supervised using Google Speech on manglish youtube videos.
-
-16k sample rate, atleast 90% voice activity, 107 hours.
-
-Total size: 12.6 GB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
