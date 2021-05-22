@@ -1,4 +1,10 @@
-## how-to
+# MS MARCO
+
+Original website, https://microsoft.github.io/msmarco/
+
+Original paper, https://arxiv.org/abs/1611.09268
+
+## download
 
 prefix, https://f000.backblazeb2.com/file/malay-dataset/
 
@@ -37,6 +43,30 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/
 33. document-ranking/msmarco/translated-3200000.json
 34. document-ranking/msmarco/translated-3300000.json
 
-## mapping
+### mapping
 
 https://f000.backblazeb2.com/file/malay-dataset/document-ranking/msmarco/qrels.dev.small.tsv
+
+## Citation
+
+```bibtex
+@article{DBLP:journals/corr/NguyenRSGTMD16,
+  author    = {Tri Nguyen and
+               Mir Rosenberg and
+               Xia Song and
+               Jianfeng Gao and
+               Saurabh Tiwary and
+               Rangan Majumder and
+               Li Deng},
+  title     = {{MS} {MARCO:} {A} Human Generated MAchine Reading COmprehension Dataset},
+  journal   = {CoRR},
+  volume    = {abs/1611.09268},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1611.09268},
+  archivePrefix = {arXiv},
+  eprint    = {1611.09268},
+  timestamp = {Mon, 13 Aug 2018 16:49:03 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/NguyenRSGTMD16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```

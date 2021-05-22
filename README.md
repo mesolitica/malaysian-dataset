@@ -277,24 +277,13 @@ Total size: 246 KB
 1. constituency
 2. national
 
-Reference: https://www.kaggle.com/crowdflower/political-social-media-posts
+```bibtex
+@misc{eight_2016, title={Political Social Media Posts}, url={https://www.kaggle.com/crowdflower/political-social-media-posts}, journal={Kaggle}, author={Eight, Figure}, year={2016}, month={Nov}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [Translated Emotion](corpus/emotion/translate)
-
-Total size: 7.2 MB
-
-1. Anger
-2. Fear
-3. Joy
-4. Love
-5. Sadness
-6. Surprise
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Twitter Emotion](corpus/emotion/lexicon)
+#### [Twitter Emotion](corpus/emotion)
 
 Total size: 27.4 MB
 
@@ -304,6 +293,17 @@ Total size: 27.4 MB
 4. love, 20783 rows
 5. Sadness, 26468 rows
 6. Surprise, 13107 rows
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semi-Supervised Emotion dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/emotion}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -316,6 +316,10 @@ Total size: 2.2 MB
 3. Female
 4. Brand
 
+```bibtex
+@misc{eight_2016, title={Twitter User Gender Classification}, url={https://www.kaggle.com/crowdflower/twitter-user-gender-classification}, journal={Kaggle}, author={Eight, Figure}, year={2016}, month={Nov}}
+```
+
 Reference: https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
@@ -327,7 +331,9 @@ Total size: 60.4 MB
 1. Negative
 2. Positive
 
-Reference: https://www.kaggle.com/c/quora-insincere-questions-classification
+```bibtex
+@misc{kaggle, title={Quora Insincere Questions Classification}, url={https://www.kaggle.com/c/quora-insincere-questions-classification}, journal={Kaggle}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -338,7 +344,9 @@ Total size: 465 KB
 1. Positive
 2. Negative
 
-Reference: https://www.kaggle.com/rtatman/ironic-corpus
+```bibtex
+@misc{tatman_2017, title={Ironic Corpus}, url={https://www.kaggle.com/rtatman/ironic-corpus}, journal={Kaggle}, author={Tatman, Rachael}, year={2017}, month={Jul}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -365,6 +373,17 @@ sublanguages,
 10. perak
 11. sabah
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Lexicon based Language Detection dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/language-detection}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Malaysia-entities](corpus/malaysia-entities)
@@ -372,6 +391,17 @@ sublanguages,
 Social media texts related to Malaysia entities.
 
 Total size: 190.1 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Lexicon based Malaysia Entities dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/malaysia-entities}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -595,6 +625,17 @@ Total size: 190.1 MB
 Social media texts related to Malaysia topics.
 
 Total size: 322.4 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Lexicon based Malaysia Topics dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/malaysia-topics}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -859,7 +900,9 @@ Total size: 1.78 MB
 1. Positive
 2. Negative
 
-Reference: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+```bibtex
+@misc{misra_2019, title={News Headlines Dataset For Sarcasm Detection}, url={https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection}, journal={Kaggle}, author={Misra, Rishabh}, year={2019}, month={Jul}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -870,7 +913,14 @@ Total size: 1.4 MB
 1. Positive
 2. Negative
 
-Reference: http://www.cs.cornell.edu/people/pabo/movie-review-data/
+```bibtex
+@InProceedings{Pang+Lee:04a,
+  author =       {Bo Pang and Lillian Lee},
+  title =        {A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts},
+  booktitle =    "Proceedings of the ACL",
+  year =         2004
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -887,7 +937,9 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 5. insult
 6. identity hate
 
-Reference: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+```bibtex
+@misc{kaggle, title={Toxic Comment Classification Challenge}, url={https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge}, journal={Kaggle}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -929,7 +981,9 @@ Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic
 30. malay
 31. chinese
 
-Reference: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+```bibtex
+@misc{kaggle, title={Jigsaw Multilingual Toxic Comment Classification}, url={https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification}, journal={Kaggle}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -942,6 +996,17 @@ Total size: 2 MB
 1. Kerajaan (BN)
 2. Pembangkang (PAS, DAP, PKR)
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Lexicon based Political Landscape Detection dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/political-landscape}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [NSFW](corpus/nsfw)
@@ -952,6 +1017,17 @@ Total size: 85.9 MB
 2. Gambling, 256168 texts
 3. negative, [dumping/common-crawl](#common-crawl)
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Lexicon based NSFW Detection dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/nsfw}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Crawl](crawl)
@@ -960,65 +1036,117 @@ Total size: 85.9 MB
 
 #### [Foodpanda](crawl/foodpanda)
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 Crawled up to 9547 restaurants registered in https://www.foodpanda.my/.
 
 Contain location, restaurant name, star rating, characteristics, delivery methods, food descriptions and so much more.
 
 Total size: 482.4 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Foodpanda,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/foodpanda}}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [IIUM-Confession](crawl/iium-confession)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
 Crawled up to 20k confession posts.
 
 Total size: 75.1 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling IIUM-Confession,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iium-confession}}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Iproperty](crawl/iproperty)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.iproperty.com.my/terms-of-use/**
 
 crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
 
 Total size: 1329 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Iproperty,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iproperty}}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Klook](crawl/klook)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.klook.com/policy/**
 
 Crawled up to 200 interesting locations from MY and SG klook.
 
 Total size: 10.3 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Klook,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/klook}}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Academia PDF](crawl/pdf)
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
-
 Total size: 7.9 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Academia.edu,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/pdf}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [ticket2u](crawl/ticket2u)
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.ticket2u.com.my/copyright**
-
 Contains 4282 events in Malaysia from 2017.
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ticket2U,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ticket2u}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Wattpad](crawl/wattpad)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://support.wattpad.com/hc/en-us/articles/216192503-Copyright-FAQ**
 
 Crawled using keywords,
 
@@ -1033,6 +1161,17 @@ Crawled using keywords,
 Crawled up to 7k fiction stories.
 
 Total size: 97 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Wattpad,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/wattpad}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1052,7 +1191,16 @@ Reference: https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
 
 Total size: 6.9 MB
 
-Reference: Google Translate
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, 200k-English-Malay,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/200k-english-malay}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1060,7 +1208,16 @@ Reference: Google Translate
 
 Total size: 4.7 MB
 
-Reference: Google Translate
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, 90k-Malay-Synonym,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/synonym}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1068,7 +1225,16 @@ Reference: Google Translate
 
 Total size: 428 KB
 
-Reference: https://github.com/fakhrullah/MalayLanguage
+```bibtex
+@misc{Malay language dictionary for Sublime Text,
+  author = {Fakhrullah},
+  title = {MalayLanguage},
+  year = {2016},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/fakhrullah/MalayLanguage}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1085,7 +1251,16 @@ Glossaries for,
 7. penang
 8. sukuan
 
-Its a html table structure from http://prpm.dbp.gov.my/Cari1?keyword=%3d&d=150348&
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Dialect,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/dialect}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1098,11 +1273,33 @@ Unigram and Bigram collected from news, structure,
 {'saya': 1000}
 ```
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Ngram,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/ngram}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [7k antonym](dictionary/antonym)
 
 Total size: 200 KB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Antonym,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/antonym}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1112,7 +1309,27 @@ Total size: 200 KB
 
 Total size: 1.5 GB
 
-Reference: https://microsoft.github.io/msmarco/
+```bibtex
+@article{DBLP:journals/corr/NguyenRSGTMD16,
+  author    = {Tri Nguyen and
+               Mir Rosenberg and
+               Xia Song and
+               Jianfeng Gao and
+               Saurabh Tiwary and
+               Rangan Majumder and
+               Li Deng},
+  title     = {{MS} {MARCO:} {A} Human Generated MAchine Reading COmprehension Dataset},
+  journal   = {CoRR},
+  volume    = {abs/1611.09268},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1611.09268},
+  archivePrefix = {arXiv},
+  eprint    = {1611.09268},
+  timestamp = {Mon, 13 Aug 2018 16:49:03 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/NguyenRSGTMD16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -1122,15 +1339,22 @@ Reference: https://microsoft.github.io/msmarco/
 
 Total size: 221 KB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Karangan Sekolah,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/karangan-sekolah}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Wikipedia](dumping/wikipedia)
 
-Total size: 240.2 MB, 1663373 sentences.
-
-Total size: 255.1 MB, 1303844 sentences.
-
-**RAW**, Total size: 243.2 MB, 1748387 sentences.
+Total size: 243.2 MB, 1748387 sentences.
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1138,23 +1362,50 @@ Total size: 255.1 MB, 1303844 sentences.
 
 Total size: 418.2 MB, 695571 sentences.
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Instagram,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/instagram}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Twitter](dumping/twitter)
 
 Total size: 4297.7 MB
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Public news](dumping/public-news)
-
-Total size: 57.7 MB, 399251 sentences.
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Twitter,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/twitter}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Parliament](dumping/parliament)
 
 Total size: 46.7 MB, 252095 sentences.
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malaysia Parliament,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/parliament}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1168,6 +1419,17 @@ Total size: 1.2 GB, 19870766 sentences.
 
 Contributed by [brytjy](https://github.com/brytjy).
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Singlish Texts,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singlish-text}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Singapore news](dumping/singapore-news)
@@ -1176,11 +1438,33 @@ Total size: 213.1 MB, 1760382 sentences.
 
 Contributed by [brytjy](https://github.com/brytjy).
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Singapore News,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singapore-news}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Subtitle](dumping/subtitle)
 
 Total size: 1.5 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay Subtitles,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/subtitle}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -1194,6 +1478,17 @@ Total website size: 9.6 GB
 
 Total cleaned (removed NSFW) text extracted size: 2.93 GB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Common Crawl,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singlish-text}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Clean](dumping/clean)
@@ -1201,6 +1496,17 @@ Total cleaned (removed NSFW) text extracted size: 2.93 GB
 Gathered all dumping texts and applied cleaning and filteration.
 
 Total size: 12.3 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Dumping Clean,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/clean}}
+}
+```
 
 ## [Keyphrase](keyphrase)
 
@@ -2530,9 +2836,23 @@ Total size: 2.5 MB
 
 Total size: 129.1MB
 
-Originally from [SQUAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/).
-
-Allow to translate to different language, [stated here](https://groups.google.com/forum/#!searchin/squad-stanford-qa/translate%7Csort:date/squad-stanford-qa/tLNlhhMZIFM/x9il9aF2CgAJ), and distributed under the [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
+```bibtex
+@article{DBLP:journals/corr/abs-1806-03822,
+  author    = {Pranav Rajpurkar and
+               Robin Jia and
+               Percy Liang},
+  title     = {Know What You Don't Know: Unanswerable Questions for SQuAD},
+  journal   = {CoRR},
+  volume    = {abs/1806.03822},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1806.03822},
+  archivePrefix = {arXiv},
+  eprint    = {1806.03822},
+  timestamp = {Mon, 13 Aug 2018 16:48:21 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1806-03822.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 

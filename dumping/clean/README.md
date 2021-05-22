@@ -1,4 +1,8 @@
-## how-to
+# Clean
+
+Gathered all dumping texts and applied cleaning and filteration.
+
+## download
 
 Prefix, https://f000.backblazeb2.com/file/malay-dataset/dumping/clean/
 
@@ -17,3 +21,16 @@ Prefix, https://f000.backblazeb2.com/file/malay-dataset/dumping/clean/
 13. filtered-dumping-academia.txt
 14. filtered-dumping-cleaned-common-crawl.txt
 15. filtered-dumping-wiki.txt
+
+## Citation
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Dumping Clean,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/clean}}
+}
+```
