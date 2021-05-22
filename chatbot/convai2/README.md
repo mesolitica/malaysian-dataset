@@ -41,6 +41,4 @@ Original paper, https://arxiv.org/abs/1902.00098?
   biburl    = {https://dblp.org/rec/journals/corr/abs-1902-00098.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-a service of Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout
-
 ```
