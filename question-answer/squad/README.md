@@ -1,12 +1,12 @@
-## how-to
+# SQUAD
 
 **Thanks to [The Translate-Align-Retrieve (TAR) method for synthetic QA corpora generation](https://github.com/ccasimiro88/TranslateAlignRetrieve) for steps to translate SQUAD dataset**.
 
-**We use Malaya translation module to translate EN -> MS**.
+Original website, https://rajpurkar.github.io/SQuAD-explorer/
 
-1. Download alignment dataset from [Malay-Dataset/alignment](https://github.com/huseinzol05/Malay-Dataset/tree/master/alignment).
+Original paper, https://arxiv.org/abs/1806.03822
 
-2. Run notebooks.
+Step to reproduce the translation at [notebook](notebook).
 
 ## download
 
@@ -17,3 +17,23 @@
 3. ms-train-2.0.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-train-2.0.json
 
 4. ms-dev-2.0.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-dev-2.0.json
+
+## Citation
+
+```bibtex
+@article{DBLP:journals/corr/abs-1806-03822,
+  author    = {Pranav Rajpurkar and
+               Robin Jia and
+               Percy Liang},
+  title     = {Know What You Don't Know: Unanswerable Questions for SQuAD},
+  journal   = {CoRR},
+  volume    = {abs/1806.03822},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1806.03822},
+  archivePrefix = {arXiv},
+  eprint    = {1806.03822},
+  timestamp = {Mon, 13 Aug 2018 16:48:21 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1806-03822.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
