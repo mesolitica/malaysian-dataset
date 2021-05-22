@@ -176,11 +176,30 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 
 ## [Chatbot](chatbot)
 
-#### [Wiki Wizard](chatbot/wiki-wizard)
+#### [Blended Skill Talk](chatbot/blended-skill-talk)
 
-Total size: 275.0 MB
+Total size: 31.2 MB
 
-Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/wizard_of_wikipedia
+```bibtex
+@article{DBLP:journals/corr/abs-2004-08449,
+  author    = {Eric Michael Smith and
+               Mary Williamson and
+               Kurt Shuster and
+               Jason Weston and
+               Y{-}Lan Boureau},
+  title     = {Can You Put it All Together: Evaluating Conversational Agents' Ability
+               to Blend Skills},
+  journal   = {CoRR},
+  volume    = {abs/2004.08449},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.08449},
+  archivePrefix = {arXiv},
+  eprint    = {2004.08449},
+  timestamp = {Sat, 23 Jan 2021 01:20:50 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-08449.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -188,15 +207,64 @@ Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/w
 
 Total size: 127.9 MB
 
-Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai_chitchat
+```bibtex
+@article{DBLP:journals/corr/abs-1902-00098,
+  author    = {Emily Dinan and
+               Varvara Logacheva and
+               Valentin Malykh and
+               Alexander H. Miller and
+               Kurt Shuster and
+               Jack Urbanek and
+               Douwe Kiela and
+               Arthur Szlam and
+               Iulian Serban and
+               Ryan Lowe and
+               Shrimai Prabhumoye and
+               Alan W. Black and
+               Alexander I. Rudnicky and
+               Jason Williams and
+               Joelle Pineau and
+               Mikhail S. Burtsev and
+               Jason Weston},
+  title     = {The Second Conversational Intelligence Challenge (ConvAI2)},
+  journal   = {CoRR},
+  volume    = {abs/1902.00098},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1902.00098},
+  archivePrefix = {arXiv},
+  eprint    = {1902.00098},
+  timestamp = {Sat, 23 Jan 2021 01:11:58 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-00098.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [Blended Skill Talk](chatbot/blended-skill-talk)
+#### [Wiki Wizard](chatbot/wiki-wizard)
 
-Total size: 31.2 MB
+Total size: 275.0 MB
 
-Reference: https://github.com/facebookresearch/ParlAI/blob/master/parlai/tasks/blended_skill_talk/build.py
+```bibtex
+@article{DBLP:journals/corr/abs-1811-01241,
+  author    = {Emily Dinan and
+               Stephen Roller and
+               Kurt Shuster and
+               Angela Fan and
+               Michael Auli and
+               Jason Weston},
+  title     = {Wizard of Wikipedia: Knowledge-Powered Conversational agents},
+  journal   = {CoRR},
+  volume    = {abs/1811.01241},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1811.01241},
+  archivePrefix = {arXiv},
+  eprint    = {1811.01241},
+  timestamp = {Sat, 23 Jan 2021 01:19:39 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1811-01241.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
