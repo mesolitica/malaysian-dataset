@@ -1,3 +1,14 @@
+# Alignment
+
+Purpose of this dataset to do word alignment, example,
+
+```text
+a black cat
+kucing hitam
+
+-> 1-1 2-0
+```
+
 ## how-to
 
 Or you can skip the steps and download the priors.

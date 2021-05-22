@@ -1,4 +1,8 @@
-## how-to
+# Toxicity Small
+
+Original website, https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+## download
 
 1. part 1, https://f000.backblazeb2.com/file/malay-dataset/toxicity-small/toxic0.json
 2. part 2, https://f000.backblazeb2.com/file/malay-dataset/toxicity-small/toxic1.json
@@ -8,3 +12,9 @@
 6. part 6, https://f000.backblazeb2.com/file/malay-dataset/toxicity-small/toxic5.json
 7. part 7, https://f000.backblazeb2.com/file/malay-dataset/toxicity-small/toxic6.json
 8. part 8, https://f000.backblazeb2.com/file/malay-dataset/toxicity-small/toxic7.json
+
+## Citation
+
+```bibtex
+@misc{kaggle, title={Toxic Comment Classification Challenge}, url={https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge}, journal={Kaggle}}
+```

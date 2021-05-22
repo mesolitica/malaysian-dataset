@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#readme">
-        <img alt="logo" width="50%" src="wordcloud.png">
+        <img alt="logo" width="50%" src="malay-dataset.png">
     </a>
 </p>
 <p align="center">
@@ -802,7 +802,7 @@ Total size: 1.4 MB
 1. Positive
 2. Negative
 
-Reference: https://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader.categorized_sents
+Reference: http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -902,6 +902,26 @@ Total size: 482.4 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
+#### [IIUM-Confession](crawl/iium-confession)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
+
+Crawled up to 20k confession posts.
+
+Total size: 75.1 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Iproperty](crawl/iproperty)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.iproperty.com.my/terms-of-use/**
+
+crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
+
+Total size: 1329 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Klook](crawl/klook)
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.klook.com/policy/**
@@ -912,13 +932,19 @@ Total size: 10.3 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [IIUM-Confession](crawl/iium-confession)
+#### [Academia PDF](crawl/pdf)
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
 
-Crawled up to 20k confession posts.
+Total size: 7.9 GB
 
-Total size: 75.1 MB
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [ticket2u](crawl/ticket2u)
+
+**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.ticket2u.com.my/copyright**
+
+Contains 4282 events in Malaysia from 2017.
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -939,76 +965,6 @@ Crawled using keywords,
 Crawled up to 7k fiction stories.
 
 Total size: 97 MB
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Academia PDF](crawl/pdf)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.academia.edu/copyright**
-
-Total size: 7.9 GB
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [ticket2u](crawl/ticket2u)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.ticket2u.com.my/copyright**
-
-Contains 4282 events in Malaysia from 2017,
-
-```python
-{'row': {'rownum': '4282',
-  'rowtotal': '4282',
-  'rowpp': '18',
-  'link': 'https://www.ticket2u.com.my/event/10223/emi-business-networking-3.0',
-  'time': '4:00PM',
-  'avatar': 'https://www.ticket2u.com.my/upload/event/listing/0-10223-8ce30523-200c-4bfa-98a9-daadd142989b-GYQ6_X.jpg',
-  'datefrom106': '26 Oct 2017',
-  'dateto106': '26 Oct 2017',
-  'day': 'Thursday',
-  'date': '26',
-  'month': 'Oct',
-  'year': '2017',
-  'datefrom': '2017-10-26T16:00:00',
-  'dateto': '2017-10-26T19:00:00',
-  'active': '1',
-  'id': '10223',
-  'name': 'EMI Business Networking 3.0',
-  'titlename': 'EMI Business Networking 3.0',
-  'excerpt': '',
-  'pid': '0',
-  'basecurrency': 'RM',
-  'online': '0',
-  'countryid': '1',
-  'stateid': '1',
-  'areaid': '0',
-  'locname': 'Denai Alam Recreational and Riding Club',
-  'statename': 'WP Kuala Lumpur',
-  'latitude': '3.150970999999999',
-  'type': '619',
-  'regboo': '0',
-  'pricefrom': '75.00',
-  'longitude': '101.51955099999998',
-  'eventcat': 'Business Sharing and Networking Event',
-  'eventcatcode': 'business',
-  'eventsubcat': 'Networking',
-  'eventsubcatcode': 'networking',
-  'showdate': '1',
-  'exclusive': '0',
-  'notexclusive': '0',
-  'issaleend': '1',
-  'status': 'expired'}}
-```
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Iproperty](crawl/iproperty)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose, https://www.iproperty.com.my/terms-of-use/**
-
-crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
-
-Total size: 1329 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2811,7 +2767,7 @@ Total size: 1.7 GB
 
 1. Please citate the repository if use these corpus.
 
-```
+```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!,
   author = {Husein, Zolkepli},
   title = {Malay-Dataset},

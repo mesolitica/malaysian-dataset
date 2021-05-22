@@ -1,6 +1,12 @@
-## how-to
+# Toxicity Large
 
-url, https://f000.backblazeb2.com/file/malay-dataset/toxicity/{filename}
+Original website, https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+
+Added a few local toxicity keywords using lexicon, all steps in [notebook].
+
+## download
+
+url, https://f000.backblazeb2.com/file/malay-dataset/toxicity/
 
 1. translated-0.json
 2. translated-1000000.json
@@ -36,3 +42,9 @@ url, https://f000.backblazeb2.com/file/malay-dataset/toxicity/{filename}
 chinese, malay and indian labels from local tweets, https://f000.backblazeb2.com/file/malay-dataset/toxicity/kaum.json
 
 Weak learning score using BERT Base for chinese, malay and indian labels, https://f000.backblazeb2.com/file/malay-dataset/toxicity/weak-learning-toxicity.json
+
+## Citation
+
+```bibtex
+@misc{kaggle, title={Jigsaw Multilingual Toxic Comment Classification}, url={https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification}, journal={Kaggle}}
+```

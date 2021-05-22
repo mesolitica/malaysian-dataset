@@ -1,4 +1,8 @@
-## how-to
+# Language Detection
+
+Gathered language detection dataset using lexicon, all steps in [notebook].
+
+## download
 
 - Download dataset from here, https://f000.backblazeb2.com/file/malay-dataset/language-detection/train-test.json
 
@@ -29,3 +33,15 @@ Labels,
 10. perak 1307
 11. sabah 1253
 
+## Citation
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Lexicon based Language Detection dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/language-detection}}
+}
+```

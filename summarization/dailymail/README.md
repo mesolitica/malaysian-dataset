@@ -1,4 +1,4 @@
-# CNN News
+# Dailymail
 
 Original paper, https://arxiv.org/pdf/1704.04368.pdf
 
