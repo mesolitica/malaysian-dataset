@@ -1,4 +1,6 @@
-## how-to
+# Multinews
+
+## download
 
 prefix, https://f000.backblazeb2.com/file/malay-dataset/
 
@@ -83,3 +85,26 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/
 79. summary/multinews/translated-multinews-8400.json
 80. summary/multinews/translated-multinews-9100.json
 81. summary/multinews/translated-multinews-9800.json
+
+## Citation
+
+```bibtex
+@article{DBLP:journals/corr/abs-1906-01749,
+  author    = {Alexander R. Fabbri and
+               Irene Li and
+               Tianwei She and
+               Suyi Li and
+               Dragomir R. Radev},
+  title     = {Multi-News: a Large-Scale Multi-Document Summarization Dataset and
+               Abstractive Hierarchical Model},
+  journal   = {CoRR},
+  volume    = {abs/1906.01749},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.01749},
+  archivePrefix = {arXiv},
+  eprint    = {1906.01749},
+  timestamp = {Thu, 13 Jun 2019 13:36:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1906-01749.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```

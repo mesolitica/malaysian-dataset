@@ -2906,9 +2906,9 @@ Total size: 6.5 MB
 
 Total size: 445.3 MB
 
-Dataset is simple, malay label can get from the name [idola.png](ocr/idola.png).
+Dataset is simple, malay label can get from the name [idola.png](ocr/malay-to-jawi/idola.png).
 
-![alt text](ocr/idola.png)
+![alt text](ocr/malay-to-jawi/idola.png)
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay-to-Jawi Dataset,
@@ -2927,9 +2927,9 @@ Dataset is simple, malay label can get from the name [idola.png](ocr/idola.png).
 
 Total size: 194.4 MB
 
-Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png).
+Dataset is simple, malay label can get from the name [syarif.png](ocr/handwriting/syarif.png).
 
-![alt text](ocr/syarif.png)
+![alt text](ocr/handwriting/syarif.png)
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Generated Handwriting Dataset,
@@ -2950,11 +2950,61 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/syarif.png
 
 Total size: 31.0 MB
 
+Extract from MS COCO Captions.
+
+```bibtex
+@article{DBLP:journals/corr/LinMBHPRDZ14,
+  author    = {Tsung{-}Yi Lin and
+               Michael Maire and
+               Serge J. Belongie and
+               Lubomir D. Bourdev and
+               Ross B. Girshick and
+               James Hays and
+               Pietro Perona and
+               Deva Ramanan and
+               Piotr Doll{\'{a}}r and
+               C. Lawrence Zitnick},
+  title     = {Microsoft {COCO:} Common Objects in Context},
+  journal   = {CoRR},
+  volume    = {abs/1405.0312},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1405.0312},
+  archivePrefix = {arXiv},
+  eprint    = {1405.0312},
+  timestamp = {Mon, 13 Aug 2018 16:48:13 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/LinMBHPRDZ14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Funpedia](paraphrase/funpedia)
 
 Total size: 68.8 MB
+
+```bibtex
+@article{DBLP:journals/corr/MillerFFLBBPW17,
+  author    = {Alexander H. Miller and
+               Will Feng and
+               Adam Fisch and
+               Jiasen Lu and
+               Dhruv Batra and
+               Antoine Bordes and
+               Devi Parikh and
+               Jason Weston},
+  title     = {ParlAI: {A} Dialog Research Software Platform},
+  journal   = {CoRR},
+  volume    = {abs/1705.06476},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1705.06476},
+  archivePrefix = {arXiv},
+  eprint    = {1705.06476},
+  timestamp = {Mon, 13 Aug 2018 16:47:16 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/MillerFFLBBPW17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/funpedia
 
@@ -2964,17 +3014,50 @@ Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/f
 
 Total size: 73.7 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Academia.edu Paraphrases using T5-Bahasa,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/paraphrase/semisupervised-academia}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Semisupervised News](paraphrase/semisupervised-news)
 
 Total size: 311.3 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Bahasa News Paraphrases using T5-Bahasa,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/paraphrase/semisupervised-academia}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Semisupervised Wikipedia](paraphrase/semisupervised-wikipedia)
 
 Total size: 233.4 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Bahasa Wikipedia Paraphrases using T5-Bahasa,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/paraphrase/semisupervised-academia}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -2984,7 +3067,9 @@ Total size: 233.4 MB
 
 Total size: 3.5 MB
 
-Reference: https://github.com/ialfina/kethu
+```bibtex
+Jessica Naraiswari Arwidarasti, Ika Alfina, Adila Alfa Krisnadhi, "Adjusting Indonesian Multiword Expression Annotation to the Penn Treebank Format", Asian Language Processing (IALP) 2020 International Conference on, pp. 75-80, 2020.
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -2994,7 +3079,9 @@ Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg"
 
 Total size: 24.1 MB
 
-Reference: https://github.com/UniversalDependencies/UD_Indonesian-GSD
+```bibtex
+@misc{ud_indonesian-pud, title={UD Indonesian PUD}, url={https://universaldependencies.org/treebanks/id_pud/index.html}, journal={UD_Indonesian-PUD}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -3048,7 +3135,14 @@ Total size: 129.1MB
 
 Total size: 8MB
 
-Reference: https://ai.google.com/research/NaturalQuestions/
+```bibtex
+@article{47761,
+title	= {Natural Questions: a Benchmark for Question Answering Research},
+author	= {Tom Kwiatkowski and Jennimaria Palomaki and Olivia Redfield and Michael Collins and Ankur Parikh and Chris Alberti and Danielle Epstein and Illia Polosukhin and Matthew Kelcey and Jacob Devlin and Kenton Lee and Kristina N. Toutanova and Llion Jones and Ming-Wei Chang and Andrew Dai and Jakob Uszkoreit and Quoc Le and Slav Petrov},
+year	= {2019},
+journal	= {Transactions of the Association of Computational Linguistics}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -3061,84 +3155,136 @@ Total size: 496 KB
 1. Positive
 2. Negative
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Supervised Sentiment for Bahasa News,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/news-sentiment}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Twitter](sentiment/semi-supervised/twitter)
+#### [Twitter](sentiment/semi-supervised-twitter)
 
 Total size: 519.4 MB
 
 1. Positive, 1085719 sentences
 2. Negative, 3463771 sentences
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semi-Supervised Sentiment for Bahasa Twitter,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/semi-supervised-twitter}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Translated Twitter](sentiment/translate/twitter-sentiment)
-
-Total size: 50.6 MB
-
-1. Positive
-2. Negative
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Translated Multidomain](sentiment/translate/multidomain-sentiment)
-
-Total size: 159 KB
-
-1. Amazon review, Positive and Negative
-2. IMDB review, Positive and Negative
-3. Yelp review, Positive and Negative
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [Translated Polarity](sentiment/translate/polarity)
-
-Total size: 1.3 MB
-
-1. Positive
-2. Negative
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Summarization](summarization)
 
 #### [CNN News](summarization/cnn-news)
 
-Consist of long news and summary of it.
+Total size: 900 MB
 
-Originally from [Question Answering Corpus](https://github.com/deepmind/rc-data), had permission to translate dataset to another language.
-
-Total size: 453 MB
+```bibtex
+@article{DBLP:journals/corr/SeeLM17,
+  author    = {Abigail See and
+               Peter J. Liu and
+               Christopher D. Manning},
+  title     = {Get To The Point: Summarization with Pointer-Generator Networks},
+  journal   = {CoRR},
+  volume    = {abs/1704.04368},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.04368},
+  archivePrefix = {arXiv},
+  eprint    = {1704.04368},
+  timestamp = {Mon, 13 Aug 2018 16:46:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/SeeLM17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Gigawords](summarization/gigawords)
 
-Consist of long texts and summary of it.
-
 Total size: 450 MB
+
+```bibtex
+@article{graff2003english,
+  title={English gigaword},
+  author={Graff, David and Kong, Junbo and Chen, Ke and Maeda, Kazuaki},
+  journal={Linguistic Data Consortium, Philadelphia},
+  volume={4},
+  number={1},
+  pages={34},
+  year={2003}
+}
+
+@article{Rush_2015,
+   title={A Neural Attention Model for Abstractive Sentence Summarization},
+   url={http://dx.doi.org/10.18653/v1/D15-1044},
+   DOI={10.18653/v1/d15-1044},
+   journal={Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
+   publisher={Association for Computational Linguistics},
+   author={Rush, Alexander M. and Chopra, Sumit and Weston, Jason},
+   year={2015}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Multinews](summarization/multinews)
 
-Consist of long news and summary of it.
-
 Total size: 680 MB
+
+```bibtex
+@article{DBLP:journals/corr/abs-1906-01749,
+  author    = {Alexander R. Fabbri and
+               Irene Li and
+               Tianwei She and
+               Suyi Li and
+               Dragomir R. Radev},
+  title     = {Multi-News: a Large-Scale Multi-Document Summarization Dataset and
+               Abstractive Hierarchical Model},
+  journal   = {CoRR},
+  volume    = {abs/1906.01749},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.01749},
+  archivePrefix = {arXiv},
+  eprint    = {1906.01749},
+  timestamp = {Thu, 13 Jun 2019 13:36:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1906-01749.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Semisupervised](summarization/semisupervised)
 
-Abstractive output from T5-base-bahasa summarized 100k local news. Included clean version.
+Abstractive output from T5-base-bahasa summarized 100k local news. Included postprocessing using ROUGE scores and rules.
 
 Total size: 300 MB
 
-#### [Sentiment](summarization/sentiment)
-
-Sentiment labels for [cnn-news](https://github.com/huseinzol05/Malay-Dataset#cnn-news), [multinews](https://github.com/huseinzol05/Malay-Dataset#multinews), and [semisupervised](https://github.com/huseinzol05/Malay-Dataset#semisupervised).
-
-Total size: 1.7 GB
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Bahasa News Summarization using T5-Bahasa,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/summarization/semisupervised}}
+}
+```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -3164,7 +3310,9 @@ Total size: 3.1 MB
 14. VERB - Verb, kata kerja
 15. X - Other
 
-Reference: https://github.com/UniversalDependencies/UD_Indonesian-GSD
+```bibtex
+@misc{ud_indonesian-pud, title={UD Indonesian PUD}, url={https://universaldependencies.org/treebanks/id_pud/index.html}, journal={UD_Indonesian-PUD}}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -3183,9 +3331,16 @@ Total size: 3.1 MB
 7. time - date, day, time, etc
 8. event - unique event happened, etc
 
-Reference: https://github.com/yusufsyaifudin/indonesia-ner
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Augmentation Indonesian Entities using Rules based,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/tagging/entities}}
+}
+```
 
 Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
@@ -3193,23 +3348,48 @@ Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg"
 
 #### [Quora](text-similarity/quora)
 
-Originally from [First Quora Dataset Release: Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs), protected by [Terms of Service](https://www.quora.com/about/tos), allowing for non-commercial use.
-
 Total size: 60.8 MB
+
+```bibtex
+@misc{kaggle, title={Quora Question Pairs}, url={https://www.kaggle.com/c/quora-question-pairs}, journal={Kaggle}}
+```
+
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [SNLI](text-similarity/snli)
 
-Translated from [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/.)
-
 Total size: 55 MB
+
+```bibtex
+Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). [pdf] [bib]
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [MNLI](text-similarity/mnli)
 
 Total size: 92.5 MB
+
+```bibtex
+@InProceedings{N18-1101,
+  author = "Williams, Adina
+            and Nangia, Nikita
+            and Bowman, Samuel",
+  title = "A Broad-Coverage Challenge Corpus for 
+           Sentence Understanding through Inference",
+  booktitle = "Proceedings of the 2018 Conference of 
+               the North American Chapter of the 
+               Association for Computational Linguistics:
+               Human Language Technologies, Volume 1 (Long
+               Papers)",
+  year = "2018",
+  publisher = "Association for Computational Linguistics",
+  pages = "1112--1122",
+  location = "New Orleans, Louisiana",
+  url = "http://aclweb.org/anthology/N18-1101"
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -3221,11 +3401,33 @@ Malay to English.
 
 Total size: 562 KB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crowdsourcing local Malay Translations,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/iium-confession}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Malay-English](translation/malay-english)
 
 Total size: 935.3 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate MS to EN,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/malay-english}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -3235,6 +3437,22 @@ Parsed from http://opus.nlpl.eu/, ms (Malay) -> en (English)
 
 Total size: 262.6 MB
 
+```bibtex
+@InProceedings{TIEDEMANN12.463,
+  author = {Jörg Tiedemann},
+  title = {Parallel Data, Tools and Interfaces in OPUS},
+  booktitle = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
+  year = {2012},
+  month = {may},
+  date = {23-25},
+  address = {Istanbul, Turkey},
+  editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Ugur Dogan and Bente Maegaard and Joseph Mariani and Jan Odijk and Stelios Piperidis},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn = {978-2-9517408-7-7},
+  language = {english}
+ }
+ ```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Parliament](translation/parliament)
@@ -3243,11 +3461,33 @@ Parsed from Malaysia parliament text, and translate to English.
 
 Total size: 47.6 MB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate Malaysia Parliament,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/malay-english}}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
 Total size: 11.4 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Local EN to MS Subtitles,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/local-movies-subtitle}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
@@ -3257,6 +3497,17 @@ English to Malay.
 
 Total size: 2.5 GB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate EN to MS,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
+}
+```
+
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Long text](translation/long-text)
@@ -3264,6 +3515,17 @@ Total size: 2.5 GB
 Malay to English. Focused on long text translation.
 
 Total size: 1.7 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate EN to MS for longer texts,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
+}
+```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 

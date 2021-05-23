@@ -1,4 +1,6 @@
-## how-to
+# Google Translate EN to MS
+
+## download
 
 prefix, https://f000.backblazeb2.com/file/malay-dataset/
 
@@ -17,3 +19,16 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/
 13. translation/english-news/dataset-1100000.json.translate
 14. translation/english-news/dataset-1200000.json.translate
 15. translation/english-news/dataset-1300000.json.translate
+
+## Citation
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate EN to MS,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
+}
+```

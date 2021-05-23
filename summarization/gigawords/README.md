@@ -1,4 +1,6 @@
-## how-to
+# Gigawords
+
+## download
 
 1. part1, https://f000.backblazeb2.com/file/malay-dataset/summary/gigawords/translated-0.json
 2. part2, https://f000.backblazeb2.com/file/malay-dataset/summary/gigawords/translated-100000.json
@@ -18,3 +20,27 @@
 16. part16, https://f000.backblazeb2.com/file/malay-dataset/summary/gigawords/translated-1500000.json
 17. part17, https://f000.backblazeb2.com/file/malay-dataset/summary/gigawords/translated-1600000.json
 18. part18, https://f000.backblazeb2.com/file/malay-dataset/summary/gigawords/translated-1700000.json
+
+## Citation
+
+```bibtex
+@article{graff2003english,
+  title={English gigaword},
+  author={Graff, David and Kong, Junbo and Chen, Ke and Maeda, Kazuaki},
+  journal={Linguistic Data Consortium, Philadelphia},
+  volume={4},
+  number={1},
+  pages={34},
+  year={2003}
+}
+
+@article{Rush_2015,
+   title={A Neural Attention Model for Abstractive Sentence Summarization},
+   url={http://dx.doi.org/10.18653/v1/D15-1044},
+   DOI={10.18653/v1/d15-1044},
+   journal={Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
+   publisher={Association for Computational Linguistics},
+   author={Rush, Alexander M. and Chopra, Sumit and Weston, Jason},
+   year={2015}
+}
+```

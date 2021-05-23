@@ -1,3 +1,5 @@
+# Google Translate EN to MS for longer texts
+
 ## how-to
 
 prefix, https://f000.backblazeb2.com/file/malay-dataset/translation/long-text/
@@ -19,3 +21,16 @@ prefix, https://f000.backblazeb2.com/file/malay-dataset/translation/long-text/
 15. long-text-1400000.json.translated.json
 16. long-text-1500000.json.translated.json
 17. long-text-1600000.json.translated.json
+
+## Citation
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate EN to MS for longer texts,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
+}
+```
