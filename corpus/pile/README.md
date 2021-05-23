@@ -6,6 +6,10 @@ Original paper, https://arxiv.org/abs/2101.00027
 
 Original website, https://pile.eleuther.ai/
 
+## download
+
+check [download.txt](download.txt)
+
 ## Citation
 
 ```bibtex
