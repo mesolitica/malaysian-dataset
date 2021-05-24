@@ -104,6 +104,9 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [OpenKP](#openkp)
     * [KPTimes](#kptimes)
     * [Twitter Bahasa](#twitter-bahasa)
+  * [Knowledge Graph](#knowledge-graph)
+    * [KELM](#kelm)
+    * [TEKGEN](#tekgen)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -1026,7 +1029,7 @@ Total size: 85.9 MB
 
 #### [The Pile](corpus/pile)
 
-Total size: 831.4 MB
+Total size: 1.1 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2101-00027,
@@ -1613,6 +1616,58 @@ Total size: 1580 MB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+## [Knowledge Graph](knowledge-graph)
+
+#### [KELM](knowledge-graph/kelm)
+
+```bibtex
+@article{DBLP:journals/corr/abs-2010-12688,
+  author    = {Oshin Agarwal and
+               Heming Ge and
+               Siamak Shakeri and
+               Rami Al{-}Rfou},
+  title     = {Large Scale Knowledge Graph Based Synthetic Corpus Generation for
+               Knowledge-Enhanced Language Model Pre-training},
+  journal   = {CoRR},
+  volume    = {abs/2010.12688},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2010.12688},
+  archivePrefix = {arXiv},
+  eprint    = {2010.12688},
+  timestamp = {Mon, 02 Nov 2020 18:17:09 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2010-12688.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [TEKGEN](knowledge-graph/tekgen)
+
+Total size: 296.9 MB
+
+```bibtex
+@article{DBLP:journals/corr/abs-2010-12688,
+  author    = {Oshin Agarwal and
+               Heming Ge and
+               Siamak Shakeri and
+               Rami Al{-}Rfou},
+  title     = {Large Scale Knowledge Graph Based Synthetic Corpus Generation for
+               Knowledge-Enhanced Language Model Pre-training},
+  journal   = {CoRR},
+  volume    = {abs/2010.12688},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2010.12688},
+  archivePrefix = {arXiv},
+  eprint    = {2010.12688},
+  timestamp = {Mon, 02 Nov 2020 18:17:09 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2010-12688.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Lexicon](lexicon)
 

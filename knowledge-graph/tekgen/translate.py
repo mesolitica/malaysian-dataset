@@ -41,6 +41,7 @@ def split(string):
     return len(string.split())
 
 
+df = pd.read_csv(filename, sep = '\t', header = None)
 maxlen = 150
 batch_size = 8
 
@@ -50,20 +51,19 @@ pointer = Pointer(f'{filename}.pickle')
 pointer.load()
 index = 0
 file = open(f'{filename}.translated', 'a')
-with open(filename) as fopen:
-    data = json.load(fopen)
 
-for i in tqdm(range(0, len(data), batch_size)):
+for i in tqdm(range(0, len(df), batch_size)):
     if index >= pointer.index:
-        batch = data[i : i + batch_size]
+        batch = df.iloc[i : i + batch_size]
         L, R = [], []
         for k in range(len(batch)):
-            if len(batch[k]['candidate'].split()) <= maxlen:
-                L.append(batch[k])
-                R.append(unidecode(batch[k]['candidate']))
+            l, r = batch.iloc[k]
+            if len(r.split()) <= maxlen:
+                L.append(unidecode(l))
+                R.append(unidecode(r))
         t = transformer.greedy_decoder(R)
         for k in range(len(L)):
-            d = json.dumps({'en': L[k], 'candidate-ms': t[k]})
+            d = json.dumps({'L-en': L[k], 'R-en': R[k], 'R-ms': t[k]})
             file.write(f'{d}\n')
 
         file.flush()
