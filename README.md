@@ -1621,6 +1621,8 @@ Total size: 1580 MB
 
 #### [KELM](knowledge-graph/kelm)
 
+Total size: 300 MB
+
 ```bibtex
 @article{DBLP:journals/corr/abs-2010-12688,
   author    = {Oshin Agarwal and
