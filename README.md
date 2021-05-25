@@ -1621,7 +1621,7 @@ Total size: 1580 MB
 
 #### [KELM](knowledge-graph/kelm)
 
-Total size: 300 MB
+Total size: 600.4 MB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2010-12688,
@@ -1647,7 +1647,7 @@ Total size: 300 MB
 
 #### [TEKGEN](knowledge-graph/tekgen)
 
-Total size: 296.9 MB
+Total size: 669.2 MB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2010-12688,

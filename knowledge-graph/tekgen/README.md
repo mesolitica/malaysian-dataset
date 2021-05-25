@@ -7,6 +7,7 @@ Original paper, https://arxiv.org/abs/2010.12688
 ## download
 
 1. quadruples-validation.jsonl, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/quadruples-validation.jsonl
+2. splitted-quadruples-train.tsv00.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/splitted-quadruples-train.tsv00.translated
 
 ## Citation
 
