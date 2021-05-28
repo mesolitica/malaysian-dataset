@@ -1647,7 +1647,7 @@ Total size: 1.0 GB
 
 #### [TEKGEN](knowledge-graph/tekgen)
 
-Total size: 966.4 MB
+Total size: 1.3 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2010-12688,
@@ -3284,6 +3284,30 @@ Total size: 519.4 MB
 #### [CNN News](summarization/cnn-news)
 
 Total size: 900 MB
+
+```bibtex
+@article{DBLP:journals/corr/SeeLM17,
+  author    = {Abigail See and
+               Peter J. Liu and
+               Christopher D. Manning},
+  title     = {Get To The Point: Summarization with Pointer-Generator Networks},
+  journal   = {CoRR},
+  volume    = {abs/1704.04368},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.04368},
+  archivePrefix = {arXiv},
+  eprint    = {1704.04368},
+  timestamp = {Mon, 13 Aug 2018 16:46:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/SeeLM17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [DailyMail](summarization/dailymail)
+
+Total size: 2.1 GB
 
 ```bibtex
 @article{DBLP:journals/corr/SeeLM17,

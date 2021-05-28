@@ -9,6 +9,8 @@ Original paper, https://arxiv.org/abs/2010.12688
 1. quadruples-validation.jsonl, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/quadruples-validation.jsonl
 2. quadruples-test.jsonl, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/quadruples-test.jsonl
 3. splitted-quadruples-train.tsv00.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/splitted-quadruples-train.tsv00.translated
+4. splitted-quadruples-train.tsv01.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/splitted-quadruples-train.tsv01.translated
+5. splitted-quadruples-train.tsv02.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/tekgen/splitted-quadruples-train.tsv2.translated
 
 ## Citation
 

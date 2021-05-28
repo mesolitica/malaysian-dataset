@@ -4,7 +4,7 @@ Original paper, https://arxiv.org/pdf/1704.04368.pdf
 
 ## download
 
-1. translated-cnn.json, https://f000.backblazeb2.com/file/malay-dataset/summarization/cnn-news/translated-cnn.json
+1. translated-dailymail.json, https://f000.backblazeb2.com/file/malay-dataset/summarization/dailymail/translated-dailymail.json
 
 ## Citation
 
