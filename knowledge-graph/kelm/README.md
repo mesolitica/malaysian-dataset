@@ -24,6 +24,8 @@ Original paper, https://arxiv.org/abs/2010.12688
 16. kelm_generated_corpus.jsonl-15.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-15.translated
 17. kelm_generated_corpus.jsonl-16.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-16.translated
 18. kelm_generated_corpus.jsonl-17.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-17.translated
+19. kelm_generated_corpus.jsonl-18.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-18.translated
+20. kelm_generated_corpus.jsonl-19.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-19.translated
 
 ## Citation
 
