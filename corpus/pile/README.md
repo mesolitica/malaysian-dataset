@@ -8,7 +8,7 @@ Original website, https://pile.eleuther.ai/
 
 ## download
 
-check [download.txt](download.txt)
+check [download.txt](download.txt).
 
 ## Citation
 

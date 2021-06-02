@@ -6,33 +6,7 @@ Original paper, https://arxiv.org/abs/2010.12688
 
 ## download
 
-1. kelm_generated_corpus.jsonl-0.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-0.translated
-2. kelm_generated_corpus.jsonl-1.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-1.translated
-3. kelm_generated_corpus.jsonl-2.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-2.translated
-4. kelm_generated_corpus.jsonl-3.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-3.translated
-5. kelm_generated_corpus.jsonl-4.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-4.translated
-6. kelm_generated_corpus.jsonl-5.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-5.translated
-7. kelm_generated_corpus.jsonl-6.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-6.translated
-8. kelm_generated_corpus.jsonl-7.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-7.translated
-9. kelm_generated_corpus.jsonl-8.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-8.translated
-10. kelm_generated_corpus.jsonl-9.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-9.translated
-11. kelm_generated_corpus.jsonl-10.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-10.translated
-12. kelm_generated_corpus.jsonl-11.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-11.translated
-13. kelm_generated_corpus.jsonl-12.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-12.translated
-14. kelm_generated_corpus.jsonl-13.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-13.translated
-15. kelm_generated_corpus.jsonl-14.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-14.translated
-16. kelm_generated_corpus.jsonl-15.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-15.translated
-17. kelm_generated_corpus.jsonl-16.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-16.translated
-18. kelm_generated_corpus.jsonl-17.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-17.translated
-19. kelm_generated_corpus.jsonl-18.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-18.translated
-20. kelm_generated_corpus.jsonl-19.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-19.translated
-21. kelm_generated_corpus.jsonl-20.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-20.translated
-22. kelm_generated_corpus.jsonl-21.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-21.translated
-23. kelm_generated_corpus.jsonl-22.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-22.translated
-24. kelm_generated_corpus.jsonl-23.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-23.translated
-25. kelm_generated_corpus.jsonl-24.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-24.translated
-26. kelm_generated_corpus.jsonl-25.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-25.translated
-27. kelm_generated_corpus.jsonl-26.translated, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/kelm_generated_corpus.jsonl-26.translated
+check [download.txt](download.txt).
 
 ## Citation
 
