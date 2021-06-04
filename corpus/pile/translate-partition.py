@@ -3,20 +3,29 @@
 
 # !pip3 install zstandard ujson
 
+from langdetect import detect
+from tqdm import tqdm
+import string
+import malaya
+import re
+import pickle
+import ujson as json
 import os
 import sys
 
-os.environ['CUDA_VISIBLE_DEVICES'] = ''
 filename = sys.argv[1]
+try:
+    device = sys.argv[2]
+except:
+    device = ''
 
-import ujson as json
-import pickle
-import re
-import malaya
-from tqdm import tqdm
+os.environ['CUDA_VISIBLE_DEVICES'] = device
+
+
+chars = string.ascii_lowercase + ' '
 
 split_sentences = malaya.text.function.split_into_sentences
-transformer = malaya.translation.en_ms.transformer()
+transformer = malaya.translation.en_ms.transformer(check_gpu=False)
 
 
 def cleaning(string):
@@ -58,15 +67,20 @@ for l in tqdm(dataset):
     if index >= pointer.index:
         meta = l['meta']['pile_set_name']
         if meta not in ['Pile-CC', 'Wikipedia (en)']:
-            splitted = split_sentences(l['text'], minimum_length = 2)
-            splitted = [cleaning(s) for s in splitted]
-            splitted = [s for s in splitted if len(s.split()) < 150]
-            words = ('. '.join(splitted)).split()
+            print(meta)
+            splitted = split_sentences(l['text'], minimum_length=2)
             translated = []
+
             if meta not in ['Github']:
-                for i in range(0, len(splitted), batch_size):
+                splitted = [cleaning(s) for s in splitted]
+                splitted = [s for s in splitted if 1 < len(s.split()) < 150]
+                splitted = [s for s in splitted if len(
+                    [c for c in s.lower() if c in chars]) / len(s) >= 0.9]
+                splitted = [s for s in splitted if detect(s) == 'en']
+                print(splitted)
+                for i in tqdm(range(0, len(splitted), batch_size)):
                     translated.extend(
-                        transformer.greedy_decoder(splitted[i : i + batch_size])
+                        transformer.greedy_decoder(splitted[i: i + batch_size])
                     )
             d = json.dumps(
                 {'en': splitted, 'ms': translated, 'meta': l['meta']}

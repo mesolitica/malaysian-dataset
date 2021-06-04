@@ -1621,7 +1621,7 @@ Total size: 1580 MB
 
 #### [KELM](knowledge-graph/kelm)
 
-Total size: 4.7 GB
+Total size: 5.3 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2010-12688,
