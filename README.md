@@ -3510,6 +3510,32 @@ Total size: 92.5 MB
 
 ## [Translation](translation)
 
+### [EN-MS Alignment](translation/en-ms-alignment)
+
+```text
+a black cat
+kucing hitam
+
+-> 1-1 2-0
+```
+
+Provided Forward and Reversed alignment.
+
+Total size: 6.1 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Alignment EN-MS,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [IIUM-Confession](translation/iium-confession)
 
 Malay to English.

@@ -38,10 +38,4 @@ make
 
 ## download
 
-1. align.priors, https://f000.backblazeb2.com/file/malay-dataset/alignment/align.priors
-
-2. fwd, https://f000.backblazeb2.com/file/malay-dataset/alignment/fwd
-
-3. rev, https://f000.backblazeb2.com/file/malay-dataset/alignment/rev
-
-4. combined text, https://f000.backblazeb2.com/file/malay-dataset/alignment/out
+1. align.priors EN-MS, https://f000.backblazeb2.com/file/malay-dataset/alignment/align.priors
