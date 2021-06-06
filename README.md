@@ -1407,7 +1407,7 @@ Total size: 418.2 MB, 695571 sentences.
 
 #### [Twitter](dumping/twitter)
 
-Total size: 4297.7 MB
+Total size: 5 GB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Twitter,
