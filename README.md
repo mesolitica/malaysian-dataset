@@ -156,6 +156,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Tagging](#tagging)
     * [Part-of-Speech](#part-of-speech)
     * [Entities](#entities-json)
+    * [Semisupervised Entities Parliament](#semisupervised-entities-parliament)
   * [Text-similarity](#text-similarity)
     * [Quora](#quora)
     * [SNLI](#snli)
@@ -1029,7 +1030,7 @@ Total size: 85.9 MB
 
 #### [The Pile](corpus/pile)
 
-Total size: 1.1 GB
+Total size: 4.3 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2101-00027,
@@ -3267,6 +3268,7 @@ Total size: 519.4 MB
 2. Negative, 3463771 sentences
 
 ```bibtex
+```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semi-Supervised Sentiment for Bahasa Twitter,
   author = {Husein, Zolkepli},
   title = {Malay-Dataset},
@@ -3275,6 +3277,7 @@ Total size: 519.4 MB
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/semi-supervised-twitter}}
 }
+```
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
@@ -3433,7 +3436,7 @@ Total size: 3.1 MB
 
 Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Entities, JSON](tagging/entities)
+#### [Entities](tagging/entities)
 
 Total size: 3.1 MB
 
@@ -3458,6 +3461,25 @@ Total size: 3.1 MB
 ```
 
 Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Semisupervised Entities Parliament](tagging/semisupervised/parliament/entities)
+
+Voting stack using [Malaya entities models](https://malaya.readthedocs.io/en/latest/load-entities.html#Load-Transformer-model) on Parliament texts.
+
+Total size: 129 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semi-Supervised Entities for Parliament texts,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/semi-supervised/twitter}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Text similarity](text-similarity)
 
