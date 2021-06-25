@@ -2,7 +2,7 @@
 
 Original website, https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
 
-Added a few local toxicity keywords using lexicon, all steps in [notebook].
+Added a few local toxicity keywords using lexicon, all steps in [notebook](notebook).
 
 ## download
 
