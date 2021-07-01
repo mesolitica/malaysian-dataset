@@ -8,7 +8,7 @@ Original website, https://pile.eleuther.ai/
 
 ## download
 
-check [download.txt](download.txt).
+jsonl format, check [download.txt](download.txt).
 
 ## Citation
 

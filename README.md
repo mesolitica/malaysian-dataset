@@ -3496,7 +3496,7 @@ Total size: 60.8 MB
 
 #### [SNLI](text-similarity/snli)
 
-Total size: 55 MB
+Total size: 256.8 MB
 
 ```bibtex
 Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). [pdf] [bib]
@@ -3506,7 +3506,7 @@ Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2
 
 #### [MNLI](text-similarity/mnli)
 
-Total size: 92.5 MB
+Total size: 286.2 MB
 
 ```bibtex
 @InProceedings{N18-1101,
