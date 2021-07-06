@@ -1030,7 +1030,7 @@ Total size: 85.9 MB
 
 #### [The Pile](corpus/pile)
 
-Total size: 4.3 GB
+Total size: 10.4 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2101-00027,
