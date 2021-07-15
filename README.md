@@ -52,6 +52,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Wiki Wizard](#wiki-wizard)
     * [ConvAI2](#convai2)
     * [Blended Skill Talk](#blended-skill-talk)
+    * [DialoGPT](#dialogpt)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Translated Emotion](#Translated-Emotion)
@@ -261,6 +262,37 @@ Total size: 275.0 MB
   eprint    = {1811.01241},
   timestamp = {Sat, 23 Jan 2021 01:19:39 +0100},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1811-01241.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [DialoGPT](chatbot/dialogpt)
+
+Total size: 241.0 MB
+
+```bibtex
+@article{DBLP:journals/corr/abs-1911-00536,
+  author    = {Yizhe Zhang and
+               Siqi Sun and
+               Michel Galley and
+               Yen{-}Chun Chen and
+               Chris Brockett and
+               Xiang Gao and
+               Jianfeng Gao and
+               Jingjing Liu and
+               Bill Dolan},
+  title     = {DialoGPT: Large-Scale Generative Pre-training for Conversational Response
+               Generation},
+  journal   = {CoRR},
+  volume    = {abs/1911.00536},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1911.00536},
+  archivePrefix = {arXiv},
+  eprint    = {1911.00536},
+  timestamp = {Tue, 05 Jan 2021 15:06:52 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-00536.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
