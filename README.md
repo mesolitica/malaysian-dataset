@@ -270,7 +270,7 @@ Total size: 275.0 MB
 
 #### [DialoGPT](chatbot/dialogpt)
 
-Total size: 241.0 MB
+Total size: 480.8 MB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-1911-00536,
