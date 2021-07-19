@@ -5,6 +5,8 @@ Original paper, https://arxiv.org/pdf/1704.04368.pdf
 ## download
 
 1. translated-cnn.json, https://f000.backblazeb2.com/file/malay-dataset/summarization/cnn-news/translated-cnn.json
+2. train set, https://f000.backblazeb2.com/file/malay-dataset/summarization/cnn-news/translated-cnn-train.json
+3. test set, https://f000.backblazeb2.com/file/malay-dataset/summarization/cnn-news/translated-cnn-test.json
 
 ## Citation
 
