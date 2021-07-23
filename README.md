@@ -133,6 +133,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Paraphrase](#paraphrase)
     * [General](#general)
     * [Funpedia](#funpedia)
+    * [ParaSCI](#parasci)
+    * [PAWS](#paws)
     * [Semisupervised Academia](#semisupervised-academia)
     * [Semisupervised News](#semisupervised-news)
     * [Semisupervised Wikipedia](#semisupervised-wikipedia)
@@ -1441,7 +1443,7 @@ Total size: 418.2 MB, 695571 sentences.
 
 #### [Twitter](dumping/twitter)
 
-Total size: 5 GB
+Total size: 5.9 GB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Twitter,
@@ -3134,6 +3136,38 @@ Total size: 68.8 MB
 Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/funpedia
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [ParaSCI](paraphrase/parasci)
+
+Total size: 20.5 MB
+
+```bibtex
+@misc{dong2021parasci,
+      title={ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation}, 
+      author={Qingxiu Dong and Xiaojun Wan and Yue Cao},
+      year={2021},
+      eprint={2101.08382},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [PAWS](paraphrase/paws)
+
+Total size: 3.9 MB
+
+```bibtex
+@misc{zhang2019paws,
+      title={PAWS: Paraphrase Adversaries from Word Scrambling}, 
+      author={Yuan Zhang and Jason Baldridge and Luheng He},
+      year={2019},
+      eprint={1904.01130},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 #### [Semisupervised Academia](paraphrase/semisupervised-academia)
 
