@@ -4,7 +4,7 @@ Gathered from crawlers.
 
 ## download
 
-Total size: 418.2 MB, 695571 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-instagram-6-july-2019.json).
+Total size: 418.2 MB, 695571 sentences, https://f000.backblazeb2.com/file/malay-dataset/dumping/instagram/dumping-instagram-6-july-2019.json
 
 ## Citation
 

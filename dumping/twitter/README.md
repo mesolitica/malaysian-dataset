@@ -1,4 +1,8 @@
-## how-to
+# Twitter Bahasa
+
+Contact me personally to get full data.
+
+## Download
 
 1. last year,
 
@@ -59,3 +63,7 @@ bahasa, 533MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/c
 10. 2021-04-21 - 2021-06-06
 
 bahasa, 778MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/compiled-2021-04-21-twitter.tar
+
+11. 2021-06-06 - 2021-07-23
+
+bahasa, 1.3GB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/compiled-2021-06-06-twitter.tar

@@ -8,6 +8,11 @@ Original paper, https://arxiv.org/abs/2010.12688
 
 check [download.txt](download.txt).
 
+1. Train source, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/train_X
+2. Train target, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/train_Y
+3. Test source, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/test_X
+4. Test target, https://f000.backblazeb2.com/file/malay-dataset/knowledge-graph/kelm/test_Y
+
 ## Citation
 
 ```bibtex

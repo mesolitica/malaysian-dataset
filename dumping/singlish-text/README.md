@@ -10,7 +10,7 @@ Contributed by [brytjy](https://github.com/brytjy).
 
 ## download
 
-Total size: 1.2 GB, 19870766 sentences, [download link](https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/singlish.txt).
+Total size: 1.2 GB, 19870766 sentences, https://f000.backblazeb2.com/file/malay-dataset/dumping/singlish/singlish.txt
 
 ## Citation
 
