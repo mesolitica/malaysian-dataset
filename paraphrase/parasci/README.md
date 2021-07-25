@@ -23,6 +23,8 @@ Apply true case, [parasci-truecase.ipynb](parasci-truecase.ipynb)
 2. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/val.tgt.1.truecase.translated
 3. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/test.src.1.truecase.translated
 4. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/test.tgt.1.truecase.translated
+5. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/train.src.1.truecase.translated
+6. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/train.tgt.1.truecase.translated
 
 
 ## Citation

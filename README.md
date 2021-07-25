@@ -272,7 +272,7 @@ Total size: 275.0 MB
 
 #### [DialoGPT](chatbot/dialogpt)
 
-Total size: 1.8 GB
+Total size: 2.3 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-1911-00536,
@@ -3139,7 +3139,7 @@ Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/f
 
 #### [ParaSCI](paraphrase/parasci)
 
-Total size: 20.5 MB
+Total size: 177 MB
 
 ```bibtex
 @misc{dong2021parasci,
@@ -3156,7 +3156,7 @@ Total size: 20.5 MB
 
 #### [PAWS](paraphrase/paws)
 
-Total size: 3.9 MB
+Total size: 16 MB
 
 ```bibtex
 @misc{zhang2019paws,

@@ -4,6 +4,10 @@ Original website, https://github.com/microsoft/DialoGPT
 
 Original paper, https://arxiv.org/abs/1911.00536
 
+## Download
+
+jsonl format, check [download.txt](download.txt).
+
 ## Citation
 
 ```bibtex
