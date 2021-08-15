@@ -14,7 +14,9 @@
 
 This repository to store corpus for [huseinzol05/Malaya](https://github.com/huseinzol05/Malaya) and [huseinzol05/Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow).
 
-Speech dataset moved to [huseinzol05/Malaya-Speech/data](https://github.com/huseinzol05/malaya-speech/tree/master/data).
+Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huseinzol05/malaya-speech/tree/master/data).
+
+Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.com/huseinzol05/malaya-graph/tree/master/data).
 
 **We will keep update this repository overtime**.
 
@@ -106,9 +108,6 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [OpenKP](#openkp)
     * [KPTimes](#kptimes)
     * [Twitter Bahasa](#twitter-bahasa)
-  * [Knowledge Graph](#knowledge-graph)
-    * [KELM](#kelm)
-    * [TEKGEN](#tekgen)
   * [Lexicon](#lexicon)
     * [Sentiment](#sentiment)
     * [Emotion](#emotion)
@@ -272,7 +271,7 @@ Total size: 275.0 MB
 
 #### [DialoGPT](chatbot/dialogpt)
 
-Total size: 3.7 GB
+Total size: 4.7 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-1911-00536,
@@ -1065,7 +1064,7 @@ Total size: 85.9 MB
 
 #### [The Pile](corpus/pile)
 
-Total size: 17.5 GB
+Total size: 19.8 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2101-00027,
@@ -1652,60 +1651,6 @@ Total size: 1580 MB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
-
-## [Knowledge Graph](knowledge-graph)
-
-#### [KELM](knowledge-graph/kelm)
-
-Total size: 5.3 GB
-
-```bibtex
-@article{DBLP:journals/corr/abs-2010-12688,
-  author    = {Oshin Agarwal and
-               Heming Ge and
-               Siamak Shakeri and
-               Rami Al{-}Rfou},
-  title     = {Large Scale Knowledge Graph Based Synthetic Corpus Generation for
-               Knowledge-Enhanced Language Model Pre-training},
-  journal   = {CoRR},
-  volume    = {abs/2010.12688},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2010.12688},
-  archivePrefix = {arXiv},
-  eprint    = {2010.12688},
-  timestamp = {Mon, 02 Nov 2020 18:17:09 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2010-12688.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [TEKGEN](knowledge-graph/tekgen)
-
-Total size: 3.0 GB
-
-```bibtex
-@article{DBLP:journals/corr/abs-2010-12688,
-  author    = {Oshin Agarwal and
-               Heming Ge and
-               Siamak Shakeri and
-               Rami Al{-}Rfou},
-  title     = {Large Scale Knowledge Graph Based Synthetic Corpus Generation for
-               Knowledge-Enhanced Language Model Pre-training},
-  journal   = {CoRR},
-  volume    = {abs/2010.12688},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2010.12688},
-  archivePrefix = {arXiv},
-  eprint    = {2010.12688},
-  timestamp = {Mon, 02 Nov 2020 18:17:09 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2010-12688.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Lexicon](lexicon)
 
