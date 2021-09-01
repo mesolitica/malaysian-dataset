@@ -271,7 +271,7 @@ Total size: 275.0 MB
 
 #### [DialoGPT](chatbot/dialogpt)
 
-Total size: 4.7 GB
+Total size: 5.4 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-1911-00536,
@@ -1064,7 +1064,7 @@ Total size: 85.9 MB
 
 #### [The Pile](corpus/pile)
 
-Total size: 19.8 GB
+Total size: 20.4 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2101-00027,
