@@ -144,12 +144,15 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [General](#general)
     * [SQUAD](#squad)
     * [Natural Questions](#Natural-Questions)
+  * [Segmentation](#segmentation)
   * [Sentiment](#sentiment-1)
     * [Local News](#local-news)
     * [Twitter](#twitter-2)
     * [Translated Twitter](#Translated-Twitter)
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
+  * [Spelling Correction](#spelling-correction)
+    * [Neuspell](#neuspell)
   * [Summarization](#summarization)
     * [CNN News](#cnn-news)
     * [Gigawords](#gigawords)
@@ -3250,6 +3253,23 @@ journal	= {Transactions of the Association of Computational Linguistics}
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
+## [Segmentation](segmentation)
+
+Total size: 2.2 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Segmentation Augmentation,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/segmentation}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 ## [Sentiment](sentiment)
 
 #### [Local News](sentiment/news-sentiment)
@@ -3280,7 +3300,6 @@ Total size: 519.4 MB
 2. Negative, 3463771 sentences
 
 ```bibtex
-```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semi-Supervised Sentiment for Bahasa Twitter,
   author = {Husein, Zolkepli},
   title = {Malay-Dataset},
@@ -3290,6 +3309,24 @@ Total size: 519.4 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/semi-supervised-twitter}}
 }
 ```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+## [Spelling Correction](spelling-correction)
+
+#### [Neuspell](spelling-correction/neuspell)
+
+Total size: 1.2 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Spelling Correction Augmentation,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/spelling-correction/neuspell}}
+}
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
