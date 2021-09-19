@@ -102,6 +102,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Subtitle](#subtitle)
     * [Common-crawl](#common-crawl)
     * [Clean](#clean)
+  * [Generative](#generative)
+    * [CommonGen](#commongen)
   * [Keyphrase](#keyphrase)
     * [kdd](#kdd)
     * [WWW](#www)
@@ -274,7 +276,7 @@ Total size: 275.0 MB
 
 #### [DialoGPT](chatbot/dialogpt)
 
-Total size: 5.4 GB
+Total size: 5.6 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-1911-00536,
@@ -1067,7 +1069,7 @@ Total size: 85.9 MB
 
 #### [The Pile](corpus/pile)
 
-Total size: 20.4 GB
+Total size: 22.7 GB
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2101-00027,
@@ -1575,6 +1577,23 @@ Total size: 12.3 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/clean}}
 }
 ```
+
+## [Generative](generative)
+
+#### [CommonGen](generative/commongen)
+
+Total size: 13.5 MB
+
+```bibtex
+@article{lin2019comgen,
+    author = {Bill Yuchen Lin  and Wangchunshu Zhou and Ming Shen and Pei Zhou and Chandra Bhagavatula and Yejin Choi and Xiang Ren},
+    title = {CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning},
+    journal = {Findings of EMNLP},
+    year = {2020}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Keyphrase](keyphrase)
 
