@@ -55,6 +55,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [ConvAI2](#convai2)
     * [Blended Skill Talk](#blended-skill-talk)
     * [DialoGPT](#dialogpt)
+    * [Taskmaster](#taskmaster)
   * [Corpus](#corpus)
     * [Audience Nationality](#audience-nationality)
     * [Translated Emotion](#Translated-Emotion)
@@ -300,6 +301,20 @@ Total size: 5.6 GB
   timestamp = {Tue, 05 Jan 2021 15:06:52 +0100},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1911-00536.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Taskmaster](chatbot/taskmaster)
+
+Total size: 94 MB
+
+```bibtex
+@inproceedings{48484,
+title	= {Taskmaster-1: Toward a Realistic and Diverse Dialog Dataset},
+author	= {Bill Byrne and Karthik Krishnamoorthi and Chinnadhurai Sankar and Arvind Neelakantan and Daniel Duckworth and Semih Yavuz and Ben Goodrich and Amit Dubey and Kyu-Young Kim and Andy Cedilnik},
+year	= {2019}
 }
 ```
 
