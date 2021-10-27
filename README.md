@@ -177,6 +177,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Parliament](#parliament-1)
     * [Local Movies Subtitles](#local-movies-subtitles)
     * [English News](#english-news)
+    * [EN-MS Alignment](#en-ms-alignment)
+    * [MS-EN Alignment](#ms-en-alignment)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -3774,6 +3776,14 @@ Total size: 1.7 GB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [EN-MS Alignment](translation/en-ms-alignment)
+
+EN-MS Alignment using using [eflomal](https://github.com/robertostling/eflomal).
+
+#### [MS-EN Alignment](translation/ms-en-alignment)
+
+MS-EN Alignment using using [eflomal](https://github.com/robertostling/eflomal).
 
 ## Suggestion
 

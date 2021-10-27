@@ -35,6 +35,6 @@ python3 test.py
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/en-ms-alignment}}
 }
 ```
