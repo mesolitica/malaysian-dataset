@@ -73,6 +73,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Toxicity-large](#toxicity-large)
     * [NSFW](#nsfw)
     * [The Pile](#the-pile)
+    * [goemotions](#goemotions)
   * [Crawl](#crawl)
     * [Foodpanda](#foodpanda)
     * [Klook](#klook)
@@ -1116,6 +1117,33 @@ Total size: 22.7 GB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+## [goemotions](corpus/goemotions)
+
+Total size: 78.9 MB
+
+```bibtex
+@article{DBLP:journals/corr/abs-2005-00547,
+  author    = {Dorottya Demszky and
+               Dana Movshovitz{-}Attias and
+               Jeongwoo Ko and
+               Alan S. Cowen and
+               Gaurav Nemade and
+               Sujith Ravi},
+  title     = {GoEmotions: {A} Dataset of Fine-Grained Emotions},
+  journal   = {CoRR},
+  volume    = {abs/2005.00547},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2005.00547},
+  eprinttype = {arXiv},
+  eprint    = {2005.00547},
+  timestamp = {Fri, 08 May 2020 15:04:04 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-00547.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Crawl](crawl)
 
