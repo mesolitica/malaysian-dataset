@@ -4,7 +4,7 @@ Gathered emotion dataset using lexicon, all steps in [notebook].
 
 ## download
 
-1. download dataset from here, 27.4 MB, https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/emotion/emotion-twitter-lexicon.json
+1. https://f000.backblazeb2.com/file/malay-dataset/emotion/emotion-twitter-lexicon.json
 
 ```
 anger 108813

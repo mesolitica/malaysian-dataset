@@ -104,6 +104,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Subtitle](#subtitle)
     * [Common-crawl](#common-crawl)
     * [Clean](#clean)
+    * [Reddit](#reddit)
   * [Generative](#generative)
     * [CommonGen](#commongen)
   * [Keyphrase](#keyphrase)
@@ -1622,6 +1623,25 @@ Total size: 12.3 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/clean}}
 }
 ```
+
+#### [Reddit](dumping/reddit)
+
+Gathered reddit posts and comments from malaysian and singaporean subreddits.
+
+Total size: 73.7 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Reddit,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/reddit}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Generative](generative)
 
