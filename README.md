@@ -1628,7 +1628,7 @@ Total size: 12.3 GB
 
 Gathered reddit posts and comments from malaysian and singaporean subreddits.
 
-Total size: 73.7 MB
+Total size: 149 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Reddit,

@@ -10,6 +10,7 @@ Malaysian and Singaporean subreddit.
 4. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-SingaporeRaw
 5. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-malaysia
 6. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-malaysians
+7. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-singapore
 
 ## Citation
 
