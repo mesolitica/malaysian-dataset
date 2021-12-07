@@ -182,6 +182,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [English News](#english-news)
     * [EN-MS Alignment](#en-ms-alignment)
     * [MS-EN Alignment](#ms-en-alignment)
+  * [True Case](#true-case)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
   * [Donation](#donation)
@@ -3852,6 +3853,23 @@ EN-MS Alignment using using [eflomal](https://github.com/robertostling/eflomal).
 #### [MS-EN Alignment](translation/ms-en-alignment)
 
 MS-EN Alignment using using [eflomal](https://github.com/robertostling/eflomal).
+
+## True Case
+
+Build custom true case augmentation.
+
+Total size: 8.9 GB
+
+```
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, True Case Augmentation,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/truecase}}
+}
+```
 
 ## Suggestion
 
