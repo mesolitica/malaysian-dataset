@@ -1,6 +1,6 @@
 # Emotion
 
-Gathered emotion dataset using lexicon, all steps in [notebook].
+Gathered emotion dataset using lexicon, all steps in [notebook](notebook).
 
 ## download
 
