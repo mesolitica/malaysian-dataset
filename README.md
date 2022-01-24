@@ -153,7 +153,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Segmentation](#segmentation)
   * [Sentiment](#sentiment-1)
     * [Local News](#local-news)
-    * [Twitter](#twitter-2)
+    * [Semisupervised Twitter](#semisupervised-twitter)
+    * [Supervised Twitter](#supervised-twitter)
     * [Translated Twitter](#Translated-Twitter)
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
@@ -3397,7 +3398,7 @@ Total size: 496 KB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Twitter](sentiment/semi-supervised-twitter)
+#### [Semisupervised Twitter](sentiment/semi-supervised-twitter)
 
 Total size: 519.4 MB
 
@@ -3416,6 +3417,29 @@ Total size: 519.4 MB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Supervised Twitter](sentiment/supervised-twitter)
+
+Total size: 75 KB
+
+```
+Positive    180
+Neutral     137
+Negative    100
+Name: sentiment, dtype: int64
+```
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Supervised Sentiment for Bahasa Twitter,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/supervised-twitter}}
+}
+```
+
 
 ## [Spelling Correction](spelling-correction)
 
