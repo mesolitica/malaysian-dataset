@@ -155,6 +155,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Local News](#local-news)
     * [Semisupervised Twitter](#semisupervised-twitter)
     * [Supervised Twitter](#supervised-twitter)
+    * [Supervised Twitter Politics](#supervised-twitter-politics)
     * [Translated Twitter](#Translated-Twitter)
     * [Translated Multidomain](#Translated-Multidomain)
     * [Translated Polarity](#Translated-Polarity)
@@ -3420,14 +3421,7 @@ Total size: 519.4 MB
 
 #### [Supervised Twitter](sentiment/supervised-twitter)
 
-Total size: 75 KB
-
-```
-Positive    180
-Neutral     137
-Negative    100
-Name: sentiment, dtype: int64
-```
+Total size: 135 KB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Supervised Sentiment for Bahasa Twitter,
@@ -3440,6 +3434,20 @@ Name: sentiment, dtype: int64
 }
 ```
 
+#### [Supervised Twitter Politics](sentiment/supervised-twitter-politics)
+
+Total size: 67 KB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Supervised Sentiment for Bahasa Twitter Politics,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/supervised-twitter}}
+}
+```
 
 ## [Spelling Correction](spelling-correction)
 
