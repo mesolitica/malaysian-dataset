@@ -3421,7 +3421,7 @@ Total size: 519.4 MB
 
 #### [Supervised Twitter](sentiment/supervised-twitter)
 
-Total size: 135 KB
+Total size: 366 KB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Supervised Sentiment for Bahasa Twitter,
@@ -3436,7 +3436,7 @@ Total size: 135 KB
 
 #### [Supervised Twitter Politics](sentiment/supervised-twitter-politics)
 
-Total size: 67 KB
+Total size: 223 KB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Supervised Sentiment for Bahasa Twitter Politics,
