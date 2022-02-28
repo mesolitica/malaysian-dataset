@@ -8,6 +8,10 @@ Stack XLNET BASE and BERT BASE on [supervised-twitter](../supervised-twitter) an
 
 2. https://f000.backblazeb2.com/file/malay-dataset/sentiment/semisupervised/semisupervised-politics-bert-xlnet.csv
 
+3. Train set, 80%, https://f000.backblazeb2.com/file/malay-dataset/sentiment/semisupervised/train-set.json
+
+4. Test set, 20%, https://f000.backblazeb2.com/file/malay-dataset/sentiment/semisupervised/test-set.json
+
 ## Citation
 
 ```bibtex
