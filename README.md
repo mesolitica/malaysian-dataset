@@ -3399,12 +3399,11 @@ Total size: 496 KB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Semisupervised Twitter](sentiment/semi-supervised-twitter)
+#### [Semisupervised Twitter](sentiment/semisupervised-twitter-3class)
 
-Total size: 519.4 MB
+Total size: 25.3 MB
 
-1. Positive, 1085719 sentences
-2. Negative, 3463771 sentences
+Stack XLNET BASE + BERT BASE on [Supervised Twitter](sentiment/supervised-twitter) and [Supervised Twitter Politics](sentiment/supervised-twitter-politics).
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semi-Supervised Sentiment for Bahasa Twitter,
