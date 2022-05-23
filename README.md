@@ -131,6 +131,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [IIUM](#iium)
     * [Twitter](#twitter-1)
     * [Normalize](#normalize)
+    * [Rumi-to-Jawi](#rumi-to-jawi)
     * [Stemmer](#stemmer)
   * [Optical Character Recognition](#optical-character-recognition)
     * [Malay-to-Jawi](#malay-to-jawi)
@@ -3059,6 +3060,14 @@ Total size: 73 KB
 #### [Normalize](normalization/normalize)
 
 Total size: 1.0 MB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Rumi to Jawi](normalization/rumi-jawi)
+
+Originally from https://www.ejawi.net/converterV2.php?go=rumi
+
+Total size: 12.7 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
