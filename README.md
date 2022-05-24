@@ -29,6 +29,10 @@ Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.
 5. We pay some linguists to supervised.
 6. Lexicon -> weak learning from translated -> confident learning -> 5 iterations from humans.
 
+## Notes
+
+1. Any missing `mp.py`, get it at https://gist.github.com/huseinzol05/98974ae8c6c7a65d4bc0af9f5003786a
+
 ## License
 
 Malay-Dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License.
