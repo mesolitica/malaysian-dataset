@@ -151,6 +151,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Parsing](#parsing)
     * [constituency](#constituency)
     * [dependency](#dependency)
+  * [Phoneme](#phoneme)
   * [Question-Answer](#question-answer)
     * [General](#general)
     * [SQUAD](#squad)
@@ -3311,6 +3312,12 @@ Total size: 24.1 MB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+## [Phoneme](phoneme)
+
+Total size: 57 KB
 
 Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
