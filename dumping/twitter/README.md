@@ -6,7 +6,7 @@ Contact me personally to get full data.
 
 1. last year,
 
-577.5 MB, 10172726 sentences, https://huseinhouse-storage.s3-ap-southeast-1.amazonaws.com/bert-bahasa/dumping-twitter-6-july-2019.json
+577.5 MB, 10172726 sentences, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/dumping-twitter-6-july-2019.json
 
 2. 2020-02-22,
 
@@ -67,3 +67,7 @@ bahasa, 778MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/c
 11. 2021-06-06 - 2021-07-23
 
 bahasa, 1.3GB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/compiled-2021-06-06-twitter.tar
+
+12. 2021-07-23 - 2022-06-08
+
+bahasa, 593MB, https://f000.backblazeb2.com/file/malay-dataset/dumping/twitter/compiled-2022-06-08-twitter.tar

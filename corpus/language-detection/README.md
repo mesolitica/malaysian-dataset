@@ -1,6 +1,6 @@
 # Language Detection
 
-Gathered language detection dataset using lexicon, all steps in [notebook].
+Gathered language detection dataset using lexicon, all steps in [notebook](notebook).
 
 ## download
 
