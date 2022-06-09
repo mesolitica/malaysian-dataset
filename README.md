@@ -78,6 +78,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [NSFW](#nsfw)
     * [The Pile](#the-pile)
     * [goemotions](#goemotions)
+    * [stopwords](#stopwords)
   * [Crawl](#crawl)
     * [Foodpanda](#foodpanda)
     * [Klook](#klook)
@@ -132,9 +133,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [COSQL](#cosql)
     * [SPARC](#sparc)
   * [Normalization](#normalization)
-    * [IIUM](#iium)
     * [Twitter](#twitter-1)
-    * [Normalize](#normalize)
     * [Rumi-to-Jawi](#rumi-to-jawi)
     * [Stemmer](#stemmer)
   * [Optical Character Recognition](#optical-character-recognition)
@@ -1155,6 +1154,14 @@ Total size: 78.9 MB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [stopwords](corpus/stopwords)
+
+List of stopwords in JSON. To get latest stopwords, get it at https://github.com/huseinzol05/malaya/blob/master/malaya/text/tatabahasa.py
+
+Total size: 14 KB
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Crawl](crawl)
 
@@ -3050,21 +3057,11 @@ Total size: 100.3 MB
 
 ## [Normalization](normalization)
 
-#### [IIUM](normalization/iium)
-
-Total size: 314 KB
-
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
 #### [Twitter](normalization/twitter)
 
-Total size: 73 KB
+Using https://malaya.readthedocs.io/en/latest/load-normalizer.html to normalize.
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Normalize](normalization/normalize)
-
-Total size: 1.0 MB
+Total size: 15.2 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
