@@ -4,9 +4,9 @@ Prepare alignment for MS-EN using [eflomal](https://github.com/robertostling/efl
 
 ## Download
 
-1. fwd, https://f000.backblazeb2.com/file/malay-dataset/translation/ms-en-alignment/fwd
-2. rev, https://f000.backblazeb2.com/file/malay-dataset/translation/ms-en-alignment/rev
-3. align.priors, https://f000.backblazeb2.com/file/malay-dataset/translation/ms-en-alignment/align.priors
+1. fwd, https://f000.backblazeb2.com/file/malay-dataset/ms-en-alignment/fwd
+2. rev, https://f000.backblazeb2.com/file/malay-dataset/ms-en-alignment/rev
+3. align.priors, https://f000.backblazeb2.com/file/malay-dataset/ms-en-alignment/align.priors
 
 ## how-to
 
