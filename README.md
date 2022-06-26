@@ -95,6 +95,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Dialect](#dialect)
     * [Ngrams](#ngrams)
     * [7k antonym](#7k-antonym)
+    * [Cambridge English-Malaysian](#cambridge-english-malaysian)
   * [Document Ranking](#document-ranking)
     * [MSMARCO](#msmarco)
   * [Dumping](#dumping)
@@ -1435,6 +1436,25 @@ Total size: 200 KB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Cambridge English-Malaysian](dictionary/cambridge)
+
+Crawled from https://dictionary.cambridge.org/browse/english-malaysian/, 25171 english-malaysian words.
+
+Total size: 20 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawled Cambridge English-Malaysian,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/cambrige}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Document Ranking](document-ranking)
 
