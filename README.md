@@ -96,6 +96,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Ngrams](#ngrams)
     * [7k antonym](#7k-antonym)
     * [Cambridge English-Malaysian](#cambridge-english-malaysian)
+    * [IPA](#ipa)
   * [Document Ranking](#document-ranking)
     * [MSMARCO](#msmarco)
   * [Dumping](#dumping)
@@ -190,6 +191,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [English News](#english-news)
     * [EN-MS Alignment](#en-ms-alignment)
     * [MS-EN Alignment](#ms-en-alignment)
+    * [Noisy MS-EN augmentation](#noisy-ms-en-augmentation)
   * [True Case](#true-case)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
@@ -1452,6 +1454,18 @@ Total size: 20 MB
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/cambrige}}
 }
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [IPA](dictionary/ipa)
+
+Mirror for https://raw.githubusercontent.com/open-dict-data/ipa-dict/master/data/ma.txt, 28k samples
+
+Total size: 600 KB
+
+```bibtex
+@misc{open-dict-data, title={Open-dict-data/IPA-dict: Monolingual wordlists with pronunciation information in IPA}, url={https://github.com/open-dict-data/ipa-dict}, journal={GitHub}, author={Open-Dict-Data}} 
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
@@ -3918,9 +3932,52 @@ Total size: 1.7 GB
 
 EN-MS Alignment using using [eflomal](https://github.com/robertostling/eflomal).
 
+Total size: 300 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Alignment EN-MS,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/en-ms-alignment}}
+}
+```
+
 #### [MS-EN Alignment](translation/ms-en-alignment)
 
 MS-EN Alignment using using [eflomal](https://github.com/robertostling/eflomal).
+
+Total size: 300 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Alignment MS-EN,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/ms-en-alignment}}
+}
+```
+
+#### [Noisy MS-EN Augmentation](translation/noisy-ms-en-augmentation)
+
+Augment using social media lexicon and english replacement using word alignment.
+
+Total size: 200 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Noisy MS-EN Augmentation,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-ms-en-augmentation}}
+}
+```
 
 ## True Case
 
