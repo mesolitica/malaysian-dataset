@@ -3966,7 +3966,7 @@ Total size: 300 MB
 
 Augment using social media lexicon and english replacement using word alignment.
 
-Total size: 200 MB
+Total size: 240 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Noisy MS-EN Augmentation,
