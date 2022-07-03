@@ -97,6 +97,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [7k antonym](#7k-antonym)
     * [Cambridge English-Malaysian](#cambridge-english-malaysian)
     * [IPA](#ipa)
+    * [Emoji](#emoji)
   * [Document Ranking](#document-ranking)
     * [MSMARCO](#msmarco)
   * [Dumping](#dumping)
@@ -1469,6 +1470,25 @@ Total size: 600 KB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Emoji](dictionary/emoji)
+
+Translated https://unicode.org/Public/emoji/15.0/emoji-test.txt
+
+Total size: 1 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Translated Emoji,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/emoji}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Document Ranking](document-ranking)
 
