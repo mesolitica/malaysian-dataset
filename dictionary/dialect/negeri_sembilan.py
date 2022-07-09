@@ -1,44 +1,169 @@
-import time
-from selenium import webdriver
-import json
+# http://layanlah.blogspot.com/2018/07/kamus-bahasa-negeri-sembilan.html
+# normalized by husein
 
-count = 2
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--disable-extensions')
-chrome_options.add_argument('--profile-directory=Default')
-chrome_options.add_argument("--incognito")
-chrome_options.add_argument("--disable-plugins-discovery");
-chrome_options.add_argument("--start-maximized")
-driver = webdriver.Chrome('../chromedriver', chrome_options=chrome_options)
-driver.delete_all_cookies()
-
-driver.get('http://prpm.dbp.gov.my/Cari1.aspx?keyword=%3d&d=259120&#LIHATSINI')
-
-results = []
-
-def get_page():
-    while True:
-
-        try:
-            t = driver.find_element_by_xpath('//*[@id="MainContent_GridView1"]')
-            print(t)
-            return t.get_attribute('innerHTML')
-        except Exception as e:
-            print(e)
-            time.sleep(3)
-
-
-while True:
-    results.append(get_page())
-    p = '//*[@id="MainContent_GridView1"]/tbody/tr[12]/td/table/tbody/tr/td[%d]/a'%(count)
-    print(p)
-    if count < 11:
-        count += 1
-    try:
-        e = driver.find_element_by_xpath(p)
-        driver.execute_script("arguments[0].click();", e)
-    except:
-        break
-
-with open('negeri_sembilan.json', 'w') as fopen:
-    json.dump(results, fopen)
+dictionary = {
+    'angek': ['panas'],
+    'angka': ['nak demam'],
+    'baeh': ['baling'],
+    'bajau': ['tidak tinggal setempat'],
+    'baju prat': ['tshirt', 't-shirt'],
+    'becompogho': ['mandi dengan riang'],
+    'bedobau': ['bunyi jatuh dalam air'],
+    'bega': ['degil'],
+    'begolek': ['kenduri kahwin besar-besaran'],
+    'bejooh': ['buat kerja ramai-ramai dengan riang ria'],
+    'bejoman': ['menunggu lama'],
+    'bekelelong': ['sakit sangat', 'sangat sakit'],
+    'bekuak': ['mengarahkan orang supaya ketepi'],
+    'belengkar': ['tidur merata'],
+    'belolah': ['berlari'],
+    'betandak': ['berjoget'],
+    'biaweh': ['jambu batu'],
+    'biak': ['lopak air'],
+    'bincau': ['kecoh sambil marah'],
+    'bincut': ['bengkak kecil'],
+    'binga': ['pekak'],
+    'bintat': ['bekas gigitan serangga'],
+    'bobok': ['masukkan orang dalam air secara paksa'],
+    'boda': ['pukul'],
+    'boko': ['bekalan menyembah'],
+    'boleng': ['tidak memakai baju'],
+    'bonda': ['parit', 'tali air'],
+    'bungkeh': ['tercabut'],
+    'bungko': ['bodoh'],
+    'cangap': ['cabang hujung galah'],
+    'capar': ['selipar'],
+    'cekadak': ['ragam'],
+    'celait': ['lampu suluh'],
+    'cemat': ['merotan'],
+    'cembeng': ['nak nangis'],
+    'ceme': ['bintil pada mata', 'sebelah mata jadi kecil'],
+    'ceneke': ['menipu', 'panjang akal'],
+    'cengkot': ['menahan sejuk'],
+    'cengkuit': ['pengikut'],
+    'cibir': ['menjelir lidah'],
+    'cogheng': ['comot'],
+    'coghoh': ['lumat'],
+    'cokau': ['tangkap'],
+    'cucut': ['sedut'],
+    'dengket': ['cetek'],
+    'dengkot': ['terhincut-hincut'],
+    'eden': ['saya'],
+    'ese': ['saya'],
+    'eleh': ['manja'],
+    'entaher': ['mengiyakan sesuatu'],
+    'gaduh': ['risau'],
+    'gaha': ['sental'],
+    'gahai': ['rosak'],
+    'gewai': ['hayun'],
+    'ghembat': ['bergaduh'],
+    'ghobeh': ['hujan renyai'],
+    'ghoman': ['raut wajah'],
+    'godang': ['besar'],
+    'godek': ['kacau air'],
+    'gombeh': ['mengada-ngada'],
+    'gombong': ['sakit perut masuk angin'],
+    'gonyam': ['gatal'],
+    'hobin': ['bantai', 'hentam', 'pukul'],
+    'hongeh, mongah': ['penat'],
+    'jingang': ['hairan', 'terpinga-pinga'],
+    'tebeleghan': ['hairan', 'terpinga-pinga'],
+    'jobo': ['berlagak'],
+    'joghan': ['serik'],
+    'joghih': ['kerja sia-sia'],
+    'jokin': ['yakin'],
+    'jongkeh': ['ketawa terbahak-bahak', 'kejutan elektrik'],
+    'kensal': ['tuala'],
+    'kecoloan': ['terlampau malu'],
+    'ketulahan': ['badi'],
+    'kilit': ['gelecek bola'],
+    'kobok': ['ambil sesuatu ditempat yang dalam tanpa melihat'],
+    'komeh': ['kemas'],
+    'kopai': ['beg'],
+    'kopam': ['hitam', 'kotor'],
+    'kudap': ['makan'],
+    'meghosit': ['makan'],
+    'kuti': ['cubit'],
+    'lecok': ['coret'],
+    'lelan': ['leka'],
+    'leweh': ['lemah'],
+    'lobong': ['berlubang'],
+    'gompong': ['berlubang'],
+    'loncun': ['basah kuyup'],
+    'locut': ['baling'],
+    'logar': ['menghantukkan kepala'],
+    'logeh': ['hantuk'],
+    'longot': ['hitam', 'hangus'],
+    'lueh': ['muntah'],
+    'lukuih': ['basah kerana peluh'],
+    'lunggah': ['langgar'],
+    'lutap': ['luku'],
+    'mada': ['sial', 'bodoh'],
+    'melahu': ['merayau'],
+    'melampuh': ['terlampau banyak'],
+    'melancur': ['cirit-birit'],
+    'melangok': ['melepak'],
+    'melansit': ['tidur'],
+    'membuto': ['tidur'],
+    'membese': ['kencing'],
+    'mempulun': ['jatuh'],
+    'membughan': ['buang air besar'],
+    'menceghabih': ['cakap tanpa henti'],
+    'mencieh': ['berpeluh'],
+    'mencokik': ['makan banyak'],
+    'mencucut': ['menyedut'],
+    'mendosup': ['lari lintang pukang'],
+    'mencanak': ['lari lintang pukang'], '
+    'menebeng': ['duduk tepi tembok'],
+    'meneneng': ['sakit berdenyut'],
+    'mengelintau': ['mencari sesuatu'],
+    'mengendeng': ['mengasak'],
+    'mengicak': ['meminta-minta'],
+    'mengoca': ['menangkap ikan dengan tangan'],
+    'mengonye': ['mengunyah'],
+    'menguncah': ['mengacau', 'mengganggu'],
+    'menonong': ['berjalan tanpa peduli orang lain'],
+    'mentedaghah': ['makan banyak'],
+    'menteneng': ['kekenyangan'],
+    'menugheh': ['boleh harap buat sesuatu'],
+    'menyeleme': ['menyelongkar'],
+    'mogun': ['termenung'],
+    'okap': ['tamak'],
+    'ompuk': ['kepunyaan', 'telah menjadi lembut'],
+    'ongap': ['nafas'],
+    'ontok': ['diam'],
+    'podulik ajab': ['tidak mengambil endah', 'tidak kisah'],
+    'peloso': ['pemalas'],
+    'pembongak': ['penipu'],
+    'pencolek angek': ['punca'],
+    'pengka': ['kekok'],
+    'pengolan': ['galah'],
+    'piuh': ['pintal'],
+    'poghak': ['kebun kecil'],
+    'poghan': ['para'],
+    'polak': ['panas', 'jemu'],
+    'pugeh': ['main hentam'],
+    'sede': ['lalai'],
+    'selemo': ['selsema'],
+    'selumat': ['comot'],
+    'semonggah': ['senonoh'],
+    'sengkelet': ['pukul'],
+    'sobu': ['sakit perut'],
+    'songeh': ['ragam'],
+    'sosah': ['pukul'],
+    'sotai': ['kertas yang hampir hancur', 'kertas ronyok'],
+    'taek': ['sedap sangat'],
+    'taghah': ['toreh'],
+    'tangair': ['sungai'],
+    'tebaghai': ['berterabur'],
+    'tebelahak': ['muntah'],
+    'tebok': ['tanduk'],
+    'tejeluek': ['termuntah'],
+    'tekighap': ['tumpah'],
+    'tenok': ['tanduk'],
+    'tiruk': ['terjun sungai'],
+    'tobek': ['paya'],
+    'toboh': ['tempat'],
+    'tongkar': ['degil'],
+    'tuntung': ['memasukkan air']
+}

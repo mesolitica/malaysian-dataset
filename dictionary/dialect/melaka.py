@@ -1,44 +1,117 @@
-import time
-from selenium import webdriver
-import json
+# https://selongkar10.blogspot.com/2018/10/103-perkataan-bahasa-melaka-rugi-kalau.html
+# normalized by husein
 
-count = 2
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--disable-extensions')
-chrome_options.add_argument('--profile-directory=Default')
-chrome_options.add_argument("--incognito")
-chrome_options.add_argument("--disable-plugins-discovery");
-chrome_options.add_argument("--start-maximized")
-driver = webdriver.Chrome('../chromedriver', chrome_options=chrome_options)
-driver.delete_all_cookies()
-
-driver.get('http://prpm.dbp.gov.my/Cari1.aspx?keyword=%3d&d=169476&#LIHATSINI')
-
-results = []
-
-def get_page():
-    while True:
-
-        try:
-            t = driver.find_element_by_xpath('//*[@id="MainContent_GridView1"]')
-            print(t)
-            return t.get_attribute('innerHTML')
-        except Exception as e:
-            print(e)
-            time.sleep(3)
-
-
-while True:
-    results.append(get_page())
-    p = '//*[@id="MainContent_GridView1"]/tbody/tr[12]/td/table/tbody/tr/td[%d]/a'%(count)
-    print(p)
-    if count < 11:
-        count += 1
-    try:
-        e = driver.find_element_by_xpath(p)
-        driver.execute_script("arguments[0].click();", e)
-    except:
-        break
-
-with open('melaka.json', 'w') as fopen:
-    json.dump(results, fopen)
+dictionary = {
+    'koweng': ['comot'],
+    'gebau': ['selimut'],
+    'kensal': ['tuala mandi'],
+    'beledi': ['baldi'],
+    'cebok': ['gayung'],
+    'gobok': ['almari'],
+    'lemari': ['almari'],
+    'kahau': ['cakap kasar', 'cakap besar'],
+    'reti': ['pandai', 'boleh'],
+    'lahabau': ["apa khabar"],
+    'lahanat': ['laknat'],
+    'hawau': ['rasa kecewa'],
+    'kesampau hawau': ['rasa kecewa'], '
+    'godak': ['kacau'],
+    'mencekik': ['makan'],
+    'mentekedarah': ['makan'],
+    'berbokoh': ['makan'], '
+    'kepau': ['sepah'],
+    'bongkang': ['tidur'],
+    'kumbah': ['selerak'],
+    'dak': ['kata panggilan'],
+    'lopak': ['kotak pensil'],
+    'membongkah': ['kuat makan'],
+    'membongkang': ['tidur'],
+    'membuta': ['tidur'],
+    'lebang': ['pemalas'],
+    'melohau': ['besar sangat'],
+    'sakau': ['merampas', 'mencuri', 'mengambil hak orang lain'],
+    'nau': ['benar', 'sangat'],
+    'melanguk': ['melepak'],
+    'handau': ['terlepas'],
+    'canguk': ['tidak bermaya'],
+    'be': ['orang yang tidak dikenali'],
+    'piau': ['asli', 'pure'],
+    'tegak': ['lurus'],
+    'balai': ['khemah'],
+    'tiak': ['panggil'],
+    'nyaut': ['sahut'],
+    'ghumah': ['rumah'],
+    'bongkau': ['beredar'],
+    'sengkuap': ['serambi rumah'],
+    'ghoboh': ['roboh atau musnah'],
+    'mengkewan': ['bilik air'],
+    'muai': ['banyak'],
+    'menonong': ['jalan tak pandang kiri dan kanan'],
+    'semenggah': ['senonoh'],
+    'bakau darah': ['menyakitkan hati'],
+    'mangkuk hayun': ['bodoh'],
+    'esbok': ['peti ais', 'aisbox'],
+    'rebas': ['hujan renyai'],
+    'ghebas': ['hujan renyai'],
+    'bandau': ['bandar'],
+    'gebeh, londeh': ['nak jatuh', 'nak runtuh'],
+    'berkenan': ['suka', 'setuju'],
+    "pe'el": ['perangai'],
+    'deras': ['cepat'],
+    'madang': ['seringkali'],
+    'lorat': ['menganggu', 'menyebuk'],
+    "pak'kal": ['nasib baik'],
+    'belo/bingai': ['bodoh'],
+    'mengeras': ['menghafal'],
+    'tuang': ['isi'],
+    'air pesam': ['air suam'],
+    'lemau': ['lemah', 'tak bersemangat', 'letih'],
+    'latam, lencak': ['lanyak'],
+    'kepam': ['berbau dan kotor'],
+    'peghoi atau peroi': ['hancur'],
+    'sangap': ['menguap'],
+    'belal': ['besen', 'tong'],
+    'pijau': ['pijar'],
+    'dedau': ['gigil', 'takut', 'rasa nak demam'],
+    'bulau': ['juling mata'],
+    'kot': ['mungkin'],
+    'basah lokos': ['basah kuyup'],
+    'basah lencun': ['basah kuyup'],
+    'godok': ['tikam'],
+    'rodok': ['tikam'],
+    'ketiau': ['ikhtiar'],
+    'berlenging': ['tidak pakai baju'],
+    'jantan kelepir': ['lelaki lembik'],
+    'begau': ['degil', 'gila-gila'],
+    'upau': ['tali pinggang wanita'],
+    'kopek': ['membuka sesuatu'],
+    'ikan betok': ['ikan puyu'],
+    'kuih telinga batak': ['kuih denderam', 'kuih telinga keling'],
+    'kuih telinga layau': ['kuih denderam', 'kuih telinga keling'],
+    'telinga layau': ['telinga capang'],
+    'serun': ['takut', 'gerun'],
+    'berposak-posak': ['bersusah payah'],
+    'keje kawen': ['kenduri kahwin'],
+    'kang atau karang': ['nanti'],
+    'melangok': ['duduk melepak tanpa buat apa-apa', 'melepak'],
+    'titik, sesah': ['pukul'],
+    'kosek': ['membasuh beras'],
+    'terhempap-hempap': ['terhegeh-hegeh'],
+    'sama tumbas': ['sama sibuk'],
+    'muka tarpal': ['bermuka-muka'],
+    'darat': ['kawasan yang tinggi'],
+    'baruh': [' kawasan yang rendah'],
+    'berjejai': ['jarang sangat'],
+    'memau': ['lebam buah-buahan', 'badan berasa lemah', 'badan rasa lemah'],
+    'berdedai-dedai': ['berpusu-pusu'],
+    'hujan petus': ['hujan lebat'],
+    'terkonyel-konyel': ['mengunyah sesuatu yang liat'],
+    'stemet': ['jimat'],
+    'nalau': ['selalu'],
+    'jinjit': ['piat', 'jinjing'],
+    'sewal': ['seriau', 'gerun'],
+    'muka tebek': ['muka seposen', 'selenga', 'muka kesian'],
+    'enjap': ['kejap'],
+    'anjap': ['kejap'],
+    'wat tang': ['bawa datang ke mari'],
+}

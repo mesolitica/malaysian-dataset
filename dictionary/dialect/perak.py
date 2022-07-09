@@ -356,7 +356,7 @@ dictionary = {
     'terbongeh': ['terbuka pintu', 'terdedah makanan', 'makanan terdedah'],
     'tereban': ['buang', 'humban'],
     'terenjat': ['terkejut', 'cemas'],
-    'tergeloceh': ['tergelincir,'],
+    'tergeloceh': ['tergelincir'],
     'terjelepap': ['jatuh tersungkur', 'tersembam'],
     'terjerombab': ['tersungkur', 'tersembam'],
     'terkanjai': ['terkena', 'teraniaya', 'kantoi'],

@@ -3123,7 +3123,7 @@ Total size: 15.2 MB
 
 Originally from https://www.ejawi.net/converterV2.php?go=rumi
 
-Total size: 60.0 MB
+Total size: 1.4 GB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
