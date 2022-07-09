@@ -18,7 +18,7 @@ dictionary = {
     'biru kketu': ['biru sangat'],
     'blebe': ['berleter'],
     'bocah': ['buncit'],
-    'boceh': ['buncit'], '
+    'boceh': ['buncit'],
     'bokali': ['barangkali'],
     'bokbong': ['cempelai'],
     'brona': ['rosak', 'tak berhenti menangis'],
@@ -38,7 +38,7 @@ dictionary = {
     'cceruk': ['potong rumput'],
     'cebok': ['cedok', 'mencedok'],
     'cema clote': ['terlalu kotor', 'sangat kotor'],
-    'cpolok': ['terlalu kotor', 'sangat kotor'], '
+    'cpolok': ['terlalu kotor', 'sangat kotor'],
     'cepelak': ['lancang'],
     'cerah craca': ['terang benderang'],
     'cerah perut': ['cirit birit'],
@@ -47,7 +47,7 @@ dictionary = {
     'comel llote': ['amat cantik'],
     'cuwoh': ['curah'],
     'dderak': ['suka merayau', 'berjalan'],
-    'bederak': ['suka merayau', 'berjalan'], '
+    'bederak': ['suka merayau', 'berjalan'],
     'deh?': ['ok?'],
     'dekpong gak eh': ['kalau ya pun', 'kalau iye pun'],
     'dermo basikal': ['dynamo basikal'],
@@ -55,12 +55,12 @@ dictionary = {
     'dok ko?': ['ya tak?'],
     'dok?': ['bukan?', 'betul tak?'],
     'duga': ['tak sedap perut', 'loya'],
-    'luga': ['tak sedap perut', 'loya'], '
+    'luga': ['tak sedap perut', 'loya'],
     'gaduh': ['nak cepat'],
     'gdebe': ['berani', 'samsing', 'samseng'],
     'gelembong boya': ['dodol'],
     'gelenyar': ['merenyam', 'getik'],
-    'gletah': ['merenyam', 'getik'], '
+    'gletah': ['merenyam', 'getik'],
     'gelega': ['lantai'],
     'gemuk ddebok': ['terlalu gemok', 'gemuk sangat'],
     'genyeh': ['tenyeh'],
@@ -117,9 +117,9 @@ dictionary = {
     'kuca hanya': ['berteraburan'],
     'kuca lana': ['berteraburan'],
     'kuk': ['sekeh'],
-    'kok': ['sekeh'], '
+    'kok': ['sekeh'],
     'kuning nnehe': ['terlalu kuning'],
-    'llehe': ['terlalu kuning'], '
+    'llehe': ['terlalu kuning'],
     'kupik': ['kedekut'],
     'lamoke': ['nanti kan'],
     'lari kecik ppala-ppala': ['lari terlalu laju', 'lintang pukang'],
@@ -145,7 +145,7 @@ dictionary = {
     'ngidung': ['sengau'],
     'ngusuk': ['terakhir'],
     'nnakut': ['terlalu penakut'],
-    'penakut apah': ['terlalu penakut'], '
+    'penakut apah': ['terlalu penakut'],
     'nnate': ['binatang'],
     'nnawak': ['bohong'],
     'nneting': ['melantun'],
@@ -234,4 +234,3 @@ dictionary = {
     'wok lor': ['tolol'],
     'yak!!': ['opocot'],
 }
-​

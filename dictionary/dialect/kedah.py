@@ -42,7 +42,7 @@ dictionary = {
     'candet': ['perli'],
     'cega': ['takut'],
     'cek': ['saya'],
-    'cheq': ['saya']
+    'cheq': ['saya'],
     'cekeding': ['kurus kering'],
     'celuih': ['muat'],
     'cemerkap': ['tak cekap'],

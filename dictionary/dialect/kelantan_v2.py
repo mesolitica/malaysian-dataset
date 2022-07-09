@@ -65,7 +65,7 @@ dictionary = {
     'congek': ['angkat'],
     'dale duo lagi': ['tak pasti lagi', 'tak pasti'],
     'debe': ['berani'],
-    'gedebe': ['berani'], '
+    'gedebe': ['berani'],
     'deghak': ['bersiar-siar'],
     'deghah': ['laju'],
     'dekcok': ['main teng-teng'],
@@ -194,7 +194,7 @@ dictionary = {
     'kocok': ['goncang'],
     "kocha": ['setubuh'],
     'koya': ['perasaan'],
-    'agah': ['perasaan'], '
+    'agah': ['perasaan'],
     'kube': ['terabur'],
     'kuey kekoh cha': ['buah melaka'],
     'kupik': ['kedekut'],

@@ -102,7 +102,7 @@ dictionary = {
     'kaih': ['saya', 'aku'],
     'kah': ['saya', 'aku'],
     'kash': ['saya', 'aku'],
-    'kaweh': ['saya', 'aku'], '
+    'kaweh': ['saya', 'aku'],
     'koi': ['saya', 'aku'],
     'kantup': ['tutup'],
     'kancut': ['pakaian'],
@@ -123,7 +123,7 @@ dictionary = {
     'kekalu': ['emping'],
     'komeng': ['nyiur', 'kelapa'],
     'kuit': ['banyak', 'ramai'],
-    'menguit': ['banyak', 'ramai'], '
+    'menguit': ['banyak', 'ramai'],
     'komoih': ['gomol'],
     'kobek': ['membelek-belek', 'menyiasat'],
     'kerobek': ['membelek-belek', 'menyiasat'],
@@ -173,7 +173,7 @@ dictionary = {
     'mengelice': ['mengelupur'],
     'mantul': ['pening-pening'],
     'menikei': ['buah tembikai'],
-    'kenikei': ['buah tembikai'], '
+    'kenikei': ['buah tembikai'],
     'meleweh': ['segan bercakap'],
     'meling': ['lalai', 'cuai'],
     'mereloh': ['tidur'],
@@ -205,7 +205,7 @@ dictionary = {
     'mengopeh': ['pegang sana sini'],
     'melengger': ['dimasuki air'],
     'mengoteh': ['tangan tidak duduk diam'],
-    'meroteh': ['tangan tidak duduk diam'], '
+    'meroteh': ['tangan tidak duduk diam'],
     'melukah': ['kain yang dipakai terbuka'],
     'menganjing': ['mengada'],
     'motong': ['menoreh getah'],

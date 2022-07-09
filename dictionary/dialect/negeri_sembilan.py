@@ -113,7 +113,7 @@ dictionary = {
     'mencokik': ['makan banyak'],
     'mencucut': ['menyedut'],
     'mendosup': ['lari lintang pukang'],
-    'mencanak': ['lari lintang pukang'], '
+    'mencanak': ['lari lintang pukang'],
     'menebeng': ['duduk tepi tembok'],
     'meneneng': ['sakit berdenyut'],
     'mengelintau': ['mencari sesuatu'],

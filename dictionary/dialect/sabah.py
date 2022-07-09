@@ -8,7 +8,7 @@ dictionary = {
     'aisbuk': ['peti sejuk'],
     'akun': ['menyerah', 'setuju', 'mengaku'],
     'ampai': ['letak'],
-    'taruk': ['letak'], '
+    'taruk': ['letak'],
     'ampus': ['lelah', 'asma'],
     'amput': ['bersetubuh', 'berzina'],
     'antam': ['pukul'],
@@ -17,7 +17,7 @@ dictionary = {
     'bangas': ['basi'],
     'bengali': ['orang bangladesh'],
     'berusil': ['berlari'],
-    'burusil': ['berlari'], '
+    'burusil': ['berlari'],
     'bertagar': ['berkarat'],
     'bida': ['buruk'],
     'biut': ['senget', 'sesuatu yang tidak lurus'],
@@ -54,7 +54,7 @@ dictionary = {
     'kasi': ['beri'],
     'kasi tau': ['beritahu'],
     'kenapatan': ['diketahui orang'],
-    'ketahuan': ['diketahui orang'], '
+    'ketahuan': ['diketahui orang'],
     'kemarin': ['semalam'],
     'kemarin dulu': ['kelmarin', 'kelmarin dahulu'],
     'kumatus': ['tomato'],
@@ -72,7 +72,7 @@ dictionary = {
     'panci': ['periuk'],
     'palui': ['bodoh'],
     'pancut': ['pancit'],
-    'poncit': ['pancit'], '
+    'poncit': ['pancit'],
     'pantat': ['punggung', 'bontot'],
     'ping': ['minuman sejuk ditambah ais'],
     'piring': ['pinggan'],

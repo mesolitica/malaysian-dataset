@@ -70,7 +70,7 @@ dictionary = {
     'ronjang': ['jolok'],
     'ghebe': ['penyibuk', 'menyusahkan'],
     'ghembun': ['bakar sampah'],
-    'rembun': ['bakar sampah'], '
+    'rembun': ['bakar sampah'],
     'ghengkat': ['tempang', 'capik'],
     'gile gejele': ['gila-gila'],
     'godam': ['hentam', 'pukul', 'rotan'],
@@ -223,7 +223,7 @@ dictionary = {
     'minyak geh': ['minyak tanah', 'gasolin'],
     'moh': ['ajak', 'jemput', 'jom'],
     'muwe': ['beri muka', 'manja terlebih', 'mengada'],
-    'mue': ['beri muka', 'manja terlebih', 'mengada'], '
+    'mue': ['beri muka', 'manja terlebih', 'mengada'],
     'muey': ['rasa nak muntah', 'mual'],
     'mulut jelabeh': ['mulut laser', 'mulut bacul'],
     'muncoh': ['berharta', 'kaya'],
@@ -247,7 +247,7 @@ dictionary = {
     'ngolek': ['baring'],
     'ngolen': ['sampan', 'bot'],
     'ngonyen': ['senyum', 'sengih'],
-    'nyerongen': ['senyum', 'sengih'], '
+    'nyerongen': ['senyum', 'sengih'],
     'nguk ngap nguk ngap': ['berdenyut-denyut'],
     'ngulen peghin': ['bergolek-golek', 'berguling-guling'],
     'ngunyap': ['mengunyah', 'mengudap'],
@@ -278,7 +278,7 @@ dictionary = {
     'sembey': ['pasir'],
     'pedor': ['pendam', 'tahan perasaan'],
     "pele'ot": ['bengkok', 'remuk'],
-    "terpele'ot": ['bengkok', 'remuk'], '
+    "terpele'ot": ['bengkok', 'remuk'],
     'pelior': ['kemaluan lelaki', 'ayat maki', 'mencemuh', 'penis', 'pelir'],
     'pelio': ['kemaluan lelaki', 'ayat maki', 'mencemuh', 'penis', 'pelir'],
     'pelupuh': ['belasah'],
@@ -312,7 +312,7 @@ dictionary = {
     'segholoh': ['jatuh', 'termasuk ke dalam'],
     'seghoyat': ['hujan sidang', 'seriat'],
     'seghoyor': ['seriau', 'risau'],
-    'seloghor': ['bergurau', 'berseloroh.],
+    'seloghor': ['bergurau', 'berseloroh'],
     'selait': ['lampu suluh, torch light'],
     'selayut': ['bergantungan'],
     'selemoih': ['kotor berair'],

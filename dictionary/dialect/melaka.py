@@ -14,11 +14,11 @@ dictionary = {
     'lahabau': ["apa khabar"],
     'lahanat': ['laknat'],
     'hawau': ['rasa kecewa'],
-    'kesampau hawau': ['rasa kecewa'], '
+    'kesampau hawau': ['rasa kecewa'],
     'godak': ['kacau'],
     'mencekik': ['makan'],
     'mentekedarah': ['makan'],
-    'berbokoh': ['makan'], '
+    'berbokoh': ['makan'],
     'kepau': ['sepah'],
     'bongkang': ['tidur'],
     'kumbah': ['selerak'],
