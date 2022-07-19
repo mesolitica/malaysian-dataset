@@ -1,6 +1,6 @@
 ## Noisy MS-EN augmentation
 
-Augment MS-EN dataset using [augment-ms-en.ipynb](augment-ms-en.ipynb).
+Augment MS-EN dataset.
 
 ## download
 

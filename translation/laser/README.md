@@ -35,7 +35,30 @@ cd ../..
 xzcat eng_Latn-zsm_Latn.meta.v1.xz | egrep ^crawl-data | ~/preprocess/build/bin/wet_lines | python3 ~/preprocess/build/LASER/utils/src/cleaner_splitter.py > eng_Latn-zsm_Latn
 ```
 
-All these steps are very slow, to speed up, we can distribute it and persist using Redis, check [distribute-laser-nllb200.ipynb](distribute-laser-nllb200.ipynb).
+## how-to distribute
+
+**Required redis**.
+
+1. filter metadata,
+
+```
+xzcat eng_Latn-zsm_Latn.meta.v1.xz | egrep ^crawl-data > eng_Latn-zsm_Latn.meta
+mkdir splitted
+cd splitted
+split -l 1000000 -d --additional-suffix=.split ../eng_Latn-zsm_Latn.meta eng_Latn-zsm_Latn.meta
+```
+
+2. Groupby sha1 and parapgraphs, [gather-warc.ipynb](gather-warc.ipynb).
+
+3. Split JSONL,
+
+```bash
+mkdir splitted-jsonl
+cd splitted-jsonl
+split -l 200000 -d --additional-suffix=.split ../warcs-eng_Latn-zsm_Latn.jsonl warcs-eng_Latn-zsm_Latn.jsonl
+```
+
+4. Run [distribute-laser-nllb200.ipynb](distribute-laser-nllb200.ipynb) for each splitted files.
 
 ## Citation
 

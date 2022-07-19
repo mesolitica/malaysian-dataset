@@ -193,6 +193,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [EN-MS Alignment](#en-ms-alignment)
     * [MS-EN Alignment](#ms-en-alignment)
     * [Noisy MS-EN augmentation](#noisy-ms-en-augmentation)
+    * [Noisy EN-MS augmentation](#noisy-en-ms-augmentation)
   * [True Case](#true-case)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
@@ -3986,7 +3987,7 @@ Total size: 300 MB
 
 Augment using social media lexicon and english replacement using word alignment.
 
-Total size: 348 MB
+Total size: 721 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Noisy MS-EN Augmentation,
@@ -3996,6 +3997,23 @@ Total size: 348 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-ms-en-augmentation}}
+}
+```
+
+#### [Noisy EN-MS Augmentation](translation/noisy-en-ms-augmentation)
+
+Augment using social media lexicon and english replacement using word alignment.
+
+Total size: 433.4 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Noisy EN-MS Augmentation,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-en-ms-augmentation}}
 }
 ```
 
