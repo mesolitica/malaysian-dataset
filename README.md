@@ -51,8 +51,6 @@ Only data tagged using this <img src="https://img.shields.io/badge/third--party-
 
 Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://www.facebook.com/ligblou), [Mesolitica](https://mesolitica.com/) and [KeyReply](https://www.keyreply.com/) for sponsoring AWS Google and private cloud to deploy distributed crawlers.
 
-<img alt="logo" width="50%" src="https://malaya-dataset.s3-ap-southeast-1.amazonaws.com/ligblou-mesolitca-keyreply.png">
-
 ## Table of contents
   * [Chatbot](#chatbot)
     * [Wiki Wizard](#wiki-wizard)
