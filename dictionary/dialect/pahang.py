@@ -2,7 +2,7 @@
 # normalized by husein
 
 dictionary = {
-    'aok': ['awak'],
+    'aok': ['awak', 'kamu'],
     'aokme': ['kalian', 'anda semua'],
     'awokme': ['kalian', 'anda semua'],
     'ampuh': ['tenggelam'],

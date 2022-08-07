@@ -233,5 +233,8 @@ dictionary = {
     'toya': ['perangai'],
     'ubi mengala': ['ubi kentang'],
     'usha': ['tengok', 'lihat'],
-    "ya'apur seyre": ['trouble maker']
+    "ya'apur seyre": ['trouble maker'],
+    'hg': ['awak', 'kamu'],
+    'hang': ['awak', 'kamu'],
+    'cek': ['saya', 'aku'],
 }

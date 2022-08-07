@@ -260,7 +260,7 @@ Social media texts related to Malaysia topics using lexicon.
 
 ## download
 
-1. Download dataset from here, https://f000.backblazeb2.com/file/malay-dataset/malaysia-topics.zip
+1. Download dataset from here, https://huggingface.co/datasets/mesolitica/malaysian-twitter-by-topics/resolve/main/malaysia-topics.zip
 
 ## Citation
 

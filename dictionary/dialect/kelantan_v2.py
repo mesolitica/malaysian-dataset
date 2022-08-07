@@ -371,5 +371,6 @@ dictionary = {
     'wak gapo': ['buat apa'],
     'woh nyo': ['buah kelapa'],
     'yak boktea': ['melatah'],
-    'zame': ['zaman']
+    'zame': ['zaman'],
+    'mu': ['awak', 'kamu'],
 }
