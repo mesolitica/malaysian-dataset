@@ -71,6 +71,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Political landscape](#political-landscape)
     * [Sarcastic news-headline](#sarcastic-news-headline)
     * [Subjectivity](#subjectivity)
+    * [Substring Language Detection](#substring-language-detection)
     * [Toxicity-small](#toxicity-small)
     * [Toxicity-large](#toxicity-large)
     * [NSFW](#nsfw)
@@ -96,6 +97,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Cambridge English-Malaysian](#cambridge-english-malaysian)
     * [IPA](#ipa)
     * [Emoji](#emoji)
+    * [Wiktionary](#wiktionary)
   * [Document Ranking](#document-ranking)
     * [MSMARCO](#msmarco)
   * [Dumping](#dumping)
@@ -992,6 +994,23 @@ Total size: 1.4 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
+#### [Substring Language Detection](corpus/substring-language-detection)
+
+Total size: 542 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Substring language detection,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/substring-language-detection}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Toxicity-small](corpus/toxicity-small)
 
 Total size: 69 MB
@@ -1488,6 +1507,14 @@ Total size: 1 MB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Wiktionary](dictionary/wiktionary)
+
+Filtered https://en.wiktionary.org/wiki/Wiktionary:Main_Page on bahasa words.
+
+Total size: 34 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Document Ranking](document-ranking)
 

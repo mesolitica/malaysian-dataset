@@ -8,6 +8,8 @@ Only available `['MS', 'EN', 'OTHERS', 'CAPITAL', 'NOT_LANG']`.
 2. https://huggingface.co/datasets/mesolitica/substring-language-detection/resolve/main/ms-substrings.json
 3. https://huggingface.co/datasets/mesolitica/substring-language-detection/resolve/main/en-ms-substrings.json
 4. https://huggingface.co/datasets/mesolitica/substring-language-detection/resolve/main/en-ms-substrings-v2.json
+5. https://huggingface.co/datasets/mesolitica/substring-language-detection/resolve/main/ms-en-substrings.json
+6. https://huggingface.co/datasets/mesolitica/substring-language-detection/resolve/main/ms-en-substrings-v2.json
 
 ## Citation
 
