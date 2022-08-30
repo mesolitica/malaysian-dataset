@@ -1,6 +1,6 @@
 # DBP
 
-Crawled from https://prpm.dbp.gov.my/Cari1?keyword=
+Crawled from https://prpm.dbp.gov.my/Cari1?keyword=, 78670 words.
 
 ```json
 {
@@ -16,7 +16,7 @@ Crawled from https://prpm.dbp.gov.my/Cari1?keyword=
 
 ## download
 
-1. 
+1. https://huggingface.co/datasets/mesolitica/dbp/resolve/main/dbp.zip
 
 ## Citation
 
