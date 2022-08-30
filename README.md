@@ -98,6 +98,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [IPA](#ipa)
     * [Emoji](#emoji)
     * [Wiktionary](#wiktionary)
+    * [DBP](#dbp)
   * [Document Ranking](#document-ranking)
     * [MSMARCO](#msmarco)
   * [Dumping](#dumping)
@@ -1513,6 +1514,12 @@ Total size: 1 MB
 Filtered https://en.wiktionary.org/wiki/Wiktionary:Main_Page on bahasa words.
 
 Total size: 34 MB
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [DBP](dictionary/dbp)
+
+Crawled from https://prpm.dbp.gov.my/Cari1?keyword=
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 

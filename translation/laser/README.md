@@ -2,6 +2,8 @@
 
 Original dataset at https://github.com/facebookresearch/LASER/tree/main/data/nllb200#data
 
+**Update, AllenNLP released NLLB dataset at https://huggingface.co/datasets/allenai/nllb**.
+
 ## how-to
 
 1. Install dependencies,
