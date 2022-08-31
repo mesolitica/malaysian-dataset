@@ -2,9 +2,12 @@
 
 ## download
 
-1. To download stemmed words from news, simply unzip [stem.zip](stem.zip)
-
-2. To download stemmed words from wikipedia, wiki-stem.json, https://f000.backblazeb2.com/file/malay-dataset/wiki-stem.json
+1. [stem.zip](stem.zip)
+2. https://f000.backblazeb2.com/file/malay-dataset/wiki-stem.json
+3. https://huggingface.co/datasets/mesolitica/stemming/resolve/main/train_stem.json
+4. https://huggingface.co/datasets/mesolitica/stemming/resolve/main/test_stem.json
+5. https://huggingface.co/datasets/mesolitica/stemming/resolve/main/train_noisy_stem.json
+6. https://huggingface.co/datasets/mesolitica/stemming/resolve/main/test_noisy_stem.json
 
 ## Citation
 
