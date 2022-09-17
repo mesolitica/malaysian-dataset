@@ -184,6 +184,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Quora](#quora)
     * [SNLI](#snli)
     * [MNLI](#mnli)
+  * [Tokenization](#tokenization)
+    * [Syllable](#syllable)
   * [Translation](#translation)
     * [IIUM-Confession](#iium-confession-1)
     * [Malay-English](#malay-english)
@@ -3820,6 +3822,27 @@ Total size: 286.2 MB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+## [Tokenization](tokenization)
+
+### [Syllable](tokenization/syllable)
+
+Gathered from https://prpm.dbp.gov.my/
+
+Total size: 2 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Syllable tokenization,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/tokenization/syllable}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Translation](translation)
 
