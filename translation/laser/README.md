@@ -2,7 +2,7 @@
 
 Original dataset at https://github.com/facebookresearch/LASER/tree/main/data/nllb200#data
 
-**Update, AllenNLP released NLLB dataset at https://huggingface.co/datasets/allenai/nllb**.
+**Update, AllenNLP released NLLB dataset at https://huggingface.co/datasets/allenai/nllb, https://storage.googleapis.com/allennlp-data-bucket/nllb/eng_Latn-zsm_Latn.gz**.
 
 ## how-to
 
@@ -61,6 +61,13 @@ split -l 200000 -d --additional-suffix=.split ../warcs-eng_Latn-zsm_Latn.jsonl w
 ```
 
 4. Run [distribute-laser-nllb200.ipynb](distribute-laser-nllb200.ipynb) for each splitted files.
+
+## download
+
+Filtered if laser score >= 1.07, [prepare-eng_Latn-zsm_Latn.ipynb](prepare-eng_Latn-zsm_Latn).
+
+1. https://huggingface.co/datasets/mesolitica/filtered-eng_Latn-zsm_Latn/resolve/main/eng_Latn-zsm_Latn.left
+2. https://huggingface.co/datasets/mesolitica/filtered-eng_Latn-zsm_Latn/resolve/main/eng_Latn-zsm_Latn.right
 
 ## Citation
 
