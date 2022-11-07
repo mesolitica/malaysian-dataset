@@ -171,15 +171,20 @@ def remove_extra_text(source, translation, lang='ms'):
 # that means might not be generalize to every language
 # TODO: generalize this logic to all the languages
 def post_process_answers_translated(source, translation):
+    ori_source, ori_translation = source, translation
     # Keep the original answer when it is translation-invariant
     # like dates or proper names
     if len(source) > 1 and source in translation:
         translation = source
     # Post-process the answer translated
     else:
-        translation = translation.strip()
-        translation = remove_extra_text(source, translation)
-        translation = remove_extra_punct(source, translation)
+        try:
+            translation = translation.strip()
+            translation = remove_extra_text(source, translation)
+            translation = remove_extra_punct(source, translation)
+        except Exception as e:
+            print(source, translation, ori_source, ori_translation)
+            raise e
 
     return translation
 
