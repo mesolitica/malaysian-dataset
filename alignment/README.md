@@ -34,8 +34,6 @@ cmake ..
 make
 ```
 
-3. Run [prepare-sacremoses-tokens.ipynb](prepare-sacremoses-tokens.ipynb).
-
 ## download
 
 1. align.priors EN-MS, https://f000.backblazeb2.com/file/malay-dataset/alignment/align.priors
