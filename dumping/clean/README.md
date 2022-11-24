@@ -20,3 +20,4 @@
 16. https://f000.backblazeb2.com/file/malay-dataset/dumping/clean/bahasa-asr-train.txt
 17. https://f000.backblazeb2.com/file/malay-dataset/dumping/clean/bahasa-asr-test.txt
 18. https://f000.backblazeb2.com/file/malay-dataset/dumping/clean/true-case-stt.txt
+19. https://huggingface.co/datasets/mesolitica/raw-text/resolve/main/ms-only-eng_Latn-zsm_Latn.txt

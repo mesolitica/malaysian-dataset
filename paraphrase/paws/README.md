@@ -6,9 +6,9 @@ Original paper, https://arxiv.org/abs/1904.01130
 
 ## Download
 
-1. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/paws/paws-dev.json.translated
-2. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/paws/paws-test.json.translated
-3. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/paws/paws-train.json.translated
+1. https://huggingface.co/datasets/mesolitica/translated-PAWS/raw/main/paws-dev.json
+2. https://huggingface.co/datasets/mesolitica/translated-PAWS/raw/main/paws-test.json
+3. https://huggingface.co/datasets/mesolitica/translated-PAWS/resolve/main/paws-train.json
 
 ## Citation
 

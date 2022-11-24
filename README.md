@@ -129,7 +129,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [News](#news)
     * [Fake News](#fake-news)
     * [Crawled News](#crawled-news)
-    * [30k News](#30k-news)
+    * [Crawled News Topics](#crawled-news-Topics)
     * [Articles](#articles)
     * [Headline](#headline)
   * [Natural Language Query](#natural-language-query)
@@ -176,6 +176,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Multinews](#multinews)
     * [Semisupervised](#semisupervised)
     * [Sentiment](#sentiment-2)
+    * [Xwikis](#xwikis)
   * [Tagging](#tagging)
     * [Part-of-Speech](#part-of-speech)
     * [Entities](#entities-json)
@@ -188,7 +189,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Syllable](#syllable)
   * [Translation](#translation)
     * [IIUM-Confession](#iium-confession-1)
-    * [Malay-English](#malay-english)
+    * [Google Translate EN-MS](#google-translate-en-ms)
     * [Opus](#opus)
     * [Parliament](#parliament-1)
     * [Local Movies Subtitles](#local-movies-subtitles)
@@ -197,6 +198,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [MS-EN Alignment](#ms-en-alignment)
     * [Noisy MS-EN augmentation](#noisy-ms-en-augmentation)
     * [Noisy EN-MS augmentation](#noisy-en-ms-augmentation)
+    * [NLLB EN-MS](#nllb-en-ms)
+    * [NLLB MS-JAV](#nllb-ms-jav)
   * [True Case](#true-case)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
@@ -1954,12 +1957,29 @@ strings = [
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Crawled News](news/news-new)
+#### [Crawled News](news/news)
+
+Total size: 156 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/news/news-new}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Crawled News Topics](news/news-topics)
 
 Total size: 1.2 GB
 
 ```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News,
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News based on topics,
   author = {Husein, Zolkepli},
   title = {Malay-Dataset},
   year = {2018},
@@ -3699,6 +3719,30 @@ Total size: 300 MB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
+#### [Xwikis](summarizarion/xwikis)
+
+Total size: 6270.8 MB
+
+```bibtex
+@article{DBLP:journals/corr/SeeLM17,
+  author    = {Abigail See and
+               Peter J. Liu and
+               Christopher D. Manning},
+  title     = {Get To The Point: Summarization with Pointer-Generator Networks},
+  journal   = {CoRR},
+  volume    = {abs/1704.04368},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.04368},
+  archivePrefix = {arXiv},
+  eprint    = {1704.04368},
+  timestamp = {Mon, 13 Aug 2018 16:46:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/SeeLM17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 ## [Tagging](tagging)
 
 #### [Part-of-Speech](tagging/part-of-speech)
@@ -3891,7 +3935,7 @@ Total size: 562 KB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-#### [Malay-English](translation/malay-english)
+#### [Google Translate MS-EN](translation/google-translate-ms-en)
 
 Total size: 935.3 MB
 
@@ -4023,6 +4067,8 @@ Total size: 300 MB
 }
 ```
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [MS-EN Alignment](translation/ms-en-alignment)
 
 MS-EN Alignment using using [eflomal](https://github.com/robertostling/eflomal).
@@ -4039,6 +4085,8 @@ Total size: 300 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/ms-en-alignment}}
 }
 ```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Noisy MS-EN Augmentation](translation/noisy-ms-en-augmentation)
 
@@ -4057,6 +4105,8 @@ Total size: 721 MB
 }
 ```
 
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 #### [Noisy EN-MS Augmentation](translation/noisy-en-ms-augmentation)
 
 Augment using social media lexicon and english replacement using word alignment.
@@ -4073,6 +4123,60 @@ Total size: 433.4 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-en-ms-augmentation}}
 }
 ```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [NLLB-EN-MS](translation/nllb-en-ms)
+
+Total size: 2065 MB
+
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2207.04672,
+  doi = {10.48550/ARXIV.2207.04672},
+  
+  url = {https://arxiv.org/abs/2207.04672},
+  
+  author = {{NLLB Team} and Costa-jussà, Marta R. and Cross, James and Çelebi, Onur and Elbayad, Maha and Heafield, Kenneth and Heffernan, Kevin and Kalbassi, Elahe and Lam, Janice and Licht, Daniel and Maillard, Jean and Sun, Anna and Wang, Skyler and Wenzek, Guillaume and Youngblood, Al and Akula, Bapi and Barrault, Loic and Gonzalez, Gabriel Mejia and Hansanti, Prangthip and Hoffman, John and Jarrett, Semarley and Sadagopan, Kaushik Ram and Rowe, Dirk and Spruit, Shannon and Tran, Chau and Andrews, Pierre and Ayan, Necip Fazil and Bhosale, Shruti and Edunov, Sergey and Fan, Angela and Gao, Cynthia and Goswami, Vedanuj and Guzmán, Francisco and Koehn, Philipp and Mourachko, Alexandre and Ropers, Christophe and Saleem, Safiyyah and Schwenk, Holger and Wang, Jeff},
+  
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.7, 68T50},
+  
+  title = {No Language Left Behind: Scaling Human-Centered Machine Translation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [NLLB-MS-JAV](translation/nllb-ms-jav)
+
+Total size: 1165.92 MB
+
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2207.04672,
+  doi = {10.48550/ARXIV.2207.04672},
+  
+  url = {https://arxiv.org/abs/2207.04672},
+  
+  author = {{NLLB Team} and Costa-jussà, Marta R. and Cross, James and Çelebi, Onur and Elbayad, Maha and Heafield, Kenneth and Heffernan, Kevin and Kalbassi, Elahe and Lam, Janice and Licht, Daniel and Maillard, Jean and Sun, Anna and Wang, Skyler and Wenzek, Guillaume and Youngblood, Al and Akula, Bapi and Barrault, Loic and Gonzalez, Gabriel Mejia and Hansanti, Prangthip and Hoffman, John and Jarrett, Semarley and Sadagopan, Kaushik Ram and Rowe, Dirk and Spruit, Shannon and Tran, Chau and Andrews, Pierre and Ayan, Necip Fazil and Bhosale, Shruti and Edunov, Sergey and Fan, Angela and Gao, Cynthia and Goswami, Vedanuj and Guzmán, Francisco and Koehn, Philipp and Mourachko, Alexandre and Ropers, Christophe and Saleem, Safiyyah and Schwenk, Holger and Wang, Jeff},
+  
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.7, 68T50},
+  
+  title = {No Language Left Behind: Scaling Human-Centered Machine Translation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## True Case
 

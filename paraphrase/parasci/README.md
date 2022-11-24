@@ -4,27 +4,19 @@ Original website, https://github.com/dqxiu/ParaSCI
 
 Original paper, https://arxiv.org/abs/2101.08382
 
-Apply true case, [parasci-truecase.ipynb](parasci-truecase.ipynb)
-
 ## Download
 
 ### ParaSCI-ACL
 
-1. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/train.src.truecase.translated
-2. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/train.tgt.truecase.translated
-3. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/val.src.truecase.translated
-4. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/val.tgt.truecase.translated
-5. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/test.src.truecase.translated
-6. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/test.tgt.truecase.translated
+1. https://huggingface.co/datasets/mesolitica/translated-paraSCI/raw/main/parasci-acl-test.json
+2. https://huggingface.co/datasets/mesolitica/translated-paraSCI/resolve/main/parasci-acl-train.json
+3. https://huggingface.co/datasets/mesolitica/translated-paraSCI/raw/main/parasci-acl-val.json
 
 ### ParaSCI-arXiv
 
-1. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/val.src.1.truecase.translated
-2. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/val.tgt.1.truecase.translated
-3. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/test.src.1.truecase.translated
-4. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/test.tgt.1.truecase.translated
-5. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/train.src.1.truecase.translated
-6. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/parasci/train.tgt.1.truecase.translated
+1. https://huggingface.co/datasets/mesolitica/translated-paraSCI/raw/main/parasci-arxiv-test.json
+2. https://huggingface.co/datasets/mesolitica/translated-paraSCI/resolve/main/parasci-arxiv-train.json
+3. https://huggingface.co/datasets/mesolitica/translated-paraSCI/raw/main/parasci-arxiv-val.json
 
 
 ## Citation

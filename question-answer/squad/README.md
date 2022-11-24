@@ -11,11 +11,8 @@ Step to reproduce the translation at [notebook](notebook).
 ## download
 
 1. ms-train-1.1.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-train-1.1.json
-
 2. ms-dev-1.1.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-dev-1.1.json
-
 3. ms-train-2.0.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-train-2.0.json
-
 4. ms-dev-2.0.json, https://f000.backblazeb2.com/file/malay-dataset/qa/squad/ms-dev-2.0.json
 
 ## Citation

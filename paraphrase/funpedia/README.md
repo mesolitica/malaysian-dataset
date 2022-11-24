@@ -6,7 +6,9 @@ Original paper, https://arxiv.org/abs/1705.06476
 
 ## download
 
-1. https://f000.backblazeb2.com/file/malay-dataset/paraphrase/funpedia/rephrase.json.translate
+1. https://huggingface.co/datasets/mesolitica/translated-funpedia/raw/main/funpedia-test.json
+2. https://huggingface.co/datasets/mesolitica/translated-funpedia/resolve/main/funpedia-train.json
+3. https://huggingface.co/datasets/mesolitica/translated-funpedia/raw/main/funpedia-valid.json
 
 ## Citation
 
