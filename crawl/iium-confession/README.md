@@ -6,9 +6,8 @@ Crawling steps in [notebook](notebook).
 
 ## download
 
-1. Download urls dataset from here, https://f000.backblazeb2.com/file/malay-dataset/crawler/iium-confession/iium.csv
-
-2. Download crawled pages from here, https://f000.backblazeb2.com/file/malay-dataset/crawler/iium-confession/iium.json
+1. https://huggingface.co/datasets/mesolitica/crawl-iium-confession/resolve/main/crawled-iium.json
+2. https://huggingface.co/datasets/mesolitica/crawl-iium-confession/raw/main/url-iium.json
 
 ## Citation
 

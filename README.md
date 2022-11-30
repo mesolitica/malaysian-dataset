@@ -1220,7 +1220,7 @@ Total size: 482.4 MB
 
 Crawled up to 20k confession posts.
 
-Total size: 75.1 MB
+Total size: 130 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling IIUM-Confession,
