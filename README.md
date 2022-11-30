@@ -68,6 +68,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Language Detection](#language-detection)
     * [Malaysia Entities](#malaysia-entities)
     * [Malaysia Topics](#malaysia-topics)
+    * [Metadata Amazon reviews](#metadata-amazon-reviews)
     * [Political landscape](#political-landscape)
     * [Sarcastic news-headline](#sarcastic-news-headline)
     * [Subjectivity](#subjectivity)
@@ -86,6 +87,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Academia PDF](#academia-pdf)
     * [ticket2u](#ticket2u)
     * [Iproperty](#iproperty)
+    * [Ipendidikan](#ipendidikan)
+    * [karangan.net](#karangannet)
   * [Dictionary](#dictionary)
     * [73k English-Malay](#73k-english-malay)
     * [200k English-Malay](#200k-english-malay)
@@ -171,10 +174,10 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
   * [Spelling Correction](#spelling-correction)
     * [Neuspell](#neuspell)
   * [Summarization](#summarization)
-    * [CNN News](#cnn-news)
+    * [CNN Dailymail](#cnn-dailymail)
     * [Gigawords](#gigawords)
     * [Multinews](#multinews)
-    * [Semisupervised](#semisupervised)
+    * [Semisupervised news](#semisupervised-news)
     * [Sentiment](#sentiment-2)
     * [Xwikis](#xwikis)
   * [Tagging](#tagging)
@@ -199,7 +202,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Noisy MS-EN augmentation](#noisy-ms-en-augmentation)
     * [Noisy EN-MS augmentation](#noisy-en-ms-augmentation)
     * [NLLB EN-MS](#nllb-en-ms)
-    * [NLLB MS-JAV](#nllb-ms-jav)
+    * [NLLB austronesian](#nllb-austronesian)
   * [True Case](#true-case)
   * [Suggestion](#suggestion)
   * [Citation](#citation)
@@ -969,6 +972,18 @@ Total size: 322.4 MB
 
 </details>
 
+#### [Metadata Amazon reviews](corpus/metadata-amazon-review)
+
+Total size: 10.365 GB
+
+```bibtex
+Justifying recommendations using distantly-labeled reviews and fined-grained aspects
+Jianmo Ni, Jiacheng Li, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP), 2019
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
 #### [Sarcastic news-headline](corpus/sarcastic-news-headline)
 
 Total size: 1.78 MB
@@ -1331,6 +1346,40 @@ Total size: 97 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/wattpad}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Ipendidikan](crawl/ipendidikan)
+
+Total size: 1 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ipendidikan,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ipendidikan}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [karangan.net](crawl/karangan.net)
+
+Total size: 1 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling karangan.net,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/karangan.net}}
 }
 ```
 
