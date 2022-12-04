@@ -4,9 +4,9 @@ Original website, https://cims.nyu.edu/~sbowman/multinli/
 
 ## download
 
-1. https://f000.backblazeb2.com/file/malay-dataset/text-similarity/mnli/multinli_1.0_dev_matched.json.translated
-2. https://f000.backblazeb2.com/file/malay-dataset/text-similarity/mnli/multinli_1.0_dev_mismatched.json.translated
-3. https://f000.backblazeb2.com/file/malay-dataset/text-similarity/mnli/multinli_1.0_train.json.translated
+1. https://huggingface.co/datasets/mesolitica/translated-MNLI/resolve/main/translated-mnli-train.jsonl
+2. https://huggingface.co/datasets/mesolitica/translated-MNLI/resolve/main/translated-mnli-dev_mismatched.jsonl
+3. https://huggingface.co/datasets/mesolitica/translated-MNLI/resolve/main/translated-mnli-dev_matched.jsonl
 
 ## Citation
 

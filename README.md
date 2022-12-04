@@ -89,6 +89,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Iproperty](#iproperty)
     * [Ipendidikan](#ipendidikan)
     * [karangan.net](#karangannet)
+    * [AstroAwani](#astroawani)
   * [Dictionary](#dictionary)
     * [73k English-Malay](#73k-english-malay)
     * [200k English-Malay](#200k-english-malay)
@@ -177,7 +178,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [CNN Dailymail](#cnn-dailymail)
     * [Gigawords](#gigawords)
     * [Multinews](#multinews)
-    * [Semisupervised news](#semisupervised-news)
+    * [Semisupervised AstroAwani](#semisupervised-astroawani)
+    * [Semisupervised News](#semisupervised-news-2)
     * [Sentiment](#sentiment-2)
     * [Xwikis](#xwikis)
   * [Tagging](#tagging)
@@ -1380,6 +1382,23 @@ Total size: 1 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/karangan.net}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [AstroAwani](crawl/astroawani)
+
+Total size: 335.65 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling AstroAwani,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/astroawani}}
 }
 ```
 
@@ -3749,11 +3768,30 @@ Total size: 680 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
-#### [Semisupervised](summarization/semisupervised)
+#### [Semisupervised AstroAwani](summarization/semisupervised-astroawani)
 
-Abstractive output from T5-base-bahasa summarized 100k local news. Included postprocessing using ROUGE scores and rules.
+Abstractive output from T5-base-bahasa summarized astroawani news.
 
-Total size: 300 MB
+Total size: 364.69 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Bahasa News Summarization using T5-Bahasa,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/summarization/semisupervised}}
+}
+```
+
+<img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Semisupervised News](summarization/semisupervised-news)
+
+Abstractive output from T5-base-bahasa summarized 100k local news. 
+
+Total size: 303 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Bahasa News Summarization using T5-Bahasa,
