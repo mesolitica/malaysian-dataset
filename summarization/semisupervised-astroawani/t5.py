@@ -3,7 +3,6 @@ import json
 import torch
 import pickle
 from tqdm import tqdm
-from unidecode import unidecode
 from malaya.text.rouge import postprocess_summary
 from unidecode import unidecode
 from bs4 import BeautifulSoup

@@ -119,6 +119,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
     * [Clean](#clean)
     * [Reddit](#reddit)
     * [IMDA](#imda)
+    * [Facebook](#facebook)
   * [Generative](#generative)
     * [CommonGen](#commongen)
   * [Keyphrase](#keyphrase)
@@ -1840,6 +1841,21 @@ Total size: 181 MB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Facebook](dumping/facebook)
+
+Total size: 23 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Facebook,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/facebook}}
+}
+```
 
 ## [Generative](generative)
 
