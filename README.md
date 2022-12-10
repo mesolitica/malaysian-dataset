@@ -33,6 +33,13 @@ Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.
 
 1. Any missing `mp.py`, get it at https://gist.github.com/huseinzol05/98974ae8c6c7a65d4bc0af9f5003786a
 2. Any missing python scripts, please contact me ASAP or create an issue.
+3. Please at least email us first before distributing these data. Remember all these hard workings we want to give it for free.
+4. What do you see just the data, but nobody can see how much we spent our cost to make it public.
+
+## Suggestion
+
+1. Feel free to contact me to request new dataset.
+2. Feel free to open an issue if the link to dataset is forbidden, sometime I forgot to make it open to public.
 
 ## License
 
@@ -1015,7 +1022,7 @@ Total size: 22.7 GB
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
-## [goemotions](corpus/goemotions)
+#### [goemotions](corpus/goemotions)
 
 Total size: 78.9 MB
 
@@ -4173,33 +4180,8 @@ Total size: 8.9 GB
 }
 ```
 
-## Suggestion
-
-1. Feel free to contact me to request new dataset.
-2. Feel free to open an issue if link to dataset is forbidden, sometime I forgot to make it open to public.
-
-## Citation
-
-1. Please citate the repository if use these corpus.
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/Malay-Dataset}}
-}
-```
-
-2. Please at least email us first before distributing these data. Remember all these hard workings we want to give it for free.
-3. What do you see just the data, but nobody can see how much we spent our cost to make it public.
-
 ## Donation
 
 <a href="https://www.patreon.com/bePatron?u=7291337"><img src="https://static1.squarespace.com/static/54a1b506e4b097c5f153486a/t/58a722ec893fc0a0b7745b45/1487348853811/patreon+art.jpeg" width="40%"></a>
 
 <a href="https://www.buymeacoffee.com/huseinzolkepli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-Or, One time donation without credit card hustle, **7053174643, CIMB Bank, Husein Zolkepli**
