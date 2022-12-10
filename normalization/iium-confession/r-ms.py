@@ -37,36 +37,37 @@ class Pointer:
 pointer = Pointer(f'{filename}.pickle')
 pointer.load()
 
-file = open(f'{filename}.requested', 'a')
+file = open(f'{filename}.ms-requested', 'a')
 
 with open(filename) as fopen:
     for i, l in tqdm(enumerate(fopen)):
         if i >= pointer.index:
             data = json.loads(l)
-            text = data['text']
-            for k in range(retry):
-                try:
-                    r = requests.post('http://100.105.246.81:8999/api', timeout=5, json={
-                        'text': text,
-                        'from': 'ms',
-                        'to': 'en',
-                        'lite': True,
-                    })
-                    r = r.json()
-                    if 'error' in r:
-                        t = r['message']
-                        print(k, f'{t}, sleep for 2.0')
+            if 'r' in data and 'result' in data['r']:
+                text = data['r']['result']
+                for k in range(retry):
+                    try:
+                        r = requests.post('http://100.105.246.81:8999/api', timeout=5, json={
+                            'text': text,
+                            'from': 'en',
+                            'to': 'ms',
+                            'lite': True,
+                        })
+                        r = r.json()
+                        if 'error' in r:
+                            t = r['message']
+                            print(k, f'{t}, sleep for 2.0')
 
-                        time.sleep(2.0)
-                    else:
-                        break
-                except Exception as e:
-                    print(k, e)
-            data = {'src': text, 'r': r}
+                            time.sleep(2.0)
+                        else:
+                            break
+                    except Exception as e:
+                        print(k, e)
+                data = {'src': data, 'r': r}
 
-            d = json.dumps(data)
-            file.write(f'{d}\n')
-            file.flush()
+                d = json.dumps(data)
+                file.write(f'{d}\n')
+                file.flush()
 
             pointer.index = i
             pointer._save()

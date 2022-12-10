@@ -1,4 +1,4 @@
-# IIUM-Confession
+# Twitter
 
 Translate using https://github.com/Songkeys/Translateer
 
@@ -17,12 +17,12 @@ Translate using https://github.com/Songkeys/Translateer
 ## Citation
 
 ```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate IIUM Confession,
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate Twitter,
   author = {Husein, Zolkepli},
   title = {Malay-Dataset},
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/iium-confession}}
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/twitter}}
 }
 ```

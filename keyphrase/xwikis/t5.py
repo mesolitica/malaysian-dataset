@@ -1,17 +1,30 @@
-import requests
-import json
-import argparse
-import pickle
 import os
-import time
-import random
+import json
+import torch
+import pickle
 from tqdm import tqdm
+from unidecode import unidecode
+from malaya.text.rouge import postprocess_summary
+from transformers import T5Tokenizer, T5ForConditionalGeneration
+import malaya
+import re
+import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--filename', help='filename')
+parser.add_argument('-d', '--device', help='device')
 args = parser.parse_args()
 filename = args.filename
-retry = 3
+device = args.device or '0'
+print('device', device)
+
+maxlen = 128
+
+os.environ['CUDA_VISIBLE_DEVICES'] = device
+tokenizer = T5Tokenizer.from_pretrained('mesolitica/finetune-translation-t5-small-standard-bahasa-cased')
+model = T5ForConditionalGeneration.from_pretrained('mesolitica/finetune-translation-t5-small-standard-bahasa-cased')
+
+_ = model.cuda()
 
 
 class Pointer:
@@ -37,32 +50,20 @@ class Pointer:
 pointer = Pointer(f'{filename}.pickle')
 pointer.load()
 
-file = open(f'{filename}.requested', 'a')
+file = open(f'{filename}.translated', 'a')
 
 with open(filename) as fopen:
     for i, l in tqdm(enumerate(fopen)):
         if i >= pointer.index:
             data = json.loads(l)
-            text = data['text']
-            for k in range(retry):
-                try:
-                    r = requests.post('http://100.105.246.81:8999/api', timeout=5, json={
-                        'text': text,
-                        'from': 'ms',
-                        'to': 'en',
-                        'lite': True,
-                    })
-                    r = r.json()
-                    if 'error' in r:
-                        t = r['message']
-                        print(k, f'{t}, sleep for 2.0')
 
-                        time.sleep(2.0)
-                    else:
-                        break
-                except Exception as e:
-                    print(k, e)
-            data = {'src': text, 'r': r}
+            article = data['keyword']
+
+            input_ids = tokenizer.encode(f'terjemah Inggeris ke Melayu: {article}', return_tensors='pt').cuda()
+            outputs = model.generate(input_ids, max_length=1000)
+            t_highlights = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+            data['translated-keyword'] = t_highlights
 
             d = json.dumps(data)
             file.write(f'{d}\n')
@@ -70,7 +71,5 @@ with open(filename) as fopen:
 
             pointer.index = i
             pointer._save()
-
-            time.sleep(random.uniform(2.0, 3.5))
 
 file.close()

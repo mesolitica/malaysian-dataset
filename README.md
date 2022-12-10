@@ -32,6 +32,7 @@ Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.
 ## Notes
 
 1. Any missing `mp.py`, get it at https://gist.github.com/huseinzol05/98974ae8c6c7a65d4bc0af9f5003786a
+2. Any missing python scripts, please contact me ASAP or create an issue.
 
 ## License
 
@@ -50,166 +51,6 @@ Only data tagged using this <img src="https://img.shields.io/badge/third--party-
 ## Acknowledgement
 
 Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://www.facebook.com/ligblou), [Mesolitica](https://mesolitica.com/) and [KeyReply](https://www.keyreply.com/) for sponsoring AWS Google and private cloud to deploy distributed crawlers.
-
-## Table of contents
-  * [Chatbot](#chatbot)
-    * [Wiki Wizard](#wiki-wizard)
-    * [ConvAI2](#convai2)
-    * [Blended Skill Talk](#blended-skill-talk)
-    * [DialoGPT](#dialogpt)
-    * [Taskmaster](#taskmaster)
-  * [Corpus](#corpus)
-    * [Audience Nationality](#audience-nationality)
-    * [Translated Emotion](#Translated-Emotion)
-    * [Twitter Emotion](#Twitter-Emotion)
-    * [Gender](#gender)
-    * [Insincere question](#insincere-question)
-    * [Irony](#irony)
-    * [Language Detection](#language-detection)
-    * [Malaysia Entities](#malaysia-entities)
-    * [Malaysia Topics](#malaysia-topics)
-    * [Metadata Amazon reviews](#metadata-amazon-reviews)
-    * [Political landscape](#political-landscape)
-    * [Sarcastic news-headline](#sarcastic-news-headline)
-    * [Subjectivity](#subjectivity)
-    * [Substring Language Detection](#substring-language-detection)
-    * [Toxicity-small](#toxicity-small)
-    * [Toxicity-large](#toxicity-large)
-    * [NSFW](#nsfw)
-    * [The Pile](#the-pile)
-    * [goemotions](#goemotions)
-    * [stopwords](#stopwords)
-  * [Crawl](#crawl)
-    * [Foodpanda](#foodpanda)
-    * [Klook](#klook)
-    * [IIUM-Confession](#iium-confession)
-    * [Wattpad](#wattpad)
-    * [Academia PDF](#academia-pdf)
-    * [ticket2u](#ticket2u)
-    * [Iproperty](#iproperty)
-    * [Ipendidikan](#ipendidikan)
-    * [karangan.net](#karangannet)
-    * [AstroAwani](#astroawani)
-  * [Dictionary](#dictionary)
-    * [73k English-Malay](#73k-english-malay)
-    * [200k English-Malay](#200k-english-malay)
-    * [90k synonym](#90k-synonym)
-    * [Dictionary, 24550 unique words](#dictionary-24550-unique-words)
-    * [Dialect](#dialect)
-    * [Ngrams](#ngrams)
-    * [7k antonym](#7k-antonym)
-    * [Cambridge English-Malaysian](#cambridge-english-malaysian)
-    * [IPA](#ipa)
-    * [Emoji](#emoji)
-    * [Wiktionary](#wiktionary)
-    * [DBP](#dbp)
-  * [Document Ranking](#document-ranking)
-    * [MSMARCO](#msmarco)
-  * [Dumping](#dumping)
-    * [Karangan sekolah](#karangan-sekolah)
-    * [Wikipedia](#wikipedia-1)
-    * [Instagram](#instagram)
-    * [Twitter](#twitter)
-    * [Public news](#public-news)
-    * [Parliament](#parliament)
-    * [Singlish text](#singlish-text)
-    * [Singapore news](#singapore-news)
-    * [Subtitle](#subtitle)
-    * [Common-crawl](#common-crawl)
-    * [Clean](#clean)
-    * [Reddit](#reddit)
-    * [IMDA](#imda)
-    * [Facebook](#facebook)
-  * [Generative](#generative)
-    * [CommonGen](#commongen)
-  * [Keyphrase](#keyphrase)
-    * [kdd](#kdd)
-    * [WWW](#www)
-    * [OpenKP](#openkp)
-    * [KPTimes](#kptimes)
-    * [Twitter Bahasa](#twitter-bahasa)
-  * [Lexicon](#lexicon)
-    * [Sentiment](#sentiment)
-    * [Emotion](#emotion)
-  * [News](#news)
-    * [Fake News](#fake-news)
-    * [Crawled News](#crawled-news)
-    * [Crawled News Topics](#crawled-news-Topics)
-    * [Articles](#articles)
-    * [Headline](#headline)
-  * [Natural Language Query](#natural-language-query)
-    * [SPIDER](#spider)
-    * [COSQL](#cosql)
-    * [SPARC](#sparc)
-  * [Normalization](#normalization)
-    * [Twitter](#twitter-1)
-    * [Rumi-to-Jawi](#rumi-to-jawi)
-    * [Stemmer](#stemmer)
-  * [Optical Character Recognition](#optical-character-recognition)
-    * [Malay-to-Jawi](#malay-to-jawi)
-    * [Malay handwriting (Satisfy-Regular)](#malay-handwriting-satisfy-regular)
-  * [Paraphrase](#paraphrase)
-    * [General](#general)
-    * [Funpedia](#funpedia)
-    * [ParaSCI](#parasci)
-    * [PAWS](#paws)
-    * [Semisupervised Academia](#semisupervised-academia)
-    * [Semisupervised News](#semisupervised-news)
-    * [Semisupervised Wikipedia](#semisupervised-wikipedia)
-  * [Parsing](#parsing)
-    * [constituency](#constituency)
-    * [dependency](#dependency)
-  * [Phoneme](#phoneme)
-  * [Question-Answer](#question-answer)
-    * [General](#general)
-    * [SQUAD](#squad)
-    * [Natural Questions](#Natural-Questions)
-  * [Segmentation](#segmentation)
-  * [Sentiment](#sentiment-1)
-    * [Local News](#local-news)
-    * [Semisupervised Twitter](#semisupervised-twitter)
-    * [Supervised Twitter](#supervised-twitter)
-    * [Supervised Twitter Politics](#supervised-twitter-politics)
-    * [Translated Twitter](#Translated-Twitter)
-    * [Translated Multidomain](#Translated-Multidomain)
-    * [Translated Polarity](#Translated-Polarity)
-  * [Spelling Correction](#spelling-correction)
-    * [Neuspell](#neuspell)
-  * [Summarization](#summarization)
-    * [CNN Dailymail](#cnn-dailymail)
-    * [Gigawords](#gigawords)
-    * [Multinews](#multinews)
-    * [Semisupervised AstroAwani](#semisupervised-astroawani)
-    * [Semisupervised News](#semisupervised-news-2)
-    * [Sentiment](#sentiment-2)
-    * [Xwikis](#xwikis)
-  * [Tagging](#tagging)
-    * [Part-of-Speech](#part-of-speech)
-    * [Entities](#entities-json)
-    * [Semisupervised Entities Parliament](#semisupervised-entities-parliament)
-  * [Text-similarity](#text-similarity)
-    * [Quora](#quora)
-    * [SNLI](#snli)
-    * [MNLI](#mnli)
-  * [Tokenization](#tokenization)
-    * [Syllable](#syllable)
-  * [Translation](#translation)
-    * [IIUM-Confession](#iium-confession-1)
-    * [Google Translate EN-MS](#google-translate-en-ms)
-    * [Opus](#opus)
-    * [Parliament](#parliament-1)
-    * [Local Movies Subtitles](#local-movies-subtitles)
-    * [English News](#english-news)
-    * [EN-MS Alignment](#en-ms-alignment)
-    * [MS-EN Alignment](#ms-en-alignment)
-    * [Noisy MS-EN augmentation](#noisy-ms-en-augmentation)
-    * [Noisy EN-MS augmentation](#noisy-en-ms-augmentation)
-    * [NLLB EN-MS](#nllb-en-ms)
-    * [NLLB austronesian](#nllb-austronesian)
-  * [True Case](#true-case)
-  * [Suggestion](#suggestion)
-  * [Citation](#citation)
-  * [Donation](#donation)
 
 ## [Chatbot](chatbot)
 
@@ -1390,7 +1231,7 @@ Total size: 1 MB
 
 #### [AstroAwani](crawl/astroawani)
 
-Total size: 335.65 MB
+Total size: 382.65 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling AstroAwani,
@@ -1844,7 +1685,7 @@ Total size: 181 MB
 
 #### [Facebook](dumping/facebook)
 
-Total size: 23 MB
+Total size: 234 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Facebook,
@@ -1952,6 +1793,23 @@ Total size: 1580 MB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [Xwikis](keyphrase/xwikis)
+
+Total size: 2057 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Translate keywords from Xwikis,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/keyphrase/xwikis}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Lexicon](lexicon)
 
@@ -3252,28 +3110,28 @@ Total size: 100.3 MB
 
 ## [Normalization](normalization)
 
-#### [Twitter](normalization/twitter)
-
-Using https://malaya.readthedocs.io/en/latest/load-normalizer.html to normalize.
-
-Total size: 15.2 MB
-
-<img src="https://img.shields.io/badge/creative--common-green.svg">
-
-#### [Rumi to Jawi](normalization/rumi-jawi)
+#### [Rumi-to-Jawi](normalization/rumi-jawi)
 
 Originally from https://www.ejawi.net/converterV2.php?go=rumi
 
 Total size: 1.4 GB
 
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Rumi-to-Jawi Dataset,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/normalization/rumi-jawi}}
+}
+```
+
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 #### [Stemmer](normalization/stemmer)
 
-Total size: 6.5 MB
-
-1. News stemming
-2. Wikipedia stemming
+Total size: 80 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Stemming and Lemmatization Dataset,
@@ -3287,6 +3145,23 @@ Total size: 6.5 MB
 ```
 
 <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+#### [IIUM Confession](normalization/iium-confession)
+
+Total size: 406 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, IIUM Confession abstractive normalization using Google Translate,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/normalization/iium-confession}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 ## [Optical Character Recognition](ocr)
 

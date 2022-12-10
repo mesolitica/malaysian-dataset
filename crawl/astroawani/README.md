@@ -12,6 +12,7 @@
 6. https://huggingface.co/datasets/mesolitica/crawl-astroawani/resolve/main/berita-sukan.json.nested
 7. https://huggingface.co/datasets/mesolitica/crawl-astroawani/raw/main/berita-teknologi.json.nested
 8. https://huggingface.co/datasets/mesolitica/crawl-astroawani/resolve/main/gaya-hidup.json.nested
+9. https://huggingface.co/datasets/mesolitica/crawl-astroawani/resolve/main/berita-english.json
 
 ## Citation
 
