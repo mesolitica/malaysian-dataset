@@ -1061,6 +1061,41 @@ Total size: 14 KB
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
+#### [AstroAwani](crawl/astroawani)
+
+Total size: 382.65 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling AstroAwani,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/astroawani}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Bernama](crawl/bernama)
+
+Total size: 50 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Bernama,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/bernama}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+
 #### [Foodpanda](crawl/foodpanda)
 
 Crawled up to 9547 restaurants registered in https://www.foodpanda.my/.
@@ -1077,6 +1112,25 @@ Total size: 482.4 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/foodpanda}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [Malaysia Hansard](crawl/hansard)
+
+Parsed using Apache Tika.
+
+Total size: 1.07 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Malaysia Hansard,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hansard}}
 }
 ```
 
@@ -1134,6 +1188,25 @@ Total size: 10.3 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/klook}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [majoriti.com.my](crawl/majoriti-com-my)
+
+Crawled https://majoriti.com.my/
+
+Total size: 5.8 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling majoriti.com.my,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/majoriti-com-my}}
 }
 ```
 
@@ -1231,23 +1304,6 @@ Total size: 1 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/karangan.net}}
-}
-```
-
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-#### [AstroAwani](crawl/astroawani)
-
-Total size: 382.65 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling AstroAwani,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/astroawani}}
 }
 ```
 

@@ -1,5 +1,7 @@
 # Google Translate EN to MS
 
+Translate using https://github.com/Songkeys/Translateer
+
 ## download
 
 prefix, https://f000.backblazeb2.com/file/malay-dataset/
