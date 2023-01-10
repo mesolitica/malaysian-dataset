@@ -1095,6 +1095,22 @@ Total size: 50 MB
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
 
+#### [FMT](crawl/fmt)
+
+Total size: 800 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling FMT,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/FMT}}
+}
+```
+
+<img src="https://img.shields.io/badge/third--party-red.svg">
 
 #### [Foodpanda](crawl/foodpanda)
 
