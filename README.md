@@ -28,6 +28,7 @@ Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.
 4. For speech, we recorded using wired microphone attached to Macbook Air 2013 while read some random texts from bahasa wikipedia.
 5. We pay some linguists to supervised.
 6. Lexicon -> weak learning from translated -> confident learning -> 5 iterations from humans.
+7. LLM, such as ChatGPT.
 
 ## Notes
 
@@ -3946,6 +3947,57 @@ Total size: 2 MB
 <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Translation](translation)
+
+### [ChatGPT 3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
+
+Using ChatGPT 3.5 to translate facebook pages.
+
+Total size: 32 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Facebook,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-facebook}}
+}
+```
+
+### [ChatGPT 3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
+
+Using ChatGPT 3.5 to translate IIUM Confession.
+
+Total size: 64 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation IIUM Confession,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-iium-confession}}
+}
+```
+
+### [ChatGPT 3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
+
+Using ChatGPT 3.5 to translate twitter.
+
+Total size: 16 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Twitter,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-facebook}}
+}
+```
 
 ### [EN-MS Alignment](translation/en-ms-alignment)
 
