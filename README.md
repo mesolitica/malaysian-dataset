@@ -22,13 +22,20 @@ Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.
 
 ## How we gather dataset?
 
-1. For news, articles and subtitles, we use crawler, you can get the code from here, [Malaya/crawler](https://github.com/huseinzol05/Malaya/tree/master/misc/crawl).
-2. For Bahasa, mostly we use Google Translator, you can get the code from here, [Malaya/translator](https://github.com/huseinzol05/Malaya/tree/master/misc/translator).
-3. Using social media, we catch most of live data from Twitter, Facebook and Instagram using crawlers, So we just search using Elasticsearch query.
-4. For speech, we recorded using wired microphone attached to Macbook Air 2013 while read some random texts from bahasa wikipedia.
-5. We pay some linguists to supervised.
-6. Lexicon -> weak learning from translated -> confident learning -> 5 iterations from humans.
-7. LLM, such as ChatGPT.
+### Social media
+
+1. We catch most of live data from Twitter, Facebook and Instagram using crawlers, So we just search using Elasticsearch query.
+
+### EN-MS
+
+1. We use Google Translate.
+2. We use ChatGPT.
+
+### Semisupervised
+
+1. Supervised small samples and then trained a base model.
+2. Trained base model predict larger samples, retrain next student models on high confident labelled data.
+3. Repeat.
 
 ## Notes
 
@@ -1325,6 +1332,21 @@ Total size: 1 MB
 ```
 
 <img src="https://img.shields.io/badge/third--party-red.svg">
+
+#### [OpenDOSM](crawl/opendosm)
+
+Total size: 2 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling OpenDOSM,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/opendosm}}
+}
+```
 
 ## [Dictionary](dictionary)
 
