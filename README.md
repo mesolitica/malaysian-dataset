@@ -16,8 +16,6 @@ This repository to store corpus for [huseinzol05/Malaya](https://github.com/huse
 
 Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huseinzol05/malaya-speech/tree/master/data).
 
-Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.com/huseinzol05/malaya-graph/tree/master/data).
-
 **We will keep update this repository overtime**.
 
 ## How we gather dataset?
@@ -33,9 +31,15 @@ Knowledge Graph dataset moved to [huseinzol05/malaya-graph/data](https://github.
 
 ### Semisupervised
 
+#### Teacher-student
+
 1. Supervised small samples and then trained a base model.
 2. Trained base model predict larger samples, retrain next student models on high confident labelled data.
 3. Repeat.
+
+### LLM
+
+1. Generate using ChatGPT.
 
 ## Notes
 
