@@ -12,7 +12,7 @@
 
 **Malay-Dataset**, We gather Bahasa Malaysia corpus! 
 
-This repository to store corpus for [huseinzol05/Malaya](https://github.com/huseinzol05/Malaya) and [huseinzol05/Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow).
+This repository to store corpus for [huseinzol05/Malaya](https://github.com/huseinzol05/Malaya).
 
 Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huseinzol05/malaya-speech/tree/master/data).
 
