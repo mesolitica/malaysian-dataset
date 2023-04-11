@@ -79,5 +79,3 @@ for i in range(start, end, CHUNK_SIZE):
 
     print(
         f"Translation complete. The translated data is saved in '{new_filename}'")
-    
-    break
