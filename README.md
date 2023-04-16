@@ -90,16 +90,31 @@ Total size: 44 MB
 
 #### [GPT4ALL](chatbot/gpt4all)
 
-Total size: 434 MB
+Total size: 1020 MB
 
 ```bibtex
-@misc{alpaca,
-  author = {Rohan Taori and Ishaan Gulrajani and Tianyi Zhang and Yann Dubois and Xuechen Li and Carlos Guestrin and Percy Liang and Tatsunori B. Hashimoto },
-  title = {Stanford Alpaca: An Instruction-following LLaMA model},
+@misc{gpt4all,
+  author = {Yuvanesh Anand and Zach Nussbaum and Brandon Duderstadt and Benjamin Schmidt and Andriy Mulyar},
+  title = {GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/tatsu-lab/stanford_alpaca}},
+  howpublished = {\url{https://github.com/nomic-ai/gpt4all}},
+}
+```
+
+#### [Dolly15k](chatbot/dolly15k)
+
+Total size: 25.6 MB
+
+```bibtex
+@misc{gpt4all,
+  author = {databrickslabs},
+  title = {Dolly},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/databrickslabs/dolly}},
 }
 ```
 
@@ -3526,6 +3541,21 @@ Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg"
 
 ## [Question-Answer](question-answer)
 
+#### [Hansard QA](question-answer/chatgpt3.5-hansard)
+
+Total size: 365 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Hansard QA,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/question-answer/chatgpt3.5-hansard}}
+}
+```
+
 #### [General](question-answer/general)
 
 Total size: 2.5 MB
@@ -4004,7 +4034,7 @@ Total size: 2 MB
 
 ## [Translation](translation)
 
-### [ChatGPT 3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
+#### [ChatGPT 3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
 
 Using ChatGPT 3.5 to translate facebook pages.
 
@@ -4021,7 +4051,7 @@ Total size: 32 MB
 }
 ```
 
-### [ChatGPT 3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
+#### [ChatGPT 3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
 
 Using ChatGPT 3.5 to translate IIUM Confession.
 
@@ -4038,7 +4068,24 @@ Total size: 64 MB
 }
 ```
 
-### [ChatGPT 3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
+#### [ChatGPT 3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn)
+
+Using ChatGPT 3.5 to translate NLLB-BJN to Malay.
+
+Total size: 210 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 NLLB Banjarese,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-nllb-bjn}}
+}
+```
+
+#### [ChatGPT 3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
 
 Using ChatGPT 3.5 to translate twitter.
 
@@ -4055,7 +4102,7 @@ Total size: 16 MB
 }
 ```
 
-### [EN-MS Alignment](translation/en-ms-alignment)
+#### [EN-MS Alignment](translation/en-ms-alignment)
 
 ```text
 a black cat
