@@ -3541,6 +3541,36 @@ Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg"
 
 ## [Question-Answer](question-answer)
 
+#### [Common Crawl QA](question-answer/chatgpt3.5-common-crawl)
+
+Total size: 328 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Common Crawl QA,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/question-answer/chatgpt3.5-common-crawl}}
+}
+```
+
+#### [Extractive News QA](question-answer/chatgpt3.5-extractive-news)
+
+Total size: 216 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Extractive News QA,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/question-answer/chatgpt3.5-extractive-news}}
+}
+```
+
 #### [Hansard QA](question-answer/chatgpt3.5-hansard)
 
 Total size: 365 MB

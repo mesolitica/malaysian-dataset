@@ -4,20 +4,20 @@ Gathered language detection dataset using lexicon, all steps in [notebook](noteb
 
 ## download
 
-- Download dataset from here, https://f000.backblazeb2.com/file/malay-dataset/language-detection/train-test.json
+- Download dataset from here, https://huggingface.co/datasets/mesolitica/language-detection/resolve/main/train-test.json
 
 Splitted 80% to train and 20% to test.
 
 Labels,
 
-1. english
-2. malay
-3. indonesia
-4. rojak
-5. manglish
-6. others
+1. english, 2215975, 553739
+2. malay, 7202654, 1800649
+3. indonesia, 2295708, 576059
+4. rojak, 757559, 189678
+5. manglish, 726678, 181442
+6. others, 5720022, 1428083
 
-- Download dataset from here, https://f000.backblazeb2.com/file/malay-dataset/language-detection/sublanguages.json
+- Download dataset from here, https://huggingface.co/datasets/mesolitica/language-detection/resolve/main/sublanguages.json
 
 Labels,
 

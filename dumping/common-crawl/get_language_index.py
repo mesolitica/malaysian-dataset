@@ -12,7 +12,7 @@ import urllib.request
 from multiprocessing import Pool
 
 # !mkdir data
-# !wget https://commoncrawl.s3.amazonaws.com/crawl-data/CC-MAIN-2019-22/cc-index.paths.gz
+# !wget https://commoncrawl.s3.amazonaws.com/crawl-data/CC-MAIN-2022-49/cc-index.paths.gz
 # !gzip -d cc-index.paths.gz
 
 storage_folder = 'data/'
