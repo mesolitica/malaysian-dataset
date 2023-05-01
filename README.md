@@ -53,19 +53,9 @@ Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huse
 1. Feel free to contact me to request new dataset.
 2. Feel free to open an issue if the link to dataset is forbidden, sometime I forgot to make it open to public.
 
-## License
-
-Malay-Dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License.
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-Only data tagged using this <img src="https://img.shields.io/badge/creative--common-green.svg"> is protected under this license, so feel free to use it for commercial purposes after certain extended permission.
-
 ## Non-commercial Usage
 
 A lot of data here semisupervised / translated / tagged / decoded using third party software, example, Google Translate, Google Speech, so to avoid any future complication, it is better not use this data for commercial purposes but allow for certain research purposes.
-
-Only data tagged using this <img src="https://img.shields.io/badge/third--party-red.svg"> is protected under these parties.
 
 ## Acknowledgement
 
@@ -143,7 +133,7 @@ Total size: 31.2 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [ConvAI2](chatbot/convai2)
 
@@ -181,7 +171,7 @@ Total size: 127.9 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Wiki Wizard](chatbot/wiki-wizard)
 
@@ -208,7 +198,7 @@ Total size: 275.0 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [DialoGPT](chatbot/dialogpt)
 
@@ -239,7 +229,7 @@ Total size: 5.6 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Taskmaster](chatbot/taskmaster)
 
@@ -253,7 +243,7 @@ year	= {2019}
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Corpus](corpus)
 
@@ -268,7 +258,7 @@ Total size: 246 KB
 @misc{eight_2016, title={Political Social Media Posts}, url={https://www.kaggle.com/crowdflower/political-social-media-posts}, journal={Kaggle}, author={Eight, Figure}, year={2016}, month={Nov}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Twitter Emotion](corpus/emotion)
 
@@ -292,7 +282,7 @@ Total size: 27.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Gender](corpus/gender)
 
@@ -309,7 +299,7 @@ Total size: 2.2 MB
 
 Reference: https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Insincere question](corpus/insincere-question)
 
@@ -322,7 +312,7 @@ Total size: 60.4 MB
 @misc{kaggle, title={Quora Insincere Questions Classification}, url={https://www.kaggle.com/c/quora-insincere-questions-classification}, journal={Kaggle}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Irony](corpus/irony)
 
@@ -335,7 +325,7 @@ Total size: 465 KB
 @misc{tatman_2017, title={Ironic Corpus}, url={https://www.kaggle.com/rtatman/ironic-corpus}, journal={Kaggle}, author={Tatman, Rachael}, year={2017}, month={Jul}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Language-detection](corpus/language-detection)
 
@@ -371,7 +361,7 @@ sublanguages,
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Malaysia-entities](corpus/malaysia-entities)
 
@@ -390,7 +380,7 @@ Total size: 190.1 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 <details><summary>Complete list (210 entities)</summary>
 
@@ -624,7 +614,7 @@ Total size: 322.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 <details><summary>Complete list (249 topics)</summary>
 
@@ -890,7 +880,7 @@ Jianmo Ni, Jiacheng Li, Julian McAuley
 Empirical Methods in Natural Language Processing (EMNLP), 2019
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Sarcastic news-headline](corpus/sarcastic-news-headline)
 
@@ -903,7 +893,7 @@ Total size: 1.78 MB
 @misc{misra_2019, title={News Headlines Dataset For Sarcasm Detection}, url={https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection}, journal={Kaggle}, author={Misra, Rishabh}, year={2019}, month={Jul}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Subjectivity](corpus/subjectivity)
 
@@ -921,7 +911,7 @@ Total size: 1.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Substring Language Detection](corpus/substring-language-detection)
 
@@ -938,7 +928,7 @@ Total size: 542 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Toxicity-small](corpus/toxicity-small)
 
@@ -957,7 +947,7 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 @misc{kaggle, title={Toxic Comment Classification Challenge}, url={https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge}, journal={Kaggle}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Toxicity-large](corpus/toxicity-large)
 
@@ -1001,9 +991,9 @@ Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic
 @misc{kaggle, title={Jigsaw Multilingual Toxic Comment Classification}, url={https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification}, journal={Kaggle}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
 
-But label 14, 29, 30, 31 under <img src="https://img.shields.io/badge/creative--common-green.svg"> .
+
+But label 14, 29, 30, 31 under  .
 
 #### [Political landscape](corpus/political-landscape)
 
@@ -1023,7 +1013,7 @@ Total size: 2 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [NSFW](corpus/nsfw)
 
@@ -1044,7 +1034,7 @@ Total size: 85.9 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [The Pile](corpus/pile)
 
@@ -1077,7 +1067,7 @@ Total size: 22.7 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [goemotions](corpus/goemotions)
 
@@ -1104,7 +1094,7 @@ Total size: 78.9 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [stopwords](corpus/stopwords)
 
@@ -1112,7 +1102,7 @@ List of stopwords in JSON. To get latest stopwords, get it at https://github.com
 
 Total size: 14 KB
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Crawl](crawl)
 
@@ -1133,7 +1123,7 @@ Total size: 382.65 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Bernama](crawl/bernama)
 
@@ -1150,7 +1140,7 @@ Total size: 50 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [FMT](crawl/fmt)
 
@@ -1167,7 +1157,7 @@ Total size: 800 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Foodpanda](crawl/foodpanda)
 
@@ -1188,7 +1178,7 @@ Total size: 482.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Malaysia Hansard](crawl/hansard)
 
@@ -1207,7 +1197,7 @@ Total size: 1.07 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [IIUM-Confession](crawl/iium-confession)
 
@@ -1226,7 +1216,7 @@ Total size: 130 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Iproperty](crawl/iproperty)
 
@@ -1245,7 +1235,7 @@ Total size: 1329 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Klook](crawl/klook)
 
@@ -1264,7 +1254,7 @@ Total size: 10.3 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [majoriti.com.my](crawl/majoriti-com-my)
 
@@ -1283,7 +1273,7 @@ Total size: 5.8 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Academia PDF](crawl/pdf)
 
@@ -1300,7 +1290,7 @@ Total size: 7.9 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [ticket2u](crawl/ticket2u)
 
@@ -1317,7 +1307,7 @@ Contains 4282 events in Malaysia from 2017.
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Wattpad](crawl/wattpad)
 
@@ -1346,7 +1336,7 @@ Total size: 97 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Ipendidikan](crawl/ipendidikan)
 
@@ -1363,7 +1353,7 @@ Total size: 1 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [karangan.net](crawl/karangan.net)
 
@@ -1380,7 +1370,7 @@ Total size: 1 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [OpenDOSM](crawl/opendosm)
 
@@ -1407,7 +1397,7 @@ Total size: 1.1 MB
 
 Reference: https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [200k English-Malay](dictionary/200k-english-malay)
 
@@ -1424,7 +1414,7 @@ Total size: 6.9 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [90k synonym](dictionary/synonym)
 
@@ -1441,7 +1431,7 @@ Total size: 4.7 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Dictionary, 24550 unique words](dictionary/dictionary)
 
@@ -1458,7 +1448,7 @@ Total size: 428 KB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Dialect](dictionary/dialect)
 
@@ -1484,7 +1474,7 @@ Glossaries for,
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Ngrams](dictionary/ngram)
 
@@ -1506,7 +1496,7 @@ Unigram and Bigram collected from news, structure,
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [7k antonym](dictionary/antonym)
 
@@ -1523,7 +1513,7 @@ Total size: 200 KB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Cambridge English-Malaysian](dictionary/cambridge)
 
@@ -1542,7 +1532,7 @@ Total size: 20 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [IPA](dictionary/ipa)
 
@@ -1554,7 +1544,7 @@ Total size: 600 KB
 @misc{open-dict-data, title={Open-dict-data/IPA-dict: Monolingual wordlists with pronunciation information in IPA}, url={https://github.com/open-dict-data/ipa-dict}, journal={GitHub}, author={Open-Dict-Data}} 
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Emoji](dictionary/emoji)
 
@@ -1573,7 +1563,7 @@ Total size: 1 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Wiktionary](dictionary/wiktionary)
 
@@ -1581,7 +1571,7 @@ Filtered https://en.wiktionary.org/wiki/Wiktionary:Main_Page on bahasa words.
 
 Total size: 34 MB
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [DBP](dictionary/dbp)
 
@@ -1589,7 +1579,7 @@ Crawled from https://prpm.dbp.gov.my/Cari1?keyword=
 
 Total size: 25.7 MB
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Document Ranking](document-ranking)
 
@@ -1619,7 +1609,7 @@ Total size: 1.5 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Dumping](dumping)
 
@@ -1638,13 +1628,13 @@ Total size: 221 KB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Wikipedia](dumping/wikipedia)
 
 Total size: 243.2 MB, 1748387 sentences.
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Instagram](dumping/instagram)
 
@@ -1661,7 +1651,7 @@ Total size: 418.2 MB, 695571 sentences.
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Twitter](dumping/twitter)
 
@@ -1678,7 +1668,7 @@ Total size: 5.9 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Parliament](dumping/parliament)
 
@@ -1695,7 +1685,7 @@ Total size: 46.7 MB, 252095 sentences.
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Singlish text](dumping/singlish-text)
 
@@ -1718,7 +1708,7 @@ Contributed by [brytjy](https://github.com/brytjy).
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Singapore news](dumping/singapore-news)
 
@@ -1737,7 +1727,7 @@ Contributed by [brytjy](https://github.com/brytjy).
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Subtitle](dumping/subtitle)
 
@@ -1754,7 +1744,7 @@ Total size: 1.5 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Common-crawl](dumping/common-crawl)
 
@@ -1777,7 +1767,7 @@ Total cleaned (removed NSFW) text extracted size: 2.93 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Clean](dumping/clean)
 
@@ -1813,7 +1803,7 @@ Total size: 149 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [IMDA](dumping/imda)
 
@@ -1832,7 +1822,7 @@ Total size: 181 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Facebook](dumping/facebook)
 
@@ -1864,7 +1854,7 @@ Total size: 13.5 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Keyphrase](keyphrase)
 
@@ -1874,7 +1864,7 @@ Total size: 3 MB
 
 Originally from https://github.com/boudinfl/ake-datasets
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [WWW](keyphrase/www)
 
@@ -1882,7 +1872,7 @@ Total size: 2.7 MB
 
 Originally from https://github.com/boudinfl/ake-datasets
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [OpenKP](keyphrase/openkp)
 
@@ -1910,7 +1900,7 @@ article{DBLP:journals/corr/NguyenRSGTMD16,
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [KPTimes](keyphrase/kptimes)
 
@@ -1926,7 +1916,7 @@ Total size: 4.3 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [twitter bahasa](keyphrase/twitter-bahasa)
 
@@ -1943,7 +1933,7 @@ Total size: 1580 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Xwikis](keyphrase/xwikis)
 
@@ -1960,7 +1950,7 @@ Total size: 2057 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Lexicon](lexicon)
 
@@ -1983,7 +1973,7 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [emotion](lexicon/emotion.json)
 
@@ -2002,7 +1992,7 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [News](news)
 
@@ -2013,9 +2003,9 @@ Total size: 122.2 MB
 1. Negative
 2. Positive
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
 
-Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data), <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data), 
 
 #### [30k News](news/news-30k)
 
@@ -2048,7 +2038,7 @@ strings = [
 ]
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Crawled News](news/news)
 
@@ -2065,7 +2055,7 @@ Total size: 156 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Crawled News Topics](news/news-topics)
 
@@ -2082,7 +2072,7 @@ Total size: 1.2 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 <details><summary>Complete list (976 news)</summary>
 
@@ -3075,7 +3065,7 @@ Total size: 3.1 MB
 4. Pendidikan
 5. Sekolah
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Headline](news/headline)
 
@@ -3092,7 +3082,7 @@ Total size: 555.6 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Natural Language Query](nlq)
 
@@ -3131,7 +3121,7 @@ Total size: 99.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [COSQL](nlq/cosql)
 
@@ -3197,7 +3187,7 @@ Total size: 105.5 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [SPARC](nlq/sparc)
 
@@ -3257,7 +3247,7 @@ Total size: 100.3 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Normalization](normalization)
 
@@ -3278,7 +3268,7 @@ Total size: 1.4 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Stemmer](normalization/stemmer)
 
@@ -3295,7 +3285,7 @@ Total size: 80 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [IIUM Confession](normalization/iium-confession)
 
@@ -3312,7 +3302,7 @@ Total size: 406 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Optical Character Recognition](ocr)
 
@@ -3335,7 +3325,7 @@ Dataset is simple, malay label can get from the name [idola.png](ocr/malay-to-ja
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### Malay handwriting (Satisfy-Regular)
 
@@ -3356,7 +3346,7 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/handwritin
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Paraphrase](paraphrase)
 
@@ -3391,7 +3381,7 @@ Extract from MS COCO Captions.
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Funpedia](paraphrase/funpedia)
 
@@ -3422,7 +3412,7 @@ Total size: 68.8 MB
 
 Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/funpedia
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [ParaSCI](paraphrase/parasci)
 
@@ -3439,7 +3429,7 @@ Total size: 177 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [PAWS](paraphrase/paws)
 
@@ -3471,7 +3461,7 @@ Total size: 73.7 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Semisupervised News](paraphrase/semisupervised-news)
 
@@ -3488,7 +3478,7 @@ Total size: 311.3 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Semisupervised Wikipedia](paraphrase/semisupervised-wikipedia)
 
@@ -3505,7 +3495,7 @@ Total size: 233.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Parsing](parsing)
 
@@ -3517,10 +3507,6 @@ Total size: 3.5 MB
 Jessica Naraiswari Arwidarasti, Ika Alfina, Adila Alfa Krisnadhi, "Adjusting Indonesian Multiword Expression Annotation to the Penn Treebank Format", Asian Language Processing (IALP) 2020 International Conference on, pp. 75-80, 2020.
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
-
 #### [Dependency](parsing/dependency)
 
 Total size: 24.1 MB
@@ -3529,15 +3515,9 @@ Total size: 24.1 MB
 @misc{ud_indonesian-pud, title={UD Indonesian PUD}, url={https://universaldependencies.org/treebanks/id_pud/index.html}, journal={UD_Indonesian-PUD}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
-
-Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
-
 ## [Phoneme](phoneme)
 
 Total size: 57 KB
-
-Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
 
 ## [Question-Answer](question-answer)
 
@@ -3602,7 +3582,7 @@ Total size: 2.5 MB
 23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [SQUAD](question-answer/squad)
 
@@ -3626,7 +3606,7 @@ Total size: 129.1MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Natural Questions](question-answer/natural-questions)
 
@@ -3641,7 +3621,7 @@ journal	= {Transactions of the Association of Computational Linguistics}
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Segmentation](segmentation)
 
@@ -3658,7 +3638,7 @@ Total size: 2.2 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Sentiment](sentiment)
 
@@ -3680,7 +3660,7 @@ Total size: 496 KB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Semisupervised Twitter](sentiment/semisupervised-twitter-3class)
 
@@ -3699,7 +3679,7 @@ Stack XLNET BASE + BERT BASE on [Supervised Twitter](sentiment/supervised-twitte
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Supervised Twitter](sentiment/supervised-twitter)
 
@@ -3748,7 +3728,7 @@ Total size: 1.2 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Summarization](summarization)
 
@@ -3774,7 +3754,7 @@ Total size: 900 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [DailyMail](summarization/dailymail)
 
@@ -3798,7 +3778,7 @@ Total size: 2.1 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Gigawords](summarization/gigawords)
 
@@ -3826,7 +3806,7 @@ Total size: 450 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Multinews](summarization/multinews)
 
@@ -3853,7 +3833,7 @@ Total size: 680 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Semisupervised AstroAwani](summarization/semisupervised-astroawani)
 
@@ -3872,7 +3852,7 @@ Total size: 364.69 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Semisupervised News](summarization/semisupervised-news)
 
@@ -3891,7 +3871,7 @@ Total size: 303 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Xwikis](summarizarion/xwikis)
 
@@ -3915,7 +3895,7 @@ Total size: 6270.8 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Tagging](tagging)
 
@@ -3943,9 +3923,9 @@ Total size: 3.1 MB
 @misc{ud_indonesian-pud, title={UD Indonesian PUD}, url={https://universaldependencies.org/treebanks/id_pud/index.html}, journal={UD_Indonesian-PUD}}
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
 
-Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
+
+Augmentation, 
 
 #### [Entities](tagging/entities)
 
@@ -3971,7 +3951,7 @@ Total size: 3.1 MB
 }
 ```
 
-Augmentation, <img src="https://img.shields.io/badge/creative--common-green.svg">
+Augmentation, 
 
 #### [Semisupervised Entities Parliament](tagging/semisupervised/parliament/entities)
 
@@ -3990,7 +3970,7 @@ Total size: 129 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Text similarity](text-similarity)
 
@@ -4003,7 +3983,7 @@ Total size: 60.8 MB
 ```
 
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [SNLI](text-similarity/snli)
 
@@ -4013,7 +3993,7 @@ Total size: 256.8 MB
 Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). [pdf] [bib]
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [MNLI](text-similarity/mnli)
 
@@ -4039,7 +4019,7 @@ Total size: 286.2 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## [Tokenization](tokenization)
 
@@ -4060,7 +4040,7 @@ Total size: 2 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 ## [Translation](translation)
 
@@ -4068,7 +4048,7 @@ Total size: 2 MB
 
 Using ChatGPT 3.5 to translate facebook pages.
 
-Total size: 32 MB
+Total size: 53.1 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Facebook,
@@ -4085,7 +4065,7 @@ Total size: 32 MB
 
 Using ChatGPT 3.5 to translate IIUM Confession.
 
-Total size: 64 MB
+Total size: 426.86 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation IIUM Confession,
@@ -4095,6 +4075,23 @@ Total size: 64 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-iium-confession}}
+}
+```
+
+#### [ChatGPT 3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish)
+
+Using ChatGPT 3.5 to translate Manglish.
+
+Total size: 351 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Manglish,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-manglish}}
 }
 ```
 
@@ -4156,7 +4153,7 @@ Total size: 6.1 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [IIUM-Confession](translation/iium-confession)
 
@@ -4175,7 +4172,7 @@ Total size: 562 KB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Google Translate MS-EN](translation/google-translate-ms-en)
 
@@ -4192,7 +4189,7 @@ Total size: 935.3 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Opus](translation/opus)
 
@@ -4216,7 +4213,7 @@ Total size: 262.6 MB
  }
  ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Parliament](translation/parliament)
 
@@ -4235,7 +4232,7 @@ Total size: 47.6 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
@@ -4252,7 +4249,7 @@ Total size: 11.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [English News](translation/english-news)
 
@@ -4271,7 +4268,7 @@ Total size: 2.5 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [Long text](translation/long-text)
 
@@ -4290,7 +4287,7 @@ Total size: 1.7 GB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [EN-MS Alignment](translation/en-ms-alignment)
 
@@ -4309,7 +4306,7 @@ Total size: 300 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [MS-EN Alignment](translation/ms-en-alignment)
 
@@ -4328,7 +4325,7 @@ Total size: 300 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Noisy MS-EN Augmentation](translation/noisy-ms-en-augmentation)
 
@@ -4347,7 +4344,7 @@ Total size: 721 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [Noisy EN-MS Augmentation](translation/noisy-en-ms-augmentation)
 
@@ -4366,7 +4363,7 @@ Total size: 433.4 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/creative--common-green.svg">
+
 
 #### [NLLB-EN-MS](translation/nllb-en-ms)
 
@@ -4392,7 +4389,7 @@ Total size: 2065 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 #### [NLLB-MS-JAV](translation/nllb-ms-jav)
 
@@ -4418,7 +4415,7 @@ Total size: 1165.92 MB
 }
 ```
 
-<img src="https://img.shields.io/badge/third--party-red.svg">
+
 
 ## True Case
 
