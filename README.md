@@ -3396,7 +3396,7 @@ Total size: 365 MB
 }
 ```
 
-#### [General](question-answer/general)
+#### [General](question-answer/general) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 2.5 MB
 
@@ -3412,9 +3412,7 @@ Total size: 2.5 MB
 23 fred berpindah ke lorong. 24 jeff pergi ke pejabat. 25 siapa yang mary memberikan susu itu? <> fred <> 21
 ```
 
-
-
-#### [SQUAD](question-answer/squad)
+#### [SQUAD](question-answer/squad) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 129.1MB
 
@@ -3436,9 +3434,7 @@ Total size: 129.1MB
 }
 ```
 
-
-
-#### [Natural Questions](question-answer/natural-questions)
+#### [Natural Questions](question-answer/natural-questions) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 8MB
 
@@ -3450,8 +3446,6 @@ year	= {2019},
 journal	= {Transactions of the Association of Computational Linguistics}
 }
 ```
-
-
 
 ## [Segmentation](segmentation)
 
@@ -3467,8 +3461,6 @@ Total size: 2.2 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/segmentation}}
 }
 ```
-
-
 
 ## [Sentiment](sentiment)
 
@@ -3490,8 +3482,6 @@ Total size: 496 KB
 }
 ```
 
-
-
 #### [Semisupervised Twitter](sentiment/semisupervised-twitter-3class)
 
 Total size: 25.3 MB
@@ -3508,8 +3498,6 @@ Stack XLNET BASE + BERT BASE on [Supervised Twitter](sentiment/supervised-twitte
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/sentiment/semi-supervised-twitter}}
 }
 ```
-
-
 
 #### [Supervised Twitter](sentiment/supervised-twitter)
 
@@ -3558,11 +3546,9 @@ Total size: 1.2 GB
 }
 ```
 
-
-
 ## [Summarization](summarization)
 
-#### [CNN News](summarization/cnn-news)
+#### [CNN News](summarization/cnn-news) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 900 MB
 
@@ -3584,9 +3570,7 @@ Total size: 900 MB
 }
 ```
 
-
-
-#### [DailyMail](summarization/dailymail)
+#### [DailyMail](summarization/dailymail) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 2.1 GB
 
@@ -3608,9 +3592,7 @@ Total size: 2.1 GB
 }
 ```
 
-
-
-#### [Gigawords](summarization/gigawords)
+#### [Gigawords](summarization/gigawords) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 450 MB
 
@@ -3636,9 +3618,7 @@ Total size: 450 MB
 }
 ```
 
-
-
-#### [Multinews](summarization/multinews)
+#### [Multinews](summarization/multinews) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 680 MB
 
@@ -3663,8 +3643,6 @@ Total size: 680 MB
 }
 ```
 
-
-
 #### [Semisupervised AstroAwani](summarization/semisupervised-astroawani)
 
 Abstractive output from T5-base-bahasa summarized astroawani news.
@@ -3681,8 +3659,6 @@ Total size: 364.69 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/summarization/semisupervised}}
 }
 ```
-
-
 
 #### [Semisupervised News](summarization/semisupervised-news)
 
@@ -3701,9 +3677,7 @@ Total size: 303 MB
 }
 ```
 
-
-
-#### [Xwikis](summarizarion/xwikis)
+#### [Xwikis](summarizarion/xwikis) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 6270.8 MB
 
@@ -3724,8 +3698,6 @@ Total size: 6270.8 MB
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-
-
 
 ## [Tagging](tagging)
 
@@ -3752,8 +3724,6 @@ Total size: 3.1 MB
 ```bibtex
 @misc{ud_indonesian-pud, title={UD Indonesian PUD}, url={https://universaldependencies.org/treebanks/id_pud/index.html}, journal={UD_Indonesian-PUD}}
 ```
-
-
 
 Augmentation, 
 
@@ -3800,11 +3770,9 @@ Total size: 129 MB
 }
 ```
 
-
-
 ## [Text similarity](text-similarity)
 
-#### [Quora](text-similarity/quora)
+#### [Quora](text-similarity/quora) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 60.8 MB
 
@@ -3812,10 +3780,7 @@ Total size: 60.8 MB
 @misc{kaggle, title={Quora Question Pairs}, url={https://www.kaggle.com/c/quora-question-pairs}, journal={Kaggle}}
 ```
 
-
-
-
-#### [SNLI](text-similarity/snli)
+#### [SNLI](text-similarity/snli) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 256.8 MB
 
@@ -3823,9 +3788,7 @@ Total size: 256.8 MB
 Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). [pdf] [bib]
 ```
 
-
-
-#### [MNLI](text-similarity/mnli)
+#### [MNLI](text-similarity/mnli) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 286.2 MB
 
@@ -3849,8 +3812,6 @@ Total size: 286.2 MB
 }
 ```
 
-
-
 ## [Tokenization](tokenization)
 
 ### [Syllable](tokenization/syllable)
@@ -3869,8 +3830,6 @@ Total size: 2 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/tokenization/syllable}}
 }
 ```
-
-
 
 ## [Translation](translation)
 
@@ -3983,8 +3942,6 @@ Total size: 6.1 GB
 }
 ```
 
-
-
 #### [IIUM-Confession](translation/iium-confession)
 
 Malay to English.
@@ -4004,7 +3961,7 @@ Total size: 562 KB
 
 
 
-#### [Google Translate MS-EN](translation/google-translate-ms-en)
+#### [Google Translate MS-EN](translation/google-translate-ms-en) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 935.3 MB
 
@@ -4018,8 +3975,6 @@ Total size: 935.3 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/malay-english}}
 }
 ```
-
-
 
 #### [Opus](translation/opus)
 
@@ -4041,11 +3996,9 @@ Total size: 262.6 MB
   isbn = {978-2-9517408-7-7},
   language = {english}
  }
- ```
+```
 
-
-
-#### [Parliament](translation/parliament)
+#### [Parliament](translation/parliament) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Parsed from Malaysia parliament text, and translate to English.
 
@@ -4062,8 +4015,6 @@ Total size: 47.6 MB
 }
 ```
 
-
-
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
 Total size: 11.4 MB
@@ -4079,9 +4030,7 @@ Total size: 11.4 MB
 }
 ```
 
-
-
-#### [English News](translation/english-news)
+#### [English News](translation/english-news) <img src="https://img.shields.io/badge/translation-red.svg">
 
 English to Malay.
 
@@ -4098,9 +4047,7 @@ Total size: 2.5 GB
 }
 ```
 
-
-
-#### [Long text](translation/long-text)
+#### [Long text](translation/long-text) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Malay to English. Focused on long text translation.
 
@@ -4116,8 +4063,6 @@ Total size: 1.7 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
 }
 ```
-
-
 
 #### [EN-MS Alignment](translation/en-ms-alignment)
 
@@ -4136,8 +4081,6 @@ Total size: 300 MB
 }
 ```
 
-
-
 #### [MS-EN Alignment](translation/ms-en-alignment)
 
 MS-EN Alignment using using [eflomal](https://github.com/robertostling/eflomal).
@@ -4154,8 +4097,6 @@ Total size: 300 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/ms-en-alignment}}
 }
 ```
-
-
 
 #### [Noisy MS-EN Augmentation](translation/noisy-ms-en-augmentation)
 
@@ -4174,8 +4115,6 @@ Total size: 721 MB
 }
 ```
 
-
-
 #### [Noisy EN-MS Augmentation](translation/noisy-en-ms-augmentation)
 
 Augment using social media lexicon and english replacement using word alignment.
@@ -4192,8 +4131,6 @@ Total size: 433.4 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-en-ms-augmentation}}
 }
 ```
-
-
 
 #### [NLLB-EN-MS](translation/nllb-en-ms)
 
@@ -4219,8 +4156,6 @@ Total size: 2065 MB
 }
 ```
 
-
-
 #### [NLLB-MS-JAV](translation/nllb-ms-jav)
 
 Total size: 1165.92 MB
@@ -4244,8 +4179,6 @@ Total size: 1165.92 MB
   copyright = {Creative Commons Attribution Share Alike 4.0 International}
 }
 ```
-
-
 
 ## True Case
 
