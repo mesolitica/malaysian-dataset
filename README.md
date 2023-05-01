@@ -993,9 +993,7 @@ Toxicity-large is multilabels and multiclasses, prefer to use sigmoid / logistic
 @misc{kaggle, title={Jigsaw Multilingual Toxic Comment Classification}, url={https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification}, journal={Kaggle}}
 ```
 
-
-
-But label 14, 29, 30, 31 under  .
+Added label 14, 29, 30, 31 by myself.
 
 #### [Political landscape](corpus/political-landscape)
 
@@ -1015,7 +1013,7 @@ Total size: 2 MB
 }
 ```
 
-
+**This polarity is based on 2018 political landscape**.
 
 #### [NSFW](corpus/nsfw)
 
