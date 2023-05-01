@@ -30,6 +30,9 @@ Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huse
 
 1. We use Google Translate.
 2. We use ChatGPT.
+3. We use Malaya translation.
+
+Data tagged using this <img src="https://img.shields.io/badge/translation-red.svg"> is generated from translation.
 
 ### Semisupervised
 
@@ -42,6 +45,8 @@ Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huse
 ### LLM
 
 1. Generate using ChatGPT.
+
+Data tagged using this <img src="https://img.shields.io/badge/LLM-red.svg"> is generated from LLM.
 
 ## Notes
 
@@ -67,6 +72,8 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 
 #### [Alpaca](chatbot/alpaca)
 
+<img src="https://img.shields.io/badge/translation-red.svg">
+
 Total size: 44 MB
 
 ```bibtex
@@ -81,6 +88,8 @@ Total size: 44 MB
 ```
 
 #### [GPT4ALL](chatbot/gpt4all)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1020 MB
 
@@ -97,6 +106,8 @@ Total size: 1020 MB
 
 #### [Dolly15k](chatbot/dolly15k)
 
+<img src="https://img.shields.io/badge/translation-red.svg">
+
 Total size: 25.6 MB
 
 ```bibtex
@@ -111,6 +122,8 @@ Total size: 25.6 MB
 ```
 
 #### [Blended Skill Talk](chatbot/blended-skill-talk)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 31.2 MB
 
@@ -135,9 +148,9 @@ Total size: 31.2 MB
 }
 ```
 
-
-
 #### [ConvAI2](chatbot/convai2)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 127.9 MB
 
@@ -173,9 +186,9 @@ Total size: 127.9 MB
 }
 ```
 
-
-
 #### [Wiki Wizard](chatbot/wiki-wizard)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 275.0 MB
 
@@ -200,9 +213,9 @@ Total size: 275.0 MB
 }
 ```
 
-
-
 #### [DialoGPT](chatbot/dialogpt)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 5.6 GB
 
@@ -231,9 +244,9 @@ Total size: 5.6 GB
 }
 ```
 
-
-
 #### [Taskmaster](chatbot/taskmaster)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 94 MB
 
@@ -244,8 +257,6 @@ author	= {Bill Byrne and Karthik Krishnamoorthi and Chinnadhurai Sankar and Arvi
 year	= {2019}
 }
 ```
-
-
 
 ## [Corpus](corpus)
 
@@ -284,9 +295,9 @@ Total size: 27.4 MB
 }
 ```
 
-
-
 #### [Gender](corpus/gender)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 2.2 MB
 
@@ -301,9 +312,9 @@ Total size: 2.2 MB
 
 Reference: https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 
-
-
 #### [Insincere question](corpus/insincere-question)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 60.4 MB
 
@@ -314,9 +325,9 @@ Total size: 60.4 MB
 @misc{kaggle, title={Quora Insincere Questions Classification}, url={https://www.kaggle.com/c/quora-insincere-questions-classification}, journal={Kaggle}}
 ```
 
-
-
 #### [Irony](corpus/irony)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 465 KB
 
@@ -326,8 +337,6 @@ Total size: 465 KB
 ```bibtex
 @misc{tatman_2017, title={Ironic Corpus}, url={https://www.kaggle.com/rtatman/ironic-corpus}, journal={Kaggle}, author={Tatman, Rachael}, year={2017}, month={Jul}}
 ```
-
-
 
 #### [Language-detection](corpus/language-detection)
 
@@ -363,8 +372,6 @@ sublanguages,
 }
 ```
 
-
-
 #### [Malaysia-entities](corpus/malaysia-entities)
 
 Social media texts related to Malaysia entities.
@@ -381,8 +388,6 @@ Total size: 190.1 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/malaysia-entities}}
 }
 ```
-
-
 
 <details><summary>Complete list (210 entities)</summary>
 
@@ -615,8 +620,6 @@ Total size: 322.4 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/corpus/malaysia-topics}}
 }
 ```
-
-
 
 <details><summary>Complete list (249 topics)</summary>
 
@@ -874,6 +877,8 @@ Total size: 322.4 MB
 
 #### [Metadata Amazon reviews](corpus/metadata-amazon-review)
 
+<img src="https://img.shields.io/badge/translation-red.svg">
+
 Total size: 10.365 GB
 
 ```bibtex
@@ -882,9 +887,9 @@ Jianmo Ni, Jiacheng Li, Julian McAuley
 Empirical Methods in Natural Language Processing (EMNLP), 2019
 ```
 
-
-
 #### [Sarcastic news-headline](corpus/sarcastic-news-headline)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1.78 MB
 
@@ -895,9 +900,9 @@ Total size: 1.78 MB
 @misc{misra_2019, title={News Headlines Dataset For Sarcasm Detection}, url={https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection}, journal={Kaggle}, author={Misra, Rishabh}, year={2019}, month={Jul}}
 ```
 
-
-
 #### [Subjectivity](corpus/subjectivity)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1.4 MB
 
@@ -912,8 +917,6 @@ Total size: 1.4 MB
   year =         2004
 }
 ```
-
-
 
 #### [Substring Language Detection](corpus/substring-language-detection)
 
@@ -930,9 +933,9 @@ Total size: 542 MB
 }
 ```
 
-
-
 #### [Toxicity-small](corpus/toxicity-small)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 69 MB
 
@@ -949,9 +952,9 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 @misc{kaggle, title={Toxic Comment Classification Challenge}, url={https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge}, journal={Kaggle}}
 ```
 
-
-
 #### [Toxicity-large](corpus/toxicity-large)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 640 MB
 
@@ -1034,9 +1037,9 @@ Total size: 85.9 MB
 }
 ```
 
-
-
 #### [The Pile](corpus/pile)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 22.7 GB
 
@@ -1067,9 +1070,9 @@ Total size: 22.7 GB
 }
 ```
 
-
-
 #### [goemotions](corpus/goemotions)
+
+<img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 78.9 MB
 
@@ -1094,15 +1097,11 @@ Total size: 78.9 MB
 }
 ```
 
-
-
 #### [stopwords](corpus/stopwords)
 
 List of stopwords in JSON. To get latest stopwords, get it at https://github.com/huseinzol05/malaya/blob/master/malaya/text/tatabahasa.py
 
 Total size: 14 KB
-
-
 
 ## [Crawl](crawl)
 
