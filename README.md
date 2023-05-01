@@ -87,9 +87,7 @@ Total size: 44 MB
 }
 ```
 
-#### [GPT4ALL](chatbot/gpt4all)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [GPT4ALL](chatbot/gpt4all) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1020 MB
 
@@ -104,9 +102,7 @@ Total size: 1020 MB
 }
 ```
 
-#### [Dolly15k](chatbot/dolly15k)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Dolly15k](chatbot/dolly15k) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 25.6 MB
 
@@ -121,9 +117,7 @@ Total size: 25.6 MB
 }
 ```
 
-#### [Blended Skill Talk](chatbot/blended-skill-talk)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Blended Skill Talk](chatbot/blended-skill-talk) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 31.2 MB
 
@@ -148,9 +142,7 @@ Total size: 31.2 MB
 }
 ```
 
-#### [ConvAI2](chatbot/convai2)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [ConvAI2](chatbot/convai2) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 127.9 MB
 
@@ -186,9 +178,7 @@ Total size: 127.9 MB
 }
 ```
 
-#### [Wiki Wizard](chatbot/wiki-wizard)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Wiki Wizard](chatbot/wiki-wizard) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 275.0 MB
 
@@ -213,9 +203,7 @@ Total size: 275.0 MB
 }
 ```
 
-#### [DialoGPT](chatbot/dialogpt)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [DialoGPT](chatbot/dialogpt) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 5.6 GB
 
@@ -244,9 +232,7 @@ Total size: 5.6 GB
 }
 ```
 
-#### [Taskmaster](chatbot/taskmaster)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Taskmaster](chatbot/taskmaster) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 94 MB
 
@@ -260,7 +246,7 @@ year	= {2019}
 
 ## [Corpus](corpus)
 
-#### [Audience Nationality](corpus/audience)
+#### [Audience Nationality](corpus/audience) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 246 KB
 
@@ -270,8 +256,6 @@ Total size: 246 KB
 ```bibtex
 @misc{eight_2016, title={Political Social Media Posts}, url={https://www.kaggle.com/crowdflower/political-social-media-posts}, journal={Kaggle}, author={Eight, Figure}, year={2016}, month={Nov}}
 ```
-
-
 
 #### [Twitter Emotion](corpus/emotion)
 
@@ -295,9 +279,7 @@ Total size: 27.4 MB
 }
 ```
 
-#### [Gender](corpus/gender)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Gender](corpus/gender) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 2.2 MB
 
@@ -312,9 +294,7 @@ Total size: 2.2 MB
 
 Reference: https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 
-#### [Insincere question](corpus/insincere-question)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Insincere question](corpus/insincere-question) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 60.4 MB
 
@@ -325,9 +305,7 @@ Total size: 60.4 MB
 @misc{kaggle, title={Quora Insincere Questions Classification}, url={https://www.kaggle.com/c/quora-insincere-questions-classification}, journal={Kaggle}}
 ```
 
-#### [Irony](corpus/irony)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Irony](corpus/irony) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 465 KB
 
@@ -875,9 +853,7 @@ Total size: 322.4 MB
 
 </details>
 
-#### [Metadata Amazon reviews](corpus/metadata-amazon-review)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Metadata Amazon reviews](corpus/metadata-amazon-review) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 10.365 GB
 
@@ -887,9 +863,7 @@ Jianmo Ni, Jiacheng Li, Julian McAuley
 Empirical Methods in Natural Language Processing (EMNLP), 2019
 ```
 
-#### [Sarcastic news-headline](corpus/sarcastic-news-headline)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Sarcastic news-headline](corpus/sarcastic-news-headline) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1.78 MB
 
@@ -900,9 +874,7 @@ Total size: 1.78 MB
 @misc{misra_2019, title={News Headlines Dataset For Sarcasm Detection}, url={https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection}, journal={Kaggle}, author={Misra, Rishabh}, year={2019}, month={Jul}}
 ```
 
-#### [Subjectivity](corpus/subjectivity)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Subjectivity](corpus/subjectivity) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1.4 MB
 
@@ -933,9 +905,7 @@ Total size: 542 MB
 }
 ```
 
-#### [Toxicity-small](corpus/toxicity-small)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Toxicity-small](corpus/toxicity-small) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 69 MB
 
@@ -952,9 +922,7 @@ Toxicity-small is multilabels and multiclasses, prefer to use sigmoid / logistic
 @misc{kaggle, title={Toxic Comment Classification Challenge}, url={https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge}, journal={Kaggle}}
 ```
 
-#### [Toxicity-large](corpus/toxicity-large)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Toxicity-large](corpus/toxicity-large) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 640 MB
 
@@ -1037,9 +1005,7 @@ Total size: 85.9 MB
 }
 ```
 
-#### [The Pile](corpus/pile)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [The Pile](corpus/pile) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 22.7 GB
 
@@ -1070,9 +1036,7 @@ Total size: 22.7 GB
 }
 ```
 
-#### [goemotions](corpus/goemotions)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [goemotions](corpus/goemotions) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 78.9 MB
 
@@ -1122,8 +1086,6 @@ Total size: 382.65 MB
 }
 ```
 
-
-
 #### [Bernama](crawl/bernama)
 
 Total size: 50 MB
@@ -1139,8 +1101,6 @@ Total size: 50 MB
 }
 ```
 
-
-
 #### [FMT](crawl/fmt)
 
 Total size: 800 MB
@@ -1155,8 +1115,6 @@ Total size: 800 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/FMT}}
 }
 ```
-
-
 
 #### [Foodpanda](crawl/foodpanda)
 
@@ -1177,8 +1135,6 @@ Total size: 482.4 MB
 }
 ```
 
-
-
 #### [Malaysia Hansard](crawl/hansard)
 
 Parsed using Apache Tika.
@@ -1195,8 +1151,6 @@ Total size: 1.07 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hansard}}
 }
 ```
-
-
 
 #### [IIUM-Confession](crawl/iium-confession)
 
@@ -1215,8 +1169,6 @@ Total size: 130 MB
 }
 ```
 
-
-
 #### [Iproperty](crawl/iproperty)
 
 crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
@@ -1233,8 +1185,6 @@ Total size: 1329 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iproperty}}
 }
 ```
-
-
 
 #### [Klook](crawl/klook)
 
@@ -1253,8 +1203,6 @@ Total size: 10.3 MB
 }
 ```
 
-
-
 #### [majoriti.com.my](crawl/majoriti-com-my)
 
 Crawled https://majoriti.com.my/
@@ -1272,8 +1220,6 @@ Total size: 5.8 MB
 }
 ```
 
-
-
 #### [Academia PDF](crawl/pdf)
 
 Total size: 7.9 GB
@@ -1289,8 +1235,6 @@ Total size: 7.9 GB
 }
 ```
 
-
-
 #### [ticket2u](crawl/ticket2u)
 
 Contains 4282 events in Malaysia from 2017.
@@ -1305,8 +1249,6 @@ Contains 4282 events in Malaysia from 2017.
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ticket2u}}
 }
 ```
-
-
 
 #### [Wattpad](crawl/wattpad)
 
@@ -1335,8 +1277,6 @@ Total size: 97 MB
 }
 ```
 
-
-
 #### [Ipendidikan](crawl/ipendidikan)
 
 Total size: 1 MB
@@ -1352,8 +1292,6 @@ Total size: 1 MB
 }
 ```
 
-
-
 #### [karangan.net](crawl/karangan.net)
 
 Total size: 1 MB
@@ -1368,8 +1306,6 @@ Total size: 1 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/karangan.net}}
 }
 ```
-
-
 
 #### [OpenDOSM](crawl/opendosm)
 
@@ -1397,7 +1333,6 @@ Total size: 1.1 MB
 Reference: https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
 
 
-
 #### [200k English-Malay](dictionary/200k-english-malay)
 
 Total size: 6.9 MB
@@ -1412,8 +1347,6 @@ Total size: 6.9 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/200k-english-malay}}
 }
 ```
-
-
 
 #### [90k synonym](dictionary/synonym)
 
@@ -1430,8 +1363,6 @@ Total size: 4.7 MB
 }
 ```
 
-
-
 #### [Dictionary, 24550 unique words](dictionary/dictionary)
 
 Total size: 428 KB
@@ -1446,8 +1377,6 @@ Total size: 428 KB
   howpublished = {\url{https://github.com/fakhrullah/MalayLanguage}}
 }
 ```
-
-
 
 #### [Dialect](dictionary/dialect)
 
@@ -1473,8 +1402,6 @@ Glossaries for,
 }
 ```
 
-
-
 #### [Ngrams](dictionary/ngram)
 
 Total size: 92 MB
@@ -1495,8 +1422,6 @@ Unigram and Bigram collected from news, structure,
 }
 ```
 
-
-
 #### [7k antonym](dictionary/antonym)
 
 Total size: 200 KB
@@ -1511,8 +1436,6 @@ Total size: 200 KB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/antonym}}
 }
 ```
-
-
 
 #### [Cambridge English-Malaysian](dictionary/cambridge)
 
@@ -1531,8 +1454,6 @@ Total size: 20 MB
 }
 ```
 
-
-
 #### [IPA](dictionary/ipa)
 
 Mirror for https://raw.githubusercontent.com/open-dict-data/ipa-dict/master/data/ma.txt, 28k samples
@@ -1543,9 +1464,7 @@ Total size: 600 KB
 @misc{open-dict-data, title={Open-dict-data/IPA-dict: Monolingual wordlists with pronunciation information in IPA}, url={https://github.com/open-dict-data/ipa-dict}, journal={GitHub}, author={Open-Dict-Data}} 
 ```
 
-
-
-#### [Emoji](dictionary/emoji)
+#### [Emoji](dictionary/emoji) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Translated https://unicode.org/Public/emoji/15.0/emoji-test.txt
 
@@ -1562,15 +1481,11 @@ Total size: 1 MB
 }
 ```
 
-
-
 #### [Wiktionary](dictionary/wiktionary)
 
 Filtered https://en.wiktionary.org/wiki/Wiktionary:Main_Page on bahasa words.
 
 Total size: 34 MB
-
-
 
 #### [DBP](dictionary/dbp)
 
@@ -1578,11 +1493,9 @@ Crawled from https://prpm.dbp.gov.my/Cari1?keyword=
 
 Total size: 25.7 MB
 
-
-
 ## [Document Ranking](document-ranking)
 
-#### [MSMARCO](document-ranking/msmarco)
+#### [MSMARCO](document-ranking/msmarco) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1.5 GB
 
@@ -1608,8 +1521,6 @@ Total size: 1.5 GB
 }
 ```
 
-
-
 ## [Dumping](dumping)
 
 #### [Karangan sekolah](dumping/karangan-sekolah)
@@ -1627,13 +1538,9 @@ Total size: 221 KB
 }
 ```
 
-
-
 #### [Wikipedia](dumping/wikipedia)
 
 Total size: 243.2 MB, 1748387 sentences.
-
-
 
 #### [Instagram](dumping/instagram)
 
@@ -1650,8 +1557,6 @@ Total size: 418.2 MB, 695571 sentences.
 }
 ```
 
-
-
 #### [Twitter](dumping/twitter)
 
 Total size: 5.9 GB
@@ -1667,8 +1572,6 @@ Total size: 5.9 GB
 }
 ```
 
-
-
 #### [Parliament](dumping/parliament)
 
 Total size: 46.7 MB, 252095 sentences.
@@ -1683,8 +1586,6 @@ Total size: 46.7 MB, 252095 sentences.
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/parliament}}
 }
 ```
-
-
 
 #### [Singlish text](dumping/singlish-text)
 
@@ -1707,8 +1608,6 @@ Contributed by [brytjy](https://github.com/brytjy).
 }
 ```
 
-
-
 #### [Singapore news](dumping/singapore-news)
 
 Total size: 213.1 MB, 1760382 sentences.
@@ -1726,8 +1625,6 @@ Contributed by [brytjy](https://github.com/brytjy).
 }
 ```
 
-
-
 #### [Subtitle](dumping/subtitle)
 
 Total size: 1.5 MB
@@ -1742,8 +1639,6 @@ Total size: 1.5 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/subtitle}}
 }
 ```
-
-
 
 #### [Common-crawl](dumping/common-crawl)
 
@@ -1765,8 +1660,6 @@ Total cleaned (removed NSFW) text extracted size: 2.93 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singlish-text}}
 }
 ```
-
-
 
 #### [Clean](dumping/clean)
 
@@ -1802,8 +1695,6 @@ Total size: 149 MB
 }
 ```
 
-
-
 #### [IMDA](dumping/imda)
 
 Extracted from IMDA dataset, https://www.imda.gov.sg/
@@ -1820,8 +1711,6 @@ Total size: 181 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/reddit}}
 }
 ```
-
-
 
 #### [Facebook](dumping/facebook)
 
@@ -1853,27 +1742,21 @@ Total size: 13.5 MB
 }
 ```
 
-
-
 ## [Keyphrase](keyphrase)
 
-#### [kdd](keyphrase/kdd)
+#### [kdd](keyphrase/kdd) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 3 MB
 
 Originally from https://github.com/boudinfl/ake-datasets
 
-
-
-#### [WWW](keyphrase/www)
+#### [WWW](keyphrase/www) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 2.7 MB
 
 Originally from https://github.com/boudinfl/ake-datasets
 
-
-
-#### [OpenKP](keyphrase/openkp)
+#### [OpenKP](keyphrase/openkp) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1197 MB
 
@@ -1899,9 +1782,7 @@ article{DBLP:journals/corr/NguyenRSGTMD16,
 }
 ```
 
-
-
-#### [KPTimes](keyphrase/kptimes)
+#### [KPTimes](keyphrase/kptimes) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 4.3 GB
 
@@ -1914,8 +1795,6 @@ Total size: 4.3 GB
   year={2019}
 }
 ```
-
-
 
 #### [twitter bahasa](keyphrase/twitter-bahasa)
 
@@ -1932,9 +1811,7 @@ Total size: 1580 MB
 }
 ```
 
-
-
-#### [Xwikis](keyphrase/xwikis)
+#### [Xwikis](keyphrase/xwikis) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 2057 MB
 
@@ -1948,8 +1825,6 @@ Total size: 2057 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/keyphrase/xwikis}}
 }
 ```
-
-
 
 ## [Lexicon](lexicon)
 
@@ -1972,8 +1847,6 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 }
 ```
 
-
-
 #### [emotion](lexicon/emotion.json)
 
 ```python
@@ -1991,8 +1864,6 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
 }
 ```
 
-
-
 ## [News](news)
 
 #### [Fake News](news/fake-news)
@@ -2001,8 +1872,6 @@ Total size: 122.2 MB
 
 1. Negative
 2. Positive
-
-
 
 Malaysia fake news, contributed by [syazanihussin](https://github.com/syazanihussin/FLUX/tree/master/data), 
 
@@ -2037,8 +1906,6 @@ strings = [
 ]
 ```
 
-
-
 #### [Crawled News](news/news)
 
 Total size: 156 MB
@@ -2054,8 +1921,6 @@ Total size: 156 MB
 }
 ```
 
-
-
 #### [Crawled News Topics](news/news-topics)
 
 Total size: 1.2 GB
@@ -2070,8 +1935,6 @@ Total size: 1.2 GB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/news/news-new}}
 }
 ```
-
-
 
 <details><summary>Complete list (976 news)</summary>
 
@@ -3064,8 +2927,6 @@ Total size: 3.1 MB
 4. Pendidikan
 5. Sekolah
 
-
-
 #### [Headline](news/headline)
 
 Total size: 555.6 MB
@@ -3081,11 +2942,9 @@ Total size: 555.6 MB
 }
 ```
 
-
-
 ## [Natural Language Query](nlq)
 
-#### [SPIDER](nlq/spider)
+#### [SPIDER](nlq/spider) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 99.4 MB
 
@@ -3120,9 +2979,7 @@ Total size: 99.4 MB
 }
 ```
 
-
-
-#### [COSQL](nlq/cosql)
+#### [COSQL](nlq/cosql) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 105.5 MB
 
@@ -3186,9 +3043,7 @@ Total size: 105.5 MB
 }
 ```
 
-
-
-#### [SPARC](nlq/sparc)
+#### [SPARC](nlq/sparc) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 100.3 MB
 
@@ -3246,8 +3101,6 @@ Total size: 100.3 MB
 }
 ```
 
-
-
 ## [Normalization](normalization)
 
 #### [Rumi-to-Jawi](normalization/rumi-jawi)
@@ -3267,8 +3120,6 @@ Total size: 1.4 GB
 }
 ```
 
-
-
 #### [Stemmer](normalization/stemmer)
 
 Total size: 80 MB
@@ -3284,9 +3135,7 @@ Total size: 80 MB
 }
 ```
 
-
-
-#### [IIUM Confession](normalization/iium-confession)
+#### [IIUM Confession](normalization/iium-confession) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 406 MB
 
@@ -3300,8 +3149,6 @@ Total size: 406 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/normalization/iium-confession}}
 }
 ```
-
-
 
 ## [Optical Character Recognition](ocr)
 
@@ -3324,8 +3171,6 @@ Dataset is simple, malay label can get from the name [idola.png](ocr/malay-to-ja
 }
 ```
 
-
-
 #### Malay handwriting (Satisfy-Regular)
 
 Total size: 194.4 MB
@@ -3345,11 +3190,9 @@ Dataset is simple, malay label can get from the name [syarif.png](ocr/handwritin
 }
 ```
 
-
-
 ## [Paraphrase](paraphrase)
 
-#### [General](paraphrase/general)
+#### [General](paraphrase/general) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 31.0 MB
 
@@ -3380,9 +3223,7 @@ Extract from MS COCO Captions.
 }
 ```
 
-
-
-#### [Funpedia](paraphrase/funpedia)
+#### [Funpedia](paraphrase/funpedia) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 68.8 MB
 
@@ -3411,9 +3252,7 @@ Total size: 68.8 MB
 
 Reference: https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/funpedia
 
-
-
-#### [ParaSCI](paraphrase/parasci)
+#### [ParaSCI](paraphrase/parasci) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 177 MB
 
@@ -3428,9 +3267,7 @@ Total size: 177 MB
 }
 ```
 
-
-
-#### [PAWS](paraphrase/paws)
+#### [PAWS](paraphrase/paws) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 16 MB
 
@@ -3460,8 +3297,6 @@ Total size: 73.7 MB
 }
 ```
 
-
-
 #### [Semisupervised News](paraphrase/semisupervised-news)
 
 Total size: 311.3 MB
@@ -3477,8 +3312,6 @@ Total size: 311.3 MB
 }
 ```
 
-
-
 #### [Semisupervised Wikipedia](paraphrase/semisupervised-wikipedia)
 
 Total size: 233.4 MB
@@ -3493,8 +3326,6 @@ Total size: 233.4 MB
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/paraphrase/semisupervised-academia}}
 }
 ```
-
-
 
 ## [Parsing](parsing)
 
