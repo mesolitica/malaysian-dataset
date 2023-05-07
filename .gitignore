@@ -3,3 +3,9 @@
 *__pycache__
 *__MACOSX
 **._*
+crawl/lowyat/done
+crawl/lowyat/topic-*
+crawl/academia-edu/department
+crawl/academia-edu/html
+crawl/academia-edu/pdf
+crawl/academia-edu/*.zip
