@@ -9,3 +9,6 @@ crawl/academia-edu/department
 crawl/academia-edu/html
 crawl/academia-edu/pdf
 crawl/academia-edu/*.zip
+crawl/academia-edu/*.json
+crawl/academia-edu/interests/*.json
+crawl/lowyat/*/topic-*/*.json

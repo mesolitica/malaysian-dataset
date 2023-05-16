@@ -6,7 +6,7 @@ Translate using ChatGPT 3.5.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/translated-alpaca-clean/resolve/main/translated-alpaca_data_cleaned.json
+1. https://huggingface.co/datasets/mesolitica/chatgpt-alpaca-clean/resolve/main/translated-alpaca_data_cleaned.json
 
 ## Citation
 

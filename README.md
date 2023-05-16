@@ -117,6 +117,58 @@ Total size: 25.6 MB
 }
 ```
 
+#### [GPT4ALL](chatbot/gpt4all) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 1352 MB
+
+```bibtex
+@misc{gpt4all,
+  author = {Yuvanesh Anand and Zach Nussbaum and Brandon Duderstadt and Benjamin Schmidt and Andriy Mulyar},
+  title = {GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/nomic-ai/gpt4all}},
+}
+```
+
+#### [GPT4ALL-v1.3](chatbot/gpt4all-v1.3) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 1520 MB
+
+```bibtex
+@misc{gpt4all,
+  author = {Yuvanesh Anand and Zach Nussbaum and Brandon Duderstadt and Benjamin Schmidt and Andriy Mulyar},
+  title = {GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/nomic-ai/gpt4all}},
+}
+```
+
+#### [Lamini-LM](chatbot/lamini-lm) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 2710 MB
+
+```bibtex
+@article{lamini-lm,
+  author       = {Minghao Wu and
+                  Abdul Waheed and
+                  Chiyu Zhang and
+                  Muhammad Abdul-Mageed and
+                  Alham Fikri Aji
+                  },
+  title        = {LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions},
+  journal      = {CoRR},
+  volume       = {abs/2304.14402},
+  year         = {2023},
+  url          = {https://arxiv.org/abs/2304.14402},
+  eprinttype   = {arXiv},
+  eprint       = {2304.14402}
+}
+```
+
 #### [Blended Skill Talk](chatbot/blended-skill-talk) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 31.2 MB
@@ -1101,6 +1153,21 @@ Total size: 50 MB
 }
 ```
 
+#### [carigold](crawl/carigold)
+
+Total size: 578 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling carigold,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/carigold}}
+}
+```
+
 #### [FMT](crawl/fmt)
 
 Total size: 800 MB
@@ -1200,6 +1267,21 @@ Total size: 10.3 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/klook}}
+}
+```
+
+#### [Lowyat](crawl/lowyat)
+
+Total size: 1180.4 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Lowyat,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/lowyat}}
 }
 ```
 

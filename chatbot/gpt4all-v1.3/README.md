@@ -2,11 +2,11 @@
 
 Original repository, https://github.com/nomic-ai/gpt4all
 
-Translate using Translate.
+Translate using Translateer.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/translated-gpt4all-v1.3/tree/main
+1. https://huggingface.co/datasets/mesolitica/chatgpt-gpt4all-v1.3/resolve/main/translated-gpt4all-filtered-noncode.jsonl
 
 ## Citation
 

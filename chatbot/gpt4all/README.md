@@ -6,7 +6,8 @@ Translate using ChatGPT 3.5.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/translated-gpt4all/resolve/main/translated-gpt4all.json
+1. https://huggingface.co/datasets/mesolitica/chatgpt-gpt4all/resolve/main/translated-gpt4all-code.json
+2. https://huggingface.co/datasets/mesolitica/chatgpt-gpt4all/resolve/main/translated-gpt4all.json
 
 ## Citation
 

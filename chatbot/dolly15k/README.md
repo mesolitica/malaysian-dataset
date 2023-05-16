@@ -6,7 +6,7 @@ Translate using ChatGPT 3.5.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/translated-dolly15k/resolve/main/translated-dolly-15k.json
+1. https://huggingface.co/datasets/mesolitica/chatgpt-dolly15k/resolve/main/translated-dolly-15k.json
 
 ## Citation
 
