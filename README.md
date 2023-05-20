@@ -1155,7 +1155,7 @@ Total size: 50 MB
 
 #### [carigold](crawl/carigold)
 
-Total size: 578 MB
+Total size: 2277 MB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling carigold,
