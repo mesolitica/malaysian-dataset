@@ -1332,48 +1332,6 @@ Total size: 5.8 MB
 }
 ```
 
-#### [ticket2u](crawl/ticket2u)
-
-Contains 4282 events in Malaysia from 2017.
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ticket2U,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ticket2u}}
-}
-```
-
-#### [Wattpad](crawl/wattpad)
-
-Crawled using keywords,
-
-1. melayu
-2. malaysia
-3. seram
-4. hantu
-5. puisi
-6. sajak
-7. cerita
-
-Crawled up to 7k fiction stories.
-
-Total size: 97 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Wattpad,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/wattpad}}
-}
-```
-
 #### [Ipendidikan](crawl/ipendidikan)
 
 Total size: 1 MB
@@ -1416,6 +1374,63 @@ Total size: 2 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/opendosm}}
+}
+```
+
+#### [salary.sg](crawl/salary-sg)
+
+Total size: 119 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling salary.sg,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/salary.sg}}
+}
+```
+
+#### [ticket2u](crawl/ticket2u)
+
+Contains 4282 events in Malaysia from 2017.
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ticket2U,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ticket2u}}
+}
+```
+
+#### [Wattpad](crawl/wattpad)
+
+Crawled using keywords,
+
+1. melayu
+2. malaysia
+3. seram
+4. hantu
+5. puisi
+6. sajak
+7. cerita
+
+Crawled up to 7k fiction stories.
+
+Total size: 97 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Wattpad,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/wattpad}}
 }
 ```
 
