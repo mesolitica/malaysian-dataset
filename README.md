@@ -1170,7 +1170,7 @@ Total size: 50 MB
 
 #### [c.cari.com.my](crawl/c-cari-com-my)
 
-Total size: 7600 MB
+Total size: 8.12 GB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling c.cari.com.my,
@@ -1185,7 +1185,7 @@ Total size: 7600 MB
 
 #### [carigold](crawl/carigold)
 
-Total size: 6677 MB
+Total size: 6.6 GB
 
 ```bibtex
 @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling carigold,
