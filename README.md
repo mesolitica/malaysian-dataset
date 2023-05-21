@@ -1123,6 +1123,21 @@ Total size: 14 KB
 
 **The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
+#### [Academia.edu](crawl/academia-edu)
+
+Total size: 7.9 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Academia.edu,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/pdf}}
+}
+```
+
 #### [AstroAwani](crawl/astroawani)
 
 Total size: 382.65 MB
@@ -1150,6 +1165,21 @@ Total size: 50 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/bernama}}
+}
+```
+
+#### [c.cari.com.my](crawl/c-cari-com-my)
+
+Total size: 7600 MB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling c.cari.com.my,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/c.cari.com.my}}
 }
 ```
 
@@ -1299,21 +1329,6 @@ Total size: 5.8 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/majoriti-com-my}}
-}
-```
-
-#### [Academia PDF](crawl/pdf)
-
-Total size: 7.9 GB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Academia.edu,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/pdf}}
 }
 ```
 
