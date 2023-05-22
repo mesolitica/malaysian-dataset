@@ -1168,6 +1168,21 @@ Total size: 50 MB
 }
 ```
 
+#### [b.cari.com.my](crawl/b-cari-com-my)
+
+Total size: 1.62 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling b.cari.com.my,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/b.cari.com.my}}
+}
+```
+
 #### [c.cari.com.my](crawl/c-cari-com-my)
 
 Total size: 8.12 GB
@@ -1246,6 +1261,21 @@ Total size: 1.07 GB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hansard}}
+}
+```
+
+#### [hardwarezone.com.sg](crawl/hardwarezone-com-sg)
+
+Total size: 5.03 GB
+
+```bibtex
+@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling hardwarezone.com.sg,
+  author = {Husein, Zolkepli},
+  title = {Malay-Dataset},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hardwarezone.com.sg}}
 }
 ```
 
