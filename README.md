@@ -26,7 +26,7 @@ Speech dataset moved to [huseinzol05/malaya-speech/data](https://github.com/huse
 
 1. We catch most of live data from Twitter, Facebook and Instagram using crawlers, So we just search using Elasticsearch query.
 
-### EN-MS
+### Translation
 
 1. We use Google Translate.
 2. We use ChatGPT.
@@ -1127,106 +1127,29 @@ Total size: 14 KB
 
 Total size: 7.9 GB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Academia.edu,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/pdf}}
-}
-```
-
 #### [AstroAwani](crawl/astroawani)
 
 Total size: 382.65 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling AstroAwani,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/astroawani}}
-}
-```
 
 #### [Bernama](crawl/bernama)
 
 Total size: 50 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Bernama,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/bernama}}
-}
-```
-
 #### [b.cari.com.my](crawl/b-cari-com-my)
 
 Total size: 1.62 GB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling b.cari.com.my,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/b.cari.com.my}}
-}
-```
 
 #### [c.cari.com.my](crawl/c-cari-com-my)
 
 Total size: 8.12 GB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling c.cari.com.my,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/c.cari.com.my}}
-}
-```
-
 #### [carigold](crawl/carigold)
 
 Total size: 6.6 GB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling carigold,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/carigold}}
-}
-```
-
 #### [FMT](crawl/fmt)
 
 Total size: 800 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling FMT,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/FMT}}
-}
-```
 
 #### [Foodpanda](crawl/foodpanda)
 
@@ -1236,48 +1159,15 @@ Contain location, restaurant name, star rating, characteristics, delivery method
 
 Total size: 482.4 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Foodpanda,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/foodpanda}}
-}
-```
-
 #### [Malaysia Hansard](crawl/hansard)
 
 Parsed using Apache Tika.
 
 Total size: 1.07 GB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Malaysia Hansard,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hansard}}
-}
-```
-
 #### [hardwarezone.com.sg](crawl/hardwarezone-com-sg)
 
 Total size: 5.03 GB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling hardwarezone.com.sg,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hardwarezone.com.sg}}
-}
-```
 
 #### [IIUM-Confession](crawl/iium-confession)
 
@@ -1285,33 +1175,15 @@ Crawled up to 20k confession posts.
 
 Total size: 130 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling IIUM-Confession,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iium-confession}}
-}
-```
-
 #### [Iproperty](crawl/iproperty)
 
 crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
 
 Total size: 1329 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Iproperty,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iproperty}}
-}
-```
+#### [jbtalks](crawl/jbtalks)
+
+Total size: 436 MB
 
 #### [Klook](crawl/klook)
 
@@ -1319,123 +1191,41 @@ Crawled up to 200 interesting locations from MY and SG klook.
 
 Total size: 10.3 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Klook,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/klook}}
-}
-```
+#### [lom.agc.gov.my](crawl/lom-agc-gov-my)
+
+Total size: 839 MB
 
 #### [Lowyat](crawl/lowyat)
 
 Total size: 1180.4 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Lowyat,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/lowyat}}
-}
-```
-
 #### [majoriti.com.my](crawl/majoriti-com-my)
 
-Crawled https://majoriti.com.my/
-
 Total size: 5.8 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling majoriti.com.my,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/majoriti-com-my}}
-}
-```
 
 #### [Ipendidikan](crawl/ipendidikan)
 
 Total size: 1 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ipendidikan,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ipendidikan}}
-}
-```
-
 #### [karangan.net](crawl/karangan.net)
 
 Total size: 1 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling karangan.net,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/karangan.net}}
-}
-```
 
 #### [OpenDOSM](crawl/opendosm)
 
 Total size: 2 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling OpenDOSM,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/opendosm}}
-}
-```
+#### [parlimen.gov.my](crawl/parlimen-gov-my)
+
+Total size: 77 GB
 
 #### [salary.sg](crawl/salary-sg)
 
 Total size: 119 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling salary.sg,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/salary.sg}}
-}
-```
-
 #### [ticket2u](crawl/ticket2u)
 
 Contains 4282 events in Malaysia from 2017.
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ticket2U,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ticket2u}}
-}
-```
 
 #### [Wattpad](crawl/wattpad)
 
@@ -1453,17 +1243,6 @@ Crawled up to 7k fiction stories.
 
 Total size: 97 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Wattpad,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/wattpad}}
-}
-```
-
 ## [Dictionary](dictionary)
 
 **_Not an official released from Dewan Bahasa._**
@@ -1479,31 +1258,9 @@ Reference: https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ms.txt
 
 Total size: 6.9 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, 200k-English-Malay,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/200k-english-malay}}
-}
-```
-
 #### [90k synonym](dictionary/synonym)
 
 Total size: 4.7 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, 90k-Malay-Synonym,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/synonym}}
-}
-```
 
 #### [Dictionary, 24550 unique words](dictionary/dictionary)
 
@@ -1585,17 +1342,6 @@ Crawled from https://dictionary.cambridge.org/browse/english-malaysian/, 25171 e
 
 Total size: 20 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawled Cambridge English-Malaysian,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/cambrige}}
-}
-```
-
 #### [IPA](dictionary/ipa)
 
 Mirror for https://raw.githubusercontent.com/open-dict-data/ipa-dict/master/data/ma.txt, 28k samples
@@ -1611,17 +1357,6 @@ Total size: 600 KB
 Translated https://unicode.org/Public/emoji/15.0/emoji-test.txt
 
 Total size: 1 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Translated Emoji,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dictionary/emoji}}
-}
-```
 
 #### [Wiktionary](dictionary/wiktionary)
 
@@ -1669,17 +1404,6 @@ Total size: 1.5 GB
 
 Total size: 221 KB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Karangan Sekolah,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/karangan-sekolah}}
-}
-```
-
 #### [Wikipedia](dumping/wikipedia)
 
 Total size: 243.2 MB, 1748387 sentences.
@@ -1687,17 +1411,6 @@ Total size: 243.2 MB, 1748387 sentences.
 #### [Instagram](dumping/instagram)
 
 Total size: 418.2 MB, 695571 sentences.
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Instagram,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/instagram}}
-}
-```
 
 #### [Twitter](dumping/twitter)
 
@@ -1718,17 +1431,6 @@ Total size: 5.9 GB
 
 Total size: 46.7 MB, 252095 sentences.
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malaysia Parliament,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/parliament}}
-}
-```
-
 #### [Singlish text](dumping/singlish-text)
 
 Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
@@ -1737,50 +1439,17 @@ Random crawled from different singaporean websites and blogs.
 
 Total size: 1.2 GB, 19870766 sentences.
 
-Contributed by [brytjy](https://github.com/brytjy).
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Singlish Texts,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singlish-text}}
-}
-```
+Contributed by https://github.com/brytjy
 
 #### [Singapore news](dumping/singapore-news)
 
 Total size: 213.1 MB, 1760382 sentences.
 
-Contributed by [brytjy](https://github.com/brytjy).
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Singapore News,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singapore-news}}
-}
-```
+Contributed by https://github.com/brytjy
 
 #### [Subtitle](dumping/subtitle)
 
 Total size: 1.5 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay Subtitles,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/subtitle}}
-}
-```
 
 #### [Common-crawl](dumping/common-crawl)
 
@@ -1792,33 +1461,11 @@ Total website size: 9.6 GB
 
 Total cleaned (removed NSFW) text extracted size: 2.93 GB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Common Crawl,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/singlish-text}}
-}
-```
-
 #### [Clean](dumping/clean)
 
 Gathered all dumping texts and applied cleaning and filteration.
 
 Total size: 12.3 GB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Dumping Clean,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/clean}}
-}
-```
 
 #### [Reddit](dumping/reddit)
 
@@ -1826,48 +1473,15 @@ Gathered reddit posts and comments from malaysian and singaporean subreddits.
 
 Total size: 149 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Reddit,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/reddit}}
-}
-```
-
 #### [IMDA](dumping/imda)
 
 Extracted from IMDA dataset, https://www.imda.gov.sg/
 
 Total size: 181 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Reddit,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/reddit}}
-}
-```
-
 #### [Facebook](dumping/facebook)
 
 Total size: 234 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Facebook,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/facebook}}
-}
-```
 
 ## [Generative](generative)
 
@@ -1957,17 +1571,6 @@ Total size: 1580 MB
 
 Total size: 2057 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Translate keywords from Xwikis,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/keyphrase/xwikis}}
-}
-```
-
 ## [Lexicon](lexicon)
 
 Malaya provided lexicon generator to induce new lexicons, https://malaya.readthedocs.io/en/latest/Lexicon.html
@@ -2051,17 +1654,6 @@ strings = [
 #### [Crawled News](news/news)
 
 Total size: 156 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/news/news-new}}
-}
-```
 
 #### [Crawled News Topics](news/news-topics)
 
@@ -3073,17 +2665,6 @@ Total size: 3.1 MB
 
 Total size: 555.6 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malay News Headline,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/news/headline}}
-}
-```
-
 ## [Natural Language Query](nlq)
 
 #### [SPIDER](nlq/spider) <img src="https://img.shields.io/badge/translation-red.svg">
@@ -3280,17 +2861,6 @@ Total size: 80 MB
 #### [IIUM Confession](normalization/iium-confession) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 406 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, IIUM Confession abstractive normalization using Google Translate,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/normalization/iium-confession}}
-}
-```
 
 ## [Optical Character Recognition](ocr)
 
@@ -3497,46 +3067,13 @@ Total size: 57 KB
 
 Total size: 328 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Common Crawl QA,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/question-answer/chatgpt3.5-common-crawl}}
-}
-```
-
 #### [Extractive News QA](question-answer/chatgpt3.5-extractive-news)
 
 Total size: 216 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Extractive News QA,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/question-answer/chatgpt3.5-extractive-news}}
-}
-```
-
 #### [Hansard QA](question-answer/chatgpt3.5-hansard)
 
 Total size: 365 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Hansard QA,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/question-answer/chatgpt3.5-hansard}}
-}
-```
 
 #### [General](question-answer/general) <img src="https://img.shields.io/badge/translation-red.svg">
 
@@ -3977,54 +3514,15 @@ Total size: 2 MB
 
 #### [ChatGPT 3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
 
-Using ChatGPT 3.5 to translate facebook pages.
-
 Total size: 53.1 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Facebook,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-facebook}}
-}
-```
 
 #### [ChatGPT 3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
 
-Using ChatGPT 3.5 to translate IIUM Confession.
-
 Total size: 426.86 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation IIUM Confession,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-iium-confession}}
-}
-```
 
 #### [ChatGPT 3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish)
 
-Using ChatGPT 3.5 to translate Manglish.
-
 Total size: 351 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Manglish,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-manglish}}
-}
-```
 
 #### [ChatGPT 3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn)
 
@@ -4032,33 +3530,11 @@ Using ChatGPT 3.5 to translate NLLB-BJN to Malay.
 
 Total size: 210 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 NLLB Banjarese,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-nllb-bjn}}
-}
-```
-
 #### [ChatGPT 3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
 
 Using ChatGPT 3.5 to translate twitter.
 
 Total size: 16 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, ChatGPT 3.5 Noisy Translation Twitter,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/chatgpt3.5-facebook}}
-}
-```
 
 #### [EN-MS Alignment](translation/en-ms-alignment)
 
@@ -4090,33 +3566,9 @@ Malay to English.
 
 Total size: 562 KB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crowdsourcing local Malay Translations,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/iium-confession}}
-}
-```
-
-
-
 #### [Google Translate MS-EN](translation/google-translate-ms-en) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 935.3 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate MS to EN,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/malay-english}}
-}
-```
 
 #### [Opus](translation/opus)
 
@@ -4146,31 +3598,9 @@ Parsed from Malaysia parliament text, and translate to English.
 
 Total size: 47.6 MB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate Malaysia Parliament,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/malay-english}}
-}
-```
-
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
 Total size: 11.4 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Local EN to MS Subtitles,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/local-movies-subtitle}}
-}
-```
 
 #### [English News](translation/english-news) <img src="https://img.shields.io/badge/translation-red.svg">
 
@@ -4178,33 +3608,11 @@ English to Malay.
 
 Total size: 2.5 GB
 
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate EN to MS,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
-}
-```
-
 #### [Long text](translation/long-text) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Malay to English. Focused on long text translation.
 
 Total size: 1.7 GB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Google Translate EN to MS for longer texts,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/english-news}}
-}
-```
 
 #### [EN-MS Alignment](translation/en-ms-alignment)
 
