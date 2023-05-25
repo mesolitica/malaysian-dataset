@@ -1127,6 +1127,10 @@ Total size: 14 KB
 
 Total size: 7.9 GB
 
+#### [amanz.my](crawl/amanz-my)
+
+Total size: 2.39 GB
+
 #### [AstroAwani](crawl/astroawani)
 
 Total size: 382.65 MB
@@ -1146,6 +1150,10 @@ Total size: 8.12 GB
 #### [carigold](crawl/carigold)
 
 Total size: 6.6 GB
+
+#### [cn.cari.com.my](crawl/cn-cari-com-my)
+
+Total size: 4.42 GB
 
 #### [FMT](crawl/fmt)
 
