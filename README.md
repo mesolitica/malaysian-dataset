@@ -1199,6 +1199,12 @@ Crawled up to 200 interesting locations from MY and SG klook.
 
 Total size: 10.3 MB
 
+#### [Kosmo](crawl/kosmo)
+
+Added by https://github.com/tnwei, smart and handsome guy, I think he is still single, feel free to PM him.
+
+Total size: 414 MB
+
 #### [lom.agc.gov.my](crawl/lom-agc-gov-my)
 
 Total size: 839 MB
