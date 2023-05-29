@@ -1155,6 +1155,10 @@ Total size: 6.6 GB
 
 Total size: 4.42 GB
 
+#### [eprints](crawl/eprints)
+
+Total size: 412 GB
+
 #### [FMT](crawl/fmt)
 
 Total size: 800 MB
@@ -1217,6 +1221,10 @@ Total size: 1180.4 MB
 
 Total size: 5.8 MB
 
+#### [mycarforum.com](crawl/mycarforum-com)
+
+Total size: 2.02 GB
+
 #### [Ipendidikan](crawl/ipendidikan)
 
 Total size: 1 MB
@@ -1232,6 +1240,10 @@ Total size: 2 MB
 #### [parlimen.gov.my](crawl/parlimen-gov-my)
 
 Total size: 77 GB
+
+#### [perak.org](crawl/perak-org)
+
+Total size: 1.74 GB
 
 #### [salary.sg](crawl/salary-sg)
 
@@ -1428,18 +1440,7 @@ Total size: 418.2 MB, 695571 sentences.
 
 #### [Twitter](dumping/twitter)
 
-Total size: 5.9 GB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Twitter,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/twitter}}
-}
-```
+Total size: 55.9 GB
 
 #### [Parliament](dumping/parliament)
 
