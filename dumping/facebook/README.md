@@ -15,6 +15,7 @@ Crawl facebook using https://github.com/kevinzg/facebook-scraper
 9. https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/groups-1483603055330698.json
 10. https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/groups-2025865557592801.json
 11. https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/groups-392252305221999.json
+12. dedup, https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/dedup.jsonl
 
 ## Citation
 

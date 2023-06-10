@@ -1157,7 +1157,7 @@ Total size: 4.42 GB
 
 #### [eprints](crawl/eprints)
 
-Total size: 412 GB
+Total size: 456 GB
 
 #### [FMT](crawl/fmt)
 
@@ -1240,6 +1240,10 @@ Total size: 2 MB
 #### [parlimen.gov.my](crawl/parlimen-gov-my)
 
 Total size: 77 GB
+
+#### [PDFDrive](craw/pdfdrive)
+
+Total size: 2.2 GB
 
 #### [perak.org](crawl/perak-org)
 
@@ -1441,10 +1445,6 @@ Total size: 418.2 MB, 695571 sentences.
 #### [Twitter](dumping/twitter)
 
 Total size: 55.9 GB
-
-#### [Parliament](dumping/parliament)
-
-Total size: 46.7 MB, 252095 sentences.
 
 #### [Singlish text](dumping/singlish-text)
 
