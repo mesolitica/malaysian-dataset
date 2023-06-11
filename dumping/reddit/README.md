@@ -11,6 +11,7 @@ Malaysian and Singaporean subreddit.
 5. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-malaysia
 6. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-malaysians
 7. https://f000.backblazeb2.com/file/malay-dataset/dumping/reddit/r-singapore
+8. combined and dedup, https://huggingface.co/datasets/mesolitica/reddit/resolve/main/dedup.jsonl
 
 ## Citation
 
