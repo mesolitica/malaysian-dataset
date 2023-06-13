@@ -1430,41 +1430,9 @@ Total size: 1.5 GB
 
 ## [Dumping](dumping)
 
-#### [Karangan sekolah](dumping/karangan-sekolah)
+#### [CC-100](dumping/cc-100)
 
-Total size: 221 KB
-
-#### [Wikipedia](dumping/wikipedia)
-
-Total size: 243.2 MB, 1748387 sentences.
-
-#### [Instagram](dumping/instagram)
-
-Total size: 418.2 MB, 695571 sentences.
-
-#### [Twitter](dumping/twitter)
-
-Total size: 55.9 GB
-
-#### [Singlish text](dumping/singlish-text)
-
-Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
-
-Random crawled from different singaporean websites and blogs.
-
-Total size: 1.2 GB, 19870766 sentences.
-
-Contributed by https://github.com/brytjy
-
-#### [Singapore news](dumping/singapore-news)
-
-Total size: 213.1 MB, 1760382 sentences.
-
-Contributed by https://github.com/brytjy
-
-#### [Subtitle](dumping/subtitle)
-
-Total size: 1.5 MB
+Total size: 6 GB
 
 #### [Common-crawl](dumping/common-crawl)
 
@@ -1482,11 +1450,9 @@ Gathered all dumping texts and applied cleaning and filteration.
 
 Total size: 12.3 GB
 
-#### [Reddit](dumping/reddit)
+#### [Facebook](dumping/facebook)
 
-Gathered reddit posts and comments from malaysian and singaporean subreddits.
-
-Total size: 149 MB
+Total size: 234 MB
 
 #### [IMDA](dumping/imda)
 
@@ -1494,9 +1460,51 @@ Extracted from IMDA dataset, https://www.imda.gov.sg/
 
 Total size: 181 MB
 
-#### [Facebook](dumping/facebook)
+#### [Instagram](dumping/instagram)
 
-Total size: 234 MB
+Total size: 418.2 MB, 695571 sentences.
+
+#### [Karangan sekolah](dumping/karangan-sekolah)
+
+Total size: 221 KB
+
+#### NLLB(dumping/nllb)
+
+Total size: 2.49 GB
+
+#### [Reddit](dumping/reddit)
+
+Gathered reddit posts and comments from malaysian and singaporean subreddits.
+
+Total size: 149 MB
+
+#### [Singapore news](dumping/singapore-news)
+
+Total size: 213.1 MB, 1760382 sentences.
+
+Contributed by https://github.com/brytjy
+
+#### [Singlish text](dumping/singlish-text)
+
+Singlish is a mix of Chinese, Bahasa, Tamil and majority English, singaporean slang.
+
+Random crawled from different singaporean websites and blogs.
+
+Total size: 1.2 GB, 19870766 sentences.
+
+Contributed by https://github.com/brytjy
+
+#### [Subtitle](dumping/subtitle)
+
+Total size: 1.5 MB
+
+#### [Twitter](dumping/twitter)
+
+Total size: 55.9 GB
+
+#### [Wikipedia](dumping/wikipedia)
+
+Total size: 243.2 MB, 1748387 sentences.
 
 ## [Generative](generative)
 
