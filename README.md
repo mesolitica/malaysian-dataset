@@ -1177,6 +1177,12 @@ Parsed using Apache Tika.
 
 Total size: 1.07 GB
 
+#### [Harakah Daily](crawl/harakah-daily)
+
+Total size: 122 MB
+
+Contributed by https://github.com/aisyahrzk
+
 #### [hardwarezone.com.sg](crawl/hardwarezone-com-sg)
 
 Total size: 5.03 GB
@@ -1205,7 +1211,7 @@ Total size: 10.3 MB
 
 #### [Kosmo](crawl/kosmo)
 
-Added by https://github.com/tnwei, smart and handsome guy, I think he is still single, feel free to PM him.
+Contributed by https://github.com/tnwei, smart and handsome guy, I think he is still single, feel free to PM him.
 
 Total size: 414 MB
 
@@ -1256,6 +1262,12 @@ Total size: 119 MB
 #### [ticket2u](crawl/ticket2u)
 
 Contains 4282 events in Malaysia from 2017.
+
+#### [Utusan Borneo](crawl/utusan-borneo)
+
+Total size: 389 MB
+
+Contributed by https://github.com/aisyahrzk
 
 #### [Wattpad](crawl/wattpad)
 
