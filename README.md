@@ -1259,6 +1259,12 @@ Total size: 1.74 GB
 
 Total size: 119 MB
 
+#### [Sinar Harian](crawl/sinarharian)
+
+Total size: 31 MB
+
+Contributed by https://github.com/amzar96
+
 #### [ticket2u](crawl/ticket2u)
 
 Contains 4282 events in Malaysia from 2017.
