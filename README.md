@@ -1227,6 +1227,10 @@ Total size: 1180.4 MB
 
 Total size: 5.8 MB
 
+#### [Malaymail](crawl/malaymail)
+
+Total size: 1.6 GB
+
 #### [mycarforum.com](crawl/mycarforum-com)
 
 Total size: 2.02 GB
