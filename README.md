@@ -12,7 +12,7 @@
 
 ---
 
-**Malay-Dataset**, We gather Bahasa Malaysia corpus! 
+**Malay-Dataset**, We gather Malaysian corpus! 
 
 This repository to store corpus for [huseinzol05/Malaya](https://github.com/huseinzol05/Malaya).
 
