@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#readme">
-        <img alt="logo" width="50%" src="malay-dataset1.png">
+        <img alt="logo" width="50%" src="malaysian-dataset.png">
     </a>
 </p>
 <p align="center">
