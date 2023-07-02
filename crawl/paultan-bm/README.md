@@ -1,3 +1,5 @@
-## DOWNLOAD
+# paultan.org
 
-1. https://huggingface.co/datasets/farhanhelmy/paultan-bm
+## download
+
+1. BM, https://huggingface.co/datasets/farhanhelmy/paultan-bm
