@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 
 import logging
 
-logging.basicConfig(level=logging.DEBUG)
+# logging.basicConfig(level=logging.DEBUG)
 
 TIKA_HOST = 'http://localhost:9998'
 
@@ -76,6 +76,14 @@ async def get_html(filename, url):
             return
         if url.endswith('.jpeg'):
             return
+        if url.endswith('.mp3'):
+            return
+        if url.endswith('.wav'):
+            return
+        if url.endswith('.flac'):
+            return
+        if url.endswith('.mp4'):
+            return
         if url.endswith('.pdf'):
             try:
                 result = requests.get(url, timeout=10).content
@@ -117,13 +125,20 @@ files = sorted(glob('url-*.json'))
 print(files)
 directory = 'page'
 
-batch_size = 10
+batch_size = 20
 for f in files:
     t = f.replace('.json', '').replace('url-', '')
     with open(f) as fopen:
         urls = sorted(json.load(fopen))
         urls = [url.strip() for url in urls]
-    urls = sorted([u for u in urls if urlparse(u).netloc.endswith('.my')])
+    filtered_urls = []
+    for u in urls:
+        try:
+            if urlparse(u).netloc.endswith('.my'):
+                filtered_urls.append(u)
+        except Exception as e:
+            print(e)
+    urls = sorted(filtered_urls)
     urls = [(os.path.join(directory, f'{t}-{no}.json'), url) for no, url in enumerate(urls)]
     print(f)
     for i in tqdm(range(0, len(urls), batch_size)):
