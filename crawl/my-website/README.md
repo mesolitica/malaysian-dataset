@@ -21,4 +21,4 @@ This script is to fetch full page for each href.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-gov.my
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website
