@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-kakuchopurei.com/
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/kakuchopurei.com.jsonl

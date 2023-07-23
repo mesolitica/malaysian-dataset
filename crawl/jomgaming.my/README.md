@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-jomgaming.my
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/jomgaming.my.jsonl

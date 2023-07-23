@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-blogmalaysia.com
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/blogmalaysia.com.jsonl

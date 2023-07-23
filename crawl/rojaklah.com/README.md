@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-rojaklah.com
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/rojaklah.com.jsonl

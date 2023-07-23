@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-gamerbraves.com/
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/gamerbraves.com.jsonl

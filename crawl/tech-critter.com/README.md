@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-tech-critter.com
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/tech-critter.com.jsonl

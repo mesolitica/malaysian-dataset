@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-studentportal.my
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/studentportal.my.jsonl

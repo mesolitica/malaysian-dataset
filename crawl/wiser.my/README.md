@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-wiser.my
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/wiser.my.jsonl

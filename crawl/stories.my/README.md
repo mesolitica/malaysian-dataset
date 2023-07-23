@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-stories.my
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/stories.my.json

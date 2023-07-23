@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-lobakmerah.com
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/lobakmerah.com.jsonl
