@@ -4,10 +4,7 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-lowyat/resolve/main/kopitiam.json
-2. https://huggingface.co/datasets/mesolitica/crawl-lowyat/resolve/main/SeriousKopitiam.json
-3. https://huggingface.co/datasets/mesolitica/crawl-lowyat/resolve/main/PolitiKs.json
-4. https://huggingface.co/datasets/mesolitica/crawl-lowyat/resolve/main/PropertyTalk.json
+https://huggingface.co/datasets/mesolitica/crawl-lowyat
 
 ## Citation
 
