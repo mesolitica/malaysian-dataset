@@ -4,7 +4,7 @@ Generate using ChatGPT 3.5.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/msa-common-crawl-qa/blob/main/common-crawl-qa.json
+1. https://huggingface.co/datasets/mesolitica/chatgpt-msa-common-crawl-qa/resolve/main/common-crawl-qa.json
 
 ## Citation
 

@@ -4,7 +4,7 @@ Generate using ChatGPT 3.5.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/malaysia-hansard-qa/resolve/main/hansard-qa.json
+1. https://huggingface.co/datasets/mesolitica/chatgpt-malaysia-hansard-qa/resolve/main/hansard-qa.json
 
 ## Citation
 
