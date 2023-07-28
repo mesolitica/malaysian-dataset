@@ -15,6 +15,7 @@
 9. https://huggingface.co/datasets/mesolitica/eprints-uum, 8.7GB
 10. https://huggingface.co/datasets/mesolitica/eprints-others, 1.1GB
 11. extract and dedup, https://huggingface.co/datasets/mesolitica/pdf-text-dedup/resolve/main/eprints-dedup.jsonl
+12. postfilter dedup, https://huggingface.co/datasets/mesolitica/pdf-text-dedup/resolve/main/filtered-eprints-dedup.jsonl
 
 ## Citation
 
