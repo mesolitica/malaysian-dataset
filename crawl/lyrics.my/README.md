@@ -1,4 +1,4 @@
-# Sinar Harian
+# Lyrics.my
 
 Crawl from https://www.lyrics.my/
 
