@@ -48,6 +48,24 @@ Data tagged using this <img src="https://img.shields.io/badge/translation-red.sv
 
 Data tagged using this <img src="https://img.shields.io/badge/LLM-red.svg"> is generated from LLM.
 
+## Projects
+
+1. [Prepare LLM dataset](https://github.com/users/huseinzol05/projects/1).
+
+To gather at least 100B tokens of Malaysian texts.
+
+2. [Prepare malay LLM benchmark dataset](https://github.com/users/huseinzol05/projects/6).
+
+Gather PT3 and SPM level benchmark for LLM. Minimum 50 questions for each benchmark dataset.
+
+3. [Semisupervised malay clean speakers](https://github.com/users/huseinzol05/projects/5).
+
+To gather multispeaker voices for TTS task.
+
+4. [Multilang STT dataset](https://github.com/users/huseinzol05/projects/2).
+
+To gather mixed speech semisupervised using Large model STT.
+
 ## Notes
 
 1. Any missing `mp.py`, get it at https://gist.github.com/huseinzol05/98974ae8c6c7a65d4bc0af9f5003786a
@@ -1312,7 +1330,7 @@ Total size: 418.2 MB, 695571 sentences.
 
 Total size: 221 KB
 
-#### NLLB(dumping/nllb)
+#### [NLLB](dumping/nllb)
 
 Total size: 2.49 GB
 
