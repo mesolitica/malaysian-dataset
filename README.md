@@ -70,9 +70,7 @@ Thanks to [Im Big](https://www.facebook.com/imbigofficial/), [LigBlou](https://w
 
 ## [Chatbot](chatbot)
 
-#### [Alpaca](chatbot/alpaca)
-
-<img src="https://img.shields.io/badge/translation-red.svg">
+#### [Alpaca](chatbot/alpaca) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 44 MB
 
@@ -3387,29 +3385,29 @@ Total size: 2 MB
 
 ## [Translation](translation)
 
-#### [ChatGPT3.5 c.cari.com.my](translation/chatgpt3.5-c.cari.com.my)
+#### [ChatGPT3.5 c.cari.com.my](translation/chatgpt3.5-c.cari.com.my) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 750 MB
 
-#### [ChatGPT3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
+#### [ChatGPT3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 53.1 MB
 
-#### [ChatGPT3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
+#### [ChatGPT3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 426.86 MB
 
-#### [ChatGPT3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish)
+#### [ChatGPT3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 351 MB
 
-#### [ChatGPT3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn)
+#### [ChatGPT3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Using ChatGPT3.5 to translate NLLB-BJN to Malay.
 
 Total size: 210 MB
 
-#### [ChatGPT3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
+#### [ChatGPT3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Using ChatGPT3.5 to translate twitter.
 
