@@ -1119,182 +1119,6 @@ List of stopwords in JSON. To get latest stopwords, get it at https://github.com
 
 Total size: 14 KB
 
-## [Crawl](crawl)
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-#### [Academia.edu](crawl/academia-edu)
-
-Total size: 7.9 GB
-
-#### [amanz.my](crawl/amanz-my)
-
-Total size: 2.39 GB
-
-#### [AstroAwani](crawl/astroawani)
-
-Total size: 382.65 MB
-
-#### [Bernama](crawl/bernama)
-
-Total size: 50 MB
-
-#### [b.cari.com.my](crawl/b-cari-com-my)
-
-Total size: 1.62 GB
-
-#### [c.cari.com.my](crawl/c-cari-com-my)
-
-Total size: 8.12 GB
-
-#### [carigold](crawl/carigold)
-
-Total size: 6.6 GB
-
-#### [cn.cari.com.my](crawl/cn-cari-com-my)
-
-Total size: 4.42 GB
-
-#### [eprints](crawl/eprints)
-
-Total size: 456 GB
-
-#### [FMT](crawl/fmt)
-
-Total size: 800 MB
-
-#### [Foodpanda](crawl/foodpanda)
-
-Crawled up to 9547 restaurants registered in https://www.foodpanda.my/.
-
-Contain location, restaurant name, star rating, characteristics, delivery methods, food descriptions and so much more.
-
-Total size: 482.4 MB
-
-#### [Malaysia Hansard](crawl/hansard)
-
-Parsed using Apache Tika.
-
-Total size: 1.07 GB
-
-#### [Harakah Daily](crawl/harakah-daily)
-
-Total size: 122 MB
-
-Contributed by https://github.com/aisyahrzk
-
-#### [hardwarezone.com.sg](crawl/hardwarezone-com-sg)
-
-Total size: 5.03 GB
-
-#### [IIUM-Confession](crawl/iium-confession)
-
-Crawled up to 20k confession posts.
-
-Total size: 130 MB
-
-#### [Iproperty](crawl/iproperty)
-
-crawled up to 16 states on sales residential, sales commercial, rent residential, rent commercial.
-
-Total size: 1329 MB
-
-#### [jbtalks](crawl/jbtalks)
-
-Total size: 436 MB
-
-#### [Klook](crawl/klook)
-
-Crawled up to 200 interesting locations from MY and SG klook.
-
-Total size: 10.3 MB
-
-#### [Kosmo](crawl/kosmo)
-
-Contributed by https://github.com/tnwei, smart and handsome guy, I think he is still single, feel free to PM him.
-
-Total size: 414 MB
-
-#### [lom.agc.gov.my](crawl/lom-agc-gov-my)
-
-Total size: 839 MB
-
-#### [Lowyat](crawl/lowyat)
-
-Total size: 1180.4 MB
-
-#### [majoriti.com.my](crawl/majoriti-com-my)
-
-Total size: 5.8 MB
-
-#### [Malaymail](crawl/malaymail)
-
-Total size: 1.6 GB
-
-#### [mycarforum.com](crawl/mycarforum-com)
-
-Total size: 2.02 GB
-
-#### [Ipendidikan](crawl/ipendidikan)
-
-Total size: 1 MB
-
-#### [karangan.net](crawl/karangan.net)
-
-Total size: 1 MB
-
-#### [OpenDOSM](crawl/opendosm)
-
-Total size: 2 MB
-
-#### [parlimen.gov.my](crawl/parlimen-gov-my)
-
-Total size: 77 GB
-
-#### [PDFDrive](craw/pdfdrive)
-
-Total size: 2.2 GB
-
-#### [perak.org](crawl/perak-org)
-
-Total size: 1.74 GB
-
-#### [salary.sg](crawl/salary-sg)
-
-Total size: 119 MB
-
-#### [Sinar Harian](crawl/sinarharian)
-
-Total size: 31 MB
-
-Contributed by https://github.com/amzar96
-
-#### [ticket2u](crawl/ticket2u)
-
-Contains 4282 events in Malaysia from 2017.
-
-#### [Utusan Borneo](crawl/utusan-borneo)
-
-Total size: 389 MB
-
-Contributed by https://github.com/aisyahrzk
-
-#### [Wattpad](crawl/wattpad)
-
-Crawled using keywords,
-
-1. melayu
-2. malaysia
-3. seram
-4. hantu
-5. puisi
-6. sajak
-7. cerita
-
-Crawled up to 7k fiction stories.
-
-Total size: 97 MB
-
 ## [Dictionary](dictionary)
 
 **_Not an official released from Dewan Bahasa._**
@@ -1653,6 +1477,12 @@ Malaya provided lexicon generator to induce new lexicons, https://malaya.readthe
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/lexicon}}
 }
 ```
+
+## [LLM](llm)
+
+#### [Instruction tasks](llm/instruction)
+
+Preparation instruction tasks for Malay LLM, finetuning script at https://github.com/huseinzol05/malaya/tree/5.1/session/llama2
 
 ## [News](news)
 
@@ -3557,27 +3387,31 @@ Total size: 2 MB
 
 ## [Translation](translation)
 
-#### [ChatGPT 3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
+#### [ChatGPT3.5 c.cari.com.my](translation/chatgpt3.5-c.cari.com.my)
+
+Total size: 750 MB
+
+#### [ChatGPT3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook)
 
 Total size: 53.1 MB
 
-#### [ChatGPT 3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
+#### [ChatGPT3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession)
 
 Total size: 426.86 MB
 
-#### [ChatGPT 3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish)
+#### [ChatGPT3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish)
 
 Total size: 351 MB
 
-#### [ChatGPT 3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn)
+#### [ChatGPT3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn)
 
-Using ChatGPT 3.5 to translate NLLB-BJN to Malay.
+Using ChatGPT3.5 to translate NLLB-BJN to Malay.
 
 Total size: 210 MB
 
-#### [ChatGPT 3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
+#### [ChatGPT3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter)
 
-Using ChatGPT 3.5 to translate twitter.
+Using ChatGPT3.5 to translate twitter.
 
 Total size: 16 MB
 
