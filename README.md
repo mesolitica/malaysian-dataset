@@ -2936,15 +2936,15 @@ Total size: 57 KB
 
 ## [Question-Answer](question-answer)
 
-#### [Common Crawl QA](question-answer/chatgpt3.5-common-crawl)
+#### [Common Crawl QA](question-answer/chatgpt3.5-common-crawl) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 328 MB
 
-#### [Extractive News QA](question-answer/chatgpt3.5-extractive-news)
+#### [Extractive News QA](question-answer/chatgpt3.5-extractive-news) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 216 MB
 
-#### [Hansard QA](question-answer/chatgpt3.5-hansard)
+#### [Hansard QA](question-answer/chatgpt3.5-hansard) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 365 MB
 
