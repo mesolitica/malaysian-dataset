@@ -9,6 +9,10 @@
 * [x] Artikel muka 1-10
 * [x] Artikel muka 11-20
 * [x] Artikel muka 21-30
-* [ ] Artikel muka 31-40
-* [ ] Artikel muka 41-50
-* ...
+* [x] Artikel muka 31-40
+* [x] Artikel muka 41-50
+* [ ] Artikel muka 51-60
+* [ ] Artikel muka 61-70
+* [ ] Artikel muka 71-80
+* [ ] Artikel muka 81-90
+* [ ] Artikel muka 91-100
