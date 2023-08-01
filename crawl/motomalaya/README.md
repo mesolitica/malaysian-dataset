@@ -11,8 +11,8 @@
 * [x] Artikel muka 21-30
 * [x] Artikel muka 31-40
 * [x] Artikel muka 41-50
-* [ ] Artikel muka 51-60
-* [ ] Artikel muka 61-70
-* [ ] Artikel muka 71-80
-* [ ] Artikel muka 81-90
-* [ ] Artikel muka 91-100
+* [x] Artikel muka 51-60
+* [x] Artikel muka 61-70
+* [x] Artikel muka 71-80
+* [x] Artikel muka 81-90
+* [x] Artikel muka 91-100
