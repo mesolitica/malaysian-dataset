@@ -2,8 +2,8 @@
 
 * Laman sesawang: [motor-malaya](https://motomalaya.net/blog/)
 * Jumlah muka laman: 943
-* Jumlah muka laman dikikis: 200 
-* Baki muka laman: 743
+* Jumlah muka laman dikikis: 943
+* Baki muka laman: 0
 * Jumlah artikel (dengan julat 12 artikel setiap muka laman): 11,000
 
 # Progres
@@ -19,3 +19,9 @@
 * [x] Artikel muka 81-90
 * [x] Artikel muka 91-100
 * [x] Artikel muka 100-200
+* [x] Artikel muka 200-300
+* [x] Artikel muka 300-400
+* [x] Artikel muka 500-700
+* [x] Artikel muka 700-943
+# Status
+* Selesai
