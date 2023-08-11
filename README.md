@@ -103,6 +103,10 @@ Total size: 44 MB
 }
 ```
 
+#### [Code Instructions](chatbot/code-instructions) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 91.9 MB
+
 #### [GPT4ALL](chatbot/gpt4all) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 1020 MB
@@ -182,6 +186,35 @@ Total size: 2710 MB
   url          = {https://arxiv.org/abs/2304.14402},
   eprinttype   = {arXiv},
   eprint       = {2304.14402}
+}
+```
+
+#### [NSText2SQL](chatbot/NSText2SQL) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 532 MB
+
+```bibtex
+@software{numbersstation2023NSText2SQL,
+  author    = {Numbers Station Labs},
+  title     = {NSText2SQL: An Open Source Text-to-SQL Dataset for Foundation Model Training},
+  month     = {July},
+  year      = {2023},
+  url       = {https://github.com/NumbersStationAI/NSQL},
+}
+```
+
+#### [OpenOrca](chatbot/openorca) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 1.5 GB
+
+```bibtex
+@misc{mukherjee2023orca,
+      title={Orca: Progressive Learning from Complex Explanation Traces of GPT-4}, 
+      author={Subhabrata Mukherjee and Arindam Mitra and Ganesh Jawahar and Sahaj Agarwal and Hamid Palangi and Ahmed Awadallah},
+      year={2023},
+      eprint={2306.02707},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
