@@ -22,3 +22,4 @@ This script is to fetch full page for each href.
 ## download
 
 1. https://huggingface.co/datasets/mesolitica/crawl-my-website
+2. dedup based on 428982 URLs, https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/snapshot.jsonl

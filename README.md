@@ -103,6 +103,10 @@ Total size: 44 MB
 }
 ```
 
+#### [Code context](chatbot/code-code-context) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 61.3 MB
+
 #### [Code Instructions](chatbot/code-instructions) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 91.9 MB
@@ -200,6 +204,50 @@ Total size: 532 MB
   month     = {July},
   year      = {2023},
   url       = {https://github.com/NumbersStationAI/NSQL},
+}
+```
+
+#### [NSText2SQL](chatbot/NSText2SQL) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 532 MB
+
+```bibtex
+@software{numbersstation2023NSText2SQL,
+  author    = {Numbers Station Labs},
+  title     = {NSText2SQL: An Open Source Text-to-SQL Dataset for Foundation Model Training},
+  month     = {July},
+  year      = {2023},
+  url       = {https://github.com/NumbersStationAI/NSQL},
+}
+```
+
+#### [oasst1](chatbot/oasst1) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 65.4 MB
+
+```bibtex
+@misc{köpf2023openassistant,
+      title={OpenAssistant Conversations -- Democratizing Large Language Model Alignment}, 
+      author={Andreas Köpf and Yannic Kilcher and Dimitri von Rütte and Sotiris Anagnostidis and Zhi-Rui Tam and Keith Stevens and Abdullah Barhoum and Nguyen Minh Duc and Oliver Stanley and Richárd Nagyfi and Shahul ES and Sameer Suri and David Glushkov and Arnav Dantuluri and Andrew Maguire and Christoph Schuhmann and Huu Nguyen and Alexander Mattick},
+      year={2023},
+      eprint={2304.07327},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+#### [OIG](chatbot/OIG) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 1264 MB
+
+```bibtex
+@misc{köpf2023openassistant,
+      title={OpenAssistant Conversations -- Democratizing Large Language Model Alignment}, 
+      author={Andreas Köpf and Yannic Kilcher and Dimitri von Rütte and Sotiris Anagnostidis and Zhi-Rui Tam and Keith Stevens and Abdullah Barhoum and Nguyen Minh Duc and Oliver Stanley and Richárd Nagyfi and Shahul ES and Sameer Suri and David Glushkov and Arnav Dantuluri and Andrew Maguire and Christoph Schuhmann and Huu Nguyen and Alexander Mattick},
+      year={2023},
+      eprint={2304.07327},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
@@ -3436,31 +3484,31 @@ Total size: 2 MB
 
 ## [Translation](translation)
 
+#### [ChatGPT3.5 b.cari.com.my](translation/chatgpt3.5-b.cari.com.my) <img src="https://img.shields.io/badge/LLM-red.svg">
+
+Total size: 750 MB
+
 #### [ChatGPT3.5 c.cari.com.my](translation/chatgpt3.5-c.cari.com.my) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 750 MB
 
-#### [ChatGPT3.5 Noisy Translation Facebook](translation/chatgpt3.5-facebook) <img src="https://img.shields.io/badge/LLM-red.svg">
+#### [ChatGPT3.5 Facebook](translation/chatgpt3.5-facebook) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 53.1 MB
 
-#### [ChatGPT3.5 Noisy Translation IIUM Confession](translation/chatgpt3.5-iium-confession) <img src="https://img.shields.io/badge/LLM-red.svg">
+#### [ChatGPT3.5 IIUM Confession](translation/chatgpt3.5-iium-confession) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 426.86 MB
 
-#### [ChatGPT3.5 Noisy Translation Manglish](translation/chatgpt3.5-manglish) <img src="https://img.shields.io/badge/LLM-red.svg">
+#### [ChatGPT3.5 Manglish](translation/chatgpt3.5-manglish) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 351 MB
 
 #### [ChatGPT3.5 NLLB-BJN](translation/chatgpt3.5-nllb-bjn) <img src="https://img.shields.io/badge/LLM-red.svg">
 
-Using ChatGPT3.5 to translate NLLB-BJN to Malay.
-
 Total size: 210 MB
 
-#### [ChatGPT3.5 Noisy Translation Twitter](translation/chatgpt3.5-twitter) <img src="https://img.shields.io/badge/LLM-red.svg">
-
-Using ChatGPT3.5 to translate twitter.
+#### [ChatGPT3.5 Twitter](translation/chatgpt3.5-twitter) <img src="https://img.shields.io/badge/LLM-red.svg">
 
 Total size: 16 MB
 
