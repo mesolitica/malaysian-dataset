@@ -1,4 +1,4 @@
-# Twitter
+# Google Translate MS-JW
 
 Translate using https://github.com/Songkeys/Translateer
 
