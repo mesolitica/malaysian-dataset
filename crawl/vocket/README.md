@@ -2,4 +2,4 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-vocket
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/vocket.jsonl
