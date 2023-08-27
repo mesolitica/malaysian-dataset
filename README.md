@@ -3461,7 +3461,7 @@ Total size: 2 MB
 
 #### [ChatGPT3.5 b.cari.com.my](translation/chatgpt3.5-b.cari.com.my) <img src="https://img.shields.io/badge/LLM-red.svg">
 
-Total size: 750 MB
+Total size: 392.8 MB
 
 #### [ChatGPT3.5 c.cari.com.my](translation/chatgpt3.5-c.cari.com.my) <img src="https://img.shields.io/badge/LLM-red.svg">
 
@@ -3511,76 +3511,57 @@ Total size: 6.1 GB
 }
 ```
 
+#### [Google Translate english news](translation/google-translate-english-news) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 1024 MB
+
+#### [Google Translate filtered common crawl](translation/google-translate-filtered-common-crawl) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 420 MB
+
+#### [Google Translate hansard](translation/google-translate-hansard) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 1286 MB
+
+#### [Google Translate malay news](translation/google-translate-malay-news) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 770 MB
+
+#### [Google Translate malaysian PDF](translation/google-translate-malaysian-pdf) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 498.9 MB
+
+#### [Google Translate MS-ID](translation/google-translate-ms-id) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 871 MB
+
+#### [Google Translate MS-JW](translation/google-translate-ms-jw) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 561 MB
+
+#### [Google Translate MS-PA](translation/google-translate-ms-pa) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 848 MB
+
+#### [Google Translate MS-TA](translation/google-translate-ms-ta) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 920 MB
+
 #### [IIUM-Confession](translation/iium-confession)
 
 Malay to English.
 
 Total size: 562 KB
 
-#### [Google Translate MS-EN](translation/google-translate-ms-en) <img src="https://img.shields.io/badge/translation-red.svg">
-
-Total size: 935.3 MB
-
-#### [Opus](translation/opus)
-
-Parsed from http://opus.nlpl.eu/, ms (Malay) -> en (English)
-
-Total size: 262.6 MB
-
-```bibtex
-@InProceedings{TIEDEMANN12.463,
-  author = {Jörg Tiedemann},
-  title = {Parallel Data, Tools and Interfaces in OPUS},
-  booktitle = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
-  year = {2012},
-  month = {may},
-  date = {23-25},
-  address = {Istanbul, Turkey},
-  editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Ugur Dogan and Bente Maegaard and Joseph Mariani and Jan Odijk and Stelios Piperidis},
-  publisher = {European Language Resources Association (ELRA)},
-  isbn = {978-2-9517408-7-7},
-  language = {english}
- }
-```
-
-#### [Parliament](translation/parliament) <img src="https://img.shields.io/badge/translation-red.svg">
-
-Parsed from Malaysia parliament text, and translate to English.
-
-Total size: 47.6 MB
-
 #### [Local Movies Subtitles](translation/local-movies-subtitle)
 
 Total size: 11.4 MB
-
-#### [English News](translation/english-news) <img src="https://img.shields.io/badge/translation-red.svg">
-
-English to Malay.
-
-Total size: 2.5 GB
 
 #### [Long text](translation/long-text) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Malay to English. Focused on long text translation.
 
 Total size: 1.7 GB
-
-#### [EN-MS Alignment](translation/en-ms-alignment)
-
-EN-MS Alignment using using [eflomal](https://github.com/robertostling/eflomal).
-
-Total size: 300 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Alignment EN-MS,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/en-ms-alignment}}
-}
-```
 
 #### [MS-EN Alignment](translation/ms-en-alignment)
 
@@ -3596,40 +3577,6 @@ Total size: 300 MB
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/ms-en-alignment}}
-}
-```
-
-#### [Noisy MS-EN Augmentation](translation/noisy-ms-en-augmentation)
-
-Augment using social media lexicon and english replacement using word alignment.
-
-Total size: 721 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Noisy MS-EN Augmentation,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-ms-en-augmentation}}
-}
-```
-
-#### [Noisy EN-MS Augmentation](translation/noisy-en-ms-augmentation)
-
-Augment using social media lexicon and english replacement using word alignment.
-
-Total size: 433.4 MB
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Noisy EN-MS Augmentation,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/noisy-en-ms-augmentation}}
 }
 ```
 
@@ -3657,28 +3604,26 @@ Total size: 2065 MB
 }
 ```
 
-#### [NLLB-MS-JAV](translation/nllb-ms-jav)
+#### [Opus](translation/opus)
 
-Total size: 1165.92 MB
+Parsed from http://opus.nlpl.eu/, ms (Malay) -> en (English)
+
+Total size: 262.6 MB
 
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2207.04672,
-  doi = {10.48550/ARXIV.2207.04672},
-  
-  url = {https://arxiv.org/abs/2207.04672},
-  
-  author = {{NLLB Team} and Costa-jussà, Marta R. and Cross, James and Çelebi, Onur and Elbayad, Maha and Heafield, Kenneth and Heffernan, Kevin and Kalbassi, Elahe and Lam, Janice and Licht, Daniel and Maillard, Jean and Sun, Anna and Wang, Skyler and Wenzek, Guillaume and Youngblood, Al and Akula, Bapi and Barrault, Loic and Gonzalez, Gabriel Mejia and Hansanti, Prangthip and Hoffman, John and Jarrett, Semarley and Sadagopan, Kaushik Ram and Rowe, Dirk and Spruit, Shannon and Tran, Chau and Andrews, Pierre and Ayan, Necip Fazil and Bhosale, Shruti and Edunov, Sergey and Fan, Angela and Gao, Cynthia and Goswami, Vedanuj and Guzmán, Francisco and Koehn, Philipp and Mourachko, Alexandre and Ropers, Christophe and Saleem, Safiyyah and Schwenk, Holger and Wang, Jeff},
-  
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.7, 68T50},
-  
-  title = {No Language Left Behind: Scaling Human-Centered Machine Translation},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution Share Alike 4.0 International}
-}
+@InProceedings{TIEDEMANN12.463,
+  author = {Jörg Tiedemann},
+  title = {Parallel Data, Tools and Interfaces in OPUS},
+  booktitle = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
+  year = {2012},
+  month = {may},
+  date = {23-25},
+  address = {Istanbul, Turkey},
+  editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Ugur Dogan and Bente Maegaard and Joseph Mariani and Jan Odijk and Stelios Piperidis},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn = {978-2-9517408-7-7},
+  language = {english}
+ }
 ```
 
 ## True Case

@@ -1,4 +1,4 @@
-# ChatGPT 3.5 Noisy Translation c.cari.com.my
+# ChatGPT 3.5 Noisy Translation b.cari.com.my
 
 ## download
 
