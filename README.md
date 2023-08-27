@@ -103,6 +103,31 @@ Total size: 44 MB
 }
 ```
 
+#### [Blended Skill Talk](chatbot/blended-skill-talk) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 31.2 MB
+
+```bibtex
+@article{DBLP:journals/corr/abs-2004-08449,
+  author    = {Eric Michael Smith and
+               Mary Williamson and
+               Kurt Shuster and
+               Jason Weston and
+               Y{-}Lan Boureau},
+  title     = {Can You Put it All Together: Evaluating Conversational Agents' Ability
+               to Blend Skills},
+  journal   = {CoRR},
+  volume    = {abs/2004.08449},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.08449},
+  archivePrefix = {arXiv},
+  eprint    = {2004.08449},
+  timestamp = {Sat, 23 Jan 2021 01:20:50 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-08449.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 #### [Code context](chatbot/code-code-context) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 61.3 MB
@@ -111,18 +136,68 @@ Total size: 61.3 MB
 
 Total size: 91.9 MB
 
-#### [GPT4ALL](chatbot/gpt4all) <img src="https://img.shields.io/badge/translation-red.svg">
+#### [ConvAI2](chatbot/convai2) <img src="https://img.shields.io/badge/translation-red.svg">
 
-Total size: 1020 MB
+Total size: 127.9 MB
 
 ```bibtex
-@misc{gpt4all,
-  author = {Yuvanesh Anand and Zach Nussbaum and Brandon Duderstadt and Benjamin Schmidt and Andriy Mulyar},
-  title = {GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/nomic-ai/gpt4all}},
+@article{DBLP:journals/corr/abs-1902-00098,
+  author    = {Emily Dinan and
+               Varvara Logacheva and
+               Valentin Malykh and
+               Alexander H. Miller and
+               Kurt Shuster and
+               Jack Urbanek and
+               Douwe Kiela and
+               Arthur Szlam and
+               Iulian Serban and
+               Ryan Lowe and
+               Shrimai Prabhumoye and
+               Alan W. Black and
+               Alexander I. Rudnicky and
+               Jason Williams and
+               Joelle Pineau and
+               Mikhail S. Burtsev and
+               Jason Weston},
+  title     = {The Second Conversational Intelligence Challenge (ConvAI2)},
+  journal   = {CoRR},
+  volume    = {abs/1902.00098},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1902.00098},
+  archivePrefix = {arXiv},
+  eprint    = {1902.00098},
+  timestamp = {Sat, 23 Jan 2021 01:11:58 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-00098.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+#### [DialoGPT](chatbot/dialogpt) <img src="https://img.shields.io/badge/translation-red.svg">
+
+Total size: 5.6 GB
+
+```bibtex
+@article{DBLP:journals/corr/abs-1911-00536,
+  author    = {Yizhe Zhang and
+               Siqi Sun and
+               Michel Galley and
+               Yen{-}Chun Chen and
+               Chris Brockett and
+               Xiang Gao and
+               Jianfeng Gao and
+               Jingjing Liu and
+               Bill Dolan},
+  title     = {DialoGPT: Large-Scale Generative Pre-training for Conversational Response
+               Generation},
+  journal   = {CoRR},
+  volume    = {abs/1911.00536},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1911.00536},
+  archivePrefix = {arXiv},
+  eprint    = {1911.00536},
+  timestamp = {Tue, 05 Jan 2021 15:06:52 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-00536.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
@@ -207,20 +282,6 @@ Total size: 532 MB
 }
 ```
 
-#### [NSText2SQL](chatbot/NSText2SQL) <img src="https://img.shields.io/badge/translation-red.svg">
-
-Total size: 532 MB
-
-```bibtex
-@software{numbersstation2023NSText2SQL,
-  author    = {Numbers Station Labs},
-  title     = {NSText2SQL: An Open Source Text-to-SQL Dataset for Foundation Model Training},
-  month     = {July},
-  year      = {2023},
-  url       = {https://github.com/NumbersStationAI/NSQL},
-}
-```
-
 #### [oasst1](chatbot/oasst1) <img src="https://img.shields.io/badge/translation-red.svg">
 
 Total size: 65.4 MB
@@ -266,64 +327,19 @@ Total size: 1.5 GB
 }
 ```
 
-#### [Blended Skill Talk](chatbot/blended-skill-talk) <img src="https://img.shields.io/badge/translation-red.svg">
+#### [ShareGPT](chatbot/sharegpt) <img src="https://img.shields.io/badge/translation-red.svg">
 
-Total size: 31.2 MB
+Total size: 2.15 GB
 
-```bibtex
-@article{DBLP:journals/corr/abs-2004-08449,
-  author    = {Eric Michael Smith and
-               Mary Williamson and
-               Kurt Shuster and
-               Jason Weston and
-               Y{-}Lan Boureau},
-  title     = {Can You Put it All Together: Evaluating Conversational Agents' Ability
-               to Blend Skills},
-  journal   = {CoRR},
-  volume    = {abs/2004.08449},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2004.08449},
-  archivePrefix = {arXiv},
-  eprint    = {2004.08449},
-  timestamp = {Sat, 23 Jan 2021 01:20:50 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-08449.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
+#### [Taskmaster](chatbot/taskmaster) <img src="https://img.shields.io/badge/translation-red.svg">
 
-#### [ConvAI2](chatbot/convai2) <img src="https://img.shields.io/badge/translation-red.svg">
-
-Total size: 127.9 MB
+Total size: 94 MB
 
 ```bibtex
-@article{DBLP:journals/corr/abs-1902-00098,
-  author    = {Emily Dinan and
-               Varvara Logacheva and
-               Valentin Malykh and
-               Alexander H. Miller and
-               Kurt Shuster and
-               Jack Urbanek and
-               Douwe Kiela and
-               Arthur Szlam and
-               Iulian Serban and
-               Ryan Lowe and
-               Shrimai Prabhumoye and
-               Alan W. Black and
-               Alexander I. Rudnicky and
-               Jason Williams and
-               Joelle Pineau and
-               Mikhail S. Burtsev and
-               Jason Weston},
-  title     = {The Second Conversational Intelligence Challenge (ConvAI2)},
-  journal   = {CoRR},
-  volume    = {abs/1902.00098},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1902.00098},
-  archivePrefix = {arXiv},
-  eprint    = {1902.00098},
-  timestamp = {Sat, 23 Jan 2021 01:11:58 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-00098.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{48484,
+title	= {Taskmaster-1: Toward a Realistic and Diverse Dialog Dataset},
+author	= {Bill Byrne and Karthik Krishnamoorthi and Chinnadhurai Sankar and Arvind Neelakantan and Daniel Duckworth and Semih Yavuz and Ben Goodrich and Amit Dubey and Kyu-Young Kim and Andy Cedilnik},
+year	= {2019}
 }
 ```
 
@@ -349,47 +365,6 @@ Total size: 275.0 MB
   timestamp = {Sat, 23 Jan 2021 01:19:39 +0100},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1811-01241.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
-
-#### [DialoGPT](chatbot/dialogpt) <img src="https://img.shields.io/badge/translation-red.svg">
-
-Total size: 5.6 GB
-
-```bibtex
-@article{DBLP:journals/corr/abs-1911-00536,
-  author    = {Yizhe Zhang and
-               Siqi Sun and
-               Michel Galley and
-               Yen{-}Chun Chen and
-               Chris Brockett and
-               Xiang Gao and
-               Jianfeng Gao and
-               Jingjing Liu and
-               Bill Dolan},
-  title     = {DialoGPT: Large-Scale Generative Pre-training for Conversational Response
-               Generation},
-  journal   = {CoRR},
-  volume    = {abs/1911.00536},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1911.00536},
-  archivePrefix = {arXiv},
-  eprint    = {1911.00536},
-  timestamp = {Tue, 05 Jan 2021 15:06:52 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-00536.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
-
-#### [Taskmaster](chatbot/taskmaster) <img src="https://img.shields.io/badge/translation-red.svg">
-
-Total size: 94 MB
-
-```bibtex
-@inproceedings{48484,
-title	= {Taskmaster-1: Toward a Realistic and Diverse Dialog Dataset},
-author	= {Bill Byrne and Karthik Krishnamoorthi and Chinnadhurai Sankar and Arvind Neelakantan and Daniel Duckworth and Semih Yavuz and Ben Goodrich and Amit Dubey and Kyu-Young Kim and Andy Cedilnik},
-year	= {2019}
 }
 ```
 
