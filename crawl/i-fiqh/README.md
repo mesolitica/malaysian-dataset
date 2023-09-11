@@ -8,3 +8,4 @@
 4. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/soalan-jawab-hukum.jsonl
 5. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/artikel.jsonl
 6. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/garis-panduan.jsonl
+7. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/myhadith.islam.gov.my.jsonl
