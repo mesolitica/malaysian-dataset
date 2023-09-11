@@ -7,3 +7,4 @@
 3. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/pandangan-pakar.jsonl
 4. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/soalan-jawab-hukum.jsonl
 5. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/artikel.jsonl
+6. https://huggingface.co/datasets/mesolitica/crawl-my-website/raw/main/garis-panduan.jsonl
