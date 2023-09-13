@@ -2,4 +2,4 @@
 
 ## download
 
-Full list at https://huggingface.co/datasets/mesolitica/chatgpt-iium-confession-noisy-translation/tree/main
+1. https://huggingface.co/datasets/mesolitica/chatgpt-iium-confession-noisy-translation/resolve/main/processed-iium-confession.jsonl

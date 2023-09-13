@@ -2,4 +2,4 @@
 
 ## download
 
-Full list at https://huggingface.co/datasets/mesolitica/chatgpt-facebook-noisy-translation/tree/main
+1. https://huggingface.co/datasets/mesolitica/chatgpt-noisy-facebook-translation/resolve/main/processed-facebook.jsonl

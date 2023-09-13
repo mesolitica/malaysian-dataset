@@ -1,4 +1,4 @@
-# Facebook embedding using OpenAI ada-002
+# OpenAI ADA-002 Facebook
 
 ## download
 

@@ -2,4 +2,5 @@
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/chatgpt-c.cari.com.my-noisy-translation/resolve/main/filtered.jsonl
+1. https://huggingface.co/datasets/mesolitica/chatgpt-b.cari.com.my-translation/resolve/main/data.jsonl
+2. https://huggingface.co/datasets/mesolitica/chatgpt-b.cari.com.my-translation/resolve/main/processed-b.cari.com.my.jsonl
