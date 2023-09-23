@@ -12,3 +12,7 @@ crawl/academia-edu/*.zip
 crawl/academia-edu/*.json
 crawl/academia-edu/interests/*.json
 crawl/lowyat/*/topic-*/*.json
+tagging/entities/*-augmentation.json
+tagging/entities/postalcode.json
+tagging/entities/surnames.json
+tagging/entities/ticketui.json
