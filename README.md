@@ -14,7 +14,7 @@
 
 This repository to store corpus for https://github.com/mesolitica/malaya
 
-Speech dataset moved to ttps://github.com/mesolitica/malaya-speech/tree/master/data
+Speech dataset moved to https://github.com/mesolitica/malaya-speech/tree/master/data
 
 **We will keep update this repository overtime**.
 
