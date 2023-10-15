@@ -4,9 +4,7 @@
     </a>
 </p>
 <p align="center">
-  <a href="https://github.com/huseinzol05/Malaya-Dataset/blob/master/LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/License-Apache--2.0-yellow.svg"></a>
-  <a href="https://discord.gg/aNzbnRqt3A"><img alt="discord" src="https://img.shields.io/badge/discord%20server-malaya-rgb(118,138,212).svg"></a>
-  <a href="https://discord.gg/eleutherai"><img alt="discord" src="https://img.shields.io/badge/discord%20server-eleutherai-rgb(118,138,212).svg"></a>
+  <a href="https://discord.gg/StCpntxf"><img alt="discord" src="https://img.shields.io/badge/discord%20server-Llama--Project-rgb(118,138,212).svg"></a>
   
 </p>
 
