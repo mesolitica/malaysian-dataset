@@ -1,5 +1,5 @@
-# malaysiastock.biz
+# malaysiatamilkalvi.com
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/malaysiastock.biz.jsonl
+1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/malaysiatamilkalvi.com.jsonl
