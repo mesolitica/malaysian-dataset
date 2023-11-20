@@ -5,6 +5,7 @@
 * Jumlah muka laman dikikis: 943
 * Baki muka laman: 0
 * Jumlah artikel (dengan julat 12 artikel setiap muka laman): 11,000
+* HuggingFace, https://huggingface.co/datasets/Ammar-Azman/crawl-motormalaya
 
 # Progres
 
