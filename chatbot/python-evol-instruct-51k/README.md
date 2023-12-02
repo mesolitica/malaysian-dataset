@@ -1,9 +1,9 @@
 # sql-create-context
 
-Original repository, https://huggingface.co/datasets/b-mc2/sql-create-context
+Original repository, https://huggingface.co/datasets/TokenBender/python_evol_instruct_51k
 
 Translate using Malaya.
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/translated-sql-create-context/resolve/main/sql_create_context_v4.translated.jsonl
+1. https://huggingface.co/datasets/mesolitica/translated-python-evol-instruct-51k/resolve/main/python_evol_instruct_51k.jsonl.requested
