@@ -11,4 +11,4 @@ We use base prompts from,
 
 ## download
 
-1. https://huggingface.co/datasets/mesolitica/chatgpt3-malay-instructions/resolve/main/augmented-alpaca_data_cleaned.jsonl
+1. https://huggingface.co/datasets/mesolitica/chatgpt-malay-instructions/resolve/main/synthetic-alpaca_data_cleaned.jsonl
