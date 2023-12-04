@@ -1,6 +1,6 @@
 # Ayat Aktif to Ayat Pasif
 
-Generate using ChatGPT4.
+Generate using ChatGPT4, originally from https://soalanspm.com/ayat-aktif-dan-ayat-pasif/
 
 ## download
 
