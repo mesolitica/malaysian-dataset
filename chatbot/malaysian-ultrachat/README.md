@@ -9,6 +9,9 @@ Prepare multiturn dialogue between user and assistant for malaysian context,
 6. lom.agc.gov.my.jsonl, https://huggingface.co/datasets/malaysia-ai/dedup-text-dataset/resolve/main/lom.agc.gov.my.jsonl
 7. MS Wikipedia, https://huggingface.co/datasets/malaysia-ai/dedup-text-dataset/resolve/main/wikipedia-2023-10-01.jsonl
 8. Hansard, https://huggingface.co/datasets/malaysia-ai/dedup-text-dataset/resolve/main/hansard.jsonl
+9. Textbooks, https://huggingface.co/datasets/open-phi/textbooks
+10. https://maktabahalbakri.com/
+11. https://muftiwp.gov.my/ms/
 
 Example of data,
 

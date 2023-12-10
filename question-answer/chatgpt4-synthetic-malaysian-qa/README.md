@@ -50,8 +50,21 @@ Generated common QA using ChatGPT4 for,
 47. political dynamic
 48. empowerment of youths
 49. kebebasan bersuara
+50. sastera
+51. tatabahasa
+52. kesusasteraan melayu
+53. pantun
+54. sajak
+55. syair
+56. hadis
+57. hukum aqidah islam
+58. hukum fiqah islam
 
 ## download
 
 1. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa.jsonl
 2. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa-v2.jsonl
+3. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa-v3.jsonl
+4. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa-v4.jsonl
+5. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa-v5.jsonl
+6. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/tatabahasa.jsonl
