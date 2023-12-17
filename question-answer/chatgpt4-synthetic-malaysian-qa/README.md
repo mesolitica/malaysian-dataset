@@ -68,3 +68,4 @@ Generated common QA using ChatGPT4 for,
 4. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa-v4.jsonl
 5. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/malaysian-general-qa-v5.jsonl
 6. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/tatabahasa.jsonl
+7. https://huggingface.co/datasets/mesolitica/chatgpt4-malaysian-general-qa/resolve/main/loghat.jsonl
