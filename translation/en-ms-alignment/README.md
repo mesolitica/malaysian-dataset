@@ -25,16 +25,3 @@ python3 setup.py install --user
 ```bash
 python3 test.py
 ```
-
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Alignment EN-MS,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/en-ms-alignment}}
-}
-```

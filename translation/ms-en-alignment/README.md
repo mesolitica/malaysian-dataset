@@ -19,16 +19,3 @@ python3 setup.py install --user
 ```
 
 2. Align MS-EN text, [prepare-ms-en-fwd-rev.ipynb](prepare-ms-en-fwd-rev.ipynb).
-
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Alignment MS-EN,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/translation/ms-en-alignment}}
-}
-```
