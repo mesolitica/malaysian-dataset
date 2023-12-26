@@ -16,3 +16,4 @@ tagging/entities/*-augmentation.json
 tagging/entities/postalcode.json
 tagging/entities/surnames.json
 tagging/entities/ticketui.json
+docs/_build
