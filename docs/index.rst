@@ -15,8 +15,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Task
-   
+   :caption: Dataset
+
    chatbot
    corpus
    crawl
@@ -40,11 +40,14 @@ Contents:
    question-answer
    segmentation
    sentiment
+   speech-to-text
+   speech-to-text-semisupervised
    spelling-correction
    summarization
    tagging
    tatabahasa
    text-similarity
+   text-to-speech
    tokenization
    translation
    true-case

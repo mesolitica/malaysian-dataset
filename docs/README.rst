@@ -10,9 +10,10 @@
 
 **Malaysian-Dataset**, We gather Malaysian corpus!
 
-Speech dataset moved to https://github.com/mesolitica/malaya-speech/tree/master/data
+Documentation
+--------------
 
-**We will keep update this repository overtime**.
+Proper documentation is available at https://malaysian-dataset.readthedocs.io
 
 How we gather dataset?
 ----------------------
