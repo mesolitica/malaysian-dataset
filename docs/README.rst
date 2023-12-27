@@ -8,7 +8,7 @@
 
 =========
 
-**Malaysian-Dataset**, We gather Malaysian corpus!
+**Malaysian-Dataset**, We gather Malaysian dataset!
 
 Documentation
 --------------
