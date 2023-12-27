@@ -15,13 +15,72 @@
 #
 import os
 import sys
+import mistune
+from glob import glob
+from mistune.renderers.rst import RSTRenderer
+
+folders = glob('../*')
+rejected = ['docs']
+folders = [f for f in folders if '.' not in os.path.split(
+    f)[1] and os.path.split(f)[1] not in rejected]
+
+tasks = []
+for f in sorted(folders):
+    task = os.path.split(f)[1]
+    nested = sorted(glob(os.path.join(f, '**/*.md'), recursive=True))
+    combine = [f'# {task}']
+    for n in nested:
+        with open(n) as fopen:
+            t = fopen.read().split('\n')
+        splitted = []
+        for t_ in t:
+            t_ = t_.strip()
+            if len(t_) and t_[0] == '#':
+                t_ = '#' + t_
+            splitted.append(t_)
+        combine.append('\n'.join(splitted).strip())
+
+    combine = '\n\n'.join(combine)
+    convert_rst = mistune.create_markdown(renderer=RSTRenderer())
+    rst = convert_rst(combine)
+
+    with open(f'{task}.rst', 'w') as fopen:
+        fopen.write(rst)
+
+    tasks.append(f'   {task}')
+
+tasks = '\n'.join(tasks)
+index = f"""
+.. malaya documentation master file, created by
+   sphinx-quickstart on Sat Dec  8 23:44:35 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Malaysian-Dataset's documentation!
+=============================================
+
+.. include::
+   README.rst
+
+Contents:
+=========
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Dataset
+
+{tasks}
+"""
+
+with open('index.rst', 'w') as fopen:
+    fopen.write(index)
 
 SOURCE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__name__)))
 sys.path.insert(0, SOURCE_DIR)
 
 # -- Project information -----------------------------------------------------
 
-project = 'malaya'
+project = 'malaysian-dataset'
 copyright = '2020, mesolitica'
 author = 'mesolitica'
 
@@ -154,7 +213,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'malaya.tex', 'malaya Documentation', 'mesolitica', 'manual')
+    (master_doc, 'malaysian-dataset.tex', 'malaysian-dataset Documentation', 'mesolitica', 'manual')
 ]
 
 
@@ -162,7 +221,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, 'malaya', 'malaya Documentation', [author], 1)]
+man_pages = [(master_doc, 'malaysian-dataset', 'malaysian-dataset Documentation', [author], 1)]
 
 
 # -- Options for Texinfo output ----------------------------------------------
@@ -173,10 +232,10 @@ man_pages = [(master_doc, 'malaya', 'malaya Documentation', [author], 1)]
 texinfo_documents = [
     (
         master_doc,
-        'malaya',
-        'malaya Documentation',
+        'malaysian-dataset',
+        'malaysian-dataset Documentation',
         author,
-        'malaya',
+        'malaysian-dataset',
         'One line description of project.',
         'Miscellaneous',
     )
