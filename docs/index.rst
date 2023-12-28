@@ -1,23 +1,23 @@
 
-    .. malaya documentation master file, created by
-    sphinx-quickstart on Sat Dec  8 23:44:35 2018.
-    You can adapt this file completely to your liking, but it should at least
-    contain the root `toctree` directive.
+.. malaya documentation master file, created by
+sphinx-quickstart on Sat Dec  8 23:44:35 2018.
+You can adapt this file completely to your liking, but it should at least
+contain the root `toctree` directive.
 
-    Welcome to Malaysian-Dataset's documentation!
-    =============================================
+Welcome to Malaysian-Dataset's documentation!
+=============================================
 
-    .. include::
-    README.rst
+.. include::
+   README.rst
 
-    Contents:
-    =========
+Contents:
+=========
 
-    .. toctree::
-    :maxdepth: 2
-    :caption: Dataset
+.. toctree::
+   :maxdepth: 2
+   :caption: Dataset
 
-       chatbot
+   chatbot
    corpus
    crawl
    dictionary
@@ -51,4 +51,3 @@
    tokenization
    translation
    true-case
-    
