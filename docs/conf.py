@@ -17,63 +17,65 @@ import os
 import sys
 import mistune
 from glob import glob
-from mistune.renderers.rst import RSTRenderer
 
-folders = glob('../*')
-rejected = ['docs']
-folders = [f for f in folders if '.' not in os.path.split(
-    f)[1] and os.path.split(f)[1] not in rejected]
+if os.environ.get('GENERATE_DOC', 'false') == 'true':
+    from mistune.renderers.rst import RSTRenderer
 
-tasks = []
-for f in sorted(folders):
-    task = os.path.split(f)[1]
-    nested = sorted(glob(os.path.join(f, '**/*.md'), recursive=True))
-    combine = [f'# {task}']
-    for n in nested:
-        with open(n) as fopen:
-            t = fopen.read().split('\n')
-        splitted = []
-        for t_ in t:
-            t_ = t_.strip()
-            if len(t_) and t_[0] == '#':
-                t_ = '#' + t_
-            splitted.append(t_)
-        combine.append('\n'.join(splitted).strip())
+    folders = glob('../*')
+    rejected = ['docs']
+    folders = [f for f in folders if '.' not in os.path.split(
+        f)[1] and os.path.split(f)[1] not in rejected]
 
-    combine = '\n\n'.join(combine)
-    convert_rst = mistune.create_markdown(renderer=RSTRenderer())
-    rst = convert_rst(combine)
+    tasks = []
+    for f in sorted(folders):
+        task = os.path.split(f)[1]
+        nested = sorted(glob(os.path.join(f, '**/*.md'), recursive=True))
+        combine = [f'# {task}']
+        for n in nested:
+            with open(n) as fopen:
+                t = fopen.read().split('\n')
+            splitted = []
+            for t_ in t:
+                t_ = t_.strip()
+                if len(t_) and t_[0] == '#':
+                    t_ = '#' + t_
+                splitted.append(t_)
+            combine.append('\n'.join(splitted).strip())
 
-    with open(f'{task}.rst', 'w') as fopen:
-        fopen.write(rst)
+        combine = '\n\n'.join(combine)
+        convert_rst = mistune.create_markdown(renderer=RSTRenderer())
+        rst = convert_rst(combine)
 
-    tasks.append(f'   {task}')
+        with open(f'{task}.rst', 'w') as fopen:
+            fopen.write(rst)
 
-tasks = '\n'.join(tasks)
-index = f"""
-.. malaya documentation master file, created by
-   sphinx-quickstart on Sat Dec  8 23:44:35 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+        tasks.append(f'   {task}')
 
-Welcome to Malaysian-Dataset's documentation!
-=============================================
+    tasks = '\n'.join(tasks)
+    index = f"""
+    .. malaya documentation master file, created by
+    sphinx-quickstart on Sat Dec  8 23:44:35 2018.
+    You can adapt this file completely to your liking, but it should at least
+    contain the root `toctree` directive.
 
-.. include::
-   README.rst
+    Welcome to Malaysian-Dataset's documentation!
+    =============================================
 
-Contents:
-=========
+    .. include::
+    README.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Dataset
+    Contents:
+    =========
 
-{tasks}
-"""
+    .. toctree::
+    :maxdepth: 2
+    :caption: Dataset
 
-with open('index.rst', 'w') as fopen:
-    fopen.write(index)
+    {tasks}
+    """
+
+    with open('index.rst', 'w') as fopen:
+        fopen.write(index)
 
 SOURCE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__name__)))
 sys.path.insert(0, SOURCE_DIR)
