@@ -1,7 +1,5 @@
 # FMT
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 ## download
 
 ### for HTML
@@ -20,16 +18,3 @@
 ### parsed
 
 1. https://huggingface.co/datasets/mesolitica/crawl-fmt/resolve/main/parsed-fmt.jsonl
-
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling FMT,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/FMT}}
-}
-```

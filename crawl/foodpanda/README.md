@@ -1,9 +1,5 @@
 # Foodpanda
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in [notebook](notebook).
-
 ## download
 
 1. [foodpanda-city.json](foodpanda-city.json),
@@ -72,16 +68,3 @@ Total size is 382.1 MB.
 Available foods for each restaurants. 
 
 Last update on 15th August 2020.
-
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Foodpanda,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/foodpanda}}
-}
-```

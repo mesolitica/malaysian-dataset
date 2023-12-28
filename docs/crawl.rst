@@ -28,27 +28,11 @@ download
 Academia.edu
 ------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. 15-09-2020, pdf files, https://f000.backblazeb2.com/file/malay-dataset/crawler/academia/academia.edu-v2.zip
 2. extract and dedup, https://huggingface.co/datasets/mesolitica/pdf-text-dedup/resolve/main/academia-dedup.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Academia.edu,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/pdf}}
-   }
 
 https://agbrief.com/news/malaysia
 ---------------------------------
@@ -93,27 +77,11 @@ download
 amanz.my
 --------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-amanz-my/resolve/main/everything.jsonl
 2. https://huggingface.co/datasets/mesolitica/crawl-amanz-my/resolve/main/parsed.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling amanz.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/amanz.my}}
-   }
 
 Scrap Angkasfera (798 kB)
 -------------------------
@@ -190,26 +158,10 @@ download
 b.cari.com.my
 -------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-b-cari-com-my/resolve/main/posts.parquet
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling b.cari.com.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/b.cari.com.my}}
-   }
 
 beautifulnara.com
 -----------------
@@ -238,27 +190,11 @@ download
 Bernama
 -------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-bernama/resolve/main/parse-bernama.json
 2. or if you want pickled requests objects, https://huggingface.co/datasets/mesolitica/crawl-bernama/resolve/main/bernama.pkl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Bernama,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/bernama}}
-   }
 
 --------------
 
@@ -396,31 +332,13 @@ download
 c.cari.com.my
 -------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-c-cari-com-my/resolve/main/everything.jsonl
 
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling c.cari.com.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/c.cari.com.my}}
-   }
-
 Carigold
 --------
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
 download
 ~~~~~~~~
@@ -430,20 +348,6 @@ download
 3. https://huggingface.co/datasets/mesolitica/crawl-carigold/resolve/main/santai-others.json
 4. https://huggingface.co/datasets/mesolitica/crawl-carigold/resolve/main/everything.jsonl
 5. https://huggingface.co/datasets/mesolitica/crawl-carigold/resolve/main/posts.parquet
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling carigold,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/carigold}}
-   }
 
 carlist.my
 ----------
@@ -472,27 +376,11 @@ download
 cn.cari.com.my
 --------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-cn-cari-com-my/resolve/main/everything.jsonl
 2. extract and dedup, https://huggingface.co/datasets/mesolitica/crawl-cn-cari-com-my/resolve/main/dedup.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling cn.cari.com.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/cn.cari.com.my}}
-   }
 
 columbiaasia.com
 ----------------
@@ -643,10 +531,8 @@ download
 
 1. https://huggingface.co/datasets/mesolitica/crawl-my-website/resolve/main/eniraimathi.blogspot.com.jsonl
 
-eprints malaysia universities
+Eprints Malaysia Universities
 -----------------------------
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
 download
 ~~~~~~~~
@@ -663,20 +549,6 @@ download
 10. https://huggingface.co/datasets/mesolitica/eprints-others, 1.1GB
 11. extract and dedup, https://huggingface.co/datasets/mesolitica/pdf-text-dedup/resolve/main/eprints-dedup.jsonl
 12. postfilter dedup, https://huggingface.co/datasets/mesolitica/pdf-text-dedup/resolve/main/filtered-eprints-dedup.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling eprints,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/eprints}}
-   }
 
 fintechnews.my
 --------------
@@ -701,8 +573,6 @@ download
 FMT
 ---
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
@@ -725,26 +595,8 @@ parsed
 
 1. https://huggingface.co/datasets/mesolitica/crawl-fmt/resolve/main/parsed-fmt.jsonl
 
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling FMT,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/FMT}}
-   }
-
 Foodpanda
 ---------
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in `notebook <notebook>`__.
 
 download
 ~~~~~~~~
@@ -815,20 +667,6 @@ Total size is 382.1 MB.
 Available foods for each restaurants.
 
 Last update on 15th August 2020.
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Foodpanda,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/foodpanda}}
-   }
 
 fuh.my
 ------
@@ -910,8 +748,6 @@ download
 Malaysia Hansard
 ----------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 Originally from https://www.parlimen.gov.my/hansard-dewan-rakyat.html?uweb=dr
 
 Only pulled from 1990 until latest.
@@ -921,20 +757,6 @@ download
 
 1. https://huggingface.co/datasets/mesolitica/crawl-malaysian-hansard/resolve/main/hansard.jsonl
 
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Malaysia Hansard,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hansard}}
-   }
-
 download
 ~~~~~~~~
 
@@ -943,26 +765,10 @@ download
 hardwarezone.com.sg
 -------------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-hardwarezone-sg/resolve/main/everything.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling hardwarezone.com.sg,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/hardwarezone.com.sg}}
-   }
 
 hargaemas.my
 ------------
@@ -1038,29 +844,11 @@ download
 IIUM Confession
 ---------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in `notebook <notebook>`__.
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-iium-confession/resolve/main/crawled-iium.json
 2. https://huggingface.co/datasets/mesolitica/crawl-iium-confession/raw/main/url-iium.json
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling IIUM-Confession,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iium-confession}}
-   }
 
 https://ikram.org.my/
 ---------------------
@@ -1126,10 +914,6 @@ Citation
 
 Iproperty
 ---------
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in `notebook <notebook>`__.
 
 download
 ~~~~~~~~
@@ -1274,20 +1058,6 @@ how-to-read
    'referenceCode': 'UP7995132',
    'channel': 'sale',
    'isSA': False}
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Iproperty,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iproperty}}
-   }
 
 isaham.my
 ---------
@@ -1463,24 +1233,6 @@ download
 Klook
 -----
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in `notebook <notebook>`__.
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Klook,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/klook}}
-   }
-
 kopiandproperty.com
 -------------------
 
@@ -1549,8 +1301,6 @@ download
 lom.agc.gov.my
 --------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 Originally from https://lom.agc.gov.my/
 
 download
@@ -1559,43 +1309,13 @@ download
 1. https://huggingface.co/datasets/mesolitica/crawl-lom-agc-gov-my/tree/main
 2. extract and dedup, https://huggingface.co/datasets/mesolitica/crawl-lom-agc-gov-my/resolve/main/dedup.jsonl
 
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling lom.agc.gov.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/lom.agc.gov.my}}
-   }
-
 Lowyat
 ------
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
 
 download
 ~~~~~~~~
 
 https://huggingface.co/datasets/mesolitica/crawl-lowyat
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Lowyat,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/lowyat}}
-   }
 
 Lyrics.my
 ---------
@@ -1653,22 +1373,6 @@ download
 
 majoriti.com.my
 ---------------
-
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling majoriti.com.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/majoriti-com-my}}
-   }
 
 makanbola.com
 -------------
@@ -2011,26 +1715,10 @@ download
 mycarforum.com
 --------------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-mycarforum-com/resolve/main/everything.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling mycarforum.com,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/mycarforum.com}}
-   }
 
 mygameon.my
 -----------
@@ -2075,28 +1763,12 @@ download
 mymp.my
 -------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 Originally from https://mymp.org.my/p/khairy-jamaluddin-abu-bakar
 
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-mymp.my/resolve/main/mymp.pkl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling mymp.my,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/mymp}}
-   }
 
 myresipi.com
 ------------
@@ -2222,28 +1894,12 @@ download
 OpenDOSM
 --------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 Originally from https://open.dosm.gov.my/
 
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-opendosm/tree/main
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling OpenDOSM,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/opendosm}}
-   }
 
 org.my PDF
 ----------
@@ -2284,28 +1940,12 @@ download
 pdfdrive
 --------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 Originally from https://twitter.com/acul_SR
 
 download
 ~~~~~~~~
 
 1. extract and dedup, https://huggingface.co/datasets/mesolitica/pdf-text-dedup/resolve/main/pdfdrive-dedup.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling PDFdrive,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/pdfdrive}}
-   }
 
 penuntutilmu.com
 ----------------
@@ -2318,26 +1958,10 @@ download
 perak.org
 ---------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-perak-org/resolve/main/everything.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling perak.org,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/perak.org}}
-   }
 
 https://www.pgm-my.org/malaysianjournalofgenetics/
 --------------------------------------------------
@@ -2502,26 +2126,10 @@ download
 salary.sg
 ---------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/crawl-salary-sg/resolve/main/everything.jsonl
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling salary.sg,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/salary.sg}}
-   }
 
 says.com
 --------
@@ -2890,24 +2498,6 @@ download
 Ticket2U
 --------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in `notebook <notebook>`__.
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Ticket2U,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/ticket2u}}
-   }
-
 --------------
 
 license: apache-2.0 language:
@@ -3044,14 +2634,10 @@ download
 Watpadd
 -------
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
 how-to
 ~~~~~~
 
-1. HTML ref, `html.zip <html.zip>`__
-2. urls, `urls.json <urls.json>`__
-3. crawled wattpad, `wattpad.zip <https://f000.backblazeb2.com/file/malay-dataset/crawler/wattpad/wattpad.zip>`__
+1. https://f000.backblazeb2.com/file/malay-dataset/crawler/wattpad/wattpad.zip
 
 wiser.my
 --------

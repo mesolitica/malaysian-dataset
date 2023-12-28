@@ -1,9 +1,5 @@
 # Iproperty
 
-**The copyright data remains with the original owners of the data, do not use this data for commercial purpose.**
-
-Crawling steps in [notebook](notebook).
-
 ## download
 
 1. sales all-residential, https://f000.backblazeb2.com/file/malay-dataset/crawler/iproperty/sales-residential.zip
@@ -144,17 +140,4 @@ print(data['listings']['items'][0])
  'referenceCode': 'UP7995132',
  'channel': 'sale',
  'isSA': False}
-```
-
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Crawling Iproperty,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/crawl/iproperty}}
-}
 ```

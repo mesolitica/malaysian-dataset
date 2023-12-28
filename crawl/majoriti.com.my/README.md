@@ -1,0 +1,1 @@
+# majoriti.com.my
