@@ -53,11 +53,6 @@ if os.environ.get('GENERATE_DOC', 'false') == 'true':
 
     tasks = '\n'.join(tasks)
     index = f"""
-.. malaya documentation master file, created by
-sphinx-quickstart on Sat Dec  8 23:44:35 2018.
-You can adapt this file completely to your liking, but it should at least
-contain the root `toctree` directive.
-
 Welcome to Malaysian-Dataset's documentation!
 =============================================
 

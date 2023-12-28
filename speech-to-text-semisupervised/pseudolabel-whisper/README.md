@@ -2,6 +2,10 @@
 
 This pseudolabel included fast hashing load audio files and continue last step decoded.
 
+## download
+
+All data uploaded at https://huggingface.co/datasets/mesolitica/pseudolabel-malaysian-youtube-whisper-large-v3
+
 ## how-to
 
 1. Prepare chunks hash map, [prepare-indices-chunks.ipynb](prepare-indices-chunks.ipynb).
