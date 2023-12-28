@@ -3,6 +3,7 @@ from torch.utils.data import DataLoader, Dataset
 from datetime import datetime
 from datasets import Audio
 from dataclasses import dataclass
+from glob import glob
 import pandas as pd
 import numpy as np
 import torch
@@ -21,15 +22,39 @@ from transformers import (
     WhisperTokenizerFast,
 )
 
-chunks = 30
 sr = 16000
+chunks = 30
+stride = chunks // 6
+
+
+def sequence_1d(
+    seq, maxlen=None, padding: str = 'post', pad_int=0.0, return_len=False
+):
+    if padding not in ['post', 'pre']:
+        raise ValueError('padding only supported [`post`, `pre`]')
+
+    if not maxlen:
+        maxlen = max([len(s) for s in seq])
+
+    padded_seqs, length = [], []
+    for s in seq:
+        if isinstance(s, np.ndarray):
+            s = s.tolist()
+        if padding == 'post':
+            padded_seqs.append(s + [pad_int] * (maxlen - len(s)))
+        if padding == 'pre':
+            padded_seqs.append([pad_int] * (maxlen - len(s)) + s)
+        length.append(len(s))
+    if return_len:
+        return np.array(padded_seqs), length
+    return np.array(padded_seqs)
 
 
 def collactor(rows):
     a = []
     for row in rows:
         a.append(row['array'])
-    return np.stack(a, axis=0)
+    return sequence_1d(a)
 
 
 class Train(Dataset):
@@ -79,8 +104,32 @@ class Train(Dataset):
         else:
             audio = self.cache_audio[key_row]
 
+        a = audio['array']
+
+        left = (chunks * sr) * chunk_index
+        # left = left - (stride * sr)
+        if left < 0:
+            left = 0
+
+        right = (chunks * sr) * (chunk_index + 1)
+        # right = right + (stride * sr)
+        if right > len(a):
+            right = len(a)
+
+        # left = (chunks * sr) * chunk_index
+        # left = left - (stride * sr)
+        # if left < 0:
+        #     left = 0
+
+        # if left == 0:
+        #     right = (chunks * sr) * (chunk_index + 1)
+        # else:
+        #     right = (chunks * sr) * (chunk_index + 1) - (stride * sr)
+        # if right > len(a):
+        #     right = len(a)
+
         return {
-            'array': audio['array'][(chunks * sr) * chunk_index: (chunks * sr) * (chunk_index + 1)]
+            'array': a[left: right]
         }
 
 
@@ -91,7 +140,6 @@ class ModelArguments:
     indices_filename: 'str' = 'indices-crawl-youtube.json'
     folder_output: str = 'output'
     folder_output_audio: str = 'output-audio'
-    step_file: str = 'step.json'
     batch_size: int = 8
     dataloader_num_workers: int = 1
 
@@ -147,17 +195,16 @@ def main():
     dataloader = accelerator.prepare(dataloader)
 
     start_step = 0
-    try:
-        with open(model_args.step_file) as fopen:
-            start_step = json.load(fopen) + 1
-        print(f'continue from {start_step}')
-    except Exception as e:
-        print('failed to load last step count, continue from 0', e)
+    steps = glob(os.path.join(model_args.folder_output, f'{global_rank}-*.json'))
+    steps = [int(f.split('-')[1].replace('.json', '')) for f in steps]
+    if len(steps):
+        start_step = max(steps) + 1
+        print(f'{global_rank}, continue from {start_step}')
+    else:
+        print(f'{global_rank}, failed to load last step count, continue from 0')
 
     dataloader = accelerator.skip_first_batches(dataloader, num_batches=start_step)
     batches = tqdm(dataloader, disable=not accelerator.is_local_main_process)
-
-    step_file_temp = f'{model_args.step_file}-temp'
 
     for step, batch in enumerate(batches):
         step = step + start_step
@@ -210,12 +257,6 @@ def main():
         filename = os.path.join(model_args.folder_output, f'{global_rank}-{step}.json')
         with open(filename, 'w') as fopen:
             json.dump(data, fopen)
-
-        if accelerator.is_local_main_process:
-            with open(step_file_temp, 'w') as fopen:
-                json.dump(step, fopen)
-
-            os.replace(step_file_temp, model_args.step_file)
 
     accelerator.wait_for_everyone()
 
