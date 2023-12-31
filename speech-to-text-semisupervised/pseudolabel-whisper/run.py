@@ -107,26 +107,12 @@ class Train(Dataset):
         a = audio['array']
 
         left = (chunks * sr) * chunk_index
-        # left = left - (stride * sr)
         if left < 0:
             left = 0
 
         right = (chunks * sr) * (chunk_index + 1)
-        # right = right + (stride * sr)
         if right > len(a):
             right = len(a)
-
-        # left = (chunks * sr) * chunk_index
-        # left = left - (stride * sr)
-        # if left < 0:
-        #     left = 0
-
-        # if left == 0:
-        #     right = (chunks * sr) * (chunk_index + 1)
-        # else:
-        #     right = (chunks * sr) * (chunk_index + 1) - (stride * sr)
-        # if right > len(a):
-        #     right = len(a)
 
         return {
             'array': a[left: right]
