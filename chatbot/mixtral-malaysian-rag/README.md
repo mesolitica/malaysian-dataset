@@ -4,7 +4,7 @@ Generate using Mixtral Instruct.
 
 ## download
 
-All dataset at https://huggingface.co/datasets/mesolitica/mixtral-malaysian-rag
+All dataset uploaded at https://huggingface.co/datasets/mesolitica/mixtral-malaysian-rag
 
 ## Notes to myself
 
