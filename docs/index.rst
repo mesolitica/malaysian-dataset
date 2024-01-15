@@ -35,6 +35,7 @@ Contents:
    question-answer
    segmentation
    sentiment
+   speech
    speech-to-text
    speech-to-text-semisupervised
    spelling-correction

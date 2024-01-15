@@ -1,4 +1,4 @@
-# distributed multi-GPUs pseudolabel using Whisper
+# distributed multi-GPUs pseudolabel using Whisper on Malaya-Speech STT
 
 This pseudolabel included fast hashing load audio files and continue last step decoded.
 

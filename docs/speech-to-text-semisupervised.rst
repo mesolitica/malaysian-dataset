@@ -1,127 +1,13 @@
 speech-to-text-semisupervised
 =============================
 
-Malay
------
+Pseudolabel Nusantara Audiobook using Whisper Large V3
+------------------------------------------------------
 
-how-to
-~~~~~~
-
-1. Download Malay youtube videos, `download-videos.ipynb <download-videos.ipynb>`__.
-
-2. Run semisupervised using Google Speech, `semisupervised-googlespeech.py <semisupervised-googlespeech.py>`__.
-
-3. Run `transcribe.ipynb <transcribe.ipynb>`__ to correct output from googlespeech.
-
-::
-
-   All the videos, songs, images, and graphics used in the video belong to their respective owners and I does not claim any right over them.
-
-   Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.
-
-
-Download
+download
 ~~~~~~~~
 
-1. https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-malay.tar.gz
-
-16k sample rate, atleast 90% voice activity, 93 hours.
-
-2. https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-malay-part2.tar.gz
-
-16k sample rate, atleast 90% voice activity, 70 hours.
-
-3. https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-malay-part3.tar.gz
-
-16k sample rate, atleast 90% voice activity, 59 hours.
-
-4. V2, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-26-02-2021-part1.tar
-
-16k sample rate, atleast 90% voice activity, 36 hours.
-
-5. V2, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-26-02-2021-part2.tar
-
-16k sample rate, atleast 90% voice activity, 68 hours.
-
-6. V2, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-26-02-2021-part3.tar
-
-16k sample rate, atleast 90% voice activity, 250 hours.
-
-7. V2, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-26-02-2021-part4.tar
-
-16k sample rate, atleast 90% voice activity, 265 hours.
-
-8. V3, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-24-03-2021-part1.tar
-
-16k sample rate, atleast 80% voice activity, 660 hours.
-
-9. V3, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-24-03-2021-part2.tar
-
-16k sample rate, atleast 80% voice activity, 688 hours.
-
-10. V3, https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-24-03-2021-part3.tar
-
-16k sample rate, atleast 80% voice activity, 456 hours.
-
-Download supervised
-~~~~~~~~~~~~~~~~~~~
-
-1. `label-semisupervised-malay.tar.gz <label-semisupervised-malay.tar.gz>`__
-
-- 16000 sample rate.
-- random length between 2 - 20 seconds, windowed using google VAD.
-- 768 over 57895 done, approximate 1.3 hours.
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Speech Recognition from Malay Youtube Videos,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-malay}}
-   }
-
-Manglish
---------
-
-how-to
-~~~~~~
-
-1. Download Malay youtube videos, `download-videos.ipynb <download-videos.ipynb>`__.
-
-2. Run semisupervised using Google Speech, `semisupervised-googlespeech.py <semisupervised-googlespeech.py>`__.
-
-16k sample rate, atleast 90% voice activity, 107 hours.
-
-Download at https://f000.backblazeb2.com/file/malay-dataset/speech/semisupervised-manglish.tar.gz
-
-::
-
-   All the videos, songs, images, and graphics used in the video belong to their respective owners and I does not claim any right over them.
-
-   Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.
-
-
-3. Run `transcribe.ipynb <transcribe.ipynb>`__ to correct output from googlespeech.
-
-Citation
-~~~~~~~~
-
-.. code:: bibtex
-
-   @misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Semisupervised Speech Recognition from Manglish Youtube Videos,
-   author = {Husein, Zolkepli},
-   title = {Malay-Dataset},
-   year = {2018},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-manglish}}
-   }
+All data uploaded at https://huggingface.co/datasets/mesolitica/nusantara-audiobook
 
 Nusantara Audiobook
 -------------------
@@ -202,8 +88,34 @@ Citation
    howpublished = {\url{https://github.com/huseinzol05/malaya-speech/tree/master/data/semisupervised-audiobook}}
    }
 
-distributed multi-GPUs pseudolabel using Whisper
-------------------------------------------------
+distributed multi-GPUs pseudolabel using Whisper on Malaya-Speech STT
+---------------------------------------------------------------------
+
+This pseudolabel included fast hashing load audio files and continue last step decoded.
+
+download
+~~~~~~~~
+
+All data uploaded at https://huggingface.co/datasets/mesolitica/pseudolabel-malaysian-youtube-whisper-large-v3
+
+how-to
+~~~~~~
+
+1. Generate chunks hash map, `generate-global-indices.ipynb <generate-global-indices.ipynb>`__.
+
+Use torchrun
+^^^^^^^^^^^^
+
+.. code:: bash
+
+   NCCL_P2P_DISABLE=1 NCCL_IB_DISABLE=1 ~/.local/bin/torchrun --nproc_per_node 2 \
+   -m run \
+   --indices_filename=indices-crawl-malaya-speech.json --batch_size=16
+
+NCCL is not required.
+
+distributed multi-GPUs pseudolabel using Whisper on Malaysian Youtube videos
+----------------------------------------------------------------------------
 
 This pseudolabel included fast hashing load audio files and continue last step decoded.
 
@@ -255,6 +167,15 @@ We use batch size of 52,
    NCCL_P2P_DISABLE=1 NCCL_IB_DISABLE=1 torchrun --nproc_per_node 4 \
    -m run \
    --indices_filename=crawl-youtube-global-indices.json --batch_size=52
+
+Predict language using Speechbrain
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. code:: bash
+
+   NCCL_P2P_DISABLE=1 NCCL_IB_DISABLE=1 torchrun --nproc_per_node 4 \
+   -m run-predict-lang \
+   --batch_size=32
 
 Noisy Audiobook
 ---------------

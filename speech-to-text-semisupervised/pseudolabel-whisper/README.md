@@ -1,4 +1,4 @@
-# distributed multi-GPUs pseudolabel using Whisper
+# distributed multi-GPUs pseudolabel using Whisper on Malaysian Youtube videos
 
 This pseudolabel included fast hashing load audio files and continue last step decoded.
 

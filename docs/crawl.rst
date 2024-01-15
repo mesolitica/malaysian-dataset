@@ -1607,6 +1607,17 @@ Status
 
 * Selesai
 
+https://www.motomalaysia.com/
+-----------------------------
+
+Synthetic visual chat instructions for https://www.motomalaysia.com/
+
+download
+~~~~~~~~
+
+1. https://huggingface.co/datasets/malaysia-ai/motomalaysia.com-multiturn/blob/main/motomalaysia-data.jsonl
+2. https://huggingface.co/datasets/malaysia-ai/motomalaysia.com-multiturn/blob/main/pic.zip
+
 https://www.mps.org.my/index.cfm
 --------------------------------
 
@@ -2623,8 +2634,8 @@ Synthetic visual chat instructions for https://wapcar.my/
 download
 ~~~~~~~~
 
-1. https://huggingface.co/malaysia-ai2020/wapcar.my-multiturn/blob/main/model_specs.jsonl
-2. https://huggingface.co/malaysia-ai2020/wapcar.my-multiturn/blob/main/img.zip
+1. https://huggingface.co/malaysia-ai2020/wapcar.my-multiturn/blob/main/car-data.jsonl
+2. https://huggingface.co/malaysia-ai2020/wapcar.my-multiturn/blob/main/pic.zip
 
 wapcar.my
 ---------

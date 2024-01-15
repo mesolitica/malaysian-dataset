@@ -560,6 +560,34 @@ Example of data,
    'content_ms': 'Setiap pasukan memang memerlukan sokongan daripada penyokong setia seperti anda. Anda adalah aset berharga bagi pasukan UiTM FC. Teruskan menyokong dengan penuh semangat dan harapan. Kita berdoa agar pihak pengurusan dapat mencari jalan penyelesaian dengan segera. Bersama-sama, mari kita nantikan berita gembira yang akan datang dan terus memberikan sokongan kepada pasukan kesayangan kita. UiTM FC pasti akan bangkit dan menyampaikan prestasi yang cemerlang musim depan!',
    'indon': False}]
 
+Malaysian Youtube Audio Instructions
+------------------------------------
+
+Convert from speech to text using Whisper Large V3 after that generate multiturn using Mixtral Instruct, example data,
+
+::
+
+   {'context': 'anda tahu keuntungan boleh lebih tinggi daripada keuntungan kewangan rumah maka saya tidak akan mencari dalam akaun saya akan mencari ke dalam ethereum atau beberapa crypto punks bergantung pada faktor risiko anda kerana rumah kajang dihantar tidak mengganggu dsr saya sejauh ini jadi sekarang apa posisi saya untuk mendapatkan kewangan ketiga jadi mungkin setelah melihat sekeliling saya menemui seorang penjual yang dapat menutupi perhubungan tetapi bank hanya menerima 70% dari itu saya boleh membayar perbezaan dengan menggunakan wang ini kerana sekali lagi ia menyusahkan saya dan aset tetapi jika anda tidak selesa dengan mencari',
+   'chat': [{'role': 'user',
+   'content': 'Why might someone consider investing in cryptocurrencies like Ethereum instead of traditional financial investments such as real estate?',
+   'content_ms': 'Mengapakah seseorang mungkin mempertimbangkan untuk melabur dalam mata wang kripto seperti Ethereum dan bukannya pelaburan kewangan tradisional seperti hartanah?'},
+   {'role': 'assistant',
+   'content': 'There are several reasons why someone might consider investing in cryptocurrencies like Ethereum instead of traditional financial investments such as real estate:\n\n1. Potential for higher returns: Cryptocurrencies have the potential for much higher returns compared to traditional financial investments. While the real estate market can be profitable, the potential for exponential growth in the cryptocurrency market is significantly higher.\n2. Diversification: Investing in cryptocurrencies can provide a diversification benefit to an investment portfolio. By investing in a variety of assets, including cryptocurrencies, investors can spread their risk and potentially increase their overall returns.\n3. Liquidity: Cryptocurrencies are generally more liquid than real estate investments. It is easier to buy and sell cryptocurrencies, and they can be quickly converted into cash.\n4. Accessibility: Investing in cryptocurrencies is generally more accessible than investing in real estate. There are fewer barriers to entry, and it is easier to get started with a smaller amount of money.\n5. Decentralization: Cryptocurrencies are decentralized, meaning they are not controlled by any government or financial institution. This can provide a level of independence and autonomy that is not possible with traditional financial investments.\n\nHowever, it is important to note that investing in cryptocurrencies is also riskier than traditional financial investments. The value of cryptocurrencies can be highly volatile, and there is a risk of losing all or a significant portion of the investment. Therefore, it is important to carefully consider your own risk tolerance and financial situation before investing in cryptocurrencies.',
+   'content_ms': 'Terdapat beberapa sebab mengapa seseorang mungkin mempertimbangkan untuk melabur dalam mata wang kripto seperti Ethereum dan bukannya pelaburan kewangan tradisional seperti hartanah:\n\n1. Potensi untuk pulangan yang lebih tinggi: Mata wang kripto mempunyai potensi untuk pulangan yang lebih tinggi berbanding dengan pelaburan kewangan tradisional. Walaupun pasaran hartanah boleh menguntungkan, potensi pertumbuhan eksponen dalam pasaran mata wang kripto adalah jauh lebih tinggi.\n2. Kepelbagaian: Melabur dalam mata wang kripto boleh memberikan manfaat kepelbagaian kepada portfolio pelaburan. Dengan melabur dalam pelbagai aset, termasuk mata wang kripto, pelabur boleh menyebarkan risiko mereka dan berpotensi meningkatkan pulangan keseluruhan mereka.\n3. Kecairan: Mata wang kripto biasanya lebih cair daripada pelaburan hartanah. Lebih mudah untuk membeli dan menjual mata wang kripto, dan ia boleh ditukar dengan cepat kepada wang tunai.\n4. Kebolehcapaian: Melabur dalam mata wang kripto secara umumnya lebih mudah diakses daripada melabur dalam hartanah. Terdapat lebih sedikit halangan untuk masuk, dan lebih mudah untuk bermula dengan jumlah wang yang lebih kecil.\n5. Desentralisasi: Mata wang kripto adalah terdesentralisasi, bermakna ia tidak dikawal oleh mana-mana kerajaan atau institusi kewangan. Ini boleh memberikan tahap kebebasan dan autonomi yang tidak mungkin dilakukan dengan pelaburan kewangan tradisional.\n\nWalau bagaimanapun, adalah penting untuk ambil perhatian bahawa melabur dalam mata wang kripto juga lebih berisiko daripada pelaburan kewangan tradisional. Nilai mata wang kripto boleh menjadi sangat tidak menentu, dan terdapat risiko kehilangan semua atau sebahagian besar pelaburan. Oleh itu, adalah penting untuk mempertimbangkan dengan teliti toleransi risiko dan keadaan kewangan anda sendiri sebelum melabur dalam mata wang kripto.'},
+   {'role': 'user',
+   'content': 'mengapa orang menggunakan blockchain untuk mengurus siasia digital',
+   'content_ms': 'mengapa orang menggunakan blockchain untuk menguruskan sisa digital'},
+   {'role': 'assistant',
+   'content': 'There are several reasons why people use blockchain technology to manage digital assets:\n\n1. Security: Blockchain technology provides a high level of security for managing digital assets. The decentralized nature of blockchain makes it difficult for hackers to manipulate or steal digital assets.\n2. Transparency: Blockchain provides a transparent record of all transactions related to a digital asset. This makes it easier to track ownership and verify the authenticity of the asset.\n3. Accessibility: Blockchain technology allows for the easy transfer and management of digital assets, making them accessible to anyone with an internet connection.\n4. Immutability: Once data is recorded on a blockchain, it cannot be altered or deleted. This ensures that the record of ownership and transactions related to a digital asset is permanent and cannot be tampered with.\n5. Programmability: Blockchain technology allows for the creation of smart contracts, which are self-executing contracts with the terms of the agreement directly written into code. This enables automatic and secure transfer of digital assets based on predefined conditions.\n6. Interoperability: Blockchain technology enables the interoperability of different digital assets and systems, allowing for seamless transfer and exchange of value.\n\nOverall, the use of blockchain technology for managing digital assets provides a secure, transparent, and decentralized system that is accessible to anyone with an internet connection. This makes it an attractive solution for managing various types of digital assets, including cryptocurrencies, digital art, and other digital assets.',
+   'content_ms': 'Terdapat beberapa sebab mengapa orang menggunakan teknologi blockchain untuk mengurus aset digital:\n\n1. Keselamatan: Teknologi Blockchain menyediakan tahap keselamatan yang tinggi untuk mengurus aset digital. Sifat blockchain yang tidak berpusat menyukarkan penggodam untuk memanipulasi atau mencuri aset digital.\n2. Ketelusan: Blockchain menyediakan rekod yang telus bagi semua transaksi yang berkaitan dengan aset digital. Ini memudahkan untuk menjejak pemilikan dan mengesahkan ketulenan aset.\n3. Kebolehcapaian: Teknologi Blockchain membolehkan pemindahan dan pengurusan aset digital dengan mudah, menjadikannya boleh diakses oleh sesiapa sahaja yang mempunyai sambungan internet.\n4. Ketidakbolehubahan: Setelah data direkodkan pada rantaian blok, ia tidak boleh diubah atau dipadamkan. Ini memastikan rekod pemilikan dan transaksi yang berkaitan dengan aset digital adalah kekal dan tidak boleh diusik.\n5. Kebolehprograman: Teknologi Blockchain membolehkan penciptaan kontrak pintar, yang merupakan kontrak yang dilaksanakan sendiri dengan syarat perjanjian yang ditulis terus ke dalam kod. Ini membolehkan pemindahan aset digital secara automatik dan selamat berdasarkan syarat yang telah ditetapkan.\n6. Saling kendali: Teknologi Blockchain membolehkan kesalingoperasian aset dan sistem digital yang berbeza, membolehkan pemindahan dan pertukaran nilai yang lancar.\n\nSecara keseluruhannya, penggunaan teknologi blockchain untuk mengurus aset digital menyediakan sistem yang selamat, telus dan terpencar yang boleh diakses oleh sesiapa sahaja yang mempunyai sambungan internet. Ini menjadikannya penyelesaian yang menarik untuk mengurus pelbagai jenis aset digital, termasuk mata wang kripto, seni digital dan aset digital lain.'}],
+   'filename': 'output-audio/1-0-0.mp3'}
+
+
+download
+~~~~~~~~
+
+All dataset uploaded at https://huggingface.co/datasets/mesolitica/malaysian-youtube-audio-instructions
+
 Minimath
 --------
 
@@ -607,6 +635,73 @@ download
 ~~~~~~~~
 
 1. https://huggingface.co/datasets/mesolitica/translated-mini-math23k-v1/resolve/main/mini-math23k.jsonl.requested
+
+Mixtral Magicoder: Source Code Is All You Need on various programming languages
+-------------------------------------------------------------------------------
+
+We sampled programming languages from https://huggingface.co/datasets/bigcode/the-stack-dedup and pushed to https://huggingface.co/datasets/malaysia-ai/starcoderdata-sample
+
+After that, we use `Magicoder: Source Code Is All You Need on various programming languages <https://github.com/ise-uiuc/magicoder>`__ template, we target at least 10k rows for each programming languages.
+
+1. C++, 10747 rows
+2. C#, 10193 rows
+3. CUDA, 13843 rows
+4. Dockerfile, 13286 rows
+5. Go, 10143 rows
+6. Java, 11221 rows
+7. JavaScript, 11758 rows
+8. Kotlin, 12790 rows
+9. PHP, 10176 rows
+10. Python, other than ``pandas`` and ``sklearn`` and ``matplotlib`` and ``plotly``, 10925 rows
+11. Python, must have ``pandas`` or ``sklearn`` or ``matplotlib`` or ``plotly``, focused on data analytics, 53959 rows
+12. Ruby, 10201 rows
+13. Rust, 10271 rows
+14. Scala, 10017 rows
+15. Shell, 10848 rows
+16. SQL, 27668 rows
+17. Swift, 10187 rows
+18. TypeScript, 14248 rows
+
+precaution
+~~~~~~~~~~
+
+1. There is no validation for the output generated.
+2. Always filter short answers.
+
+download
+~~~~~~~~
+
+Entire dataset at https://huggingface.co/datasets/mesolitica/mixtral-magicoder
+
+Mixtral Malaysian Chat
+----------------------
+
+Generate using Mixtral Instruct.
+
+download
+~~~~~~~~
+
+All dataset at https://huggingface.co/datasets/mesolitica/mixtral-malaysian-general-qa
+
+Notes to myself
+~~~~~~~~~~~~~~~
+
+1. Filter short questions.
+
+Mixtral Malaysian RAG
+---------------------
+
+Generate using Mixtral Instruct.
+
+download
+~~~~~~~~
+
+All dataset uploaded at https://huggingface.co/datasets/mesolitica/mixtral-malaysian-rag
+
+Notes to myself
+~~~~~~~~~~~~~~~
+
+1. Filter short questions.
 
 oasst1
 ------
