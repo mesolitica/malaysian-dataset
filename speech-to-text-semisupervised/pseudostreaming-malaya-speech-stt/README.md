@@ -17,3 +17,9 @@ hi (0.0, 0.5)
 hi, my (0.0, 1.0)
 hi, my name (0.0, 2.0)
 ```
+
+## download
+
+All data uploaded at https://huggingface.co/datasets/mesolitica/pseudostreaming-malaya-speech-stt
+
+Total 8667.802379812754 hours.
