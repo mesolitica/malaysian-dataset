@@ -1,6 +1,6 @@
 # Kesalahan Tatabahasa Choice
 
-Generate using ChatGPT 3.5.
+Generate using synthetic parser.
 
 ## download
 
