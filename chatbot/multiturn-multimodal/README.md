@@ -1,0 +1,13 @@
+# Multiturn Multimodal
+
+We want to generate synthetic data that able to understand position and relationship between multi-images and mulit-audio, example as below,
+
+```python
+{'filename': ['output-audio/3-3095-4.mp3', 'output-audio/3-2622-40.mp3'],
+ 'context': [{'context_audio_1': 'Dan kat sini dia ada tulis masa dan juga speed. Yang ni kita nak kisar dulu bahan-bahan yang kita dah letak tadi. Untuk ini kita tak perlu nak tukar apa-apa pun. Just tekan je terus button tu dan kita kisar semua bahan-bahan tadi. Okey jom kita tengok kat dalam dia. Okey ni lah hasil dia. Bawang-bawang yang dah dikisar tadi. Tapi kalau nak lagi halus kita boleh ulang semula langkah tadi untuk dikisar sekali lagi. Okey kat sini dia ada tulis scrap down. Maksudnya kita perlu jatuhkan'},
+  {'context_audio_2': 'ke kanan, kiri ke kanan tapi still tak jumpa permukaan atas sampailah aku nampak ada air yang berkucak kat atas kepala aku waktu tu dia macam ada pecikan air lah dan aku pun jenguhkan kepala dalam keadaan yang tak tak apa ni tak nampak sangat kabur and aku nampak aku waktu tu macam pemandangan tu macam kena block tau air kan aku macam aku tengok macam tu kat atas bila aku tengok kat atas aku nampak ada tangan yang tengah'}],
+ 'conversations': [{'role': 'user',
+   'content': '<audio><audio>What is related between audio 1 and audio 2?'},
+  {'role': 'assistant',
+   'content': ' It is difficult to determine a direct relationship between Audio 1 and Audio 2 without additional context. However, there are some possible connections based on the given texts.\n\nIn Audio 1, the speaker is describing the process of blending or grinding ingredients using a machine. The speaker mentions that they do not need to change anything and can simply press the button to blend all the ingredients together. The speaker also mentions that they can redo the process if they want the ingredients to be blended more finely.\n\nIn Audio 2, the speaker is describing a visual experience where they see water on the surface and feel like they are looking at a blocked view or a hand in front of them. The speaker also mentions feeling like they are looking at something from above and seeing a hand.\n\nOne possible connection between the two audios could be that the speaker in Audio 1 is describing the process of making a food or drink item, and the speaker in Audio 2 is describing a moment of confusion or disorientation while observing the blended ingredients. Alternatively, the two audios could be unrelated. Without more context, it is difficult to say for certain.'}]}
+```
