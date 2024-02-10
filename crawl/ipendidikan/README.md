@@ -2,6 +2,8 @@
 
 Crawl https://www.ipendidikan.my/ to get karangan.
 
+[11/2/2024] - Crawled latest https://www.ipendidikan.my/ posts to get their title, li, paragraphs and images
+
 ## Citation
 
 ```bibtex
