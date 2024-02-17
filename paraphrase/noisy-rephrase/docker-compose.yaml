@@ -1,0 +1,22 @@
+version: "3.3"
+
+services:
+  tgi:
+    image: ghcr.io/huggingface/text-generation-inference:1.4
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0', '1']
+              capabilities: [gpu]
+    container_name: tgi
+    environment:
+      - MODEL_ID=mesolitica/malaysian-mistral-7b-32k-instructions-v4
+      - MAX_TOTAL_TOKENS=8192
+      - MAX_INPUT_LENGTH=4096
+    
+    volumes:
+      - "./data:/data"
+    ports:
+      - "8080:80"
