@@ -1,0 +1,6 @@
+playwright==1.41.0
+beautifulsoup4==4.12.3
+pandas==2.2.0
+typer==0.9.0
+PyMuPDF==1.23.23
+filelock
