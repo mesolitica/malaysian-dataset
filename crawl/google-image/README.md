@@ -1,6 +1,6 @@
 # Google Image
 
-Code heavily done by @butters.
+Code heavily done by https://github.com/kurkurzz
 
 ## download
 
