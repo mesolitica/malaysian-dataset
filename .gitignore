@@ -17,3 +17,6 @@ tagging/entities/postalcode.json
 tagging/entities/surnames.json
 tagging/entities/ticketui.json
 docs/_build
+chatbot/python-act/code-feedback
+chatbot/python-act/*.jsonl
+chatbot/python-act/openhermes*

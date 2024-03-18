@@ -14,7 +14,6 @@ class ClientJupyterKernel:
     def __init__(self, url, conv_id):
         self.url = url
         self.conv_id = conv_id
-        print(f"ClientJupyterKernel initialized with url={url} and conv_id={conv_id}")
 
     def execute(self, code):
         payload = {"convid": self.conv_id, "code": code}
@@ -24,14 +23,16 @@ class ClientJupyterKernel:
             print(f"New kernel created for conversation {self.conv_id}")
         return response_data["result"]
 
+    def shutdown(self):
+        payload = {"convid": self.conv_id, "code": '', 'shutdown': True}
+        response = requests.post(self.url, data=json.dumps(payload))
+        return response
+
 
 class Generator:
     def __init__(self, model_name: str, openai_base_url: str):
         self.model_name = model_name
         self.openai_base_url = openai_base_url
-        print(
-            f"Generator initialized with model_name={model_name} and openai_base_url={openai_base_url}"
-        )
         self.openai = OpenAI(
             base_url=self.openai_base_url,
             api_key='empty',
@@ -41,9 +42,9 @@ class Generator:
         self,
         messages: List[Dict[str, str]],
         do_sample: bool = True,
-        max_new_tokens: int = 512,
+        max_new_tokens: int = 1024,
         stop_sequences: List[str] = ["<|im_end|>"],
-        temperature: float = 0.5,
+        temperature: float = 0.9,
         top_p: float = 0.95,
     ) -> str:
         completion = self.openai.chat.completions.create(
@@ -89,6 +90,7 @@ class Agent:
         code_executor: ClientJupyterKernel,
         system_message: str = SYSTEM_MESSAGE,
         conv_id: str = None,
+        silent: bool = False,
         **kwargs,
     ):
         self.messages = [
@@ -102,19 +104,20 @@ class Agent:
         self.generator = generator
         self.code_executor = code_executor
         self.conv_id = conv_id
+        self.silent = silent
         # print the messages
         for message in self.messages:
             self.print_message(message)
 
     def print_message(self, message):
-        # bold print the role
-        print("-" * 20)
-        print(
-            colored(
-                message["role"].upper(), self.COLOR_MAP[message["role"]], attrs=["bold"]
+        if not self.silent:
+            print("-" * 20)
+            print(
+                colored(
+                    message["role"].upper(), self.COLOR_MAP[message["role"]], attrs=["bold"]
+                )
             )
-        )
-        print(colored(message["content"], self.COLOR_MAP[message["role"]]))
+            print(colored(message["content"], self.COLOR_MAP[message["role"]]))
 
     def handle_execution(self, completion: str, code_executor):
         # use regex to capture the code
@@ -146,7 +149,7 @@ class Agent:
             self.print_message(self.messages[-1])
 
             if '<execute>' not in response:
-                break
+                return
 
             execution_output = self.handle_execution(response, self.code_executor)
             if execution_output is not None:
@@ -195,25 +198,36 @@ class Agent:
         with open(path, "w") as f:
             json.dump(self.results, f, indent=2)
 
+    def run_prompt(self, message, n_max_executions=5):
+        self.handle_user_message(message, n_max_executions=n_max_executions)
+        self.code_executor.shutdown()
+        return self.messages
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--model_name", type=str, required=True,
-                    default="xingyaoww/CodeActAgent-Mistral-7b-v0.1")
-parser.add_argument(
-    "--openai_base_url",
-    type=str,
-    required=True,
-    default="http://localhost:8085/v1")
-parser.add_argument(
-    "--jupyter_kernel_url",
-    type=str,
-    required=True,
-    default="http://localhost:8081/execute")
-args = parser.parse_args()
 
-CONV_ID = "demo-" + datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model_name", type=str, required=True,
+                        default="xingyaoww/CodeActAgent-Mistral-7b-v0.1")
+    parser.add_argument(
+        "--openai_base_url",
+        type=str,
+        required=True,
+        default="http://localhost:8085/v1")
+    parser.add_argument(
+        "--jupyter_kernel_url",
+        type=str,
+        required=True,
+        default="http://localhost:8081/execute")
+    parser.add_argument(
+        "--conv_id",
+        type=str,
+        required=True,
+        default='demo')
+    args = parser.parse_args()
 
-code_executor = ClientJupyterKernel(args.jupyter_kernel_url, CONV_ID)
-generator = Generator(args.model_name, args.openai_base_url)
-agent = Agent(generator, code_executor, conv_id=CONV_ID)
-agent.run()
+    CONV_ID = args.conv_id
+
+    code_executor = ClientJupyterKernel(args.jupyter_kernel_url, CONV_ID)
+    generator = Generator(args.model_name, args.openai_base_url)
+    agent = Agent(generator, code_executor, conv_id=CONV_ID)
+    agent.run()

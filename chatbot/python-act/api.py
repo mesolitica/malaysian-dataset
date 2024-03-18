@@ -29,7 +29,7 @@ JupyterKernelType = namedtuple("JupyterKernelType", [
 
 def cleanup_kernels(app, force=False):
     """Cleanup kernels and gateway dockers that have timed out."""
-    KERNEL_TIMEOUT = 10 * 60  # 10 minutes
+    KERNEL_TIMEOUT = 5 * 60  # 2 minutes
     current_time = time.time()
     to_delete = []
     conv_id_to_kernel = app.conv_id_to_kernel
@@ -60,6 +60,7 @@ class ExecuteHandler(tornado.web.RequestHandler):
         data = json.loads(self.request.body)
         convid = data.get("convid")
         code = data.get("code")
+        shutdown = data.get('shutdown')
 
         # Create a new kernel if not exist
         new_kernel = False
@@ -82,20 +83,34 @@ class ExecuteHandler(tornado.web.RequestHandler):
             new_kernel = True
             logging.info(f"Kernel created for conversation {convid}")
 
-        # Update last access time
-        kernel_access_time = time.time()
-        conv_id_to_kernel[convid] = conv_id_to_kernel[convid]._replace(
-            last_access_time=kernel_access_time
-        )
+        if not new_kernel and shutdown:
+            kernel: JupyterKernel = conv_id_to_kernel[convid].kernel
+            kernel_wrapper = conv_id_to_kernel[convid].kernel_wrapper
+            kernel_wrapper.__exit__(None, None, None)  # Close the JupyterKernelWrapper
+            # Delete the entry from the global data structure
+            del conv_id_to_kernel[convid]
+            result = await kernel.shutdown_async()
+            self.write(json.dumps({
+                "result": result,
+                "shutdown": True
+            }))
 
-        # Execute the code
-        kernel: JupyterKernel = conv_id_to_kernel[convid].kernel
-        result = await kernel.execute(code)
+        else:
 
-        self.write(json.dumps({
-            "result": result,
-            "new_kernel_created": new_kernel
-        }))
+            # Update last access time
+            kernel_access_time = time.time()
+            conv_id_to_kernel[convid] = conv_id_to_kernel[convid]._replace(
+                last_access_time=kernel_access_time
+            )
+
+            # Execute the code
+            kernel: JupyterKernel = conv_id_to_kernel[convid].kernel
+            result = await kernel.execute(code)
+
+            self.write(json.dumps({
+                "result": result,
+                "new_kernel_created": new_kernel
+            }))
 
 
 if __name__ == "__main__":

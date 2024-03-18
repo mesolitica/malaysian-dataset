@@ -171,7 +171,11 @@ class JupyterKernel:
             execution_done = False
             while not execution_done:
                 msg = await self.ws.read_message()
-                msg = json_decode(msg)
+                try:
+                    msg = json_decode(msg)
+                except Exception as e:
+                    print(e)
+                    break
                 msg_type = msg['msg_type']
                 parent_msg_id = msg['parent_header'].get('msg_id', None)
 

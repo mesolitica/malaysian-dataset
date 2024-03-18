@@ -3,16 +3,18 @@ version: "3.3"
 services:
   python-act:
     image: vllm/vllm-openai:latest
+    ipc: host
+    shm_size: 10.24gb
     deploy:
       resources:
         reservations:
           devices:
             - driver: nvidia
-              device_ids: ['0']
+              device_ids: ['0', '1']
               capabilities: [gpu]
               
     container_name: python-act
-    command: --model xingyaoww/CodeActAgent-Mistral-7b-v0.1 --max-model-len 28672
+    command: --model xingyaoww/CodeActAgent-Mistral-7b-v0.1 --max-model-len 28672 --tensor-parallel-size 2
       
     volumes:
       - "~/.cache/huggingface:/root/.cache/huggingface"
