@@ -29,7 +29,7 @@ JupyterKernelType = namedtuple("JupyterKernelType", [
 
 def cleanup_kernels(app, force=False):
     """Cleanup kernels and gateway dockers that have timed out."""
-    KERNEL_TIMEOUT = 5 * 60  # 2 minutes
+    KERNEL_TIMEOUT = 2 * 60  # 2 minutes
     current_time = time.time()
     to_delete = []
     conv_id_to_kernel = app.conv_id_to_kernel
@@ -89,11 +89,6 @@ class ExecuteHandler(tornado.web.RequestHandler):
             kernel_wrapper.__exit__(None, None, None)  # Close the JupyterKernelWrapper
             # Delete the entry from the global data structure
             del conv_id_to_kernel[convid]
-            result = await kernel.shutdown_async()
-            self.write(json.dumps({
-                "result": result,
-                "shutdown": True
-            }))
 
         else:
 

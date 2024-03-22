@@ -200,7 +200,6 @@ class Agent:
 
     def run_prompt(self, message, n_max_executions=5):
         self.handle_user_message(message, n_max_executions=n_max_executions)
-        self.code_executor.shutdown()
         return self.messages
 
 
