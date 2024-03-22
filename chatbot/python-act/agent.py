@@ -19,8 +19,8 @@ class ClientJupyterKernel:
         payload = {"convid": self.conv_id, "code": code}
         response = requests.post(self.url, data=json.dumps(payload))
         response_data = response.json()
-        if response_data["new_kernel_created"]:
-            print(f"New kernel created for conversation {self.conv_id}")
+        # if response_data["new_kernel_created"]:
+        #     print(f"New kernel created for conversation {self.conv_id}")
         return response_data["result"]
 
     def shutdown(self):
