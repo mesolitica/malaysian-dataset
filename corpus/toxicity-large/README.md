@@ -39,9 +39,9 @@ url, https://f000.backblazeb2.com/file/malay-dataset/toxicity/
 29. translated-900000.json
 30. translated-950000.json
 
-chinese, malay and indian labels from local tweets, https://f000.backblazeb2.com/file/malay-dataset/toxicity/kaum.json
+chinese, malay and indian labels from local tweets, https://huggingface.co/datasets/mesolitica/semisupervised-corpus/resolve/main/toxicity/kaum.json
 
-Weak learning score using BERT Base for chinese, malay and indian labels, https://f000.backblazeb2.com/file/malay-dataset/toxicity/weak-learning-toxicity.json
+Weak learning score using BERT Base for chinese, malay and indian labels, https://huggingface.co/datasets/mesolitica/semisupervised-corpus/resolve/main/toxicity/weak-learning-toxicity.json
 
 ## Citation
 
