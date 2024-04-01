@@ -1,20 +1,10 @@
 # Instagram
 
-Gathered from crawlers.
+Snapshot done by https://github.com/amzar96, total size,
 
-## download
+1. instagram.jsonl, 90469 rows.
+2. text-only-instragram.jsonl, 695571 rows.
 
-Total size: 418.2 MB, 695571 sentences, https://f000.backblazeb2.com/file/malay-dataset/dumping/instagram/dumping-instagram-6-july-2019.json
+## Download
 
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Bahasa Instagram,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/instagram}}
-}
-```
+All dataset at https://huggingface.co/datasets/mesolitica/snapshot-instagram

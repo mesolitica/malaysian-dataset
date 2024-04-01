@@ -1,5 +1,17 @@
 # facebook
 
+Snapshot done by https://github.com/amzar96, total size,
+
+1. facebook.jsonl, 1577016 rows.
+2. facebook-group.jsonl, 4069 rows.
+3. facebook-post.jsonl, 35086 rows.
+
+## download
+
+All dataset at https://huggingface.co/datasets/mesolitica/snapshot-facebook
+
+## Extra
+
 Crawl facebook using https://github.com/kevinzg/facebook-scraper
 
 ## download
@@ -16,16 +28,3 @@ Crawl facebook using https://github.com/kevinzg/facebook-scraper
 10. https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/groups-2025865557592801.json
 11. https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/groups-392252305221999.json
 12. dedup, https://huggingface.co/datasets/mesolitica/fb-malaysian-pages/resolve/main/dedup.jsonl
-
-## Citation
-
-```bibtex
-@misc{Malay-Dataset, We gather Bahasa Malaysia corpus!, Malaysian Facebook pages,
-  author = {Husein, Zolkepli},
-  title = {Malay-Dataset},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huseinzol05/malay-dataset/tree/master/dumping/facebook}}
-}
-```
