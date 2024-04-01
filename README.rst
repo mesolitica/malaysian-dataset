@@ -20,6 +20,11 @@ Proper documentation is available at https://malaysian-dataset.readthedocs.io
 How we gather dataset?
 ----------------------
 
+Crawling
+~~~~~~~~~~~~
+
+Contributors heavily crawled Malaysian websites, you can check out the full list of crawled websites at https://github.com/users/huseinzol05/projects/1
+
 Social media
 ~~~~~~~~~~~~
 
