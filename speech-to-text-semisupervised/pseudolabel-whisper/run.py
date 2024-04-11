@@ -231,8 +231,8 @@ def main():
         for k in range(len(batch)):
             data.append(
                 {
-                    'predict_ms': processor.tokenizer.decode(output_ms.sequences[k]),
-                    'predict_en': processor.tokenizer.decode(output_en.sequences[k]),
+                    'predict_ms': output_ms.sequences[k].tolist(),
+                    'predict_en': output_en.sequences[k].tolist(),
                     'score_ms': prob_score_ms[k],
                     'score_en': prob_score_en[k],
                 }

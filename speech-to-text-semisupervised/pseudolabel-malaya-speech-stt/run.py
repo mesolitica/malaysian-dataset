@@ -95,8 +95,8 @@ class ModelArguments:
     model_name_or_path: str = 'openai/whisper-large-v3'
     attn_type: str = 'flash_attn_2'
     indices_filename: 'str' = 'indices-crawl-malaya-speech.json'
-    folder_output: str = 'output'
-    folder_output_audio: str = 'output-audio'
+    folder_output: str = 'output-malaya'
+    folder_output_audio: str = 'output-audio-malaya'
     batch_size: int = 8
     dataloader_num_workers: int = 1
 
@@ -153,7 +153,7 @@ def main():
 
     start_step = 0
     steps = glob(os.path.join(model_args.folder_output, f'{global_rank}-*.json'))
-    steps = [int(f.split('-')[1].replace('.json', '')) for f in steps]
+    steps = [int(f.split('-')[-1].replace('.json', '')) for f in steps]
     if len(steps):
         start_step = max(steps) + 1
         print(f'{global_rank}, continue from {start_step}')
@@ -175,6 +175,13 @@ def main():
             language='ms',
             return_timestamps=True
         )
+        output_en = generate_fn(
+            p['input_features'],
+            output_scores=True,
+            return_dict_in_generate=True,
+            language='en',
+            return_timestamps=True
+        )
         last_logits_ms = torch.stack(output_ms.scores, dim=1)
         m1 = (last_logits_ms.argmax(dim=-1) < processor.tokenizer.vocab_size)
         m2 = (last_logits_ms.argmax(dim=-1) != processor.tokenizer.pad_token_id)
@@ -183,12 +190,22 @@ def main():
         prob_score_ms = last_logits_ms.max(dim=-1).values.mean(dim=1)
         prob_score_ms = prob_score_ms.detach().cpu().type(torch.float32).numpy().tolist()
 
+        last_logits_en = torch.stack(output_en.scores, dim=1)
+        m1 = (last_logits_en.argmax(dim=-1) < processor.tokenizer.vocab_size)
+        m2 = (last_logits_en.argmax(dim=-1) != processor.tokenizer.pad_token_id)
+        mask = m1 & m2
+        last_logits_en[~mask] = 0.0
+        prob_score_en = last_logits_en.max(dim=-1).values.mean(dim=1)
+        prob_score_en = prob_score_en.detach().cpu().type(torch.float32).numpy().tolist()
+
         data = []
         for k in range(len(batch)):
             data.append(
                 {
-                    'predict_ms': processor.tokenizer.decode(output_ms.sequences[k]),
+                    'predict_ms': output_ms.sequences[k].tolist(),
+                    'predict_en': output_en.sequences[k].tolist(),
                     'score_ms': prob_score_ms[k],
+                    'score_en': prob_score_en[k],
                 }
             )
             filename = os.path.join(model_args.folder_output_audio, f'{global_rank}-{step}-{k}.mp3')
