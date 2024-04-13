@@ -6,6 +6,7 @@ import logging
 import asyncio
 import time
 from playwright.async_api import async_playwright
+from playwright_stealth import stealth_async
 from bs4 import BeautifulSoup, SoupStrainer
 from tqdm import tqdm
 import pandas as pd
@@ -26,7 +27,7 @@ async def scroll_and_extract(keyword, page):
         i = 0
         while True:
             await page.mouse.wheel(0, 15000)
-            await asyncio.sleep(1)
+            await asyncio.sleep(2.0)
 
             last_height_ = await page.evaluate("""
                 () => document.documentElement.scrollHeight
@@ -86,6 +87,7 @@ async def scrape(keyword, scrape_output_path):
             geolocation={'latitude': 3.1447325, 'longitude': 101.664989},
             permissions=['geolocation']
         )
+        await stealth_async(page)
         url = f'https://www.google.com/search?q={keyword}&tbm=isch'
         await page.goto(url)
         # get list of alternate images type
@@ -106,25 +108,17 @@ async def scrape(keyword, scrape_output_path):
                 'parent_href',
                 'image_base64'])
         df.to_json(scrape_output_path, orient='records', mode='a', lines=True)
-        print(f'Completed! [{len(df)} rows]')
-
-        for alt_type in alternate_type_list:
-            print(f'[{keyword}] Scraping "{alt_type}" subkeyword...')
-            url = f'https://www.google.com/search?q={keyword}&tbm=isch&chips=q:{keyword},g_1:{alt_type}'
-            await page.goto(url)
-            image_list = await scroll_and_extract(keyword, page)
-            df = pd.DataFrame(
-                image_list,
-                columns=[
-                    'alt_text',
-                    'parent_href',
-                    'image_base64']
-            )
-            df.to_json(scrape_output_path, orient='records', mode='a', lines=True)
-            print(f'[{keyword}] Completed! [{len(df)} rows]')
+        print(keyword, f'Completed! [{len(df)} rows]')
 
         with open(filename_done, 'w') as fopen:
             fopen.write('done')
+
+
+async def worker(queue):
+    while True:
+        func = await queue.get()
+        await func
+        queue.task_done()
 
 
 async def run():
@@ -134,12 +128,21 @@ async def run():
     lines = text_file.readlines()
     keyword_list = list(dict.fromkeys(lines))
     functions = []
+
     for no, keyword in enumerate(keyword_list):
         filename = f'data/generated-vehicle/{no}.jsonl'
         functions.append(scrape(keyword, filename))
 
-    for i in range(0, len(functions), BATCH_SIZE):
-        await asyncio.gather(*functions[i: i + BATCH_SIZE])
+    queue = asyncio.Queue()
+    for func in functions:
+        await queue.put(func)
+
+    tasks = []
+    for _ in range(BATCH_SIZE):
+        task = asyncio.create_task(worker(queue))
+        tasks.append(task)
+
+    await asyncio.gather(*tasks)
 
 if __name__ == '__main__':
 
