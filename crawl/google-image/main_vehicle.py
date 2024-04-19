@@ -76,6 +76,7 @@ async def scroll_and_extract(keyword, page):
 async def scrape(keyword, scrape_output_path):
     filename_done = f'{scrape_output_path}_done'
     if os.path.exists(filename_done):
+        print(f'{filename_done} done')
         return
 
     keyword = keyword.replace('\n', '')
@@ -122,13 +123,13 @@ async def worker(queue):
 
 
 async def run():
-    BATCH_SIZE = 100
+    BATCH_SIZE = 10
 
     text_file = open('vehicles.txt', 'r')
     lines = text_file.readlines()
     keyword_list = list(dict.fromkeys(lines))
-    functions = []
 
+    functions = []
     for no, keyword in enumerate(keyword_list):
         filename = f'data/generated-vehicle/{no}.jsonl'
         functions.append(scrape(keyword, filename))
