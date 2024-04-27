@@ -1,0 +1,1 @@
+while true; sleep 3600; do pm2 restart "python3 main_location"; done
