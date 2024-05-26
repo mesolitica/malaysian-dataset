@@ -23,14 +23,18 @@ labels = ["scenery", "not scenery"]
 
 def collactor(rows):
     a, filename, index = [], [], []
+    input_ids = None
     for row in rows:
+        if row is None:
+            continue
         a.append(row['array'].pixel_values)
         filename.append(row['filename'])
         index.append(row['chunk_index'])
+        input_ids = row['array']['input_ids']
 
     return {
         'pixel_values': torch.concat(a, 0),
-        'input_ids': rows[0]['array']['input_ids'],
+        'input_ids': input_ids,
         'filename': filename,
         'index': index,
     }
@@ -66,19 +70,22 @@ class Train(Dataset):
         else:
             df = self.cache_df[v['filename']]
 
-        row = df.iloc[chunk_index]
-        stream = BytesIO(row['image']['bytes'])
-        image = Image.open(stream)
-        i = image.convert('RGB')
-        image_output = self.image_processor(
-            text=labels,
-            images=i, padding="max_length", return_tensors='pt'
-        )
-        return {
-            'array': image_output,
-            'filename': v['filename'],
-            'chunk_index': chunk_index,
-        }
+        try:
+            row = df.iloc[chunk_index]
+            stream = BytesIO(row['image']['bytes'])
+            image = Image.open(stream)
+            i = image.convert('RGB')
+            image_output = self.image_processor(
+                text=labels,
+                images=i, padding="max_length", return_tensors='pt'
+            )
+            return {
+                'array': image_output,
+                'filename': v['filename'],
+                'chunk_index': chunk_index,
+            }
+        except BaseException:
+            return None
 
 
 @dataclass
@@ -123,12 +130,13 @@ def main():
         num_workers=model_args.dataloader_num_workers,
         pin_memory=True,
     )
+    dataloader = accelerator.prepare(dataloader)
 
     start_step = 0
     steps = glob(os.path.join(model_args.folder_output, f'{global_rank}-*.json'))
     steps = [int(f.split('-')[-1].replace('.json', '')) for f in steps]
     if len(steps):
-        start_step = max(steps) + 1
+        start_step = max(steps)
         print(f'{global_rank}, continue from {start_step}')
     else:
         print(f'{global_rank}, failed to load last step count, continue from 0')
