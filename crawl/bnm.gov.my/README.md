@@ -1,6 +1,6 @@
-# BIMB BZINT DEVELOPMENT TASK : BNM
+# Data Scraping from Bank Negara Malaysia Website
 
-1. **BNM**  
+1. **Available Data**  
     - [x] *Press Release* 
     - [x] *Public Notice*
     - [ ] *Speeches/Interview*
@@ -10,7 +10,7 @@
     - [ ] *Buletin Suku Tahunan*
     - [ ] *Buletin Ringgit*
     
-2. **LINKS**
+2. **Data Source Link**
     - https://www.bnm.gov.my/press-release-199X
     - https://www.bnm.gov.my/notices-announcements/-/tag/notices-20XX
     - https://www.bnm.gov.my/speeches-interviews/-/tag/speeches199X
