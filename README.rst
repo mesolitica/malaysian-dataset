@@ -35,7 +35,7 @@ Translation
 ~~~~~~~~~~~
 
 1. We use Google Translate.
-2. We use ChatGPT.
+2. We use LLM, including ChatGPT3.5, ChatGPT4, Mixtral, LLama3 70B.
 3. We use Malaya translation, https://huggingface.co/mesolitica/translation-t5-small-standard-bahasa-cased-v2
 
 Semisupervised
@@ -52,7 +52,7 @@ Teacher-student
 LLM
 ~~~
 
-1. Generate using ChatGPT3.5, ChatGPT4 and Mixtral.
+1. Generate using ChatGPT3.5, ChatGPT4, Mixtral, LLama3 70B.
 
 Notes
 -----
