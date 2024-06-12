@@ -1,5 +1,5 @@
 
-# Scraped um.edu.my/news (88.282 MB)
+# Scraped um.edu.my/news
 
 Scraped News from [um.edu.my/news](https://um.edu.my/news/indexnews.php)
 The workflow
