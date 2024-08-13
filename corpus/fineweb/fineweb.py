@@ -87,7 +87,9 @@ def main():
     not_yet = [f for f in files if '<>'.join(f.split('/')[-2:]) not in done]
 
     os.system('rm *.parquet')
-    mp.multiprocessing(not_yet, loop, cores=120, returned=False)
+
+    if len(not_yet):
+        mp.multiprocessing(not_yet, loop, cores=min(len(not_yet), 120), returned=False)
 
 
 if __name__ == "__main__":
