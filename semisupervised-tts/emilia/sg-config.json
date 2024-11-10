@@ -23,5 +23,5 @@
     "mos_model": {
         "primary_model_path": "/workspace/sig_bak_ovr.onnx"
     },
-    "huggingface_token": "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"
+    "huggingface_token": ""
 }
