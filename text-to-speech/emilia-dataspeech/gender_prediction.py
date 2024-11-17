@@ -102,6 +102,9 @@ def function(path, global_index, local_index):
         if os.path.exists(new_f) and os.path.getsize(new_f) > 2:
             continue
         filtered_files.append(f)
+
+    global_size = len(filtered_files) // global_index
+    filtered_files = filtered_files[global_size * local_index: global_size * (local_index + 1)]
         
     dataset = CustomDataset(filtered_files)
     data_collator = CollateFunc(
