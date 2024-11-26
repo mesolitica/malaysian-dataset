@@ -50,10 +50,8 @@ def function(path, global_index, local_index):
             dwav, sr = torchaudio.load(path)
             dwav = dwav.mean(dim=0)
 
-            wav1, new_sr = denoise(dwav, sr, device)
-            wav2, new_sr = enhance(wav1, new_sr, device, nfe=nfe, solver=solver, lambd=lambd, tau=tau)
+            wav2, new_sr = enhance(dwav, sr, device, nfe=nfe, solver=solver, lambd=lambd, tau=tau)
 
-            wav1 = wav1.cpu().numpy()
             wav2 = wav2.cpu().numpy()
             
         down = librosa.resample(y = wav2, orig_sr = new_sr, target_sr = 24000)
