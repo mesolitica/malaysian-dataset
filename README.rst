@@ -10,7 +10,7 @@
 
 **Malaysian-Dataset**, We gather Malaysian dataset! 
 
-Most of the folders are lack of README, so it is better to read from https://huggingface.co/mesolitica
+We are trying our best to make better documentation, all data pushed to https://huggingface.co/mesolitica and https://huggingface.co/malaysia-ai
 
 Documentation
 --------------
