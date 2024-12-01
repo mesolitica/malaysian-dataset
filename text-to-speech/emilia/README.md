@@ -83,30 +83,6 @@ screen -dmS jupyter_session bash -c "jupyter notebook --NotebookApp.token='' --n
 wget https://huggingface.co/datasets/mesolitica/Malaysian-Emilia/resolve/main/malaysian-podcast-processed.zip
 unzip malaysian-podcast-processed.zip
 
-for i in {0..3}; do
-  screen -S "run_$i" -X quit 2>/dev/null
-  screen -dmS "run_$i" bash -c "CUDA_VISIBLE_DEVICES=$i \
-  python3 post-cleaning.py \
-  --path 'malaysian-podcast_processed/**/*.mp3' \
-  --global-index 4 --local-index $i"
-done
-
-for i in {0..3}; do
-  screen -S "run_$i" -X quit 2>/dev/null
-  screen -dmS "run_$i" bash -c "CUDA_VISIBLE_DEVICES=$i \
-  python3 post-cleaning.py \
-  --path 'sg-podcast_processed/**/*.mp3' \
-  --global-index 4 --local-index $i"
-done
-
-for i in {0..5}; do
-  screen -S "run_$i" -X quit 2>/dev/null
-  screen -dmS "run_$i" bash -c "CUDA_VISIBLE_DEVICES=$i \
-  python3 post-cleaning.py \
-  --path 'filtered-24k_processed/**/*.mp3' \
-  --global-index 6 --local-index $i"
-done
-
 for i in {0..7}; do
   screen -S "run_$i" -X quit 2>/dev/null
   screen -dmS "run_$i" bash -c "CUDA_VISIBLE_DEVICES=$i \
@@ -114,23 +90,4 @@ for i in {0..7}; do
   --path 'parlimen-24k-chunk_processed/**/*.mp3' \
   --global-index 8 --local-index $i"
 done
-```
-
-```bash
-cd /workspace
-pip3 install git+https://github.com/huseinzolkepli05/resemble-enhance
-python3 -c "from resemble_enhance.enhancer.inference import denoise, enhance"
-pip3 install huggingface-hub notebook==6.5.6 click
-apt update
-apt install screen unzip ffmpeg -y
-screen -dmS jupyter_session bash -c "jupyter notebook --NotebookApp.token='' --no-browser --allow-root --notebook-dir='/workspace'"
-python -c "
-from huggingface_hub import snapshot_download
-snapshot_download(repo_id='mesolitica/Malaysian-Emilia', repo_type='dataset', allow_patterns = 'filtered-24k_processed.z*', local_dir = './')
-"
-wget https://www.7-zip.org/a/7z2301-linux-x64.tar.xz
-tar -xf 7z2301-linux-x64.tar.xz
-/workspace/7zz x filtered-24k_processed.zip -y -mmt40
-/workspace/7zz x filtered-24k_processed_24k.zip -y -mmt40
-/workspace/7zz x filtered-24k_processed_44k.zip -y -mmt40
 ```
