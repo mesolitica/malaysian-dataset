@@ -262,7 +262,7 @@ def get_char_count(text):
 
 
 def calculate_audio_stats(
-    data, min_duration=3, max_duration=30, min_dnsmos=3, min_char_count=2
+    data, min_duration=3, max_duration=30, min_dnsmos=2.8, min_char_count=2
 ):
     """
     Reading the proviced json, calculate and return the audio ID and their duration that meet the given filtering criteria.
