@@ -9,13 +9,14 @@ import click
 import pandas as pd
 
 @click.command()
-@click.option("--path", help="files path in glob pattern")
+@click.option("--file", default='verify-text.parquet', help="file")
 @click.option("--global-index", default=1, help="global index")
 @click.option("--local-index", default=0, help="local index")
 @click.option("--batch-size", default=16, help="batch size")
-def function(path, global_index, local_index, batch_size):
+def function(file, global_index, local_index, batch_size):
 
-    files = glob(path)
+    df = pd.read_parquet(file)
+    files = df['audio'].tolist()
     global_size = len(files) // global_index
     files = files[global_size * local_index: global_size * (local_index + 1)]
     model = load_vqgan(device = 'cuda')
