@@ -12,6 +12,8 @@ import os
 import tqdm
 import warnings
 import torch
+import subprocess
+import re
 from pydub import AudioSegment
 from pyannote.audio import Pipeline
 import pandas as pd
@@ -31,6 +33,18 @@ from models import separate_fast, dnsmos, whisper_asr, silero_vad
 warnings.filterwarnings("ignore")
 audio_count = 0
 
+def get_length(file):
+    process = subprocess.Popen(
+        ['ffmpeg', '-i', file],
+        stdout=subprocess.PIPE, stderr=subprocess.STDOUT
+    )
+    stdout, stderr = process.communicate()
+    matches = re.search(
+        r"Duration:\s{1}(?P<hours>\d+?):(?P<minutes>\d+?):(?P<seconds>\d+\.\d+?),",
+        stdout.decode(),
+        re.DOTALL).groupdict()
+    return float(matches['hours']) * 60 * 60 + \
+        float(matches['minutes']) * 60 + float(matches['seconds'])
 
 @time_logger
 def standardization(audio):
@@ -54,6 +68,15 @@ def standardization(audio):
     global audio_count
     name = "audio"
 
+    duration = 0
+    try:
+        duration = get_length(audio)
+    except Exception as e:
+        print(e)
+
+    if duration == 0 or (duration / 60 / 60) >= 4:
+        return None
+
     if isinstance(audio, str):
         name = os.path.basename(audio)
         audio = AudioSegment.from_file(audio)
@@ -62,9 +85,6 @@ def standardization(audio):
         audio_count += 1
     else:
         raise ValueError("Invalid audio type")
-
-    if (audio.duration_seconds / 60 / 60) > 3:
-        return None
 
     logger.debug("Entering the preprocessing of audio")
 

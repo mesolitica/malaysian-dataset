@@ -1,4 +1,7 @@
-from speechbrain.inference.classifiers import EncoderClassifier
+from transformers import (
+    AutoProcessor,
+    AutoModelForSpeechSeq2Seq
+)
 from torch.utils.data import DataLoader
 from torch.nn import functional as F
 from tqdm import tqdm
@@ -8,61 +11,46 @@ import torchaudio
 import numpy as np
 import click
 import os
+import json
+from datasets import Audio
+
+sr = 16000
+audio = Audio(sampling_rate=sr)
+dtype = torch.bfloat16
+device = 'cuda'
 
 def new_path(f):
-    f = f.replace('.mp3', '.lang')
+    f = f.replace('.mp3', '.language')
     splitted = f.split('/')
-    base_folder = splitted[0] + '_lang'
+    base_folder = splitted[0] + '_language'
     splitted = '/'.join([base_folder] + splitted[1:])
     return splitted
 
-class CustomDataset(torch.utils.data.Dataset):
-    def __init__(self, dataset, sampling_rate=16000, max_audio_len=5):
-        self.dataset = dataset
-        self.sampling_rate = sampling_rate
-        self.max_audio_len = max_audio_len
-
-    def __len__(self):
-        return len(self.dataset)
-
-    def _cutorpad(self, audio):
-        effective_length = self.sampling_rate * self.max_audio_len
-        len_audio = len(audio)
-
-        if len_audio > effective_length:
-            audio = audio[:effective_length]
-
-        return audio
-
-    def __getitem__(self, index):
-        filepath = self.dataset[index]
-
-        return {'file': filepath}
-
-class CollateFunc:
-    def __init__(self):
-        pass
-
-    def __call__(self, batch):
-        files = []
-
-        for audio in batch:
-            files.append(audio['file'])
-
-        return files
-
+def get_language(model, inputs, rev_vocab):
+    labels = torch.tensor([[rev_vocab['<|startoftranscript|>']]], device=device)
+    labels = labels.repeat((inputs.shape[0], 1))
+    with torch.no_grad():
+        out_encoder = model.model.encoder(inputs)
+        out_decoder = model.model.decoder(labels, encoder_hidden_states=out_encoder[0], use_cache = False, past_key_values = None)
+        proj = model.proj_out(out_decoder.last_hidden_state[:, -1:])
+        proj = proj[:,-1]
+        return torch.nn.functional.softmax(proj, dim = -1)
 
 @click.command()
 @click.option("--path", help="files path in glob pattern")
 @click.option("--global-index", default=1, help="global index")
 @click.option("--local-index", default=0, help="local index")
-def function(path, global_index, local_index):
+@click.option("--batch-size", default=16, help="batch size")
+def function(path, global_index, local_index, batch_size):
 
-    language_id = EncoderClassifier.from_hparams(
-        source="speechbrain/lang-id-voxlingua107-ecapa", 
-        savedir="tmp",
-        run_opts={"device":"cuda"},
-    )
+    processor = AutoProcessor.from_pretrained('openai/whisper-large-v3')
+    model = AutoModelForSpeechSeq2Seq.from_pretrained(
+        'openai/whisper-large-v3',
+        torch_dtype=dtype,
+    ).to(device)
+
+    rev_vocab = processor.tokenizer.get_vocab()
+    vocab = {v: k for k, v in rev_vocab.items()}
 
     files = glob(path)
     filtered_files = []
@@ -73,37 +61,29 @@ def function(path, global_index, local_index):
         filtered_files.append(f)
 
     global_size = len(filtered_files) // global_index
-    filtered_files = filtered_files[global_size * local_index: global_size * (local_index + 1)]
-        
-    dataset = CustomDataset(filtered_files)
-    data_collator = CollateFunc()
-
-    dataloader = DataLoader(
-        dataset=dataset,
-        batch_size=16,
-        collate_fn=data_collator,
-        shuffle=False,
-        num_workers=10
-    )
-
+    files = files[global_size * local_index: global_size * (local_index + 1)]
+    
     with torch.no_grad():
-        for batch in tqdm(dataloader):
-            files_ = batch
-            signals = [language_id.load_audio(f) for f in b[-1]]
-            max_length = max(tensor.size(0) for tensor in signals)
-            padded_tensors = [
-                F.pad(tensor, (0, max_length - tensor.size(0)), mode='constant', value=0)
-                for tensor in signals
-            ]
-            result = torch.stack(padded_tensors)
-            prediction = language_id.classify_batch(result)
+        for i in tqdm(range(0, len(files), batch_size)):
+            batch_files = files[i: i + batch_size]
+            y = [audio.decode_example(audio.encode_example(f))['array'] for f in batch_files]
+            batch = processor(
+                y,
+                return_tensors='pt',
+                sampling_rate=processor.feature_extractor.sampling_rate,
+                device = 'cuda',
+            ).to('cuda')
+            batch['input_features'] = batch['input_features'].type(dtype)
+            proj = get_language(model, batch['input_features'], rev_vocab)
+            probs = proj.amax(-1).tolist()
+            argmax = proj.argmax(-1)
+            langs = [vocab[a.tolist()][2:-2] for a in argmax]
             
-            for no, f in enumerate(files_):
+            for no, f in enumerate(batch_files):
                 splitted = new_path(f)
-                
                 os.makedirs(os.path.split(splitted)[0], exist_ok = True)
                 with open(splitted, 'w') as fopen:
-                    fopen.write(prediction[3][no])
+                    json.dump({'label': langs[no], 'prob': probs[no]}, fopen)
 
 if __name__ == '__main__':
     function()

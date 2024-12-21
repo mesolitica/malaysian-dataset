@@ -68,6 +68,19 @@ for i in {0..7}; do
 done
 ```
 
+```bash
+cd /workspace
+apt update
+apt install screen vim -y
+pip3 install huggingface-hub
+HF_HUB_ENABLE_HF_TRANSFER=1 python -c "
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='malaysia-ai/malaysian-dialects-youtube', repo_type='dataset', local_dir = './', max_workers = 30)
+"
+wget https://raw.githubusercontent.com/mesolitica/malaysian-dataset/refs/heads/master/text-to-speech/emilia/unzip.py
+screen -dmS unzip bash -c "python3 unzip.py"
+```
+
 ## Post cleaning
 
 ### MY Podcast
@@ -90,4 +103,14 @@ for i in {0..7}; do
   --path 'parlimen-24k-chunk_processed/**/*.mp3' \
   --global-index 8 --local-index $i"
 done
+```
+
+## Malaysian Youtube dialects
+
+```bash
+python -c "
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='malaysia-ai/crawl-youtube-malaysian-dialects', repo_type='dataset', local_dir = './')
+"
+python3 unzip.py
 ```
