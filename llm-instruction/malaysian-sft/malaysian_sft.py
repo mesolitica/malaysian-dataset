@@ -299,3 +299,32 @@ def accept(d, min_len = 10, skip_indon = True, skip_translation = True):
             return False
     
     return True
+
+def generate_and_tokenize_prompt(row):
+    if '<bot>:' in row['input'] and row['output'] is None:
+        inputs, outputs = [], []
+        splitted = row['input'].split('<bot>:')
+        for i in range(len(splitted) - 1):
+            if i == 0:
+                human = splitted[i].replace('<manusia>:', '')
+            else:
+                try:
+                    human = splitted[i].split('<manusia>:')[1]
+                except BaseException:
+                    continue
+            bot = splitted[i + 1].split('<manusia>:')[0]
+            inputs.append(human)
+            outputs.append(bot)
+    else:
+        inputs = [row['input']]
+        outputs = [row['output']]
+
+    chat = []
+    if row['prompt_input'] is not None and len(row['prompt_input']):
+        chat.append({'role': 'system', 'content': row['prompt_input'].strip()})
+    for input, output in zip(inputs, outputs):
+        chat.extend([
+            {'role': 'user', 'content': input.strip()},
+            {'role': 'assistant', 'content': output.strip()},
+        ])
+    return chat
