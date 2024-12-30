@@ -2,17 +2,15 @@
 
 ## Husein server
 
-### GPU 0
-
 ```bash
 cd /home/husein/ssd2/Amphion/preprocessors/Emilia
 LD_LIBRARY_PATH=/home/husein/.local/lib/python3.10/site-packages/nvidia/cudnn/lib \
-CUDA_VISIBLE_DEVICES=1 \
+CUDA_VISIBLE_DEVICES=0 \
 python3.10 main.py \
 --batch_size 2 \
 --compute_type bfloat16 \
 --whisper_arch large-v3 \
---global-size 3 --local-index 1
+--global-size 1 --local-index 0
 
 for i in {0..1}; do
   screen -S "run_$i" -X quit 2>/dev/null

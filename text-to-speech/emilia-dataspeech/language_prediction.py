@@ -53,6 +53,7 @@ def function(path, global_index, local_index, batch_size):
     vocab = {v: k for k, v in rev_vocab.items()}
 
     files = glob(path)
+    print(len(files))
     filtered_files = []
     for f in files:
         new_f = new_path(f)
@@ -61,7 +62,8 @@ def function(path, global_index, local_index, batch_size):
         filtered_files.append(f)
 
     global_size = len(filtered_files) // global_index
-    files = files[global_size * local_index: global_size * (local_index + 1)]
+    files = filtered_files[global_size * local_index: global_size * (local_index + 1)]
+    print(len(files))
     
     with torch.no_grad():
         for i in tqdm(range(0, len(files), batch_size)):
