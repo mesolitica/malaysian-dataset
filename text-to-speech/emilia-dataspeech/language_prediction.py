@@ -43,15 +43,6 @@ def get_language(model, inputs, rev_vocab):
 @click.option("--batch-size", default=16, help="batch size")
 def function(path, global_index, local_index, batch_size):
 
-    processor = AutoProcessor.from_pretrained('openai/whisper-large-v3')
-    model = AutoModelForSpeechSeq2Seq.from_pretrained(
-        'openai/whisper-large-v3',
-        torch_dtype=dtype,
-    ).to(device)
-
-    rev_vocab = processor.tokenizer.get_vocab()
-    vocab = {v: k for k, v in rev_vocab.items()}
-
     files = glob(path)
     print(len(files))
     filtered_files = []
@@ -64,6 +55,15 @@ def function(path, global_index, local_index, batch_size):
     global_size = len(filtered_files) // global_index
     files = filtered_files[global_size * local_index: global_size * (local_index + 1)]
     print(len(files))
+    
+    processor = AutoProcessor.from_pretrained('openai/whisper-large-v3')
+    model = AutoModelForSpeechSeq2Seq.from_pretrained(
+        'openai/whisper-large-v3',
+        torch_dtype=dtype,
+    ).to(device)
+
+    rev_vocab = processor.tokenizer.get_vocab()
+    vocab = {v: k for k, v in rev_vocab.items()}
     
     with torch.no_grad():
         for i in tqdm(range(0, len(files), batch_size)):

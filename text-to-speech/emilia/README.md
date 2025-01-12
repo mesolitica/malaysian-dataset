@@ -32,15 +32,8 @@ Install,
 ```bash
 cd /workspace
 pip3 install huggingface-hub
-python -c "
-from huggingface_hub import snapshot_download
-snapshot_download(repo_id='malaysia-ai/crawl-youtube-malaysian-cartoons-filtered-24k', repo_type='dataset', local_dir = './')
-"
 wget https://www.7-zip.org/a/7z2301-linux-x64.tar.xz
 tar -xf 7z2301-linux-x64.tar.xz
-/workspace/7zz x filtered-24k.zip -y -mmt40
-
-cd /workspace
 pip3 install notebook==6.5.6
 apt update
 apt install screen unzip ffmpeg vim -y
@@ -52,6 +45,16 @@ unzip Amphion-main.zip
 cd Amphion-main/preprocessors/Emilia
 pip3 install -r requirements.txt
 pip3 install onnxruntime-gpu==1.20.0
+pip3 uninstall whisperx -y
+pip3 install git+https://github.com/m-bain/whisperX.git@9e3a9e0e38fcec1304e1784381059a0e2c670be5
+pip3 install ctranslate2==4.5.0
+
+cd /workspace
+python -c "
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='malaysia-ai/crawl-youtube-malaysian-cartoons-filtered-24k', repo_type='dataset', local_dir = './')
+"
+/workspace/7zz x filtered-24k.zip -y -mmt40
 
 for i in {0..7}; do
   screen -S "run_$i" -X quit 2>/dev/null
@@ -79,6 +82,35 @@ wget https://raw.githubusercontent.com/mesolitica/malaysian-dataset/refs/heads/m
 screen -dmS unzip bash -c "python3 unzip.py"
 ```
 
+### Malaysian Youtube dialects
+
+```bash
+python -c "
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='malaysia-ai/crawl-youtube-malaysian-dialects', repo_type='dataset', local_dir = './',
+max_workers = 40)
+"
+python -c "
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='mesolitica/Malaysian-Emilia', repo_type='dataset', local_dir = './',
+allow_patterns = 'dialects-processed-*.zip')
+"
+python3 unzip.py
+rm *.zip
+
+for i in {0..7}; do
+  screen -S "run_$i" -X quit 2>/dev/null
+  screen -dmS "run_$i" bash -c "cd /workspace/Amphion-main/preprocessors/Emilia && \
+  LD_LIBRARY_PATH=/usr/local/lib/python3.11/dist-packages/nvidia/cudnn/lib \
+  CUDA_VISIBLE_DEVICES=$i \
+  python3 main.py \
+  --batch_size 4 \
+  --compute_type bfloat16 \
+  --whisper_arch large-v3 \
+  --global-size 8 --local-index $i"
+done
+```
+
 ## Post cleaning
 
 ### MY Podcast
@@ -101,14 +133,4 @@ for i in {0..7}; do
   --path 'parlimen-24k-chunk_processed/**/*.mp3' \
   --global-index 8 --local-index $i"
 done
-```
-
-## Malaysian Youtube dialects
-
-```bash
-python -c "
-from huggingface_hub import snapshot_download
-snapshot_download(repo_id='malaysia-ai/crawl-youtube-malaysian-dialects', repo_type='dataset', local_dir = './')
-"
-python3 unzip.py
 ```

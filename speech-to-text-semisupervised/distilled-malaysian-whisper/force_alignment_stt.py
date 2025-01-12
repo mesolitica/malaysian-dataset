@@ -50,6 +50,7 @@ def function(file, global_index, local_index, batch_size):
             continue
         filtered_files.append(f)
 
+    print(len(files), len(filtered_files))
     global_size = len(filtered_files) // global_index
     files = filtered_files[global_size * local_index: global_size * (local_index + 1)]
     print(len(files))

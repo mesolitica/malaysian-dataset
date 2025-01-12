@@ -35,8 +35,8 @@ def loop(files):
                 
             with zipfile.ZipFile(part_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
                 for folder in temp:
-                    for root, dirs, files in os.walk(folder):
-                        for f in files:
+                    for root, dirs, files_ in os.walk(folder):
+                        for f in files_:
                             f = os.path.join(root, f)
                             zipf.write(f, arcname=f)
 
@@ -66,8 +66,8 @@ def loop(files):
 
         with zipfile.ZipFile(part_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
             for folder in temp:
-                for root, dirs, files in os.walk(folder):
-                    for f in files:
+                for root, dirs, files_ in os.walk(folder):
+                    for f in files_:
                         f = os.path.join(root, f)
                         zipf.write(f, arcname=f)
 
