@@ -31,7 +31,7 @@ def main():
                 zip_ref.extractall(destination_folder)
             os.remove(zip_file_path)
         
-    multiprocessing(files, loop, cores = 40, returned = False)
+    multiprocessing(files, loop, cores = 10, returned = False)
 
 if __name__ == '__main__':
     main()
