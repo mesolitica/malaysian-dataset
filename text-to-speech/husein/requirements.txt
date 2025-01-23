@@ -1,0 +1,11 @@
+git+https://github.com/mesolitica/dynamic-batch-TTS-pipeline@b2e7b15f26f2c31273a135f9c3363c89148473fc
+pydub
+torchaudio==2.5.1
+torch==2.5.1
+numpy
+librosa
+soundfile
+penn
+git+https://github.com/esammahdi/ctc-forced-aligner
+click
+huggingface-hub
