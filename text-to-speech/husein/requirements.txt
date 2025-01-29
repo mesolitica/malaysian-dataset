@@ -9,3 +9,10 @@ penn
 git+https://github.com/esammahdi/ctc-forced-aligner
 click
 huggingface-hub
+pydub
+vocos
+vector_quantize_pytorch==1.14.24
+torchdiffeq==0.2.4
+x-transformers==1.42.11
+jieba==0.42.1
+pypinyin==0.53.0

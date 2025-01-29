@@ -33,10 +33,15 @@ from ctc_forced_aligner import (
 import re
 import os
 
-language = 'ms'
+language = 'zho'
 torch_dtype = torch.bfloat16
 device = 'cuda'
 batch_size = 16
+
+replace = {
+    '，': ', ',
+    '！。': '. ',
+}
 
 @click.command()
 @click.option('--voice')
@@ -102,13 +107,18 @@ def main(voice, original_text, model_name, text_file, folder, global_index, inde
         if os.path.exists(failed_filename):
             continue
 
-        gen_text = text[i]['normalized'].replace('\'', '').replace('"', '').replace('!', '.')
+        gen_text = text[i]
+        for k, v in replace.items():
+            for k_ in k:
+                gen_text = gen_text.replace(k_, v)
+                
         gen_text = re.sub(r'[ ]+', ' ', gen_text).strip()
+
         if len(gen_text) < 3:
             continue
         if len(gen_text) > 150:
             continue
-        gen_text  = f'. {gen_text}'
+
         final_text_lists, durations, after_durations = [], [], []
         text_list = [ref_text + gen_text]
         final_text_list = convert_char_to_pinyin(text_list)
@@ -144,7 +154,7 @@ def main(voice, original_text, model_name, text_file, folder, global_index, inde
                     alignment_model, audio_waveform, batch_size=1
                 )
                 tokens_starred, text_starred = preprocess_text(
-                    gen_text,
+                    ' '.join(gen_text),
                     romanize=True,
                     language=language,
                 )
