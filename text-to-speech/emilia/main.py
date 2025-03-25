@@ -14,6 +14,7 @@ import warnings
 import torch
 import subprocess
 import re
+import soundfile as sf
 from pydub import AudioSegment
 from pyannote.audio import Pipeline
 import pandas as pd
@@ -34,17 +35,8 @@ warnings.filterwarnings("ignore")
 audio_count = 0
 
 def get_length(file):
-    process = subprocess.Popen(
-        ['ffmpeg', '-i', file],
-        stdout=subprocess.PIPE, stderr=subprocess.STDOUT
-    )
-    stdout, stderr = process.communicate()
-    matches = re.search(
-        r"Duration:\s{1}(?P<hours>\d+?):(?P<minutes>\d+?):(?P<seconds>\d+\.\d+?),",
-        stdout.decode(),
-        re.DOTALL).groupdict()
-    return float(matches['hours']) * 60 * 60 + \
-        float(matches['minutes']) * 60 + float(matches['seconds'])
+    y, sr = sf.read(file)
+    return len(y) / sr
 
 @time_logger
 def standardization(audio):
@@ -74,7 +66,7 @@ def standardization(audio):
     except Exception as e:
         print(e)
 
-    if duration == 0 or (duration / 60 / 60) >= 4:
+    if duration == 0 or (duration / 60 / 60) >= 5:
         return None
 
     if isinstance(audio, str):

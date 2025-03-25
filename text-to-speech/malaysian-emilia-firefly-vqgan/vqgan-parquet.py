@@ -10,11 +10,13 @@ import pandas as pd
 
 @click.command()
 @click.option("--file", default='verify-text.parquet', help="file")
+@click.option("--output_folder", default='output', help="output folder")
 @click.option("--global-index", default=1, help="global index")
 @click.option("--local-index", default=0, help="local index")
 @click.option("--batch-size", default=16, help="batch size")
-def function(file, global_index, local_index, batch_size):
+def function(file, output_folder, global_index, local_index, batch_size):
 
+    os.makedirs(output_folder, exist_ok = True)
     df = pd.read_parquet(file)
     files = df['audio'].tolist()
     global_size = len(files) // global_index
@@ -30,16 +32,8 @@ def function(file, global_index, local_index, batch_size):
         max_length = 0
         for file in batch:
 
-            f = os.path.split(file)[1]
-            new_f = os.path.splitext(f)[0] + '.npy'
-            folder = os.path.split(file)[0]
-            splitted = folder.split('/')
-            base_folder = splitted[0]
-            folder = base_folder + '_vqgan'
-            folder = '/'.join([folder] + splitted[1:])
-            os.makedirs(folder, exist_ok = True)
-            
-            path = os.path.join(folder, new_f)
+            new_f = file.replace('/', '_') + '.npy'
+            path = os.path.join(output_folder, new_f)
             
             if os.path.exists(path) and os.path.getsize(path) > 1000:
                 continue

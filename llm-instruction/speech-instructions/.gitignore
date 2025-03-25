@@ -1,0 +1,12 @@
+*.parquet
+embedding*
+*.json
+*.jsonl
+dedup-parliament
+dedup-podcasts
+dedup-others
+partition-instructions-part*
+tatabahasa*
+mallm*
+short-coding-*
+malaymmlu*

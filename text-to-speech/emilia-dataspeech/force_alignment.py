@@ -66,13 +66,6 @@ def function(path, global_index, local_index, batch_size):
             dict_file = '_'.join(splitted[:-1]) + '.json'
             with open(dict_file) as fopen:
                 t = json.load(fopen)[index]['text'].strip()
-            try:
-                dense = CountVectorizer(ngram_range = (3,3)).fit_transform([t]).todense()
-                repeat = (dense > 3).sum() >= 1
-                if repeat:
-                    continue
-            except:
-                continue
             if os.path.exists(lang_file):
                 with open(lang_file) as fopen:
                     language = json.load(fopen)['label']
