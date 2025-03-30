@@ -96,6 +96,6 @@ for i in {0..3}; do
   --batch_size 4 \
   --compute_type bfloat16 \
   --whisper_arch large-v3 \
-  --global-size 8 --local-index $i || echo 'Error encountered! Press Ctrl+D to exit.'; exec bash"
+  --global-size 4 --local-index $i || echo 'Error encountered! Press Ctrl+D to exit.'; exec bash"
 done
 ```
