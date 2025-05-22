@@ -47,6 +47,7 @@ def loop(
     reference_text,
     model,
     temperature,
+    cfg_scale,
     batch_size,
 ):
     indices, device = indices_device_pair
@@ -87,7 +88,7 @@ def loop(
                 continue
             
             t_ = fix_spacing(t_)
-            text = '[S1] ' + reference_text + '[S1] ' + t_.strip() + '. o'
+            text = '[S1] ' + reference_text + '[S1] ' + t_.strip() + '. .'
             filenames.append(filename)
             texts.append(text)
             before.append(t)
@@ -101,12 +102,14 @@ def loop(
             texts, 
             audio_prompt=clone_from_audios, 
             use_torch_compile=True, verbose=False, 
-            max_tokens=2000, temperature = temperature
+            max_tokens=2000, 
+            temperature = temperature,
+            cfg_scale = cfg_scale,
         )
 
         for no, f in enumerate(filenames):
             filename_audio = f.replace('.json', '.mp3')
-            sf.write(filename_audio, output[no][:-1024], 44100)
+            sf.write(filename_audio, output[no], 44100)
             d = {
                 'reference_text': reference_text,
                 'generate_text': before[no],
@@ -123,7 +126,8 @@ def loop(
 @click.option('--reference_audio')
 @click.option('--reference_text')
 @click.option('--model', default = 'mesolitica/Malaysian-Podcast-Dia-1.6B')
-@click.option('--temperature', default = 0.8)
+@click.option('--temperature', default = 1.0)
+@click.option('--cfg_scale', default = 1.0)
 @click.option('--batch_size', default = 5)
 @click.option('--replication', default = 1)
 def main(
@@ -134,6 +138,7 @@ def main(
     model, 
     temperature, 
     batch_size,
+    cfg_scale,
     replication,
 ):
     devices = os.environ.get('CUDA_VISIBLE_DEVICES')
@@ -150,6 +155,7 @@ def main(
     os.makedirs(folder, exist_ok = True)
     transcription = pd.read_parquet(file)
     indices = list(range(0, len(transcription), 1))
+    indices = [i for i in indices if not os.path.exists(os.path.join(folder, f'{i}.json'))]
 
     df_split = list(chunks(indices, devices))
 
@@ -162,6 +168,7 @@ def main(
         reference_text,
         model,
         temperature,
+        cfg_scale,
         batch_size,
     ):
     """
@@ -174,6 +181,7 @@ def main(
         reference_text=reference_text,
         model=model,
         temperature=temperature,
+        cfg_scale=cfg_scale,
         batch_size=batch_size,
     )
 
