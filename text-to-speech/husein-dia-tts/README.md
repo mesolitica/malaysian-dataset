@@ -8,5 +8,5 @@ python3.10 generate.py \
 --folder "introduction-husein" \
 --reference_audio "husein-assistant.mp3" \
 --reference_text "Uhm, hello, selamat pagi ye, saya dari customer service, boleh saya bantu you dengan apa apa ke?" \
---repeat 5
+--batch_size 6
 ```

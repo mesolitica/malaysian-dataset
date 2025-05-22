@@ -47,7 +47,7 @@ def loop(
     reference_text,
     model,
     temperature,
-    batch_size,
+    repeat,
 ):
     indices, device = indices_device_pair
     os.environ['CUDA_VISIBLE_DEVICES'] = str(device)
@@ -60,43 +60,30 @@ def loop(
     model = Dia.from_pretrained("mesolitica/Malaysian-Podcast-Dia-1.6B", compute_dtype="float16")
 
     df = pd.read_parquet(file)
-    for i in tqdm(range(0, len(indices), batch_size)):
-        batch_indices = indices[i: i + batch_size]
-        
-        filenames = []
-        texts = []
-        before = []
-        after = []
+    for i in tqdm(indices):
+        filename = os.path.join(folder, f'{i}.json')
+        try:
+            with open(filename) as fopen:
+                json.load(fopen)
+            continue
+        except:
+            pass
 
-        for k in batch_indices:
-            filename = os.path.join(folder, f'{k}.json')
-            try:
-                with open(filename) as fopen:
-                    json.load(fopen)
-                continue
-            except:
-                pass
-            t = df['text'].iloc[k]
-            t = t.strip().replace('...', ', ')
-            t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
-            string = normalizer.normalize(t, normalize_hingga = False, normalize_text = True, normalize_word_rules = False, normalize_time = True, normalize_cardinal = True)
-            t_ = string['normalize']
-            if '--' in t_:
-                continue
-            if '~' in t_:
-                continue
-            
-            t_ = fix_spacing(t_)
-            text = '[S1] ' + reference_text + '[S1] ' + t_.strip() + '. o'
-            filenames.append(filename)
-            texts.append(text)
-            before.append(t)
-            after.append(t_)
-
-        if not len(texts):
+        t = df['text'].iloc[i]
+        t = t.strip().replace('...', ', ')
+        t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
+        string = normalizer.normalize(t, normalize_hingga = False, normalize_text = True, normalize_word_rules = False, normalize_time = True, normalize_cardinal = True)
+        t_ = string['normalize']
+        if '--' in t_:
+            continue
+        if '~' in t_:
             continue
         
+        t_ = fix_spacing(t_)
+        text = '[S1] ' + reference_text + '[S1] ' + t_.strip() + '. '
+        texts = [text] * repeat
         clone_from_audios = [reference_audio] * len(texts)
+
         output = model.generate(
             texts, 
             audio_prompt=clone_from_audios, 
@@ -104,17 +91,24 @@ def loop(
             max_tokens=2000, temperature = temperature
         )
 
-        for no, f in enumerate(filenames):
-            filename_audio = f.replace('.json', '.mp3')
-            sf.write(filename_audio, output[no][:-1024], 44100)
+        filename_audios = []
+        for k in range(repeat):
+            try:
+                filename_audio = os.path.join(folder, f'{i}-{k}.mp3')
+                sf.write(filename_audio, output[k], 44100)
+                filename_audios.append(filename_audio)
+            except Exception as e:
+                print('exception', e)
+        
+        if len(filename_audios):
             d = {
                 'reference_text': reference_text,
-                'generate_text': before[no],
-                'normalized_generate_text': after[no],
+                'generate_text': t,
+                'normalized_generate_text': t_,
                 'reference_audio': reference_audio,
-                'filename_audio': filename_audio,
+                'filename_audios': filename_audios,
             }
-            with open(f, 'w') as fopen:
+            with open(filename, 'w') as fopen:
                 json.dump(d, fopen)
 
 @click.command()
@@ -124,7 +118,7 @@ def loop(
 @click.option('--reference_text')
 @click.option('--model', default = 'mesolitica/Malaysian-Podcast-Dia-1.6B')
 @click.option('--temperature', default = 0.8)
-@click.option('--batch_size', default = 5)
+@click.option('--repeat', default = 5)
 @click.option('--replication', default = 1)
 def main(
     file, 
@@ -133,7 +127,7 @@ def main(
     reference_text,
     model, 
     temperature, 
-    batch_size,
+    repeat,
     replication,
 ):
     devices = os.environ.get('CUDA_VISIBLE_DEVICES')
@@ -162,7 +156,7 @@ def main(
         reference_text,
         model,
         temperature,
-        batch_size,
+        repeat,
     ):
     """
 
@@ -174,7 +168,7 @@ def main(
         reference_text=reference_text,
         model=model,
         temperature=temperature,
-        batch_size=batch_size,
+        repeat=repeat,
     )
 
     with Pool(len(devices)) as pool:
