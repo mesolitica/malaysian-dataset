@@ -208,6 +208,38 @@ weird_chars = {
  '„',
  '€'}
 
+def detect_indian(text):
+    for ch in text:
+        code_point = ord(ch)
+        if (
+            0x0900 <= code_point <= 0x097F or  # Devanagari
+            0x0980 <= code_point <= 0x09FF or  # Bengali
+            0x0A00 <= code_point <= 0x0A7F or  # Gurmukhi
+            0x0A80 <= code_point <= 0x0AFF or  # Gujarati
+            0x0B00 <= code_point <= 0x0B7F or  # Oriya
+            0x0B80 <= code_point <= 0x0BFF or  # Tamil
+            0x0C00 <= code_point <= 0x0C7F or  # Telugu
+            0x0C80 <= code_point <= 0x0CFF or  # Kannada
+            0x0D00 <= code_point <= 0x0D7F     # Malayalam
+        ):
+            return True
+    return False
+
+def detect_mandarin(text):
+    for char in text:
+        codepoint = ord(char)
+        if (
+            0x4E00 <= codepoint <= 0x9FFF or   # CJK Unified Ideographs
+            0x3400 <= codepoint <= 0x4DBF or   # CJK Unified Ideographs Extension A
+            0x20000 <= codepoint <= 0x2A6DF or # Extension B
+            0x2A700 <= codepoint <= 0x2B73F or # Extension C
+            0x2B740 <= codepoint <= 0x2B81F or # Extension D
+            0x2B820 <= codepoint <= 0x2CEAF or # Extension E
+            0x2CEB0 <= codepoint <= 0x2EBEF    # Extension F
+        ):
+            return True
+    return False
+
 def detect_russian(text):
     # Russian characters fall within the Unicode range \u0400-\u04FF (Cyrillic script)
     russian_pattern = re.compile(r'[\u0400-\u04FF]+')
@@ -298,6 +330,23 @@ def accept(d, min_len = 10, skip_indon = True, skip_translation = True):
         if found_indon[0]:
             return False
     
+    return True
+
+
+def post_accept(d, check_arabic = True, check_indian = True, check_mandarin = True):
+    
+    if check_arabic and detect_arabic(d):
+        return False
+    
+    if detect_russian(d):
+        return False
+    
+    if check_indian and detect_indian(d):
+        return False
+    
+    if check_mandarin and detect_mandarin(d):
+        return False
+        
     return True
 
 def generate_and_tokenize_prompt(row):
