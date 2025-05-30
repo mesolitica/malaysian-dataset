@@ -8,6 +8,7 @@ from glob import glob
 from functools import partial
 from multiprocess import Pool
 from tqdm import tqdm
+import time
 
 rejected = {'eh', 'erm'}
 
@@ -50,8 +51,6 @@ def loop(
     indices_device_pair,
     file,
     folder,
-    reference_audio,
-    reference_text,
     model,
     temperature,
     cfg_scale,
@@ -65,9 +64,10 @@ def loop(
     from dia.model import Dia
     
     normalizer = malaya.normalize.normalizer()
-    model = Dia.from_pretrained("mesolitica/Malaysian-Podcast-Dia-1.6B", compute_dtype="float16")
+    model = Dia.from_pretrained("mesolitica/Malaysian-Dia-1.6B", compute_dtype="float16")
 
-    df = pd.read_parquet(file)
+    with open(file) as fopen:
+        rows = json.load(fopen)
     for i in tqdm(range(0, len(indices), batch_size)):
         batch_indices = indices[i: i + batch_size]
         
@@ -75,6 +75,7 @@ def loop(
         texts = []
         before = []
         after = []
+        speakers = []
 
         for k in batch_indices:
             filename = os.path.join(folder, f'{k}.json')
@@ -85,7 +86,7 @@ def loop(
             except:
                 pass
 
-            t = df['text'].iloc[k]
+            t = rows[k]['question']
             if len(set(clean(t).split()) & rejected):
                 continue
 
@@ -99,30 +100,52 @@ def loop(
                 continue
             
             t_ = fix_spacing(t_)
+            reference_text = rows[k]['voice']['transcription']
             text = '[S1] ' + reference_text + '[S1] ' + t_.strip() + '. .'
             filenames.append(filename)
             texts.append(text)
             before.append(t)
             after.append(t_)
+            speakers.append(rows[k]['voice']['audio'])
 
         if not len(texts):
             continue
+            
+        if len(texts) != batch_size:
+            continue
+            
+        clone_from_audios = speakers
+        print(device, 'generating', texts)
+        output = model.generate(
+            texts, 
+            audio_prompt=clone_from_audios, 
+            use_torch_compile=True, 
+            verbose=True, 
+            max_tokens=3000, 
+            temperature = temperature,
+            cfg_scale = cfg_scale,
+        )
         
-        clone_from_audios = [reference_audio] * len(texts)
         try:
             output = model.generate(
                 texts, 
                 audio_prompt=clone_from_audios, 
                 use_torch_compile=True, verbose=False, 
-                max_tokens=2000, 
+                max_tokens=3000, 
                 temperature = temperature,
                 cfg_scale = cfg_scale,
             )
         except Exception as e:
-            print(e)
-            if 'memory' in str(e).lower():
+            print('EXCEPTION', e)
+            for no, f in enumerate(filenames):
+                d = {'error': str(e)}
+                with open(f, 'w') as fopen:
+                    json.dump(d, fopen)
+            lower = str(e).lower()
+            if 'compile' in lower or 'memory' in lower:
                 return
-            continue
+            else:
+                continue
 
         for no, f in enumerate(filenames):
             filename_audio = f.replace('.json', '.mp3')
@@ -131,7 +154,6 @@ def loop(
                 'reference_text': reference_text,
                 'generate_text': before[no],
                 'normalized_generate_text': after[no],
-                'reference_audio': reference_audio,
                 'filename_audio': filename_audio,
             }
             with open(f, 'w') as fopen:
@@ -140,8 +162,6 @@ def loop(
 @click.command()
 @click.option('--file')
 @click.option('--folder')
-@click.option('--reference_audio')
-@click.option('--reference_text')
 @click.option('--model', default = 'mesolitica/Malaysian-Podcast-Dia-1.6B')
 @click.option('--temperature', default = 1.0)
 @click.option('--cfg_scale', default = 1.0)
@@ -150,8 +170,6 @@ def loop(
 def main(
     file, 
     folder,
-    reference_audio,
-    reference_text,
     model, 
     temperature, 
     batch_size,
@@ -170,9 +188,12 @@ def main(
     print(devices)
 
     os.makedirs(folder, exist_ok = True)
-    transcription = pd.read_parquet(file)
-    indices = list(range(0, len(transcription), 1))
+    with open(file) as fopen:
+        rows = json.load(fopen)
+    indices = list(range(0, len(rows), 1))
     indices = [i for i in indices if not os.path.exists(os.path.join(folder, f'{i}.json'))]
+    indices = [i for i in indices if len(rows[i]['question']) < 380]
+    print(len(indices))
 
     df_split = list(chunks(indices, devices))
 
@@ -181,8 +202,6 @@ def main(
         indices_device_pair,
         file,
         folder,
-        reference_audio,
-        reference_text,
         model,
         temperature,
         cfg_scale,
@@ -194,8 +213,6 @@ def main(
         loop,
         file=file,
         folder=folder,
-        reference_audio=reference_audio,
-        reference_text=reference_text,
         model=model,
         temperature=temperature,
         cfg_scale=cfg_scale,
