@@ -39,11 +39,14 @@ replace = {
     ')': '',
 }
 
+rejected = ['frac{', '\math', 'sqrt', '+']
+
 replace_pronunciation = {
-    'Aee .': 'Eay .',
-    ' .': '.',
-    '(': '',
-    ')': '',
+    'A.': 'Eay .',
+    'B.': 'Bee .',
+    'C.': 'See .',
+    'D.': 'Dee .',
+    'E.': 'Eee .',
 }
 
 def loop(
@@ -65,6 +68,7 @@ def loop(
     torch.set_grad_enabled(False)
 
     import torchaudio
+    import malaya
     from dia.model import Dia
     from ctc_forced_aligner import (
         load_audio,
@@ -81,26 +85,34 @@ def loop(
         dtype=torch.float16 if device == "cuda" else torch.float32,
     )
     
-    model = Dia.from_pretrained("mesolitica/Malaysian-Dia-1.6B", compute_dtype="float16")
-
-    with open(file) as fopen:
-        rows = json.load(fopen)
+    model = Dia.from_pretrained(model, compute_dtype="float16")
+    
+    rows = pd.read_parquet(file).to_dict(orient = 'records')
     for i in tqdm(indices):
         filename = os.path.join(folder, f'{i}.json')
 
-        speaker = os.path.join('dialects_processed', os.path.split(rows[i]['speaker']['audio'])[-1][-50:])
+        speaker = rows[i]['new_audio_filename']
         t = rows[i]['speaker']['transcription']
         clone_from_text = f"[S1] {t}"
         clone_from_audio = speaker
-        t_ = rows[i]['pronunciation'].replace('. .', '.')
+        t_ = rows[i]['question'][1]['pronunciation']
+
+        if any([r in t_ for r in rejected]):
+            d = {
+                'error': 'rejected',
+            }
+            with open(filename, 'w') as fopen:
+                json.dump(d, fopen)
+            continue
+
         for k, v in replace.items():
             t_ = t_.replace(k, v)
         text = clone_from_text + '[S1] ' + t_.strip()
         texts = [text]
         clone_from_audios = [clone_from_audio] * len(texts)
-        ratio = len(rows[i]['pronunciation']) * good_ratio
+        ratio = len(rows[i]['question'][1]['pronunciation']) * good_ratio
 
-        gen_text = rows[i]['pronunciation'].replace('. .', '.')
+        gen_text = rows[i]['question'][1]['pronunciation']
         for k, v in replace_pronunciation.items():
             gen_text = gen_text.replace(k, v)
 
@@ -124,41 +136,46 @@ def loop(
                     json.dump(d, fopen)
                 lower = str(e).lower()
                 if 'compile' in lower or 'memory' in lower:
-                    return
+                    raise Exception(e)
                 else:
                     continue
 
             len_audio = len(output) / 44100
-            if len_audio > (ratio + 2):
+            print(len_audio, ratio)
+            if len_audio > (ratio + 5):
                 continue
             
-            if len_audio < (ratio - 2):
+            if len_audio < (ratio - 5):
                 continue
+                
+            try:
+                new_wav = torch.tensor(output)
+                audio_waveform = torchaudio.functional.resample(
+                    new_wav, orig_freq=44100, new_freq=16000
+                ).type(torch.float16).cuda()
+                emissions, stride = generate_emissions(
+                    alignment_model, audio_waveform, batch_size=1
+                )
 
-            new_wav = torch.tensor(output)
-            audio_waveform = torchaudio.functional.resample(
-                new_wav, orig_freq=44100, new_freq=16000
-            ).type(torch.float16).cuda()
-            emissions, stride = generate_emissions(
-                alignment_model, audio_waveform, batch_size=1
-            )
-            
-            tokens_starred, text_starred = preprocess_text(
-                gen_text,
-                romanize=True,
-                language=language,
-            )
-            segments, scores, blank_token = get_alignments(
-                emissions,
-                tokens_starred,
-                alignment_tokenizer,
-            )
-            spans = get_spans(tokens_starred, segments, blank_token)
-            word_timestamps = postprocess_results(text_starred, spans, stride, scores)
-            print(word_timestamps)
-            scores = [w['score'] for w in word_timestamps if w['score'] <= threshold]
+                tokens_starred, text_starred = preprocess_text(
+                    gen_text,
+                    romanize=True,
+                    language=language,
+                )
+                segments, scores, blank_token = get_alignments(
+                    emissions,
+                    tokens_starred,
+                    alignment_tokenizer,
+                )
+                spans = get_spans(tokens_starred, segments, blank_token)
+                word_timestamps = postprocess_results(text_starred, spans, stride, scores)
+                print(word_timestamps)
+                scores = [w['score'] for w in word_timestamps if w['score'] <= threshold]
 
-            if len(scores):
+                if len(scores):
+                    continue
+            except Exception as e:
+                print(e)
                 continue
 
             filename_audio = filename.replace('.json', '.mp3')
@@ -178,6 +195,8 @@ def loop(
             }
             with open(filename, 'w') as fopen:
                 json.dump(d, fopen)
+    
+    raise Exception('done')
 
 @click.command()
 @click.option('--file')
@@ -212,8 +231,7 @@ def main(
     print(devices)
 
     os.makedirs(folder, exist_ok = True)
-    with open(file) as fopen:
-        rows = json.load(fopen)
+    rows = pd.read_parquet(file)
     indices = list(range(0, len(rows), 1))
     indices = [i for i in indices if not os.path.exists(os.path.join(folder, f'{i}.json'))]
     print(len(indices))

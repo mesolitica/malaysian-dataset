@@ -88,7 +88,7 @@ def loop(
     for i in tqdm(indices):
         filename = os.path.join(folder, f'{i}.json')
 
-        speaker = os.path.join('dialects_processed', os.path.split(rows[i]['speaker']['audio'])[-1][-50:])
+        speaker = rows[i]['speaker']['audio']
         t = rows[i]['speaker']['transcription']
         clone_from_text = f"[S1] {t}"
         clone_from_audio = speaker
@@ -128,37 +128,34 @@ def loop(
                 else:
                     continue
 
-            len_audio = len(output) / 44100
-            if len_audio > (ratio + 2):
-                continue
-            
-            if len_audio < (ratio - 2):
-                continue
+            try:
+                new_wav = torch.tensor(output)
+                audio_waveform = torchaudio.functional.resample(
+                    new_wav, orig_freq=44100, new_freq=16000
+                ).type(torch.float16).cuda()
+                emissions, stride = generate_emissions(
+                    alignment_model, audio_waveform, batch_size=1
+                )
+                
+                tokens_starred, text_starred = preprocess_text(
+                    gen_text,
+                    romanize=True,
+                    language=language,
+                )
+                segments, scores, blank_token = get_alignments(
+                    emissions,
+                    tokens_starred,
+                    alignment_tokenizer,
+                )
+                spans = get_spans(tokens_starred, segments, blank_token)
+                word_timestamps = postprocess_results(text_starred, spans, stride, scores)
+                print(word_timestamps)
+                scores = [w['score'] for w in word_timestamps if w['score'] <= threshold]
 
-            new_wav = torch.tensor(output)
-            audio_waveform = torchaudio.functional.resample(
-                new_wav, orig_freq=44100, new_freq=16000
-            ).type(torch.float16).cuda()
-            emissions, stride = generate_emissions(
-                alignment_model, audio_waveform, batch_size=1
-            )
-            
-            tokens_starred, text_starred = preprocess_text(
-                gen_text,
-                romanize=True,
-                language=language,
-            )
-            segments, scores, blank_token = get_alignments(
-                emissions,
-                tokens_starred,
-                alignment_tokenizer,
-            )
-            spans = get_spans(tokens_starred, segments, blank_token)
-            word_timestamps = postprocess_results(text_starred, spans, stride, scores)
-            print(word_timestamps)
-            scores = [w['score'] for w in word_timestamps if w['score'] <= threshold]
-
-            if len(scores):
+                if len(scores):
+                    continue
+            except Exception as e:
+                print(e)
                 continue
 
             filename_audio = filename.replace('.json', '.mp3')

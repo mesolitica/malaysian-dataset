@@ -65,7 +65,7 @@ def loop(
     from dia.model import Dia
     
     normalizer = malaya.normalize.normalizer()
-    model = Dia.from_pretrained("mesolitica/Malaysian-Podcast-Dia-1.6B", compute_dtype="float16")
+    model = Dia.from_pretrained(model, compute_dtype="float16")
 
     df = pd.read_parquet(file)
     for i in tqdm(range(0, len(indices), batch_size)):
@@ -86,16 +86,33 @@ def loop(
                 pass
 
             t = df['text'].iloc[k]
-            if len(set(clean(t).split()) & rejected):
-                continue
-
             t = t.strip().replace('...', ', ')
             t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
-            string = normalizer.normalize(t, normalize_hingga = False, normalize_text = True, normalize_word_rules = False, normalize_time = True, normalize_cardinal = True)
+            string = normalizer.normalize(
+                t, 
+                normalize_hingga = False, 
+                normalize_text = True, 
+                normalize_word_rules = False, 
+                normalize_time = True, 
+                normalize_cardinal = True,
+            )
             t_ = string['normalize']
-            if '--' in t_:
+            t_ = t_.replace(' Erm,', ' Uhm,').replace(' erm,', ' uhm,')
+            
+            if len(set(clean(t_).split()) & rejected):
+                d = {
+                    'error': 'rejected'
+                }
+                with open(filename, 'w') as fopen:
+                    json.dump(d, fopen)
                 continue
-            if '~' in t_:
+                
+            if '--' in t_ or '~' in t_:
+                d = {
+                    'error': 'rejected'
+                }
+                with open(filename, 'w') as fopen:
+                    json.dump(d, fopen)
                 continue
             
             t_ = fix_spacing(t_)
@@ -105,7 +122,7 @@ def loop(
             before.append(t)
             after.append(t_)
 
-        if not len(texts):
+        if len(texts) != batch_size:
             continue
         
         clone_from_audios = [reference_audio] * len(texts)
@@ -113,7 +130,8 @@ def loop(
             output = model.generate(
                 texts, 
                 audio_prompt=clone_from_audios, 
-                use_torch_compile=True, verbose=False, 
+                use_torch_compile=True, 
+                verbose=True, 
                 max_tokens=2000, 
                 temperature = temperature,
                 cfg_scale = cfg_scale,
@@ -207,5 +225,3 @@ def main(
 
 if __name__ == '__main__':
     main()
-
-    

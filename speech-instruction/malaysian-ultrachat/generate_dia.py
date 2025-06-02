@@ -88,15 +88,30 @@ def loop(
 
             t = rows[k]['question']
             if len(set(clean(t).split()) & rejected):
+                d = {
+                    'error': 'rejected'
+                }
+                with open(filename, 'w') as fopen:
+                    json.dump(d, fopen)
                 continue
 
             t = t.strip().replace('...', ', ')
             t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
-            string = normalizer.normalize(t, normalize_hingga = False, normalize_text = True, normalize_word_rules = False, normalize_time = True, normalize_cardinal = True)
+            string = normalizer.normalize(
+                t, 
+                normalize_hingga = False, 
+                normalize_text = True, 
+                normalize_word_rules = False, 
+                normalize_time = True, 
+                normalize_cardinal = True
+            )
             t_ = string['normalize']
-            if '--' in t_:
-                continue
-            if '~' in t_:
+            if '--' in t_ or '~' in t_:
+                d = {
+                    'error': 'rejected'
+                }
+                with open(filename, 'w') as fopen:
+                    json.dump(d, fopen)
                 continue
             
             t_ = fix_spacing(t_)
@@ -106,7 +121,15 @@ def loop(
             texts.append(text)
             before.append(t)
             after.append(t_)
-            speakers.append(rows[k]['voice']['audio'])
+            
+            if not os.path.exists(rows[k]['voice']['audio']):
+                audio_filename = os.path.join(
+                    'malay-ultrachat-speaker', 
+                    os.path.split(rows[k]['voice']['audio'])[1]
+                )
+            else:
+                audio_filename = rows[k]['voice']['audio']
+            speakers.append(audio_filename)
 
         if not len(texts):
             continue
@@ -116,21 +139,13 @@ def loop(
             
         clone_from_audios = speakers
         print(device, 'generating', texts)
-        output = model.generate(
-            texts, 
-            audio_prompt=clone_from_audios, 
-            use_torch_compile=True, 
-            verbose=True, 
-            max_tokens=3000, 
-            temperature = temperature,
-            cfg_scale = cfg_scale,
-        )
         
         try:
             output = model.generate(
                 texts, 
                 audio_prompt=clone_from_audios, 
-                use_torch_compile=True, verbose=False, 
+                use_torch_compile=True, 
+                verbose=True, 
                 max_tokens=3000, 
                 temperature = temperature,
                 cfg_scale = cfg_scale,
@@ -143,7 +158,7 @@ def loop(
                     json.dump(d, fopen)
             lower = str(e).lower()
             if 'compile' in lower or 'memory' in lower:
-                return
+                raise Exception(e)
             else:
                 continue
 
@@ -158,6 +173,8 @@ def loop(
             }
             with open(f, 'w') as fopen:
                 json.dump(d, fopen)
+
+    raise Exception('done')
 
 @click.command()
 @click.option('--file')

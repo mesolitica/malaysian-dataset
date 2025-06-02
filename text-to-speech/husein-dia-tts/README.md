@@ -4,8 +4,8 @@
 
 ```bash
 python3 generate.py \
---file "introduction-sample.parquet" \
---folder "introduction-husein" \
+--file "introduction-sample-v2.parquet" \
+--folder "introduction-husein-v2" \
 --reference_audio "husein-assistant.mp3" \
 --reference_text "Uhm, hello, selamat pagi ye, saya dari customer service, boleh saya bantu you dengan apa apa ke?" \
 --batch_size 6
