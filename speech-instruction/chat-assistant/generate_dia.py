@@ -55,6 +55,7 @@ def loop(
     temperature,
     cfg_scale,
     batch_size,
+    normalize,
 ):
     indices, device = indices_device_pair
     os.environ['CUDA_VISIBLE_DEVICES'] = str(device)
@@ -64,7 +65,7 @@ def loop(
     from dia.model import Dia
     
     normalizer = malaya.normalize.normalizer()
-    model = Dia.from_pretrained("mesolitica/Malaysian-Dia-1.6B", compute_dtype="float16")
+    model = Dia.from_pretrained(model, compute_dtype="float16")
 
     with open(file) as fopen:
         rows = json.load(fopen)
@@ -95,17 +96,20 @@ def loop(
                     json.dump(d, fopen)
                 continue
 
-            t = t.strip().replace('...', ', ')
-            t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
-            string = normalizer.normalize(
-                t, 
-                normalize_hingga = False, 
-                normalize_text = True, 
-                normalize_word_rules = False, 
-                normalize_time = True, 
-                normalize_cardinal = True
-            )
-            t_ = string['normalize']
+            if normalize > 0:
+                t = t.strip().replace('...', ', ')
+                t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
+                string = normalizer.normalize(
+                    t, 
+                    normalize_hingga = False, 
+                    normalize_text = True, 
+                    normalize_word_rules = False, 
+                    normalize_time = True, 
+                    normalize_cardinal = True
+                )
+                t_ = string['normalize']
+            else:
+                t_ = t
             if '--' in t_ or '~' in t_:
                 d = {
                     'error': 'rejected'
@@ -183,11 +187,12 @@ def loop(
 @click.command()
 @click.option('--file')
 @click.option('--folder')
-@click.option('--model', default = 'mesolitica/Malaysian-Podcast-Dia-1.6B')
+@click.option('--model', default = 'mesolitica/Malaysian-Dia-1.6B')
 @click.option('--temperature', default = 1.0)
 @click.option('--cfg_scale', default = 1.0)
 @click.option('--batch_size', default = 5)
 @click.option('--replication', default = 1)
+@click.option('--normalize', default = 1)
 def main(
     file, 
     folder,
@@ -196,6 +201,7 @@ def main(
     batch_size,
     cfg_scale,
     replication,
+    normalize,
 ):
     devices = os.environ.get('CUDA_VISIBLE_DEVICES')
     if devices is None:
@@ -238,6 +244,7 @@ def main(
         temperature=temperature,
         cfg_scale=cfg_scale,
         batch_size=batch_size,
+        normalize=normalize,
     )
 
     with Pool(len(devices)) as pool:

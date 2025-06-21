@@ -13,3 +13,10 @@ python3 generate_malaysian_qa.py \
 python3 generate_malaysian_qa.py \
 --file "tatabahasa.json" --folder "tatabahasa-v3"
 ```
+
+## how to force alignment
+
+```bash
+python3 force_alignment.py \
+--file "synthetic-qa.json" --folder "force_alignment_synthetic-qa"
+```
