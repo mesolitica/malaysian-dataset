@@ -377,3 +377,51 @@ def generate_and_tokenize_prompt(row):
             {'role': 'assistant', 'content': output.strip()},
         ])
     return chat
+
+def detect_majority_language(text):
+    counts = {
+        'arabic': 0,
+        'chinese': 0,
+        'indian': 0,
+        'other': 0
+    }
+
+    for char in text:
+        code = ord(char)
+
+        # Arabic script
+        if (0x0600 <= code <= 0x06FF or  # Arabic
+            0x0750 <= code <= 0x077F or  # Arabic Supplement
+            0x08A0 <= code <= 0x08FF or  # Arabic Extended-A
+            0xFB50 <= code <= 0xFDFF or  # Arabic Presentation Forms-A
+            0xFE70 <= code <= 0xFEFF):   # Arabic Presentation Forms-B
+            counts['arabic'] += 1
+
+        # Chinese (Han characters)
+        elif (0x4E00 <= code <= 0x9FFF or  # CJK Unified Ideographs
+              0x3400 <= code <= 0x4DBF or  # CJK Unified Ideographs Extension A
+              0x20000 <= code <= 0x2A6DF or
+              0x2A700 <= code <= 0x2EBEF):
+            counts['chinese'] += 1
+
+        # Indian (Devanagari, Tamil, Bengali, etc.)
+        elif (0x0900 <= code <= 0x097F or  # Devanagari
+              0x0980 <= code <= 0x09FF or  # Bengali
+              0x0A80 <= code <= 0x0AFF or  # Gujarati
+              0x0B00 <= code <= 0x0B7F or  # Oriya
+              0x0B80 <= code <= 0x0BFF or  # Tamil
+              0x0C00 <= code <= 0x0C7F or  # Telugu
+              0x0C80 <= code <= 0x0CFF or  # Kannada
+              0x0D00 <= code <= 0x0D7F or  # Malayalam
+              0x0E00 <= code <= 0x0E7F):   # Some scripts like Thai, if needed
+            counts['indian'] += 1
+
+        # Other
+        else:
+            if char.isalpha():
+                counts['other'] += 1
+
+    if all(v == 0 for v in counts.values()):
+        return 'unknown'
+
+    return max(counts, key=counts.get)
