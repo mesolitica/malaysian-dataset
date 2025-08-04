@@ -28,15 +28,18 @@ def loop(
     indices, device = indices_device_pair
     os.environ['CUDA_VISIBLE_DEVICES'] = str(device)
     
-    from encodec.utils import convert_audio
-    from unicodec.decoder.pretrained import Unicodec
+    from distilcodec import DistilCodec, demo_for_generate_audio_codes
     import torchaudio
     import torch
 
-    config = 'unicodec_frame75_10s_nq1_code16384_dim512_finetune.yaml'
-    checkpoint = 'prune-unicode.ckpt'
-    model = Unicodec.from_pretrained0802(config, checkpoint).cuda()
-    bandwidth_id = torch.tensor([0]).cuda()
+    codec_model_config_path='model_config.json'
+    codec_ckpt_path = 'g_00204000'
+
+    codec = DistilCodec.from_pretrained(
+        config_path=codec_model_config_path,
+        model_path=codec_ckpt_path,
+        use_generator=True,
+        is_debug=False).eval()
 
     df = pd.read_parquet(file)
     for i in tqdm(indices):
@@ -51,11 +54,12 @@ def loop(
 
         try:
             row = df.iloc[i]
-            y, sr = librosa.load(row['filename_audio'], sr = 24000)
-            wav = torch.from_numpy(y)[None].cuda()
-            with torch.no_grad():
-                _, discrete_code = model.encode_infer(wav, '2', bandwidth_id=bandwidth_id)
-            tokens = discrete_code[0, 0].tolist()
+            tokens = demo_for_generate_audio_codes(
+                codec, 
+                row['filename_audio'], 
+                target_sr=24000, 
+                plus_llm_offset=False
+            )
             with open(filename, 'w') as fopen:
                 json.dump(tokens, fopen)
         except Exception as e:

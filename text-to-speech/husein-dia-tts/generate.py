@@ -56,6 +56,7 @@ def loop(
     temperature,
     cfg_scale,
     batch_size,
+    normalize,
 ):
     indices, device = indices_device_pair
     os.environ['CUDA_VISIBLE_DEVICES'] = str(device)
@@ -86,18 +87,21 @@ def loop(
                 pass
 
             t = df['text'].iloc[k]
-            t = t.strip().replace('...', ', ')
-            t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
-            string = normalizer.normalize(
-                t, 
-                normalize_hingga = False, 
-                normalize_text = True, 
-                normalize_word_rules = False, 
-                normalize_time = True, 
-                normalize_cardinal = True,
-            )
-            t_ = string['normalize']
-            t_ = t_.replace(' Erm,', ' Uhm,').replace(' erm,', ' uhm,')
+            if normalize > 0:
+                t = t.strip().replace('...', ', ')
+                t = re.sub(r'(?<=\S)/(?=\S)', ' ', t).strip()
+                string = normalizer.normalize(
+                    t, 
+                    normalize_hingga = False, 
+                    normalize_text = True, 
+                    normalize_word_rules = False, 
+                    normalize_time = True, 
+                    normalize_cardinal = True,
+                )
+                t_ = string['normalize']
+                t_ = t_.replace(' Erm,', ' Uhm,').replace(' erm,', ' uhm,')
+            else:
+                t_ = t
             
             if len(set(clean(t_).split()) & rejected):
                 d = {
@@ -165,6 +169,7 @@ def loop(
 @click.option('--cfg_scale', default = 1.0)
 @click.option('--batch_size', default = 5)
 @click.option('--replication', default = 1)
+@click.option('--normalize', default = 1)
 def main(
     file, 
     folder,
@@ -175,6 +180,7 @@ def main(
     batch_size,
     cfg_scale,
     replication,
+    normalize,
 ):
     devices = os.environ.get('CUDA_VISIBLE_DEVICES')
     if devices is None:
@@ -218,6 +224,7 @@ def main(
         temperature=temperature,
         cfg_scale=cfg_scale,
         batch_size=batch_size,
+        normalize=normalize,
     )
 
     with Pool(len(devices)) as pool:

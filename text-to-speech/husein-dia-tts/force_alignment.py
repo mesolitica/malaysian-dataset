@@ -4,11 +4,11 @@ import json
 import click
 import re
 import pandas as pd
-import librosa
 from glob import glob
 from functools import partial
 from multiprocess import Pool
 from tqdm import tqdm
+import time
 
 def chunks(l, devices):
     chunk_size = len(l) // len(devices)
@@ -24,51 +24,78 @@ def loop(
     indices_device_pair,
     file,
     folder,
+    language,
 ):
     indices, device = indices_device_pair
     os.environ['CUDA_VISIBLE_DEVICES'] = str(device)
     
-    from encodec.utils import convert_audio
-    from unicodec.decoder.pretrained import Unicodec
-    import torchaudio
     import torch
 
-    config = 'unicodec_frame75_10s_nq1_code16384_dim512_finetune.yaml'
-    checkpoint = 'prune-unicode.ckpt'
-    model = Unicodec.from_pretrained0802(config, checkpoint).cuda()
-    bandwidth_id = torch.tensor([0]).cuda()
+    torch.set_grad_enabled(False)
+
+    import torchaudio
+    from ctc_forced_aligner import (
+        load_audio,
+        load_alignment_model,
+        generate_emissions,
+        preprocess_text,
+        get_alignments,
+        get_spans,
+        postprocess_results,
+    )
+    device = 'cuda'
+    alignment_model, alignment_tokenizer = load_alignment_model(
+        device,
+        dtype=torch.float16 if device == "cuda" else torch.float32,
+    )
 
     df = pd.read_parquet(file)
+
     for i in tqdm(indices):
         filename = os.path.join(folder, f'{i}.json')
-        if os.path.exists(filename):
-            try:
-                with open(filename) as fopen:
-                    json.load(fopen)
-                continue
-            except:
-                pass
 
         try:
-            row = df.iloc[i]
-            y, sr = librosa.load(row['filename_audio'], sr = 24000)
-            wav = torch.from_numpy(y)[None].cuda()
-            with torch.no_grad():
-                _, discrete_code = model.encode_infer(wav, '2', bandwidth_id=bandwidth_id)
-            tokens = discrete_code[0, 0].tolist()
-            with open(filename, 'w') as fopen:
-                json.dump(tokens, fopen)
-        except Exception as e:
-            print(e)
+            with open(filename) as fopen:
+                json.load(fopen)
+            continue
+        except:
+            pass
+
+        row = df.iloc[i]
+        gen_text = row['normalized_generate_text']
+        y, sr = sf.read(row['filename_audio'])
+        new_wav = torch.from_numpy(y)
+        audio_waveform = torchaudio.functional.resample(
+            new_wav, orig_freq=44100, new_freq=16000
+        ).type(torch.float16).cuda()
+        emissions, stride = generate_emissions(
+            alignment_model, audio_waveform, batch_size=1
+        )
+        tokens_starred, text_starred = preprocess_text(
+            gen_text,
+            romanize=True,
+            language=language,
+        )
+        segments, scores, blank_token = get_alignments(
+            emissions,
+            tokens_starred,
+            alignment_tokenizer,
+        )
+        spans = get_spans(tokens_starred, segments, blank_token)
+        word_timestamps = postprocess_results(text_starred, spans, stride, scores)
+        with open(filename, 'w') as fopen:
+            json.dump(word_timestamps, fopen)
 
 @click.command()
 @click.option('--file')
 @click.option('--folder')
 @click.option('--replication', default = 1)
+@click.option('--language', default = 'ms')
 def main(
     file, 
     folder,
     replication,
+    language,
 ):
     devices = os.environ.get('CUDA_VISIBLE_DEVICES')
     if devices is None:
@@ -98,18 +125,11 @@ def main(
 
     df_split = list(chunks(filtered, devices))
 
-    """
-    def loop(
-        indices_device_pair,
-        file,
-        folder,
-    ):
-    """
-
     loop_partial = partial(
         loop,
         file=file,
         folder=folder,
+        language=language,
     )
 
     with Pool(len(devices)) as pool:
