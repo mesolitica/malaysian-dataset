@@ -48,6 +48,7 @@ def loop(
     dictionary = {k: v for k, v in dictionary.items()}
     dictionary_rev = {v: k for k, v in dictionary.items()}
     dictionary["<star>"] = len(dictionary)
+    resample = torchaudio.transforms.Resample(orig_freq=44100, new_freq=16000).cuda()
 
     df = pd.read_parquet(file)
 
@@ -64,11 +65,11 @@ def loop(
         row = df.iloc[i]
 
         gen_text = row['normalized_generate_text']
-        y, sr = sf.read(row['filename_audio'])
-        new_wav = torch.from_numpy(y)
-        audio_waveform = torchaudio.functional.resample(
-            new_wav, orig_freq=44100, new_freq=16000
-        ).type(torch.float16).cuda()
+        new_wav, sr = torchaudio.load(row['filename_audio'])
+        new_wav = new_wav.cuda()
+        if new_wav.ndim > 1:
+            new_wav = torch.mean(new_wav, dim = 0)
+        audio_waveform = resample(new_wav).to(torch.float16)
         emissions, stride = generate_emissions(
             alignment_model, audio_waveform, batch_size=1
         )
@@ -83,12 +84,12 @@ def loop(
         token_indices = [
             dictionary[c] for c in " ".join(tokens).split(" ") if c in dictionary
         ]
-        alignments, scores = torchaudio.functional.forced_align(emissions[None].cpu(), torch.tensor([token_indices]))
+        alignments, scores = torchaudio.functional.forced_align(emissions[None], torch.tensor([token_indices]).cuda())
         alignments, scores = alignments[0], scores[0]
         token_spans = torchaudio.functional.merge_tokens(alignments, scores)
+
         groups = []
         current_group = []
-
         for span in token_spans:
             current_group.append(span)
             if span.token == 31:
@@ -123,8 +124,8 @@ def loop(
         for i in range(len(merged)):
             alignment.append({
                 'text': text_nonstar[i],
-                'start': round((merged[i]['start'] * len(y) / emissions.shape[0]) / sr, 3),
-                'end': round((merged[i]['end'] * len(y) / emissions.shape[0]) / sr, 3),
+                'start': round((merged[i]['start'] * new_wav.shape[0] / emissions.shape[0]) / sr, 3),
+                'end': round((merged[i]['end'] * new_wav.shape[0] / emissions.shape[0]) / sr, 3),
                 'score': round(float(merged[i]['score']), 3)
             })
         with open(filename, 'w') as fopen:
