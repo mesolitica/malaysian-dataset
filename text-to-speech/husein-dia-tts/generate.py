@@ -64,6 +64,7 @@ def loop(
     import torch
     import malaya
     from dia.model import Dia
+    from unidecode import unidecode
     
     normalizer = malaya.normalize.normalizer()
     model = Dia.from_pretrained(model, compute_dtype="float16")
@@ -120,6 +121,8 @@ def loop(
                 continue
             
             t_ = fix_spacing(t_)
+            t_ = ' '.join(t_.split()[:110])
+            t_ = unidecode(t_)
             text = '[S1] ' + reference_text + '[S1] ' + t_.strip() + '. .'
             filenames.append(filename)
             texts.append(text)
@@ -136,7 +139,7 @@ def loop(
                 audio_prompt=clone_from_audios, 
                 use_torch_compile=True, 
                 verbose=True, 
-                max_tokens=2000, 
+                max_tokens=3500, 
                 temperature = temperature,
                 cfg_scale = cfg_scale,
             )
@@ -148,7 +151,11 @@ def loop(
 
         for no, f in enumerate(filenames):
             filename_audio = f.replace('.json', '.mp3')
-            sf.write(filename_audio, output[no], 44100)
+            if isinstance(output, list):
+                o = output[no]
+            else:
+                o = output
+            sf.write(filename_audio, o, 44100)
             d = {
                 'reference_text': reference_text,
                 'generate_text': before[no],
@@ -166,7 +173,7 @@ def loop(
 @click.option('--reference_text')
 @click.option('--model', default = 'mesolitica/Malaysian-Podcast-Dia-1.6B')
 @click.option('--temperature', default = 1.0)
-@click.option('--cfg_scale', default = 1.0)
+@click.option('--cfg_scale', default = 0.5)
 @click.option('--batch_size', default = 5)
 @click.option('--replication', default = 1)
 @click.option('--normalize', default = 1)

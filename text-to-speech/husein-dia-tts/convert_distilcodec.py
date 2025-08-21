@@ -8,6 +8,7 @@ import librosa
 from glob import glob
 from functools import partial
 from multiprocess import Pool
+from huggingface_hub import hf_hub_download
 from tqdm import tqdm
 
 def chunks(l, devices):
@@ -32,8 +33,8 @@ def loop(
     import torchaudio
     import torch
 
-    codec_model_config_path='model_config.json'
-    codec_ckpt_path = 'g_00204000'
+    codec_model_config_path = hf_hub_download(repo_id="IDEA-Emdoor/DistilCodec-v1.0", filename='model_config.json')
+    codec_ckpt_path = hf_hub_download(repo_id="IDEA-Emdoor/DistilCodec-v1.0", filename='g_00204000')
 
     codec = DistilCodec.from_pretrained(
         config_path=codec_model_config_path,
